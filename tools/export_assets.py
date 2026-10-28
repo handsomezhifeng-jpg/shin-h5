@@ -124,8 +124,8 @@ def main():
         return None
     def original_path(pid,attrs):
         rel=Path(attrs.get('path','/').lstrip('/'))/attrs.get('name','')
-        override=CN/index[pid]['name']/rel
-        return override if override.is_file() else index[pid]['folder']/rel
+        # Preserve the original Shin branch; CN contains replacement artwork.
+        return index[pid]['folder']/rel
     def record(source,dest):
         manifest.append({'source':str(source.relative_to(ROOT)).replace('\\','/'),'output':str(dest.relative_to(OUT)).replace('\\','/'),'sha256':hashlib.sha256(dest.read_bytes()).hexdigest()})
     seen=set()

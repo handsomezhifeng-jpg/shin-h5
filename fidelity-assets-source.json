@@ -1,0 +1,1025 @@
+{
+  "files": [
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom.png",
+      "output": "assets/ui/Main_01/onzl0.png",
+      "sha256": "d4ed94584d2c88c8851994ca4ef0c483e09f1e052aa39fbcd7430a88d1e0fedb"
+    },
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom_02.png",
+      "output": "assets/ui/Main_01/onzl1.png",
+      "sha256": "a53629e9fbecb4c0be36453dd8967e82b52857eb43498e107c0da57762170b38"
+    },
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom_03.png",
+      "output": "assets/ui/Main_01/onzl2.png",
+      "sha256": "4b09ce1bc0dd3e525b4c693c795bf7176a2db32420064218f11f35c6b357f7c0"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/机会卡/bg_card_01.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih0.png",
+      "sha256": "9763a963348e2695d64b1bd8ceee80951c36124041353aed7f8fb958d9298a15"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/机会卡/bg_card_02.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih1.png",
+      "sha256": "1615cdf3eca42f41e49d81db089f2fbcb3f3837781a7ba06372b4ba147dd9f79"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/机会卡/bg_card_03.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih2.png",
+      "sha256": "721dbeb351ecf3beec89f738c95451262d07e44aba1ea766884f28ea242e0c65"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/机会卡/bg_card_04.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih3.png",
+      "sha256": "602742cb08c6fba1222b674b952324f74ea87e6aea47efafdc48fd68a4db035e"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/bg_main_bottom.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih4.png",
+      "sha256": "5e83e31be17cc7d130221dc34186efd8e376d587d8d373e9f90d96d2fd610b3d"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/bg_main_bottom_02.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih5.png",
+      "sha256": "53e6576b5408eeeb5b5f83ab43828ace63ec339580549ac76fd33429c49d5ade"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/bg_main_title_01.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih7.png",
+      "sha256": "bb8ee4a1348a9ca456e7bde2aec1b03b9c3c900d5433ed622b0a766847aec069"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/img_event_02.png",
+      "output": "assets/ui/ChessboardEvent_01/onzl8.png",
+      "sha256": "61a7a2ebe7ce61e91b3b88429d33e22d37695d22d93be582fc56f41df315d549"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/img_event_shinchan_01.png",
+      "output": "assets/ui/ChessboardEvent_01/onzl9.png",
+      "sha256": "64615cd3728eb0527a7db50a398f1de1d62c33a9d57841ca31a1f436b2013d6a"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/img_event_shinchan_02.png",
+      "output": "assets/ui/ChessboardEvent_01/onzla.png",
+      "sha256": "d74061d2b1137bb349226a15ae267bb412d37f359a0252fa8c9e575f71a9a646"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/img_event_shinchan_03.png",
+      "output": "assets/ui/ChessboardEvent_01/onzlb.png",
+      "sha256": "3ee37992198bf749e2d61f63663a06e85d11d36331c4d955f9a71b5f4d045c89"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_background.png",
+      "output": "assets/ui/BlindBox_01/g6ih0.png",
+      "sha256": "b62a4aa566bf36ba9290374e8983e45a0fd0ddfd66545798f6e9aeac4a90e3dd"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure04_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih1.png",
+      "sha256": "81c7f53b17d6b886a9b34dcda747a9c2dc85c48e1c7c0edd5cdae2574dab4894"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure04.png",
+      "output": "assets/ui/BlindBox_01/g6ih2.png",
+      "sha256": "3f0834545a493a4d05310910f607432547559e5c149fca720675c4cf70b0dbff"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure03_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih3.png",
+      "sha256": "f561b1b8d3d67680b009490a8505dd8c6186b1cf7c1de40ec21a360af3b0bde3"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure03.png",
+      "output": "assets/ui/BlindBox_01/g6ih4.png",
+      "sha256": "2a81d270bc4b061e120c0ee9a18817ed91f6a9386c87d54032c28138fc65c27c"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure02_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih5.png",
+      "sha256": "0fd8fb4d7c32af71f64107a6847d8868504bfdc990801147e909149ae64c6b90"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure02.png",
+      "output": "assets/ui/BlindBox_01/g6ih6.png",
+      "sha256": "9898329fe02f71e3d61127ee16492a534f8ed7d233eee183c20a227aa782c3ab"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure01_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih7.png",
+      "sha256": "3019478ea9995e30d4975291cf81b80c9f540454fb3a5c155bd86ba54dd2b245"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure01.png",
+      "output": "assets/ui/BlindBox_01/g6ih8.png",
+      "sha256": "c7e46a3c1bf3fc4a12dfbaae167f39a45640f8a8cb3379eee7d72598948d38bc"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_red03.png",
+      "output": "assets/ui/BlindBox_01/g6ih9.png",
+      "sha256": "65b740c5aaa1b4348c49cdfe59ae6fb15cadd8ea8656f9adfe3eb952fcb83065"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_red02.png",
+      "output": "assets/ui/BlindBox_01/g6iha.png",
+      "sha256": "47c03b4133aabac0559b5c6ca82fa9ed9c66b98f87e5984a5f049792a315a0a9"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_red01.png",
+      "output": "assets/ui/BlindBox_01/g6ihb.png",
+      "sha256": "32f6582ea4cac75a06cb93ec176198faccd5a4d3e90d88d53d82dffcd5e1d330"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue03.png",
+      "output": "assets/ui/BlindBox_01/g6ihc.png",
+      "sha256": "3ec7de3df46f092347129694d5b2aea3e1e570cad6664e5671f5e97ed9becfcb"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue02.png",
+      "output": "assets/ui/BlindBox_01/g6ihd.png",
+      "sha256": "50a319eeb7b1e3dbc06a4b9510e859d58b72dbb978a3dc45ab8b4f8730f48a37"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue01.png",
+      "output": "assets/ui/BlindBox_01/g6ihe.png",
+      "sha256": "1a114d2da593b7560dab2a839ec4bc718a3bee9e6a2d40dff4372a7bd8180ada"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_background02.png",
+      "output": "assets/ui/BlindBox_01/g6ihf.png",
+      "sha256": "786ef316894dcc9584303ca74057f06581471d7763d5cb88aacdb784d66a9288"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/img_BlindBox_blue.png",
+      "output": "assets/ui/BlindBox_01/g6ihg.png",
+      "sha256": "6ae0aa52510620ad98eafa23197bcc2dd2f1e60c818f88a6d4ae790e15433646"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/img_BlindBox_red.png",
+      "output": "assets/ui/BlindBox_01/g6ihh.png",
+      "sha256": "2d7a2c2ac76a4b5a637b05989936dbbbcd442e45eacb4b33bd123d6b1a0761ed"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_02_01.png",
+      "output": "assets/scene/chance/img_card_02_01.png",
+      "sha256": "bef29de8f19c756f1f120e543637a12b373f826185fc909f8195ea9abf41a837"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_03_01.png",
+      "output": "assets/scene/chance/img_card_03_01.png",
+      "sha256": "046579de7d8f7944b641e9c92e8518feea77f51284ff0e34d77bb3e8cfdb7f2f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_04_01.png",
+      "output": "assets/scene/chance/img_card_04_01.png",
+      "sha256": "78d4a1c25db1a74201babc1b071d794fb15d8f11399f81587cbcd2e02e434e77"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_06_01.png",
+      "output": "assets/scene/chance/img_card_06_01.png",
+      "sha256": "4d3e141e5ba4beb6085fb1ba4620d197ded9246ef2617f447d5571ea83f24da4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_07_01.png",
+      "output": "assets/scene/chance/img_card_07_01.png",
+      "sha256": "698a6b71a62f509425dfa89354452dad184151be96544ee2f5d912dcc1ec3bab"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_08_01.png",
+      "output": "assets/scene/chance/img_card_08_01.png",
+      "sha256": "28f193fbbd96f915705ab05e07f0f9903f228e09ba41ff52b357d44aaf78f88a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_09_01.png",
+      "output": "assets/scene/chance/img_card_09_01.png",
+      "sha256": "1c0737722c4dac4db83ee98ec9fc17e776a1c4db6698f9ddc81a6067d5f0f461"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_10_01.png",
+      "output": "assets/scene/chance/img_card_10_01.png",
+      "sha256": "860d0c661180a587b2b549464259773c7bd5cd34e726628891a75293d205e46b"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/ChanceIcon/img_card_11_01.png",
+      "output": "assets/scene/chance/img_card_11_01.png",
+      "sha256": "7905d2caf05777c6699cf4cb154a3571ed9e53930ce012613aa80c7750f0d8b4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_card_title_zh_cn.png",
+      "output": "assets/scene/chance/title.png",
+      "sha256": "366bff598a2519394152176500187db42009e8facc665363c433fa9d339a548f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/BuildingBg/bg_build_1.png",
+      "output": "assets/scene/bg_build_1.png",
+      "sha256": "b78a0dd5dc198370f52f980d3fb6ede42ba76ccbc357f39d5407c53878f038e9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_1_1.png",
+      "output": "assets/scene/buildings/icon_build_001_1_1.png",
+      "sha256": "bfff2d4c604295b01c51cd7f07e73df0038bb51da4fdcbbbcd6db6d6abea772a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_1_2.png",
+      "output": "assets/scene/buildings/icon_build_001_1_2.png",
+      "sha256": "fff965594bc53670bbf3a66d719ff9d7e5e7d31ce0040ba1128880060ba821a3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_1_3.png",
+      "output": "assets/scene/buildings/icon_build_001_1_3.png",
+      "sha256": "b815a67f6176abb5ed1288468953413c374d4c1513cfba657912af22cc8a1b52"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_2_1.png",
+      "output": "assets/scene/buildings/icon_build_001_2_1.png",
+      "sha256": "b3804ef26178d12ddd6868b409d32135886b55e9731dec0b4a66da9a230ebfab"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_2_2.png",
+      "output": "assets/scene/buildings/icon_build_001_2_2.png",
+      "sha256": "b6971baab27655d3937c90deb81c7d9ea4515e7998adb3cdd878cdc1e07dc005"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_2_3.png",
+      "output": "assets/scene/buildings/icon_build_001_2_3.png",
+      "sha256": "c518e6c5aa5f05efc527b265a041cbb2e5f83ad7a3c9e94cbe9214c55b0d28f6"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_3_1.png",
+      "output": "assets/scene/buildings/icon_build_001_3_1.png",
+      "sha256": "4464870a1ace091d64046403c1fd6a87b84eb8f164f9ec99b7f6b85096874aa1"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_3_2.png",
+      "output": "assets/scene/buildings/icon_build_001_3_2.png",
+      "sha256": "77f7f7e0f1d444f0389c476c428229d6a0138482447bcf42bb110d8b538479cb"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_3_2_guide.png",
+      "output": "assets/scene/buildings/icon_build_001_3_2_guide.png",
+      "sha256": "a20d4480b0ef39d3a6d88525ce027db61ea0a14857603bdcb604dbb1af08a54a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_3_3.png",
+      "output": "assets/scene/buildings/icon_build_001_3_3.png",
+      "sha256": "ac07afa8a57a6a29b6a40b3066252e5cb8aa2b34ce6b37482804d0839b4a3c5a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_4_1.png",
+      "output": "assets/scene/buildings/icon_build_001_4_1.png",
+      "sha256": "8fec56ffda4666946c442fe5a4b1975f1e7f070d618ee219606595c3432860db"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_4_2.png",
+      "output": "assets/scene/buildings/icon_build_001_4_2.png",
+      "sha256": "78eeff41a2c67802275afe71a859c811b80d62428e961c56df44218ba8b5074a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_4_3.png",
+      "output": "assets/scene/buildings/icon_build_001_4_3.png",
+      "sha256": "76873401b532edff0a6e7cef258685c2497e3f184ae7e36a2b19bb32d5ae2b6e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_1.png",
+      "output": "assets/scene/buildings/icon_build_001_5_1.png",
+      "sha256": "e5692e5f76756e133cc2507b7f86a535cfffe8c81a8dddb52385b8a54fc8bfdd"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_2.png",
+      "output": "assets/scene/buildings/icon_build_001_5_2.png",
+      "sha256": "308dace69be2dcb6265add88eeee220189408f9ecca14df38f8d0c5f244ba53f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_3.png",
+      "output": "assets/scene/buildings/icon_build_001_5_3.png",
+      "sha256": "674748b7f1aaefaeb3219ef3ca3bb0b6f90260b43001148a308e273193296aa5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_4.png",
+      "output": "assets/scene/buildings/icon_build_001_5_4.png",
+      "sha256": "729f2494bfa82b9d89cfb7204666a7ad310544cba77772872ae2a491ec457299"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_5.png",
+      "output": "assets/scene/buildings/icon_build_001_5_5.png",
+      "sha256": "c8d82b54b3dbd2924e54fe853bfe1729a2b0da5ac496efca4ab425fc32ea6a9c"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_001_5_6.png",
+      "output": "assets/scene/buildings/icon_build_001_5_6.png",
+      "sha256": "f82f906334f28909ff65ce449efa9ee753d921c19577baf5bbbea94b030e9849"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_1_1.png",
+      "output": "assets/scene/buildings/icon_build_s_001_1_1.png",
+      "sha256": "3d5cecf8e7313bf726c50afe40fc6386e8c0fd3ec6d31421c990f37c98bf2686"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_1_2.png",
+      "output": "assets/scene/buildings/icon_build_s_001_1_2.png",
+      "sha256": "036cc9c13fef16f4659c963172e57024625fa369e944f49123f9bb5af8fe2538"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_1_3.png",
+      "output": "assets/scene/buildings/icon_build_s_001_1_3.png",
+      "sha256": "b65701a1f4593ef50f7668efd9a29cdbf5eece00ee227af045fb48dcfecd25db"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_2_1.png",
+      "output": "assets/scene/buildings/icon_build_s_001_2_1.png",
+      "sha256": "d7eb201a72739b2809ba4f6418125ebec7d6eb7bfc41de402e537bd4f335819e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_2_2.png",
+      "output": "assets/scene/buildings/icon_build_s_001_2_2.png",
+      "sha256": "7f9c1d876cee6ab8facb3106862657163cb66f09603325aa99d8f2e9a8d94db1"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_2_3.png",
+      "output": "assets/scene/buildings/icon_build_s_001_2_3.png",
+      "sha256": "93957fdd55ab9e198da81e97d245e03a71d22c540cb0a96e4ca162d71cec1d21"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_3_1.png",
+      "output": "assets/scene/buildings/icon_build_s_001_3_1.png",
+      "sha256": "9b4af43dda625471525fae72e8c347c33e039fefa423a13b77aa4764ecf25d74"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_3_2.png",
+      "output": "assets/scene/buildings/icon_build_s_001_3_2.png",
+      "sha256": "af608849fcb8d82711a14433405aa58b448da71a3bc6b816afe63ce956d6aab3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_3_3.png",
+      "output": "assets/scene/buildings/icon_build_s_001_3_3.png",
+      "sha256": "e469eae1b4f6c2387859b295136a1ce8efe5640c2a99efe1a53b1ade67a9b315"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_4_1.png",
+      "output": "assets/scene/buildings/icon_build_s_001_4_1.png",
+      "sha256": "3f7bb99e2d7969a29daf60f46afdd4998c7041c85f553c257561277670f815ff"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_4_2.png",
+      "output": "assets/scene/buildings/icon_build_s_001_4_2.png",
+      "sha256": "2110dcd39b7571ffef35a39b82a8606327cff1f609522300a3c492c8446b19c8"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_4_3.png",
+      "output": "assets/scene/buildings/icon_build_s_001_4_3.png",
+      "sha256": "d29b737f3a6ba5891f57a233aefe4c4129eb0496c24a51ed55318e0a86764c32"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_1.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_1.png",
+      "sha256": "630ddcf8ba11ccd3757a4c6f88a6ffafe0d79877ea37767d185d594f7ca15847"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_2.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_2.png",
+      "sha256": "b35b26df0a347a62e47894f5b5116760bc315d0732e4be636ee6780ba8864ed5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_3.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_3.png",
+      "sha256": "490db3843f3c29a62a8bb1fdf40cd385e66d991ff018236dea9683f092dd7149"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_4.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_4.png",
+      "sha256": "019b7c54196e4407a1ef1fe0c0bc17f962009e7516a89ecded08c6648e50fbd5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_5.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_5.png",
+      "sha256": "1c619094ada68dad7dd5db1b15c667ce06bd1f227c5664c43774c68a8c0ff9db"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_001_5_6.png",
+      "output": "assets/scene/buildings/icon_build_s_001_5_6.png",
+      "sha256": "87d33cb67d7314391067e6592b1bbf2dc8a596a9ac984aa857ef546eb9511621"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/BuildingBg/bg_build_2.png",
+      "output": "assets/scene/bg_build_2.png",
+      "sha256": "7f6582c9ad6bf27a7aa9ed017fbf0eb8385b656b04e2e2aca35abf5d1597d1e9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_1.png",
+      "output": "assets/scene/buildings/icon_build_002_1_1.png",
+      "sha256": "2553dd3b03f01ed9907dbee3e0a926fc69eb3bce76af4bf2f8850fd7b46761ce"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_2.png",
+      "output": "assets/scene/buildings/icon_build_002_1_2.png",
+      "sha256": "4f7df578e64630f6bb6bdbc832b48abd2e8b9707e15bd86f32a688b903579f96"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_3.png",
+      "output": "assets/scene/buildings/icon_build_002_1_3.png",
+      "sha256": "baa441b5a285030769bfb31526fe697df7e35ee28d5a7cb2d127276cb84201a9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_4.png",
+      "output": "assets/scene/buildings/icon_build_002_1_4.png",
+      "sha256": "4a6f6e28e19a46b06eaa59c93fe8b719a3c2d7de549bbad15c142b222f981ac0"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_5.png",
+      "output": "assets/scene/buildings/icon_build_002_1_5.png",
+      "sha256": "37bec4a951fb30ec854c236e71ff0514642d7a848f035f7e883db9e699bad451"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_1_6.png",
+      "output": "assets/scene/buildings/icon_build_002_1_6.png",
+      "sha256": "281a7f6d02c2f218379dee9b58d6dd5665d126cfeec929aa971686d79d19c974"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_1.png",
+      "output": "assets/scene/buildings/icon_build_002_2_1.png",
+      "sha256": "59551ed1e3d7a26f7b4b261049ed5f74b6ab244d99509ddbedbb7055df4a6d45"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_2.png",
+      "output": "assets/scene/buildings/icon_build_002_2_2.png",
+      "sha256": "1d1a02824ccf7d399e8fa159771e5dbf42f32dc68253002c5eb8e4c5ccb2df81"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_3.png",
+      "output": "assets/scene/buildings/icon_build_002_2_3.png",
+      "sha256": "9f483953fc5c42a303565da8f449f55100e39261a21c8ed97146205dcc95acda"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_4.png",
+      "output": "assets/scene/buildings/icon_build_002_2_4.png",
+      "sha256": "6574553e7f66ba1cba562d798f1c0a06e293a5649923a653478236cfd16a779a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_5.png",
+      "output": "assets/scene/buildings/icon_build_002_2_5.png",
+      "sha256": "86da5a392dcc3e45e1f20b98cdb2c46400b92164a725406e0c77ce8f6930b1f5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_2_6.png",
+      "output": "assets/scene/buildings/icon_build_002_2_6.png",
+      "sha256": "73f82db14ad55d7898a4f2fa62a7bb712279e56873c3c030a287f08c82766b32"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_1.png",
+      "output": "assets/scene/buildings/icon_build_002_3_1.png",
+      "sha256": "516a2d5611d5f9f9a6ce5be9b65e0703f7c0117e5e7f3a223c99edbbee6f0da2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_2.png",
+      "output": "assets/scene/buildings/icon_build_002_3_2.png",
+      "sha256": "4f0298634d33129eaf5003b0004e51cc9596c5c81489ca73c1a61336d693c880"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_3.png",
+      "output": "assets/scene/buildings/icon_build_002_3_3.png",
+      "sha256": "f2e6905b208d65694ffdbb62763d91533e8e480e5b9e84a082a5da14b31c9153"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_4.png",
+      "output": "assets/scene/buildings/icon_build_002_3_4.png",
+      "sha256": "1f4fbccc6c3e27717c2d9cc06d7e4caa52a120aff3f79ab5d29a1c60d3783acf"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_5.png",
+      "output": "assets/scene/buildings/icon_build_002_3_5.png",
+      "sha256": "677145af0aba5b424981596dcd00775576ed5b3d8732e862217cbefa979bdf15"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_3_6.png",
+      "output": "assets/scene/buildings/icon_build_002_3_6.png",
+      "sha256": "d66b51b3ac3d8f38ee27b0addf93b0b12696523b8d58258ed666706e0d23d087"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_1.png",
+      "output": "assets/scene/buildings/icon_build_002_4_1.png",
+      "sha256": "ed167568eb542f8f54efeed1549cdec148e46112884c133e22843dfc508c9733"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_2.png",
+      "output": "assets/scene/buildings/icon_build_002_4_2.png",
+      "sha256": "fb1fae0abac3b31b4ecf5d921f6ac61ec4f076e665b99c4228a90ef6d7b1db9d"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_3.png",
+      "output": "assets/scene/buildings/icon_build_002_4_3.png",
+      "sha256": "8b8d7dbe929077a87fa3256c12ee7ccb61f7bce5ab6df838794fcc962c9718a9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_4.png",
+      "output": "assets/scene/buildings/icon_build_002_4_4.png",
+      "sha256": "be07ef9c313871017ecfbf8895b93124a937d891a375992355ad2b8bcdbf6993"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_5.png",
+      "output": "assets/scene/buildings/icon_build_002_4_5.png",
+      "sha256": "be825b359da4e431c11c9adf7a52806d374c8b62d73eb862d05c4124a9904be4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_4_6.png",
+      "output": "assets/scene/buildings/icon_build_002_4_6.png",
+      "sha256": "f875381aaa290429f9a5d57b30283ebf69403b38478469329af4923404829279"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_1.png",
+      "output": "assets/scene/buildings/icon_build_002_5_1.png",
+      "sha256": "91e67da10a136958c52de6a6d1327b9c25c454bbf340c5dcd5d71fd37856d5c9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_2.png",
+      "output": "assets/scene/buildings/icon_build_002_5_2.png",
+      "sha256": "69675b61b6c926749a131a223535a98e6395c1b4497344201734df0c0bfcff57"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_3.png",
+      "output": "assets/scene/buildings/icon_build_002_5_3.png",
+      "sha256": "203219fe147bffccb7a1fe3616aee2b13cfbc359f26474def134f7bff3602279"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_4.png",
+      "output": "assets/scene/buildings/icon_build_002_5_4.png",
+      "sha256": "56f5acf54e5b7eb08b7bc8acf397c6b82800667b99b5b0d477fda5ef652238f5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_5.png",
+      "output": "assets/scene/buildings/icon_build_002_5_5.png",
+      "sha256": "205ac318ab201e9ea56430a85d68d98d2fb36f83a6d28b23e1ae619800bde8e3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_002_5_6.png",
+      "output": "assets/scene/buildings/icon_build_002_5_6.png",
+      "sha256": "042bcc7998b4f9b3ec85e125ade1b7f8dfc3b467f19c147c9f5c2a9e39c8e434"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_1.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_1.png",
+      "sha256": "e91f8c58d595087bd5949ff1dccb3f2c965622e62b6c147c3e7f9dfaf5082f9e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_2.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_2.png",
+      "sha256": "1216b7bca08281edb80e5d8bc13697092ba21de0dd0fb271957fc5d8c9bb8bb2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_3.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_3.png",
+      "sha256": "c3caa38ed4488aabedd32e9725add3fb2a9090e9469e12efdea1b41ae21be4d0"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_4.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_4.png",
+      "sha256": "1a294897b231af9c87affb6294358329db0349404edbf17f27e2b2c2d8de50cd"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_5.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_5.png",
+      "sha256": "86929e404eef6f713dc4bcf9b880f1bc5b6bb6e6f4aa9b88a5cc6b27f188cda8"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_1_6.png",
+      "output": "assets/scene/buildings/icon_build_s_002_1_6.png",
+      "sha256": "efe0cc8011a8e0481028f6fc1d49d7188f23d54de688f0e97e9aa1a76f50b8d7"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_1.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_1.png",
+      "sha256": "67b6c9360a092e28f7b3e74a0de0bff337075ebd23eee560c862a7e3fdad0bf4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_2.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_2.png",
+      "sha256": "bc906150b61816b190e53e25ba356348af8bcbd85a0f393061539bf45c5716e2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_3.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_3.png",
+      "sha256": "c134de5a29dab8923e36ba8d55c33c42e418390cefb0b57565c3bb76c20fb149"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_4.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_4.png",
+      "sha256": "a9c01b6ee0df049f955d0c7256463e6c5e7a6275b12f109993fb099d1b2406a4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_5.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_5.png",
+      "sha256": "441ec1b4394d234c06a8208da645da81d2220516cf4930a48e9b2d3b9a62cfef"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_2_6.png",
+      "output": "assets/scene/buildings/icon_build_s_002_2_6.png",
+      "sha256": "8e1e80a813e6fc5d6169252148ca875a97037e49bf40693b9c58109b56408698"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_1.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_1.png",
+      "sha256": "4ea3ae09077d2ecebb22c9d836649a22925f5acdb8faef9763ff270e7eec6597"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_2.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_2.png",
+      "sha256": "475e7ee083c074f4f1f5c5cf77b5ecbb6f3164c3a2ec9b4fcbbb1fac3eb4260c"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_3.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_3.png",
+      "sha256": "c88429f300fbc8839991528e6aa25b206c503eb6372efe49450361f50528e99f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_4.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_4.png",
+      "sha256": "a8ca307f0dd66040ab56eb7e2a8ed39ec4f19d892f02f6c8d3f5a83e6981ad76"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_5.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_5.png",
+      "sha256": "a86397132b7359ca6372730610ef1b1c63c47f25e6fc2c743979cfd0a1a38ce5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_3_6.png",
+      "output": "assets/scene/buildings/icon_build_s_002_3_6.png",
+      "sha256": "5d9a3927ef3cfd4058bfc35309eaf14992e9b23b16c305abca7fe4a01ef9ce81"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_1.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_1.png",
+      "sha256": "7bc41116ad600c2a1d041db17d245db268a18fb143070513e3470aa2e62146f6"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_2.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_2.png",
+      "sha256": "270508da58f98ecc437c771c80523808bcbb63a0fc004e6871abfecaf7145ac4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_3.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_3.png",
+      "sha256": "303dc23714e03ebdccce029e799ace99bcb50ef6929a8ba752b5c11b57f1f95e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_4.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_4.png",
+      "sha256": "b36d3afc88ff21b1ac76d2dc4731dd5a5636540700335ab1c1f5e6b42d42b389"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_5.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_5.png",
+      "sha256": "fdd787f4c90ef9283f115b996b96d39b9871ef948297425e587aa662ef9a4995"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_4_6.png",
+      "output": "assets/scene/buildings/icon_build_s_002_4_6.png",
+      "sha256": "9ca1f3af5ee6f20fb18c84c797a7e2d52c5bea17d281eaa0c0f0b97e9885645a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_1.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_1.png",
+      "sha256": "02c6f6c116f9fdab131490a847780193682add786e46a16d417b26c489563750"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_2.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_2.png",
+      "sha256": "6c6f507d645005904802552d89e519b42d9cde32324d713db2172bdaf1eea3b7"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_3.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_3.png",
+      "sha256": "3a7bc85aa7720a62215c399119efccaf3fd139239128a4fd2a564be2d91a25c7"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_4.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_4.png",
+      "sha256": "cfb7e3e7afd6c47bb10327512c2e3c4e83c94fcd81000a8184319c003a94ef47"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_5.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_5.png",
+      "sha256": "c246909af6253f9e32e42f63eba48147beb98da433cb8185bae30a857c076fa8"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_002_5_6.png",
+      "output": "assets/scene/buildings/icon_build_s_002_5_6.png",
+      "sha256": "86e6c230e3afbabbc2fe86e6379bdd37e2fd62ea9f17e640660cc2186ab4a8d2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/BuildingBg/bg_build_41.png",
+      "output": "assets/scene/bg_build_41.png",
+      "sha256": "b0436a80c78ee095806024a0d7134b6e1d8bb3fe399be6568f37f7e7df71da6f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_1.png",
+      "output": "assets/scene/buildings/icon_build_041_1_1.png",
+      "sha256": "59a012ff5e735417a4bebea069e5ff6a2ef6ce381fa639ca047c0b01790f41ae"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_2.png",
+      "output": "assets/scene/buildings/icon_build_041_1_2.png",
+      "sha256": "5570d5a31421c506334ce32a4a00cace0ee5eb0d330d1bee6f3eba7c5e0b558b"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_3.png",
+      "output": "assets/scene/buildings/icon_build_041_1_3.png",
+      "sha256": "81616f9143c73bb3564ac6b05b4d68894fd8ff88ce45bbbb8e73b406792529d2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_4.png",
+      "output": "assets/scene/buildings/icon_build_041_1_4.png",
+      "sha256": "4500b3f1ec1101eb3e59f02b3e1969d83a58ba5f5d160c49d04e27718fa74b21"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_5.png",
+      "output": "assets/scene/buildings/icon_build_041_1_5.png",
+      "sha256": "a6332fd0d6089399a4153aaa92246402bbb0543602d69b23db0c29e4c6912458"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_1_6.png",
+      "output": "assets/scene/buildings/icon_build_041_1_6.png",
+      "sha256": "a226896f6c12bda8412b32f2927729188fd91041bc79ebb20d953af63b471eb4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_1.png",
+      "output": "assets/scene/buildings/icon_build_041_2_1.png",
+      "sha256": "80126544aee9f3c1fe7c9b6a628e53756dfe71dd278e05abcd90fcc9e26487b3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_2.png",
+      "output": "assets/scene/buildings/icon_build_041_2_2.png",
+      "sha256": "6af730dc516cca97a87b27c94b4472edb4b4f7712a7310eb0390b5d5b6575772"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_3.png",
+      "output": "assets/scene/buildings/icon_build_041_2_3.png",
+      "sha256": "da15e668233b64547fa5ec5e8e587e9cf07e39739609ad3b0371bdf452836bba"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_4.png",
+      "output": "assets/scene/buildings/icon_build_041_2_4.png",
+      "sha256": "e7111b95b3572a973cde9efeed9dd17783ff9819e9c3f0065f4b1e65c6a58340"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_5.png",
+      "output": "assets/scene/buildings/icon_build_041_2_5.png",
+      "sha256": "2d691a9b19ed69da9b2dccf37b5684bc35e6bbd0e0be5cffc09a74eac423efe9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_2_6.png",
+      "output": "assets/scene/buildings/icon_build_041_2_6.png",
+      "sha256": "e9330640eb75ab632ec15aaf711ec008bdebbcfcca33df0262c4d8ea6b2448a0"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_1.png",
+      "output": "assets/scene/buildings/icon_build_041_3_1.png",
+      "sha256": "888ad98becadbcc3b7455aefda4a805d3001b706dae903e57893de3755b9cfc8"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_2.png",
+      "output": "assets/scene/buildings/icon_build_041_3_2.png",
+      "sha256": "af4d9e626525de0a40e837469a5af25d118f4a17fcd251f15bcc3949c73d9da1"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_3.png",
+      "output": "assets/scene/buildings/icon_build_041_3_3.png",
+      "sha256": "746256cf58df5eb2e14fd9165adde7b73a22bee41796c2a5ea4d33ed5847f5b5"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_4.png",
+      "output": "assets/scene/buildings/icon_build_041_3_4.png",
+      "sha256": "5f17330bc860f122254c40f03896479cc79c0442b4cf627867e5df4676eb4610"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_5.png",
+      "output": "assets/scene/buildings/icon_build_041_3_5.png",
+      "sha256": "a7835d094f0607e11df098be27e8ba3111b1de0d0552d2d5ae795b226a55ca56"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_3_6.png",
+      "output": "assets/scene/buildings/icon_build_041_3_6.png",
+      "sha256": "9804e7113baed137efb36a020132c5aeaf0337b9bc4d47129820e30a31a7ffc7"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_1.png",
+      "output": "assets/scene/buildings/icon_build_041_4_1.png",
+      "sha256": "fe5368e5817a4d545227dc67151d373025cbda588a18a8cc5ddef2ce48bbbe21"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_2.png",
+      "output": "assets/scene/buildings/icon_build_041_4_2.png",
+      "sha256": "df01a87e80cca10bf71eae3e3adf1f86e4de9a9b51ab7f27173cd6b624c0587c"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_3.png",
+      "output": "assets/scene/buildings/icon_build_041_4_3.png",
+      "sha256": "a9ac516ecd75df53b10b30f12e2dbfaa8b7479b0f5e078b6b34e5c3393dca7b4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_4.png",
+      "output": "assets/scene/buildings/icon_build_041_4_4.png",
+      "sha256": "8bb645697e6a6945b513b45c4df512314286b361d38704568fdeec7f77a3e446"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_5.png",
+      "output": "assets/scene/buildings/icon_build_041_4_5.png",
+      "sha256": "cc44564bc7e9541fd198f57838f4cb5c5da6a960a0ab9a1536b881bec2be215f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_4_6.png",
+      "output": "assets/scene/buildings/icon_build_041_4_6.png",
+      "sha256": "21d93ae5d486576b5263052cf88a3e477e41d435cb281217f1772ccd0a4fccaf"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_1.png",
+      "output": "assets/scene/buildings/icon_build_041_5_1.png",
+      "sha256": "ae75cb4cedf778e449d05017815937388580246340961b3bf06a3cf78936d388"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_2.png",
+      "output": "assets/scene/buildings/icon_build_041_5_2.png",
+      "sha256": "1e0c4e6a7cb7bc6beb7ce279a226e38590f51708f13d44938be8e7c7abce8ad2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_3.png",
+      "output": "assets/scene/buildings/icon_build_041_5_3.png",
+      "sha256": "7d4c1549b870099edbf53568ac84aa85fe6bb1453d3e6342623004bd197e306a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_4.png",
+      "output": "assets/scene/buildings/icon_build_041_5_4.png",
+      "sha256": "41b570b96685542c0aa6dd5471e4635a604c4181c70ea199f957e47414611e11"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_5.png",
+      "output": "assets/scene/buildings/icon_build_041_5_5.png",
+      "sha256": "ce8fc6a4dfba501037e06a99d4767b6fde1507414d92a4c3441655f2a9dcf276"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Building/icon_build_041_5_6.png",
+      "output": "assets/scene/buildings/icon_build_041_5_6.png",
+      "sha256": "d07539dd6b3000033b0a79ec08148f5e33999ef592a34ad76bbc204042b45a4e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_1.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_1.png",
+      "sha256": "9615bdd58b8a4a230bff54ebd9986e22eba277221d110a861aa2c9b535715f45"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_2.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_2.png",
+      "sha256": "adb9895b0b07d6731070025f18049f9afac969fcba96d0150b8b9cf8feb88097"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_3.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_3.png",
+      "sha256": "fce5c92affea6534a9183fad02f951e6be15b628a8ce25bfff764267284d7508"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_4.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_4.png",
+      "sha256": "4d882334258cc8310f04cedd46006d019aa959656071beec7499a63306ceca94"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_5.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_5.png",
+      "sha256": "c88ac912b24b0340a5d9b7892d838dd22fb790842b56f3163f2f1661a67c6a3c"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_1_6.png",
+      "output": "assets/scene/buildings/icon_build_s_041_1_6.png",
+      "sha256": "54dd69472a73e0d991d93b896471add3656f3a928a3189d616d9e19f8aaab290"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_1.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_1.png",
+      "sha256": "99ff1c4503fd97ab3cc54fdcae01341bd2ef5965f57d69d207b58ec1bed0eb14"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_2.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_2.png",
+      "sha256": "f075cae319efbbbd8ed5de6e15819ba154bfb53c269274bfc1fbd388810731ed"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_3.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_3.png",
+      "sha256": "4594d5800b2d8e94e71380d7e09ed4c210949a136d067185d0bea533df669643"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_4.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_4.png",
+      "sha256": "44557760bd7c2f7b85bf7de033f761d746d77585c1c69a03cba4aebecfb6f0ed"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_5.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_5.png",
+      "sha256": "a959116659b95d420e0f62739841e43b081456481adfb8263db7dd5a255b8485"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_2_6.png",
+      "output": "assets/scene/buildings/icon_build_s_041_2_6.png",
+      "sha256": "40c7c432ae0c4563796c206ff94c3a0f0ce05cd1f305c3ca137d3d0683ddea04"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_1.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_1.png",
+      "sha256": "b8c3d1ad1c0c90631b5b972be362b2e703fad2abeb001c52e93a5a1f2a36bb34"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_2.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_2.png",
+      "sha256": "479c55c62cb5536e61184913789aca4683f75e447d25a38b20ba1d5fe17ad49f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_3.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_3.png",
+      "sha256": "63a88c2cfeef9c88faac8d3eebf354dfd0323d81008e8834897265adbafd4370"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_4.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_4.png",
+      "sha256": "a46c9efd53e027cadfee1fd6d9d4c4dd8ff08c254eda99898a4acda6ee2fa766"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_5.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_5.png",
+      "sha256": "5adf1addc9f9b9343d4b5496a127eb0ec13f1a2ea5c79e4f0c460d0bd7c35a35"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_3_6.png",
+      "output": "assets/scene/buildings/icon_build_s_041_3_6.png",
+      "sha256": "7c0d3ddc015933aa028b21580ade7be32268c56658f52d527f43115cea053c5e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_1.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_1.png",
+      "sha256": "37d7a8ea25be7459c47a1ddb19b687a619d793881203564aa7038204a348256f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_2.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_2.png",
+      "sha256": "afb6205d25505a8592f6d8ff17224ec451f4040fb20e49972668f17ae4fe2da0"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_3.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_3.png",
+      "sha256": "b657cb8766ebea59bbe5ad05e90b08ec71ba0e1840a0a76fbf772f9548f2ce8d"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_4.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_4.png",
+      "sha256": "8e878aa459e4c7f619411503ae80912bf1cd89084e40cf165787b78d654f0812"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_5.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_5.png",
+      "sha256": "f211a5b718afa9908d6234a934a4d0bac08f6683f164a7ee21e9a78209edcbd6"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_4_6.png",
+      "output": "assets/scene/buildings/icon_build_s_041_4_6.png",
+      "sha256": "b9a253b7cbdb72bf981d4fa3de0f46cded01e3dcf64f93214060f8c4b1c08836"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_1.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_1.png",
+      "sha256": "8877e177919a0281d5753acb03a2d863c276940d3c87b3802739c05ce7dac14b"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_2.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_2.png",
+      "sha256": "30e6d77c28ff647152f042bae0890c475223125fa79aedcf2f01f4f85532cf0a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_3.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_3.png",
+      "sha256": "4dbad485451445af859d2394de7288e3f73759c937e1d304f6853508cad1de02"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_4.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_4.png",
+      "sha256": "66d518946ce2df7548fe1aa42662158631d33f7f4c186ca1bd8ddbed4848e8f9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_5.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_5.png",
+      "sha256": "1af2a0d8ccfb4ae3d3d94b290d506d250a334ab4e9ef3d0e597d4d12da5cb41e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/BuildingIcon/icon_build_s_041_5_6.png",
+      "output": "assets/scene/buildings/icon_build_s_041_5_6.png",
+      "sha256": "817711a28ab777d5199d3565b2fc760700a69cb001b9622e2abed148987a174e"
+    },
+    {
+      "source": "fgui/assets/Common/Font/NotoSansSCBold.ttf",
+      "output": "assets/fonts/NotoSansSCBold.ttf",
+      "sha256": "a9c048e539c7b8c37573aa0143f4ca33cd5ba85ca186c1e0bc70f94dd75caf93"
+    }
+  ],
+  "branch": "original (no assets_CN override)",
+  "mapBases": [
+    1,
+    41,
+    2
+  ]
+}

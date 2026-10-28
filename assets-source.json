@@ -521,14 +521,14 @@
       "sha256": "99799936bdda751cf787e4028dfd50c817292664b26eb9484cac3523256f7536"
     },
     {
-      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_Box_01.png",
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_Box_01.png",
       "output": "assets/ui/MakeTrouble/kytk1ke46qr.png",
-      "sha256": "f3a677127945c1de3dc45b2075bfabfbede661580496eb903a3cf6aab8c391ba"
+      "sha256": "9ffd7e13c604b5739dc9f1c532060623167962f7640dcb43c1952e6c321366e2"
     },
     {
-      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_Box_03.png",
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_Box_03.png",
       "output": "assets/ui/MakeTrouble/kytk1ke46qt.png",
-      "sha256": "a2553a8e678f194c3a2279f0c4a2feb20f4d7a70af8cb77d6b511d5e0b19f54d"
+      "sha256": "44d0d814a0d67a3363b7eb486ab2092849ec62f36c130b30bd0ae42a83c99c7e"
     },
     {
       "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_title_01.png",
@@ -536,9 +536,9 @@
       "sha256": "fe20c71fb87820d428ab06a7a79e08fd014f630991f910cbc6e66151adb8383f"
     },
     {
-      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_title_02.png",
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_title_02.png",
       "output": "assets/ui/MakeTrouble/kytk1ke46qw.png",
-      "sha256": "9357534935e77ce2dce505aab46fafa25b8c536c86aee8437daec13dd6b45de5"
+      "sha256": "1a2db6fa85cbe6d0423c8928127f061a52369835b1abc786d007639c5e085057"
     },
     {
       "source": "fgui/assets/MakeTrouble/Images/img_BlindBox_star_01.png",
@@ -1271,14 +1271,14 @@
       "sha256": "c0741ed325a86057929e19b9fadee75b26710f93e4892805a4f962793dd65eea"
     },
     {
-      "source": "fgui/assets_CN/Fund/Images/btn_fund_start.png",
+      "source": "fgui/assets/Fund/Images/btn_fund_start.png",
       "output": "assets/ui/Fund/9pmr13.png",
-      "sha256": "adc0574f375cbb3fd65e7f782ec5a65de7dec906f687253cca1eafcb5acb20a7"
+      "sha256": "a1cb1afd822e04165ece4ebb4ee573fb1d358b742b830067fdd94d4ce9905ba9"
     },
     {
-      "source": "fgui/assets_CN/Fund/Images/btn_fund_start2.png",
+      "source": "fgui/assets/Fund/Images/btn_fund_start2.png",
       "output": "assets/ui/Fund/h1gv3a.png",
-      "sha256": "00074a260b56346ca3740ad0cf4240a0e1e4639383324c191fc2a2c56ca0d91e"
+      "sha256": "b596b86a4489b9deefc84965a78d833bf2fa9e50e329173839a769cd41507316"
     },
     {
       "source": "fgui/assets/Fund/Images/img_fund_bottom.png",
@@ -1396,14 +1396,14 @@
       "sha256": "5be2919020cade7c936a9b9bf27e0a791b68743cd939e7725c37eaabfb98e917"
     },
     {
-      "source": "fgui/assets_CN/GachaMachine/image/img_GachaMachine07_red.png",
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine07_red.png",
       "output": "assets/ui/GachaMachine/xxxc4.png",
-      "sha256": "0d7712134fc3e36c90b719a47baa7e7f4caa2116842c33cb4f50637268b21c3f"
+      "sha256": "79dcd39acd39f4027753961ccb1859a91ee8c1191a715ccbc64c8b31afc89e2f"
     },
     {
-      "source": "fgui/assets_CN/GachaMachine/image/img_GachaMachine07.png",
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine07.png",
       "output": "assets/ui/GachaMachine/xxxc5.png",
-      "sha256": "c4507f5895a250cf5ff38f74bb67a18808df00918814f18075a9ee0054f1efb0"
+      "sha256": "ea143e6dedba55627f8110b283d907429670882375bdf8780c79abb62dcc7fa3"
     },
     {
       "source": "fgui/assets/GachaMachine/image/img_gacha_deco_cloud.png",
@@ -1536,9 +1536,9 @@
       "sha256": "f4d473139b3b9837d02f5068db6148ce1050debbd009c65c1ea568159b4a6ef8"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go02.png",
+      "source": "fgui/assets/Main/Images/btn_main_go02.png",
       "output": "assets/ui/Main/d0a6h.png",
-      "sha256": "509a7a2e09f5b23013cd1184ed07b7b6f68a36ff78df17f9dd15df308f2b7905"
+      "sha256": "f1ab4ca76311ac6eab7f583ab8ea7cc1759d6b91576c69647f6c63faa8fbf10b"
     },
     {
       "source": "fgui/assets/Common/Images/img_main_aperturebg.png",
@@ -1546,39 +1546,39 @@
       "sha256": "1116a87742da1b3d955209b61f39e1d78abeaa4a82533e66f2cbc2956ff878c0"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go03.png",
+      "source": "fgui/assets/Main/Images/btn_main_go03.png",
       "output": "assets/ui/Main/d0a6g.png",
-      "sha256": "80992da4bb03fed2ff74b6ddec8be3bb9e86cbcfe0da5ba75b49c2a5499d2141"
+      "sha256": "b508f07171c4962a990170db38bba82ae4bd2771be6d6cf5a687344d53f428c0"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go05.png",
+      "source": "fgui/assets/Main/Images/btn_main_go05.png",
       "output": "assets/ui/Main/d0a613.png",
-      "sha256": "bd46dd7be7882dd23c5665c7cb1084b8bf23ea4e779df90b05929cffc90cd8b3"
+      "sha256": "dc5834a9378fbadb11613e41e7935cfeb8ef50c615a3c3ab40df07c3325aa6f6"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go04.png",
+      "source": "fgui/assets/Main/Images/btn_main_go04.png",
       "output": "assets/ui/Main/d0a614.png",
-      "sha256": "a56850b0a9d9fc669f4f4e42bc19f9025001b8af15fde01a2ad1fb749feec06c"
+      "sha256": "30dd746b85c7d60d48b01fed664ea9b20d71acbf853eae002edebfbcf4d584db"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go10.png",
+      "source": "fgui/assets/Main/Images/btn_main_go10.png",
       "output": "assets/ui/Main/gxn51ke46rv.png",
-      "sha256": "654adc3af92a21c47b04dcaf95363077e242be486947561daf92be7c53fcadce"
+      "sha256": "15a10244bea38b0cb9d52211b6699b2b6f3f89292a04c55a1520def5b72f324a"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go01.png",
+      "source": "fgui/assets/Main/Images/btn_main_go01.png",
       "output": "assets/ui/Main/d0a619.png",
-      "sha256": "bf9a68778d41301f1a105eedafc0da27efa6bbfd5f2d12a50535514e09cb93fd"
+      "sha256": "9539d453c146fffd39210dd44c1c8b0093ea76081629d8c913db22da6251692d"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go07.png",
+      "source": "fgui/assets/Main/Images/btn_main_go07.png",
       "output": "assets/ui/Main/wurx1ke46r2.png",
-      "sha256": "f3f899f2b75fa6906332887e15d69e5d30692b6bd979a799cdfc2a87bc757be6"
+      "sha256": "138e5963ca33766fde20c3ec8d602e29a43357248baed0137f849f187f1f3f48"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/btn_main_go06.png",
+      "source": "fgui/assets/Main/Images/btn_main_go06.png",
       "output": "assets/ui/Main/9v8b1ke46qt.png",
-      "sha256": "159e8c78880f771bab33ce44c26643bda10f706ed961a482e5a0930811f0c582"
+      "sha256": "732ccdd4b2b82060f58ac9c8d8a72258919a41492e928c23190024cddd15025f"
     },
     {
       "source": "fgui/assets/Main/Images/btn_main_go08.png",
@@ -1991,9 +1991,9 @@
       "sha256": "b2e68aaa3122e705700144087e4ccde9bb7110a33bf3e6f79d359f8203552cab"
     },
     {
-      "source": "fgui/assets_CN/Main/Images/img_main_full_01.png",
+      "source": "fgui/assets/Main/Images/img_main_full_01.png",
       "output": "assets/ui/Main/8nbo1ke471o.png",
-      "sha256": "bdc86c4421046c8a44cd8be94fbd650c189755f9baf392336134dd72d1156e14"
+      "sha256": "4f5ee568078067e5cfb5f32347792f90cb634bae96a919b0279cb2a879212566"
     },
     {
       "source": "fgui/assets/Build/Images/img_build_point01.png",

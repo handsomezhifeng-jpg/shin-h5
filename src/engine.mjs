@@ -65,18 +65,19 @@ export class BoardGame {
     const s=this.state; if(s.pending) return {error:'请先完成当前事件'};
     this.restoreDice();
     if(s.freeRolls<=0 && s.dice<s.bet) return {error:'骰子不足'};
-    const before=s.coins; const bet=s.bet; const free=s.freeRolls>0;
+    const before=s.coins,coinEvents=[]; const bet=s.bet; const free=s.freeRolls>0;
     if(free)s.freeRolls--;else s.dice-=bet;
     const dice=[this.die(),this.die()];const steps=dice[0]+dice[1];const from=s.position;const path=[];
-    for(let i=0;i<steps;i++){s.position=(s.position+1)%40;path.push(s.position);if(s.position===0)s.coins+=Math.round(this.data.squares[0].param*this.inflation*bet);}
-    if(dice[0]===dice[1])s.coins+=Math.round(60*bet);
-    s.turns++;const event=this.land(bet);this.record(`第${s.turns}次投点：${dice.join('+')}，${this.nameOf(this.tile.type)}`);
-    return {from,path,dice,steps,bet,free,event,gain:s.coins-before,tile:clone(this.tile)};
+    for(let i=0;i<steps;i++){s.position=(s.position+1)%40;path.push(s.position);if(s.position===0){const amount=Math.round(this.data.squares[0].param*this.inflation*bet);s.coins+=amount;coinEvents.push({index:0,amount,phase:i===steps-1?'land':'exit',kind:'start'});}}
+    if(dice[0]===dice[1]){const amount=Math.round(60*bet);s.coins+=amount;coinEvents.unshift({index:from,amount,phase:'dice',kind:'sameDice'});}
+    s.turns++;const event=this.land(bet,false,coinEvents);this.record(`第${s.turns}次投点：${dice.join('+')}，${this.nameOf(this.tile.type)}`);
+    return {from,path,dice,steps,bet,free,event,gain:s.coins-before,coinEvents,coinsBefore:before,tile:clone(this.tile)};
   }
-  land(bet=this.state.bet,forceBlind=false) {
-    const s=this.state;const tile=this.tile;let result=null;
+  land(bet=this.state.bet,forceBlind=false,coinEvents=null) {
+    const s=this.state;const tile=this.tile,before=s.coins;let result=null;
     if([3,9].includes(tile.type))s.coins+=Math.round((tile.param*this.inflation+(s.level-1)*5)*bet);
     if(tile.type===4)s.coins=Math.max(0,s.coins-Math.round(tile.param*this.inflation));
+    if(s.coins!==before)coinEvents?.push({index:s.position,amount:s.coins-before,phase:'land',kind:'square'});
     if(tile.type===2){const value=Math.round(tile.param*this.inflation*bet);s.fund+=value;result={kind:'fund-add',value};}
     if(tile.type===6){const pool=this.data.chances.filter(c=>c.pool===1 && c.weight>0 && c.type<=6);const card=clone(this.weighted(pool));s.pending={kind:'chance',card,bet};}
     if(tile.type===7)s.pending={kind:'prison',bet,attempts:0,history:[],fine:Math.round(tile.param*this.inflation)};
@@ -94,13 +95,13 @@ export class BoardGame {
   }
   dismiss() {if(['shield','rent'].includes(this.state.pending?.kind)){this.state.pending=null;return true;}return false;}
   resolveChance() {
-    const s=this.state,p=s.pending;if(p?.kind!=='chance')return null;s.pending=null;
+    const s=this.state,p=s.pending;if(p?.kind!=='chance')return null;const coinsBefore=s.coins;s.pending=null;
     const c=p.card;let result={kind:'reward',coins:0,dice:0,free:0};
     if(c.type===1){result.coins=Math.round(c.param*this.inflation*p.bet);s.coins+=result.coins;}
     if(c.type===2){result.coins=-Math.min(s.coins,Math.round(c.param*this.inflation));s.coins+=result.coins;}
     if(c.type===3){result.dice=c.param*p.bet;s.dice+=result.dice;}
     if(c.type===4){result.free=c.param;s.freeRolls+=c.param;}
-    if(c.type===5 || c.type===6){const from=s.position,path=[];do{s.position=(s.position+1)%40;path.push(s.position);if(s.position===0)s.coins+=Math.round(this.data.squares[0].param*this.inflation*p.bet);}while(this.tile.type!==8 && path.length<40);this.land(p.bet,c.type===6);result={kind:'move',from,path,event:s.pending};}
+    if(c.type===5 || c.type===6){const from=s.position,path=[],coinEvents=[];do{s.position=(s.position+1)%40;path.push(s.position);if(s.position===0){const amount=Math.round(this.data.squares[0].param*this.inflation*p.bet);s.coins+=amount;coinEvents.push({index:0,amount,phase:'exit',kind:'start'});}}while(this.tile.type!==8 && path.length<40);this.land(p.bet,c.type===6,coinEvents);result={kind:'move',from,path,event:s.pending,coinEvents,coinsBefore};}
     this.record('机会卡：'+(result.kind==='move'?'前往好友捣蛋':result.free?`免费投点${result.free}次`:result.dice?`获得${result.dice}骰子`:`美金${result.coins>=0?'+':''}${result.coins}`));return result;
   }
   prisonRoll() {

@@ -1,0 +1,2868 @@
+{
+  "files": [
+    {
+      "source": "fgui/assets/IconItem/icon_GachaCoin.png",
+      "output": "assets/ui/IconItem/xoij1ke46n8.png",
+      "sha256": "d3789de77ccda9a8530aacdb381c4f03ead339df312ceab42f0db6e029a44576"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_kb.png",
+      "output": "assets/ui/IconItem/xoij1ke46n7.png",
+      "sha256": "1c2f26788a614e78195323c0ab3ef7755912882569f3e4ad4adb55258c44a94e"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_prison.png",
+      "output": "assets/ui/IconItem/vq841ke46oy.png",
+      "sha256": "df01055351badf0542e23f51e7b22d8166da8dd65e63110fef4799975299738d"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_dice.png",
+      "output": "assets/ui/IconItem/v4ji1ke46s6.png",
+      "sha256": "2d9388fcdd451b729e4660de87fcfc035fa209ab41f3417ac7defbd91a985d0b"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_dice_02.png",
+      "output": "assets/ui/IconItem/v4ji1ke46s7.png",
+      "sha256": "0122f2344f02cbc52e6df2e5afef6507d8ef9c4cd0d927f136afe2ba31ceda65"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_money.png",
+      "output": "assets/ui/IconItem/khoq1ke46sb.png",
+      "sha256": "a44b6a11d1e53409b6bd7e624b5ec6e4fa0db6dfb8b4ad4335cb56fed646e625"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_EXGachaCoin.png",
+      "output": "assets/ui/IconItem/nhd51ke4749.png",
+      "sha256": "19e22aa9c412546a2a33366e83969d741fc46be3740a8c7aeaf4606063b4964f"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_avatar_player.png",
+      "output": "assets/ui/Common/skyg1ke46rt.png",
+      "sha256": "30a285a45d4cb9d2d9db313141573cc313879d89ffd5e0ed47c13fdcf10b6476"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_dice_02.png",
+      "output": "assets/ui/Common/b77i1ke471o.png",
+      "sha256": "589e68e15d26cdd712b03fca5a636ee92a6016ca6ece2041a61867c4e0827cd2"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_shield07.png",
+      "output": "assets/ui/Common/b77i1ke471q.png",
+      "sha256": "215b34cc550c2fa916b3c3e1fb0e8fcd8f194f278d70b44ae911f8f7186b58af"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/img_character_01.png",
+      "output": "assets/ui/ChessboardEvent/n80a5.png",
+      "sha256": "9c7e406e71de8044643c3c63a751e55f0af99f7cf24a4e96f5324c461144324b"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/img_event_shinchan_01.png",
+      "output": "assets/ui/ChessboardEvent/i1ll1ke46pq.png",
+      "sha256": "64615cd3728eb0527a7db50a398f1de1d62c33a9d57841ca31a1f436b2013d6a"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/img_event_shinchan_02.png",
+      "output": "assets/ui/ChessboardEvent/i1ll1ke46pr.png",
+      "sha256": "d74061d2b1137bb349226a15ae267bb412d37f359a0252fa8c9e575f71a9a646"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/img_event_shinchan_03.png",
+      "output": "assets/ui/ChessboardEvent/i1ll1ke46po.png",
+      "sha256": "3ee37992198bf749e2d61f63663a06e85d11d36331c4d955f9a71b5f4d045c89"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/img_character_02.png",
+      "output": "assets/ui/ChessboardEvent/hkn41ke46qc.png",
+      "sha256": "34a93a8812f8288cfe5286d6f90518f5eef8addcf54d36f5344ac13d37a8df4b"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_info02.png",
+      "output": "assets/ui/Common/m0xt1ke479g.png",
+      "sha256": "c7f141b78cd7bf91e47b01ad6c15ccde88250adf14fb473dddb69c3a8ad3807a"
+    },
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom_02.png",
+      "output": "assets/ui/Main_01/onzl1.png",
+      "sha256": "a53629e9fbecb4c0be36453dd8967e82b52857eb43498e107c0da57762170b38"
+    },
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom.png",
+      "output": "assets/ui/Main_01/onzl0.png",
+      "sha256": "d4ed94584d2c88c8851994ca4ef0c483e09f1e052aa39fbcd7430a88d1e0fedb"
+    },
+    {
+      "source": "fgui/assets/Main_01/Image/bg_main_bottom_03.png",
+      "output": "assets/ui/Main_01/onzl2.png",
+      "sha256": "4b09ce1bc0dd3e525b4c693c795bf7176a2db32420064218f11f35c6b357f7c0"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_panel03.png",
+      "output": "assets/ui/Common/xoij1ke46le.png",
+      "sha256": "38a486889c80bf57328a45256d4ba53f2d463905f8f11cd287d03771aeea727a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_window_01.png",
+      "output": "assets/ui/Common/kdeb1ke46vt.png",
+      "sha256": "ae18d1a3f5632bc313ca6c895b018e8e944a0a6140debf213fd6b015c7cb408d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_com_windowdeco_01.png",
+      "output": "assets/ui/Common/kdeb1ke46w3.png",
+      "sha256": "9d69d01f9733a9ecd189f22801b16266e707b5b9f38107f6c26c47919df24c25"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_titleline_01.png",
+      "output": "assets/ui/Common/kdeb1ke46vx.png",
+      "sha256": "731b8a676be781d5152ab92da83042042c5b43f9f28d3debc3671da187b756e2"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_window_03.png",
+      "output": "assets/ui/Common/kdeb1ke46vv.png",
+      "sha256": "db769bfb78306ab3330cc7de5345bb94fe3493c3c2de677f5a2bd4e3f0bc2b01"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_close.png",
+      "output": "assets/ui/Common/m6i31ke46pf.png",
+      "sha256": "1abad12f302d1e84827788d5c42645640156fdb7f8b9ca4ed487ef4dd8deedc3"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/bg_card_01.png",
+      "output": "assets/ui/ChessboardEvent/n80a0.png",
+      "sha256": "9763a963348e2695d64b1bd8ceee80951c36124041353aed7f8fb958d9298a15"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/sqbg_card_coin.png",
+      "output": "assets/ui/ChessboardEvent/fk8m1ke46rt.png",
+      "sha256": "852ed3612b000944205685e78fad13b301426b50826542bff2330d10793c123e"
+    },
+    {
+      "source": "fgui/assets/ArtFont/CoinFont.fnt",
+      "output": "assets/ui/ArtFont/g85mz.fnt",
+      "sha256": "9eb70edfb7030791cc018cbbf616226e6d1552c483a740dea056dac4ae8a4df3"
+    },
+    {
+      "source": "fgui/assets/Common/Font/NotoSansSCBold.ttf",
+      "output": "assets/ui/Common/qe9t1ke46ym.ttf",
+      "sha256": "a9c048e539c7b8c37573aa0143f4ca33cd5ba85ca186c1e0bc70f94dd75caf93"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/img_card_mask.png",
+      "output": "assets/ui/ChessboardEvent/cdkr1ke46rb.png",
+      "sha256": "9df1e5c29be28288aec8de9cdce4005521dd7dfb39c0142b02f59f94994f79da"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/img_card_arrow(1).png",
+      "output": "assets/ui/ChessboardEvent/cdkr1ke46rf.png",
+      "sha256": "1abdf3eb37c78bcccbcaa83c2f9ac567b73b7e40bfe0f38dd76865767872f76e"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/bg_card_02.png",
+      "output": "assets/ui/ChessboardEvent/n80a1.png",
+      "sha256": "1615cdf3eca42f41e49d81db089f2fbcb3f3837781a7ba06372b4ba147dd9f79"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/bg_main_bottom_02.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih5.png",
+      "sha256": "53e6576b5408eeeb5b5f83ab43828ace63ec339580549ac76fd33429c49d5ade"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent_01/Image/监狱/bg_main_bottom.png",
+      "output": "assets/ui/ChessboardEvent_01/g6ih4.png",
+      "sha256": "5e83e31be17cc7d130221dc34186efd8e376d587d8d373e9f90d96d2fd610b3d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_common_title_03.png",
+      "output": "assets/ui/Common/sxnt1ke46xf.png",
+      "sha256": "47f3db271e5dd519fb41369f6a6b8f309524c2d10f11b547aeac11fcbc75faf3"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_06.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46rv.png",
+      "sha256": "ebe0631327c12b0d3db150fe10e25921001573670812eac8e762d84b5b1f7f61"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_01.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46rz.png",
+      "sha256": "41e0640c111e1cbd3f89bd2f43300e1af864a52273db7bc4eb1f45ae39119590"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_02.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46ry.png",
+      "sha256": "012937be8564ee282d3f7586ba7ae612d04ac4af33eb188987e5d5f7875f1659"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_03.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46rx.png",
+      "sha256": "3e7e874b541488be02d420029e4c5a8560a80ae6e35bb1ff568d2ea7abbf6f48"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_04.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46ru.png",
+      "sha256": "7abf50fb1871c3931b14c7a323e00bb82e0c0c96b8bce9bec73efc431213096b"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/icon_prisondice_05.png",
+      "output": "assets/ui/ChessboardEvent/w5x91ke46rw.png",
+      "sha256": "16145e72df5125087d089e175a1808d7044c7cff488e56f983520424ffdf5cbb"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_progress.png",
+      "output": "assets/ui/Common/xoij1ke46lj.png",
+      "sha256": "3569cda4802e018d8196e670ae2d1803a5f01943b195163eb00a2b7eb6280623"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_money_03.png",
+      "output": "assets/ui/IconItem/v4ji1ke46s2.png",
+      "sha256": "9d7f9d4fb0122fba657dee14020296fbf3e09f5ec5bae98d471109f56ea85807"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/img_event_02.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qu.png",
+      "sha256": "61a7a2ebe7ce61e91b3b88429d33e22d37695d22d93be582fc56f41df315d549"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_title_01.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qh.png",
+      "sha256": "bb8ee4a1348a9ca456e7bde2aec1b03b9c3c900d5433ed622b0a766847aec069"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/2.0/img_main_title_04.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qn.png",
+      "sha256": "0c23ea2f9941c08756199d06d10d115803fef11290445b05aeca93d0d0e48ee3"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/2.0/img_main_title_01.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qe.png",
+      "sha256": "27f67552a3c7bb7af12ce1b014a90d7c432692a406b3d607687fe1854b479819"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_title_02.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qo.png",
+      "sha256": "5bf118f531b393a491bda687f8aac355483c18989cdf60ee5faabe0b27cb4d9b"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/2.0/img_main_title_03.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qr.png",
+      "sha256": "0e1cbe945e235428b3b6b8a42ba6cc23eb2be38330919704859b46c90be5a5ab"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_bottom_04.png",
+      "output": "assets/ui/ChessboardEvent/ozrm1ke46qx.png",
+      "sha256": "9e3fb4dab29b02f09215e5a4811327dd415dd1db1e3d9f105267bbdc09072c12"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/tex_ui_glow_002.png",
+      "output": "assets/ui/ChessboardEvent/g0a91ke46qb.png",
+      "sha256": "a663240dac2e3021d4e005f589392529b2c3277ae86991e9837ed68968f7ad5b"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/tex_glow_01.png",
+      "output": "assets/ui/ChessboardEvent/g0a91ke46qa.png",
+      "sha256": "758d93acd063ed7557335048854364ecf412dd8fea78f8ad0899899bc8b200c2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/BetFont.fnt",
+      "output": "assets/ui/ArtFont/gjopb.fnt",
+      "sha256": "794a8467244c21b7dee066028f9854a6091d08905c16cb482fb24f83fcd5d8cb"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/img_icon_prison.png",
+      "output": "assets/ui/ChessboardEvent/120xm1ke46q6.png",
+      "sha256": "df01055351badf0542e23f51e7b22d8166da8dd65e63110fef4799975299738d"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/img_gantanhao.png",
+      "output": "assets/ui/ChessboardEvent/120xm1ke46q5.png",
+      "sha256": "d3aa935522c8cff93757afc3f0d4ba8cd7d6351a5d938aca6e6a4ee93bb39c8f"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_artwork03.png",
+      "output": "assets/ui/Build/ov5g4m.png",
+      "sha256": "d67b9a12dcadf441beedc08bfab83602f8a463e50675be4ae02695c6ea0b01c0"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_bottom.png",
+      "output": "assets/ui/Build/ov5g4z.png",
+      "sha256": "7bf20f2155788f64a1971a8e2192d0b94d46080b358a57bc8f1d0de2e6daa5cd"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_blackboard.png",
+      "output": "assets/ui/Build/ov5g4o.png",
+      "sha256": "f08d6c764d674cff9b17bbdb3175e77bdb1af27c888fa988abd182bc695f1743"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_deco01.png",
+      "output": "assets/ui/Build/ov5g4t.png",
+      "sha256": "228c26eff58e1b693617a86ef7d4c23ff741bc525605fa414d6f46d2b8629c58"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_deco02.png",
+      "output": "assets/ui/Build/ov5g4u.png",
+      "sha256": "69ad42d741eae72cfc65c33895009379dac00e97e84fc1cfd3c74d3a9e8f9fb8"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_deco03.png",
+      "output": "assets/ui/Build/ov5g4v.png",
+      "sha256": "33308e81939719985dd0817ed05f8160fec64b09149c764e78d1b1210f15125a"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_deco04.png",
+      "output": "assets/ui/Build/ov5g4w.png",
+      "sha256": "c7251119ebd11c93647d32f611d5108ec5528490782dde25250f63f121012a5e"
+    },
+    {
+      "source": "fgui/assets/Build/Images/paper1.png",
+      "output": "assets/ui/Build/fi6955.png",
+      "sha256": "7f0c7bce925488eb0990d4dc4b1b53a322f20d2fc0bfcc20d2186be47ee98954"
+    },
+    {
+      "source": "fgui/assets/Build/Images/photo.png",
+      "output": "assets/ui/Build/fi6957.png",
+      "sha256": "ca34bcb66abeb3728fc059893aa5714765dad9bbb4766fb01290e8d0f26a3a69"
+    },
+    {
+      "source": "fgui/assets/Build/Images/paper3.png",
+      "output": "assets/ui/Build/fi6958.png",
+      "sha256": "608bbc207406b98a3b3301cce7893dbcdda24daf553b7bca4cf90b62bfdabdbb"
+    },
+    {
+      "source": "fgui/assets/Build/Images/paper2.png",
+      "output": "assets/ui/Build/fi6956.png",
+      "sha256": "a0bdddfbe303d491dc2dd03f5ab79a1df279de3519d18f095dc23f96bad17d85"
+    },
+    {
+      "source": "fgui/assets/Build/Images/clip.png",
+      "output": "assets/ui/Build/fi6953.png",
+      "sha256": "1121fecefaa59a842d11a5e6af6a74349e0b6eac03ba067ceefee022720f9f79"
+    },
+    {
+      "source": "fgui/assets/Build/Images/crayons1.png",
+      "output": "assets/ui/Build/fi6954.png",
+      "sha256": "92e3109469ca9a6526beddca1c4fb6d71c95d1a104ace16211e231da0a9aa6a4"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_top.png",
+      "output": "assets/ui/Build/xf165e.png",
+      "sha256": "ed3e5ee7af74793e205bb39cbc7cd6cc8f80d54fb8bb43d40572ea6a7e3b4ee4"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_notebook.png",
+      "output": "assets/ui/Build/ov5g4k.png",
+      "sha256": "879c0afdb7965716c2b1e0d8c74c07b29a5ca12fc219ef6e76c6667331c36867"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_decor02.png",
+      "output": "assets/ui/Build/ov5g4i.png",
+      "sha256": "c2bde0726b7e19ce647a84f15d8ab8a1c920a2604ddb1ccde43c57288602748d"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_decor01.png",
+      "output": "assets/ui/Build/ov5g4h.png",
+      "sha256": "94b1c189dd882094e4691d627b0d60df7416ffe39824cffbbcbdf8a3e99b726e"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_decor03.png",
+      "output": "assets/ui/Build/ov5g4j.png",
+      "sha256": "402df1b1c099a6a173a9636545b053a9530f8b424f5bd3a5b6b2452606aeea00"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_window_01.png",
+      "output": "assets/ui/BlindBox/e3tr2w.png",
+      "sha256": "205315b5c201c56a674cb376e9005f6ca829b4d865b9effd67db5c604336c95d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_common_title_02.png",
+      "output": "assets/ui/Common/mann1ke46xu.png",
+      "sha256": "85797fd70461932bcb39af421ccc26c86ee479bf059653780ad443c1ccc04eee"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/img_Guessing box_Lucky.png",
+      "output": "assets/ui/BlindBox/whgh1w.png",
+      "sha256": "e5674d25970e76c1227fca0fa389252988ab2ea7b235cc34f8c9639f61a730ec"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/img_BlindBox_title_02.png",
+      "output": "assets/ui/BlindBox/e3tr2v.png",
+      "sha256": "06678289201e0c73f112d1ddfa6c50a8f791e1ade84d919b2f7d1d49137c20fc"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/tex_ui_mask_202.png",
+      "output": "assets/ui/BlindBox/b76225.png",
+      "sha256": "a663240dac2e3021d4e005f589392529b2c3277ae86991e9837ed68968f7ad5b"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_star.png",
+      "output": "assets/ui/Common/jpg41ke46px.png",
+      "sha256": "498e5d5ddc24264852102559c519aaa775c1294692753e4ccb3d9c8ce9903d5b"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/img_BlindBox_title_01.png",
+      "output": "assets/ui/BlindBox/e3tr2u.png",
+      "sha256": "fe9f02171351fa9b29992ffa7af2a699c3df28b1e5755066c4169bd27cfca669"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_floor.png",
+      "output": "assets/ui/BlindBox/svrk27.png",
+      "sha256": "5a2e50111a6429833d0573230f94f2033f704679c85f699eb7703bada43051cd"
+    },
+    {
+      "source": "fgui/assets/BlindBox_02/Image/盲盒/bg_BlindBox_background.png",
+      "output": "assets/ui/BlindBox_02/g6ih0.png",
+      "sha256": "b62a4aa566bf36ba9290374e8983e45a0fd0ddfd66545798f6e9aeac4a90e3dd"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_05.png",
+      "output": "assets/ui/BlindBox/pe692x.png",
+      "sha256": "32f61235cc6f116c2b288df2a3a1b79035533755c41b3a84e2d8518e3594d32f"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_08.png",
+      "output": "assets/ui/BlindBox/pe6930.png",
+      "sha256": "8ba3f1393efa6c3a69ae145d75845a10790a5562f3da4e45f6e9a945213b77b7"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_06.png",
+      "output": "assets/ui/BlindBox/pe692y.png",
+      "sha256": "daecbe19e30decd757464f3e35c0ef9e6e4c9462296e416731f9a62bff266cce"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_07.png",
+      "output": "assets/ui/BlindBox/pe692z.png",
+      "sha256": "b50a4e1d6dca2a5b60aab6d4083871bb341ee014c9a4925f3325531c9c21eb70"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue01.png",
+      "output": "assets/ui/BlindBox/i1llf.png",
+      "sha256": "1a114d2da593b7560dab2a839ec4bc718a3bee9e6a2d40dff4372a7bd8180ada"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue02.png",
+      "output": "assets/ui/BlindBox/i1llg.png",
+      "sha256": "50a319eeb7b1e3dbc06a4b9510e859d58b72dbb978a3dc45ab8b4f8730f48a37"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue03.png",
+      "output": "assets/ui/BlindBox/i1llh.png",
+      "sha256": "3ec7de3df46f092347129694d5b2aea3e1e570cad6664e5671f5e97ed9becfcb"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/tex_ui_star_104.png",
+      "output": "assets/ui/BlindBox/b76224.png",
+      "sha256": "79d81097f3457dec30365428319f6a3b84d85b1ebb9957cf14ab96cf9c2cc8a5"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_pattern_05.png",
+      "output": "assets/ui/Common/mann1ke46y0.png",
+      "sha256": "455f0cf0af8929f7b9c868d379c73d32b57383f8b0fe3829024df93718899de3"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_title.png",
+      "output": "assets/ui/BlindBox/ulpi1n.png",
+      "sha256": "1e1bb0c36f6b5a7dacd3ca4f94f353deb9a5c5cf44d2e63093ab9bbe8bc16f4b"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_2.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qi.png",
+      "sha256": "d590ac2a702dbd60cf54c3b4b9c674cafce064965054fcb39666fcfd4e48f709"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_1.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qh.png",
+      "sha256": "c30cc715d94f4b74240423eba8998c23d804368a6c42cd37ac2a4eebf564480b"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_3.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qj.png",
+      "sha256": "a16005c648230bca7673d9623fdab82c58e4b4660007b0d793511cdbe36ecb80"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_4.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qk.png",
+      "sha256": "83a93b8714a456131f46287b3099fdc6fe828f4fa9e8c4d22f2a1afbdcd9c1ca"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_8.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qo.png",
+      "sha256": "b189921a7700efd76dbdb1f2c60257dd664fa3d1213b7c803f27e474398c9384"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_5.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46ql.png",
+      "sha256": "1ceb88a8753beb74e3ee5ab1fe863b5fb048b14c61f35df709804943db600ffd"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBox_decorate_01.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qx.png",
+      "sha256": "a9e3b2bb617ab16cc883a3b9e66d78ecf25567572c5362b0fb59d601286e7ae0"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_10_7.png",
+      "output": "assets/ui/MakeTrouble/vmsx1ke46qn.png",
+      "sha256": "911c2ca984060a672a78528dd9b15f96444a2bd3407465b5af7aaa080e2d8484"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_bg_01.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qp.png",
+      "sha256": "3d16335d60d32599c6c8ac8f8e9761bbc075ab21b3b5b3058435d77531f0d887"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_bg_02.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qq.png",
+      "sha256": "effee9fb17710687366446b277772364e3a76204a3cfe92c81aebd8f7457d518"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_Box_02.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qs.png",
+      "sha256": "8bbf4f6b05d78abb1dbfcf988d0e9bc7744055bf18830fb49374a72a26c061ea"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_Box_04.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qu.png",
+      "sha256": "99799936bdda751cf787e4028dfd50c817292664b26eb9484cac3523256f7536"
+    },
+    {
+      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_Box_01.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qr.png",
+      "sha256": "f3a677127945c1de3dc45b2075bfabfbede661580496eb903a3cf6aab8c391ba"
+    },
+    {
+      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_Box_03.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qt.png",
+      "sha256": "a2553a8e678f194c3a2279f0c4a2feb20f4d7a70af8cb77d6b511d5e0b19f54d"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBoxstart_title_01.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qv.png",
+      "sha256": "fe20c71fb87820d428ab06a7a79e08fd014f630991f910cbc6e66151adb8383f"
+    },
+    {
+      "source": "fgui/assets_CN/MakeTrouble/Images/img_BlindBoxstart_title_02.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qw.png",
+      "sha256": "9357534935e77ce2dce505aab46fafa25b8c536c86aee8437daec13dd6b45de5"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_BlindBox_star_01.png",
+      "output": "assets/ui/MakeTrouble/kytk1ke46qz.png",
+      "sha256": "466b8858a002b41c6e1539440abeede678f439086e2fbe0628adbe7e80778a99"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_info01.png",
+      "output": "assets/ui/Common/xoij1ke46mv.png",
+      "sha256": "6491e0bc68d8625290c39f7937db6716e0ddcafc99c6b8c5d7c5b2220ebffe0f"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/icon_shield01_b.png",
+      "output": "assets/ui/MakeTrouble/e52v1ke46q3.png",
+      "sha256": "92c5bb8ddbc3625e4e8b49a37fe60b52827b49cd7ea9b415aea26c0bee344201"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_bottom.png",
+      "output": "assets/ui/MakeTrouble/e52v1ke46q2.png",
+      "sha256": "321b99d8b33bd49eed2a0ef8961d24ab9c64e1de7e372e9bc7398a264fc30b8d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_panel04.png",
+      "output": "assets/ui/Common/sxnt1ke46xa.png",
+      "sha256": "27a720247ab64fc48df34f234b82a118374714df6bd523602becddecebcee209"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_oval_01.png",
+      "output": "assets/ui/Common/mann1ke46y3.png",
+      "sha256": "a658468bd9a9af1557e96ff5af708d5a240efac19120468c1867897112e24648"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_com_search.png",
+      "output": "assets/ui/Common/xoij1ke46m5.png",
+      "sha256": "c09cfabee4402c18f6c10b7760a94e0ff2f1647da19299adcd50b5e460379eef"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_null.png",
+      "output": "assets/ui/Common/sxnt1ke46x9.png",
+      "sha256": "47435f74f8ef59454ccebb20087f3cab4d04954d47b2cf4cc2a366bfc617b2c6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_pattern_02.png",
+      "output": "assets/ui/Common/sxnt1ke46x7.png",
+      "sha256": "dad0df25c1fb635971b5f54a6bf4b3c5bc9de69341653d0c50bccf824defbf27"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_pattern_03.png",
+      "output": "assets/ui/Common/sxnt1ke46x8.png",
+      "sha256": "38de34bde39907ddd2cdda37395146934c6f55e9f886ce64ef1c4f8d4b2539d5"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_multiple.png",
+      "output": "assets/ui/Fund/kjwu3v.png",
+      "sha256": "f137d087572a4ce1f9c90db42eb6b9584e1512c791c08bcf1ea127319e2e4d45"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_star_02.png",
+      "output": "assets/ui/Fund/qcck2b.png",
+      "sha256": "9cb0c0f1dabe812700715442f055339f691dbfbe385df00bdd1aab84e276eee4"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_box.png",
+      "output": "assets/ui/Fund/9pmr12.png",
+      "sha256": "72b7db7c8f7be020967ab2e30e3e82c51ed52a860f28c83740c371c88429acbc"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_ui_mask_202.png",
+      "output": "assets/ui/Fund/b7622w.png",
+      "sha256": "a663240dac2e3021d4e005f589392529b2c3277ae86991e9837ed68968f7ad5b"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_btnbase.png",
+      "output": "assets/ui/Fund/kjwu3u.png",
+      "sha256": "d0dee5b18d304763511d824b320da6d3ac1a9b99f15acee418270f4a963cb24d"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_banner03.png",
+      "output": "assets/ui/Fund/m8xv4l.png",
+      "sha256": "3957bf84ff69ba10de1d70dfdea08e4b0c9006ee4212515e4e1bdcf3ecfa124d"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_star01.png",
+      "output": "assets/ui/Fund/kjwu3s.png",
+      "sha256": "43bd5fe2dc62e66aeea7e9ca1a2eb5dcad3758e139bd406069b60104fc3f1ea8"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_star02.png",
+      "output": "assets/ui/Fund/kjwu3t.png",
+      "sha256": "cc1355b990a6b317bac1af94e325992a17a90029381d13c30c901cb8c8f1a78f"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_title.png",
+      "output": "assets/ui/Fund/nisk2y.png",
+      "sha256": "b412d2407f2117cdef279f77882872cbd2ed2e99cebc3a15e3017ae89ee1b827"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_banner02.png",
+      "output": "assets/ui/Fund/9pmry.png",
+      "sha256": "c541e4bc61c105d3911b600474d0638af07ae8d3b0cec0790ac51f9cc53c6561"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_common_time.png",
+      "output": "assets/ui/Common/xoij1ke46mf.png",
+      "sha256": "b1b67c5a694a253ebd102e7d1f4958a3807c95131bc43d5ca46608be99d61b4d"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_coinbg02.png",
+      "output": "assets/ui/Fund/m8xv4j.png",
+      "sha256": "b64109048ea04ee873644a6327fe7be3924ed147719666298b9d392a10f92679"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_coinbg.png",
+      "output": "assets/ui/Fund/m8xv4i.png",
+      "sha256": "06aa8d6c6536c34e0f9959f257f2916bbf5195dd0d5eecb3b09c7c2bfe391603"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_banner.png",
+      "output": "assets/ui/Fund/tka54o.png",
+      "sha256": "439cb2a30385258b35e26aa10339abd2c41edcf782634fa1c84368d4a1a04909"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_fund_decorate03.png",
+      "output": "assets/ui/Common/qj9u1ke46r4.png",
+      "sha256": "06787be8f1347f53592be1bf8f37589265951310f465597766ec4b4a6415fc26"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_pattern_04.png",
+      "output": "assets/ui/Common/mann1ke46xz.png",
+      "sha256": "0b1831c7482d6ce2cb46b7a7aba5a16790fd4ef3539c0617bb6afc73d1f1f236"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/icon_fund_Friends_02.png",
+      "output": "assets/ui/Fund/m8xv4n.png",
+      "sha256": "4e82a3e36b80dbe60ca8428b56f23b02de8b899127f61315863fe711d34e636e"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/icon_fund_PinkPig02.png",
+      "output": "assets/ui/Fund/9pmrm.png",
+      "sha256": "656e441d690dded5c208f176b06b36c89450e7c56de6f5bbf641ea0ce088bc2f"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/bg_gacha.png",
+      "output": "assets/ui/GachaMachine/m8xv1x.png",
+      "sha256": "06422eaea17f2649804b165a65fc3954e511cb59e1b4c5117a4be3030c3a05b9"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/bg_gacha_02.png",
+      "output": "assets/ui/GachaMachine/m8xv1y.png",
+      "sha256": "41e22f5a33c3276f7954ca8dd2916fe5b594c7ed99545e19504ecef4e5fa8257"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_playerinfo_cardholder02.png",
+      "output": "assets/ui/Player/r9il1ke46t3.png",
+      "sha256": "d34dab0085ad68c81408a66f9e2857afcb7f14bfe9ed9f4fdf2f5a9ba150b54a"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_playerinfo_cardholder.png",
+      "output": "assets/ui/Player/qx33s.png",
+      "sha256": "9d4107665f14d3a1aefa62febcb3f35450d41b2ab0096bae9603a605e6d65d89"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_playerinfo_panel.png",
+      "output": "assets/ui/Player/r9il1ke46t7.png",
+      "sha256": "27e9b114352bd11ac34c607a18bb03c09ecc101bffd5cac40f43db832c27c5a1"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_playerinfo_panel04.png",
+      "output": "assets/ui/Player/jme6g.png",
+      "sha256": "48c713533fdbf962c2041fbd101a8fa10729476340b1c089c4507cb1d7c150dc"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_playerinfo_Line.png",
+      "output": "assets/ui/Player/r9il1ke46t9.png",
+      "sha256": "f48f7456f4539fb6e0e5ece4e4b87ff68ac73f31742691d079ca5d82282c1eb5"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/icon_friend.png",
+      "output": "assets/ui/Player/qx33n.png",
+      "sha256": "3dbb32be662080886331a0b6549816ed02276e5cffb4892a3ee65fda10a8e65b"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/icon_map.png",
+      "output": "assets/ui/Player/qx33o.png",
+      "sha256": "8c7e2db72b0af3d93f056d070f395757cfd4548014a537c53f09b3dd96a6b49d"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/img_player_deco.png",
+      "output": "assets/ui/Player/qx3319.png",
+      "sha256": "724722ab4d36938d23670863228cebc7ff2708407c785a1f1aeb78f8333f5de0"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips01.png",
+      "output": "assets/ui/Common/r9eu1ke46xg.png",
+      "sha256": "1e9e43be047582e529e397396c4725ccb93f8d56f7a99df4cfe319e5e04e2827"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tipsarrow02.png",
+      "output": "assets/ui/Common/r9eu1ke46xl.png",
+      "sha256": "b37ca33275f8a1c0a1db6bcca8adfa34b32ab0a356e7a3b908bbd0142a3e1e5e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_main_top02.png",
+      "output": "assets/ui/Common/m0xt1ke479h.png",
+      "sha256": "8c61e197b78cca1e94208420da8574e6d15f8c320c263dfeb57123548fe42895"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_kb_s.png",
+      "output": "assets/ui/Main/dr7k1ke46sc.png",
+      "sha256": "1c2f26788a614e78195323c0ab3ef7755912882569f3e4ad4adb55258c44a94e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_main_buffbg_01.png",
+      "output": "assets/ui/Common/xy841ke4737.png",
+      "sha256": "169e432914a7aa1fb64ae2034ed6eee8fd941b1991d0b2fd45e94be62124271c"
+    },
+    {
+      "source": "fgui/assets/SpecialBuild/Images/img_bank_sticky note03.png",
+      "output": "assets/ui/SpecialBuild/gxn5m.png",
+      "sha256": "1792b261b2c82faf0ba2c2e5f120c58502657e7b8a5daf643b1676332eafca7c"
+    },
+    {
+      "source": "fgui/assets/SpecialBuild/Images/img_bank_sticky note02.png",
+      "output": "assets/ui/SpecialBuild/gxn5o.png",
+      "sha256": "a346fe767872a37d763b84c469b63d499b6150f4c30fbc5e2d27fa7a44c0db42"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity02.png",
+      "output": "assets/ui/Main/dd7a1ke46rd.png",
+      "sha256": "d4fd25f0d2974c27ad11e686f8b39894eb5e369f7a2b2b2a9d80b200fd74af32"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity01.png",
+      "output": "assets/ui/Main/d0a66.png",
+      "sha256": "96e02b70dea06a9d77ef05fc6e1ca63b2ca510ed26abad3e67fdd19efd111ecf"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_milestone_progress_02.png",
+      "output": "assets/ui/Main/j0rg1ke46s5.png",
+      "sha256": "1c1ace15233699676019473196e3555873b32935e25ed48c6086479cede5d980"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bar.png",
+      "output": "assets/ui/Common/d15l1ke46ss.png",
+      "sha256": "8c30a31444c03d6df3f73920f1fbb5d178f043ddbb423cf87d75c5937221da67"
+    },
+    {
+      "source": "fgui/assets/Common/Font/DreamHanSansCN-W22.ttf",
+      "output": "assets/ui/Common/pa8c1ke4798.ttf",
+      "sha256": "fa3e8b3d065057ca1f06890dc140c8e6a690e2da11514dabf8d03948fa393822"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity03.png",
+      "output": "assets/ui/Main/syfz1ke471f.png",
+      "sha256": "eac5b2ed14bf1fe5275ba3b680fe1b455ec5bc1f23f2a9cab95937b6d6df607e"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_temporary01.png",
+      "output": "assets/ui/IconItem/d0a61ke46oj.png",
+      "sha256": "fbcb454c130b18b83bbb594e94a2f4408b25acb186ac64ff24209bc5d96ce698"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_com_Details.png",
+      "output": "assets/ui/Common/xoij1ke46lq.png",
+      "sha256": "84afd20c36c98e4affecb6dc0e0be16b82743c0762e49575dd08b42d8cf094dc"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_milestone_01.png",
+      "output": "assets/ui/Main/syfz1ke46u4.png",
+      "sha256": "645a453d6528eb75f2dde91ecce18cd5c687a4b9791dcabdb5ff30565eb292c1"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_add_01.png",
+      "output": "assets/ui/Main/syfz1ke46u5.png",
+      "sha256": "28fa0d217ac3bf3dcc4ae7169e3e0599d753bb276181b39ec4b52ada8fa0af1b"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime05.png",
+      "output": "assets/ui/IconActivity/d0a6y.png",
+      "sha256": "0f4f177afb041feadc6054e955d61ea5f1a11bdf04b90f91fb756f55a17b6a60"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_mask_01.png",
+      "output": "assets/ui/Main/mml81ke472m.png",
+      "sha256": "d898501a0eaf1a2bf2dea58d728775d0810f1eb495e61e0de1c734c5a0187b9d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_betPurple.png",
+      "output": "assets/ui/Common/m0xt1ke479f.png",
+      "sha256": "7d2f401718b1867117f5dda03379b9edcfc4c0d176cec8f99b289a55211f0c1b"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_betOrange.png",
+      "output": "assets/ui/Common/m0xt1ke479e.png",
+      "sha256": "c86ba0f099afe602ef1bebafce1859992290e5f646977364e2725a34d723c87e"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_infobarbg_03.png",
+      "output": "assets/ui/Main/tuvp1ke472o.png",
+      "sha256": "735a9b0505b54fbd8fe3f935e19b963fc03c74e25f19742a2f3e13b983d2d05c"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_task_5.png",
+      "output": "assets/ui/Main/q70u1ke4738.png",
+      "sha256": "d7dd511eacbb321175776c3db57fbcd53ef6d8fd971d00e65f28f09b878b7f82"
+    },
+    {
+      "source": "fgui/assets/Common/Images/btn_main_menu_01.png",
+      "output": "assets/ui/Common/mml81ke4726.png",
+      "sha256": "2058a76ff5bd80b2398b108939a18486cfd1c83b7831dbca455c9bb3c334c592"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_glow_001.png",
+      "output": "assets/ui/Main/qjvf1ke46q6.png",
+      "sha256": "ed56546af1d9299573c1cd5c2c6b802c62e81d8ecb8e7f208fe4de672203d33e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_main_aperture.png",
+      "output": "assets/ui/Common/hxg61ke46qw.png",
+      "sha256": "df80bd922c29253667394b13ae6a7b08b59363e150e79349a6bac763069f999e"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_city_glow_202.png",
+      "output": "assets/ui/Main/stoh1ke46ql.png",
+      "sha256": "601ac4f43be75d51661fb5d6f34c25ceb1984c8b079f03009a1fc8976006b17c"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_sfx_circle_3803_djs.png",
+      "output": "assets/ui/Main/q3u51ke46qp.png",
+      "sha256": "94c79dafa3a9ae8893c64882f792a7b2a51b82e3c063739eef94ea547461d2f3"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_bottom_guild.png",
+      "output": "assets/ui/Main/u3lu1ke471m.png",
+      "sha256": "3921b4787feb7f984a9dc1077d920b152e92c4a43c049b5735f1e3b8dc86b61e"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_bottom_build.png",
+      "output": "assets/ui/Main/d0a6u.png",
+      "sha256": "a1972a9295006766bcee44737c65ca21e175c0159a7be98f775ae47e7f377f24"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_star_05.png",
+      "output": "assets/ui/Main/cao11ke46sg.png",
+      "sha256": "b2e68aaa3122e705700144087e4ccde9bb7110a33bf3e6f79d359f8203552cab"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_tips_01.png",
+      "output": "assets/ui/Main/fhhb1ke46s8.png",
+      "sha256": "c007b4b0ce1c409aaedda4b49776076756a335bb5944c1b74dc6488ab4f09003"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_progress3.png",
+      "output": "assets/ui/Common/rkmv1ke479c.png",
+      "sha256": "10822c67ff94fd5ee115277f0a946c0695fe20010ff6a3a9e7d8f985206dcec5"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_bottom_album.png",
+      "output": "assets/ui/Main/d0a61j.png",
+      "sha256": "8aa8019e6e60288a859394702fa51a1e4ee325d54b7be1eba821f58fb8e76985"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_reddot.png",
+      "output": "assets/ui/Common/xoij1ke46n1.png",
+      "sha256": "c3830435beb629e332ca5a74a65a5ff00595809ae2e632bbe85868fc80d68f52"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tips_main_activity.png",
+      "output": "assets/ui/Main/npaa1ke471p.png",
+      "sha256": "dc8cea82bd99adb3474112a7732caa1cd1a002a3f50bbfea1d65f956a8404d45"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_bottom_friend.png",
+      "output": "assets/ui/Main/d0a68.png",
+      "sha256": "f66b0c9945f7352323ada1b9b20c3b90b1092a1682afebdde7602a77f61b9ab6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_orange01.png",
+      "output": "assets/ui/Common/kdeb1ke46we.png",
+      "sha256": "0b4bb637f9b0bab13d223b3ba86c49c751b7e471102950495586359c2608ed09"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_diamond_01.png",
+      "output": "assets/ui/IconItem/wgcb1ke474a.png",
+      "sha256": "8d03bc27d9bb7f81f211a9f13fe77365213a763605a962eb5f41ff156a66b622"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tipsline01.png",
+      "output": "assets/ui/Common/r9eu1ke46xm.png",
+      "sha256": "e21a51cef64727a95c1f855c4fd2e28a8e3cfe21d71abca1796d1203021d0071"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_tips_arrow_03.png",
+      "output": "assets/ui/Common/fl5f1ke470a.png",
+      "sha256": "8b5b1b0ec9236fc78920edecb7ca172a7d98acf268250f6c347a989f762031db"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_display_dot_01.png",
+      "output": "assets/ui/Common/sy811ke4719.png",
+      "sha256": "33088dac182f96805fe173e1e93a41940af93c9d03913203287dfd479e8e2cf1"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_blue01.png",
+      "output": "assets/ui/Common/kdeb1ke46wk.png",
+      "sha256": "544857b0fc4dcc2672fa3067749e9fae1a506887f0f929787d3e9ba058fbfb81"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_com_close_decoration02.png",
+      "output": "assets/ui/Common/kdeb1ke46vz.png",
+      "sha256": "7cedba602aeb9677c642599a578eb1ce899cd3240afe0a5353e1fea3795edbd3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_close_new.png",
+      "output": "assets/ui/Common/kdeb1ke46vs.png",
+      "sha256": "f66b41561d2d687079fe8a5a139380eb6797de9c0107e1e711f6cb623d7e1d7a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_close_new02.png",
+      "output": "assets/ui/Common/q6hj1ke479s.png",
+      "sha256": "e212d1803818434462e2361acdc61b41afb510b89e85480be04c9f5006265325"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/ChanceSquare/ef_saoguang.png",
+      "output": "assets/ui/ChessboardEvent/aocb1ke46q3.png",
+      "sha256": "d7de3d795015b6d76051c2a4de12c719cc0307faaa65d7d83a41716d426c1776"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/glow/tex_saoguang_01.png",
+      "output": "assets/ui/EffectCommon/emuw0.png",
+      "sha256": "f987f5fcc8b6a568773a68bfbff156bb067f0eb040cd44133d47fec9a56e35c0"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Font_a_bg01.png",
+      "output": "assets/ui/Common/pma71ke46ua.png",
+      "sha256": "0aeb365196b1e95f74149207aa3fed6a6f1f4ab6cbaf0c6f11bf29f7f2fcdbab"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Font_a_bg02.png",
+      "output": "assets/ui/Common/pma71ke46ub.png",
+      "sha256": "af541567af667e3fa849ab545b36bc4e9dbafa9f20a44cb8841a037424ec37aa"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_event_01.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qs.png",
+      "sha256": "85e2620cdad93a5149b63aec11dfe589686899dc12c851881971479f8029b1da"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_pop_01.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qg.png",
+      "sha256": "b3cdd6a8e25b9f3d5b9f1236a519b8ae6cb61d63aeab80519e5de4a853700190"
+    },
+    {
+      "source": "fgui/assets/ChessboardEvent/Images/PrisonSquare/bg_main_pop_02.png",
+      "output": "assets/ui/ChessboardEvent/auzm1ke46qi.png",
+      "sha256": "1bb8255fa8c81ce8bfd3731cadae36325f3ac9eb16c04446edee6de8f1a53f9b"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_top.png",
+      "output": "assets/ui/Main/d0a65.png",
+      "sha256": "86ee0cb7b7d52b1bc7585a1cb53a44d18d0224db61d5f8d0a136e491d1c45ad0"
+    },
+    {
+      "source": "fgui/assets/Build/Images/icon_main_gacha01.png",
+      "output": "assets/ui/Build/x3k56d.png",
+      "sha256": "74b1af1fa2ed1ff78bf22a16efbf0de26a1a91981b3c1c3a51a64e4f978da684"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_com_close_decoration01.png",
+      "output": "assets/ui/Common/kdeb1ke46w2.png",
+      "sha256": "9e54ee9e39f40820488a28f265eb1dd2e43bd596e53624eff676f0e0cdc8f398"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_com_close_decoration03.png",
+      "output": "assets/ui/Common/aabd1ke479i.png",
+      "sha256": "1e3f05ff1cf6fd85293b662fefdf8244fcc13c255d6c50c33b2043bc8af96378"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_arrow01.png",
+      "output": "assets/ui/Build/ov5g4q.png",
+      "sha256": "856427ef5edd73fb60efc177b4a18a8282697ff72b0dc2dc849ddcfddf5b9a19"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_arrow02.png",
+      "output": "assets/ui/Build/ov5g4r.png",
+      "sha256": "ad0330d6cbff28eccf8c0cdabaa4898e6137e3b90880108db7b76036450396a5"
+    },
+    {
+      "source": "fgui/assets/Build/Images/bg_build_board_loading01.png",
+      "output": "assets/ui/Build/dvs95l.png",
+      "sha256": "46a96098dc317e88f1c0897423b333132f33cbf945844a6942cfa397f2cd47ce"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_bubble_lock.png",
+      "output": "assets/ui/Build/ov5g4y.png",
+      "sha256": "c9f5f0be65086bb6dede9c3aa31520cf0760f46ddfbf46c6e6717cd6528930b1"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_bubble.png",
+      "output": "assets/ui/Build/ov5g4x.png",
+      "sha256": "70b4d5b81b6eb789a5dca341ff76480de4494ad2bb53c4093ecb787fba0e3cd7"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_bank_bubble.png",
+      "output": "assets/ui/Build/ve815a.png",
+      "sha256": "082973ecb80870096ee4d6bc1714b4ed482b01a34988e8bb2813102315dbfbbd"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card_mask.png",
+      "output": "assets/ui/Build/ov5g4g.png",
+      "sha256": "f5d7f724e04450f91f284429b00381c9ed4de5a575eed65cc9b6b621d4c316ee"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card03.png",
+      "output": "assets/ui/Build/kjwu51.png",
+      "sha256": "64ceebc9046e7d55a16064dc304fa8bdc3bab60938c700c15e5d34c4869e562d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_com_Bar01.png",
+      "output": "assets/ui/Common/kpi71ke46tp.png",
+      "sha256": "bc7d5b4baeee940cd3db93f0cc04a7e851e15ecc8f1ab4c3e35b2dd527c6f728"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_orange03.png",
+      "output": "assets/ui/Common/kdeb1ke46wa.png",
+      "sha256": "6fabad56ea83d05d7b87ed34340b1124091df378ef573b3d7dfcf9586c97465e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_green03.png",
+      "output": "assets/ui/Common/tj0m1ke4723.png",
+      "sha256": "b1d3c829998dcbaa3c4b649442dd78c11d74a5c5a646b85026def0e16a754bb6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_setting_account_wechat.png",
+      "output": "assets/ui/Common/tj0m1ke471w.png",
+      "sha256": "7253e54b1724c6a0c7ceaed7134b0a9348f565711e6e0e58900cd4dda5015aaa"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_pattern_01.png",
+      "output": "assets/ui/Common/ctd01ke46x5.png",
+      "sha256": "f868aa8fb8fdb35a0f898594e75a41489e83224c03938a4857f58312b1104be3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_avater.png",
+      "output": "assets/ui/Common/pmf31ke46ul.png",
+      "sha256": "0afdbc11d3b69fed1cf1ec821c256706e4f87625a8bc0bb40724829df44ad07a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/tex_glow_01.png",
+      "output": "assets/ui/Common/emuw1.png",
+      "sha256": "758d93acd063ed7557335048854364ecf412dd8fea78f8ad0899899bc8b200c2"
+    },
+    {
+      "source": "fgui/assets/Common/Images/tex_ui_glow_002.png",
+      "output": "assets/ui/Common/emuw2.png",
+      "sha256": "a663240dac2e3021d4e005f589392529b2c3277ae86991e9837ed68968f7ad5b"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/icon_BlindBox_figure02.png",
+      "output": "assets/ui/BlindBox/i1ll12.png",
+      "sha256": "9898329fe02f71e3d61127ee16492a534f8ed7d233eee183c20a227aa782c3ab"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/img_BlindBox_red.png",
+      "output": "assets/ui/BlindBox/i1ll17.png",
+      "sha256": "2d7a2c2ac76a4b5a637b05989936dbbbcd442e45eacb4b33bd123d6b1a0761ed"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_02.png",
+      "output": "assets/ui/BlindBox/e3tr2o.png",
+      "sha256": "c18f272f70e675eb95bfc085b1008bef85ed3c6cddef6d35e6ca587c62404ca4"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/tex_ui_kuang_01_2.png",
+      "output": "assets/ui/BlindBox/vmsx33.png",
+      "sha256": "dddc8365f93789cef4a5b9718a6b47d3b36bcab9622d82371154d3eeb3c02a4b"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue_item03_on.png",
+      "output": "assets/ui/BlindBox/i1lle.png",
+      "sha256": "a9f64e7d63d1622f113b9cc9f676b8384a2af0885c00ad33ad4928b23dfe753d"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_03_2.png",
+      "output": "assets/ui/BlindBox/6k9032.png",
+      "sha256": "2b5ea758ae23ceb3dc6227fc48fa6ee09256591e6c1544b8f18f545de011e842"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_03_1.png",
+      "output": "assets/ui/BlindBox/6k9031.png",
+      "sha256": "f63dbf5851150284ad6cd35d673c951679b97ca61f9d26cdcb89f54636d2b42c"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_04_1.png",
+      "output": "assets/ui/BlindBox/vmsx34.png",
+      "sha256": "c78c6ae6a44aa3fe75b6683fa9b93e42dd69502513f40269de5e4e782325f229"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_04_2.png",
+      "output": "assets/ui/BlindBox/vmsx35.png",
+      "sha256": "926145e0c79bd6b34634b61c53bb0b42013fd80acacd5ba151c81e49ab012431"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_04_3.png",
+      "output": "assets/ui/BlindBox/vmsx36.png",
+      "sha256": "6a43f828cd2be263426b953201de2c9169c01fb34adbd3c3090580b7e8167f9c"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/tex_sfx_line_400.png",
+      "output": "assets/ui/BlindBox/b76223.png",
+      "sha256": "f91b0115bd8be833fac45223f8275be865c43663a76320aa2169fc9c516e7099"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/img_BlindBox_blue.png",
+      "output": "assets/ui/BlindBox/i1ll16.png",
+      "sha256": "6ae0aa52510620ad98eafa23197bcc2dd2f1e60c818f88a6d4ae790e15433646"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Font_a_bg04.png",
+      "output": "assets/ui/Common/p3rt1ke46zl.png",
+      "sha256": "8b12211f3f015afac88b25fb8f23adece1e4e4a010e59c094e065eef48ab3f07"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Font_a_bg03.png",
+      "output": "assets/ui/Common/p3rt1ke46zm.png",
+      "sha256": "271323f8449bfc70e50390c2e22ed9cbeda3443d0b90351689e5fc28b50e4df3"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_deco_01.png",
+      "output": "assets/ui/BlindBox/e3tr2m.png",
+      "sha256": "0f6fb6727872d1f05b440eff61a48c0017bf2d084f3fc126fb23b51c394d984c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_pic.png",
+      "output": "assets/ui/Common/xoij1ke46mi.png",
+      "sha256": "e0991cb7bce4e9a331baf130d7e4eb988a74b092e33f092f16336c40f989b53c"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud1.png",
+      "output": "assets/ui/EffectCommon/gi7b2k.png",
+      "sha256": "76cd49d30caff6f459b85a73a40e47ea7472086b65425f96123fd5ccb34a5110"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud2.png",
+      "output": "assets/ui/EffectCommon/gi7b2l.png",
+      "sha256": "e1cada4c0ea49e6eaf56359623a12ccbff009d1ef1940d30bfd2be2e55b76b78"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud3.png",
+      "output": "assets/ui/EffectCommon/gi7b2m.png",
+      "sha256": "769b23319809e10468540ca090121e983c08b090d62da28feba5444f4b90cf8c"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud4.png",
+      "output": "assets/ui/EffectCommon/gi7b2n.png",
+      "sha256": "0bbfdcc7300a06594d3ca77be4640d68c487da8ef9509d97eb1d0946e3efcee7"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud5.png",
+      "output": "assets/ui/EffectCommon/gi7b2o.png",
+      "sha256": "ce14ad1080729e56d145c6ed00f966a35e3698927e24466b6c4d56909c83f0ed"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud6.png",
+      "output": "assets/ui/EffectCommon/gi7b2p.png",
+      "sha256": "ef202d5a2ad9a1803a8eeda1327f6b33dcc92cbb63858396d7fb5d1068f98232"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/cloud7.png",
+      "output": "assets/ui/EffectCommon/gi7b2r.png",
+      "sha256": "dc781edd7094cc0df6ebff6ec4b0e39691f67460bd2037621b74916eeaeb1100"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Maketrouble_line.png",
+      "output": "assets/ui/MakeTrouble/axe91ke46qc.png",
+      "sha256": "814ce280c9a8681335acc61e1aafdc3f06c462be377dbf8118884b027c36360e"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/icon_Maketrouble_switch.png",
+      "output": "assets/ui/MakeTrouble/axe91ke46qb.png",
+      "sha256": "844efe3f7d076eda736d4e277f67e166ae5f2cd4ce4e590d01eeafcb7b0776c7"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Maketrouble_notebook.png",
+      "output": "assets/ui/MakeTrouble/axe91ke46qd.png",
+      "sha256": "879c0afdb7965716c2b1e0d8c74c07b29a5ca12fc219ef6e76c6667331c36867"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/icon_Make trouble_close_decoration01.png",
+      "output": "assets/ui/MakeTrouble/axe91ke46qe.png",
+      "sha256": "58f5c52c1d6ac125192943020c6d086b0d6dc10487dbf67779606c468d853582"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_tab_sel.png",
+      "output": "assets/ui/Common/kdeb1ke46w1.png",
+      "sha256": "050b21ccb8c8c742897a6ca6fc68aa374616569f752018cda4aa74e505ae246f"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_tab_nor.png",
+      "output": "assets/ui/Common/kdeb1ke46w0.png",
+      "sha256": "50e3ee3ef2656cb0ddff94ea58c3d4ee0a69e1a710cd84d3f12c284632eddb5f"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_06.png",
+      "output": "assets/ui/MakeTrouble/n80ah.png",
+      "sha256": "6165ce03fc1561bcf0480044a8c8bceb90b3c43c76dfabc97adb2350de4b3bf1"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_010.png",
+      "output": "assets/ui/Fund/wj7o54.png",
+      "sha256": "7930f24869cd728ac35186ea02e67a28b16669a7140765e9b6b6ff9717b43a91"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/kuang.png",
+      "output": "assets/ui/Fund/j6l44r.png",
+      "sha256": "f4f6545b8094ed0870df7c7c138fc404466f97a62473806392ad7277692cf71e"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_strip01.png",
+      "output": "assets/ui/Fund/nisk37.png",
+      "sha256": "ecd15f320a2f812413c8617ebbdfa0341a8230ec3e8eab31cae32d01f1d6be4a"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_tips_01.png",
+      "output": "assets/ui/Fund/kjwu4e.png",
+      "sha256": "d0aa8bdf9ecb9f515ffa603a885e62632fd3dc3423a7e3361330a0ce92495a41"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_05.png",
+      "output": "assets/ui/IconItem/d0a61ke46op.png",
+      "sha256": "c0741ed325a86057929e19b9fadee75b26710f93e4892805a4f962793dd65eea"
+    },
+    {
+      "source": "fgui/assets_CN/Fund/Images/btn_fund_start.png",
+      "output": "assets/ui/Fund/9pmr13.png",
+      "sha256": "adc0574f375cbb3fd65e7f782ec5a65de7dec906f687253cca1eafcb5acb20a7"
+    },
+    {
+      "source": "fgui/assets_CN/Fund/Images/btn_fund_start2.png",
+      "output": "assets/ui/Fund/h1gv3a.png",
+      "sha256": "00074a260b56346ca3740ad0cf4240a0e1e4639383324c191fc2a2c56ca0d91e"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_bottom.png",
+      "output": "assets/ui/Fund/9pmr14.png",
+      "sha256": "df155cb4505fdd58eb3c68ae7bddf2325bc928f3fdcaad85eafef7130a4c2ba9"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/bg_fund_logo02.png",
+      "output": "assets/ui/GetReward/ke1p1ke46yx.png",
+      "sha256": "4ce7bb03f5bfaa4ae62c656f8593b63f9de1c9359ff497aae2920c18bf13e70a"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/icon_award.png",
+      "output": "assets/ui/GetReward/h8v81ke473n.png",
+      "sha256": "661c68e3aca7c809df07d1db0081ed9adefca163d533724dc1c65b1ba79a54b4"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/icon_award_body.png",
+      "output": "assets/ui/GetReward/h8v81ke473o.png",
+      "sha256": "b37eb8c1ef81c1a7ddffbf817f75949826ff571af19b9b04d1a4d475392be5de"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/icon_award_cover.png",
+      "output": "assets/ui/GetReward/h8v81ke473p.png",
+      "sha256": "1e9d305aa5bba863ca85fd05f253a0530565a33d6908cfb8da5ec99ba41a09f0"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/20250224-110654.png",
+      "output": "assets/ui/GetReward/qcck1ke46p6.png",
+      "sha256": "d1afd7625f8a18edd986a7acd883c42e79c84de0a8dd325be8323da94b04f375"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/20250224-110649.png",
+      "output": "assets/ui/GetReward/qcck1ke46p5.png",
+      "sha256": "cda59e438ff90ba9e0901636d614f0a537f4894f7695b92a22677e4cd49f93e9"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_fund_logo_02.png",
+      "output": "assets/ui/GetReward/ke1p1ke46yy.png",
+      "sha256": "4e8275f1b8aebb22342d31e4f2505fb57b7bf130213e9c4ed7205d19a3550534"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/bg_GetReward_01.png",
+      "output": "assets/ui/GetReward/ke1p1ke46yd.png",
+      "sha256": "00603151d4726a6114bb50ed9f5837b641589fa211cd227e6a0acbe6cd0efd47"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/bg_GetReward_01_1.png",
+      "output": "assets/ui/GetReward/sy3u1ke46z4.png",
+      "sha256": "6f4f3b558e9b2b1d30bc9e22f0cdc1c5e323d0e435700d064eb90395db660b3c"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/bg_GetReward_03_1.png",
+      "output": "assets/ui/GetReward/qp261ke46z5.png",
+      "sha256": "72e11c25aa6ae9d63b583b09591f1ec1f4678bbed645e84e8041b38b93de88af"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_oval_02.png",
+      "output": "assets/ui/Common/pctp1ke470c.png",
+      "sha256": "e00c670718bb27afde9baa2996d563dec72c1937541e29cadfc4818751a4b8ee"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/icon_fund_idle.png",
+      "output": "assets/ui/Fund/kjwu4h.png",
+      "sha256": "d78aeb943f051bc71f73f2b03d1ed20e8ecd44c239160b906f97e2b0134ca199"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine04_red.png",
+      "output": "assets/ui/GachaMachine/xxxca.png",
+      "sha256": "db7f538f5d0849639ff50f07e3598e8d7778e41f7e390ac1c50bdf9647f7cdd4"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine04.png",
+      "output": "assets/ui/GachaMachine/xxxcb.png",
+      "sha256": "eb66a313bc8fd688e4f2bdbe015a9868cf5ae4e2e0dfce5d394bdd6ff8dac998"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine05_red.png",
+      "output": "assets/ui/GachaMachine/xxxc8.png",
+      "sha256": "5e6b4cdeaa0de92b157bf022a4a9886643dbfe116b6aa67e9f12d0d5fe02b88a"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine05.png",
+      "output": "assets/ui/GachaMachine/xxxc9.png",
+      "sha256": "7ec0fb8d046f288ef5416e1b10ace44db284ccd35ab632612cc04d051670c352"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine06.png",
+      "output": "assets/ui/GachaMachine/xxxc7.png",
+      "sha256": "f3347ae24938e97da48862193d52324e81a7395913fae1d59755501c62ec835e"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine02_red.png",
+      "output": "assets/ui/GachaMachine/xxxce.png",
+      "sha256": "1d9b76bc0b350e35bf9e9330c1fa5c97f051c376e151826240747fb09740a927"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine02.png",
+      "output": "assets/ui/GachaMachine/xxxcf.png",
+      "sha256": "ac1a23478efbb325d7e2c78a8f90414bf60dc767ad611c29fc849c00b9abbf7f"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine01.png",
+      "output": "assets/ui/GachaMachine/xxxch.png",
+      "sha256": "25f8104da4463e397abebb7a0b4e435c6467caa389d24236779b0b065775000e"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine03_red.png",
+      "output": "assets/ui/GachaMachine/xxxcc.png",
+      "sha256": "088cba16a7085bbe09cb3f4ac21dd8716af2b079e846a0168488c5f639730bcc"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine03.png",
+      "output": "assets/ui/GachaMachine/xxxcd.png",
+      "sha256": "5be2919020cade7c936a9b9bf27e0a791b68743cd939e7725c37eaabfb98e917"
+    },
+    {
+      "source": "fgui/assets_CN/GachaMachine/image/img_GachaMachine07_red.png",
+      "output": "assets/ui/GachaMachine/xxxc4.png",
+      "sha256": "0d7712134fc3e36c90b719a47baa7e7f4caa2116842c33cb4f50637268b21c3f"
+    },
+    {
+      "source": "fgui/assets_CN/GachaMachine/image/img_GachaMachine07.png",
+      "output": "assets/ui/GachaMachine/xxxc5.png",
+      "sha256": "c4507f5895a250cf5ff38f74bb67a18808df00918814f18075a9ee0054f1efb0"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_deco_cloud.png",
+      "output": "assets/ui/GachaMachine/mo6m2g.png",
+      "sha256": "a1ea9f7085607271574feab0e5c7c8bcb6a5deb431ba42b887ddd75e5dee97d5"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine_light04.png",
+      "output": "assets/ui/GachaMachine/fi692e.png",
+      "sha256": "b4ef6d9d568cabfede8c2ba73f4b53e04f0502e641b9e2893107a1fece052c0c"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_deco_heart.png",
+      "output": "assets/ui/GachaMachine/m8xv26.png",
+      "sha256": "7a81fe5aa09d9ef7f3c82a32b012e0cfd9c278c02f089358e976df02444eef77"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_tab_select.png",
+      "output": "assets/ui/GachaMachine/nhd52x.png",
+      "sha256": "96eb5809713be787ddf86cc4a34d7bd5878ea48fbb4f7589a66af9dd91ca19ee"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_tab_01.png",
+      "output": "assets/ui/GachaMachine/nhd52w.png",
+      "sha256": "f499a5786a6695512f8974a0f8a2519de49e0a45dbfbcbfaf12770a653c18742"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_tab_02.png",
+      "output": "assets/ui/GachaMachine/nhd52v.png",
+      "sha256": "21818dcb6be35523f12c5faa77a64e3f1dc5e86bbd71282cfcf7520e426e8945"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_lock.png",
+      "output": "assets/ui/Common/mzam1ke46sh.png",
+      "sha256": "8466ed87a52121ad336d69e234afb204019e2d13d2cfc6e13adccc71017c5ce3"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_gacha_tab_select_02.png",
+      "output": "assets/ui/GachaMachine/hl503t.png",
+      "sha256": "1f7e81c9763f07d225a65f1205970ef2714ceefcb150ab73947079053f47b001"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/normal_golden.png",
+      "output": "assets/ui/GachaMachine/nhd53j.png",
+      "sha256": "f971d3a7247eb8f56cd599171bc1115adee5a3053f2d194d8a7735fa74a47855"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/shell_blue_b.png",
+      "output": "assets/ui/GachaMachine/nhd53b.png",
+      "sha256": "925fd55dbb15d4ec741483c759205136d8d1ceebeda4df1ecf15f4cfee40fb5b"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/shell_blue.png",
+      "output": "assets/ui/GachaMachine/nhd53k.png",
+      "sha256": "823e3a19315bf607ca4fa7661f16a61b58414bc08410bee471b467b7bb13b8fb"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/img_playerinfo_base.png",
+      "output": "assets/ui/Player/qx33p.png",
+      "sha256": "aa19e39fd4fc69b90f60685ca19cb7a14fae3f239ef101cc33ef68da140a51ff"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/bg_info.png",
+      "output": "assets/ui/Player/qx33q.png",
+      "sha256": "9c3c1497f13fc0ba11cd9bdc5d4e342f2bf692077c3631ccda2c023555b0abf8"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_com_copy.png",
+      "output": "assets/ui/Common/sbv61ke46wx.png",
+      "sha256": "5aeb4e032bf0d7261700c35d91cbe986ef76bf037f8ab2345a2404028787f47c"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/btn_playerinfo_chat.png",
+      "output": "assets/ui/Player/qx33l.png",
+      "sha256": "2780ee98bec0784d87f58b2e1bf705420fddafb3d82325262b8bbac0e2ea30bd"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/btn_playerinfo_more.png",
+      "output": "assets/ui/Player/runb1c.png",
+      "sha256": "c294215d95d4f838eaae845b146352d3e1a5465bab0371160c1e9f6edde77f7a"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/btn_playerinfo_add.png",
+      "output": "assets/ui/Player/qx33u.png",
+      "sha256": "6aafbd3cca33b3f7846e4e651acff955ac2456bb19237840930862d3d7983f45"
+    },
+    {
+      "source": "fgui/assets/Player/Images/2.0/btn_playerinfo_delete.png",
+      "output": "assets/ui/Player/qx33m.png",
+      "sha256": "d7ec565e8ef7967c6421be5e054b719bbd42ac2843a2e63f6950d102224c71b3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_main_infobarbg_05.png",
+      "output": "assets/ui/Common/q70u1ke4736.png",
+      "sha256": "e0cf7e24ac6c2af2120bae4df6e5d020180f7297f8b1c25911aac8ff0b4717f2"
+    },
+    {
+      "source": "fgui/assets/Common/icon_bank_question.png",
+      "output": "assets/ui/Common/gxn5n.png",
+      "sha256": "646c48127687b2c012cee8ab7124fba1f2a977a69dad61fa6a3080e07d8315da"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_round.png",
+      "output": "assets/ui/Common/xoij1ke46lk.png",
+      "sha256": "fb8676e7288b3fa69418dcd7b0aafd775dffea086fc19a6f8139392f293c5515"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_complete_01.png",
+      "output": "assets/ui/Common/mann1ke46y1.png",
+      "sha256": "e1fed508e2cad778b664b18fb9e687ea30e8fe1c347ac130d8ee4ea1631abf38"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_milestone_02.png",
+      "output": "assets/ui/Main/syfz1ke471e.png",
+      "sha256": "20d26c62aa19281ccb9f2378a0b1b3ffeba5a37c51755429182d4c5e0175e61b"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_sprint_01.png",
+      "output": "assets/ui/IconActivity/8thr1ke46v2.png",
+      "sha256": "cadffee1ade4c32b999c6409d5a6c440fdbf783b757fb727b32f8f03849a6903"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_common_bottom_arrow.png",
+      "output": "assets/ui/Common/xoij1ke46lt.png",
+      "sha256": "5e12c421172e46404d005e3267119b63c6fa7eab6e8741852bf53967a065b853"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_business01.png",
+      "output": "assets/ui/Main/d0a67.png",
+      "sha256": "f4d473139b3b9837d02f5068db6148ce1050debbd009c65c1ea568159b4a6ef8"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go02.png",
+      "output": "assets/ui/Main/d0a6h.png",
+      "sha256": "509a7a2e09f5b23013cd1184ed07b7b6f68a36ff78df17f9dd15df308f2b7905"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_main_aperturebg.png",
+      "output": "assets/ui/Common/djgn1ke479d.png",
+      "sha256": "1116a87742da1b3d955209b61f39e1d78abeaa4a82533e66f2cbc2956ff878c0"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go03.png",
+      "output": "assets/ui/Main/d0a6g.png",
+      "sha256": "80992da4bb03fed2ff74b6ddec8be3bb9e86cbcfe0da5ba75b49c2a5499d2141"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go05.png",
+      "output": "assets/ui/Main/d0a613.png",
+      "sha256": "bd46dd7be7882dd23c5665c7cb1084b8bf23ea4e779df90b05929cffc90cd8b3"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go04.png",
+      "output": "assets/ui/Main/d0a614.png",
+      "sha256": "a56850b0a9d9fc669f4f4e42bc19f9025001b8af15fde01a2ad1fb749feec06c"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go10.png",
+      "output": "assets/ui/Main/gxn51ke46rv.png",
+      "sha256": "654adc3af92a21c47b04dcaf95363077e242be486947561daf92be7c53fcadce"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go01.png",
+      "output": "assets/ui/Main/d0a619.png",
+      "sha256": "bf9a68778d41301f1a105eedafc0da27efa6bbfd5f2d12a50535514e09cb93fd"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go07.png",
+      "output": "assets/ui/Main/wurx1ke46r2.png",
+      "sha256": "f3f899f2b75fa6906332887e15d69e5d30692b6bd979a799cdfc2a87bc757be6"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/btn_main_go06.png",
+      "output": "assets/ui/Main/9v8b1ke46qt.png",
+      "sha256": "159e8c78880f771bab33ce44c26643bda10f706ed961a482e5a0930811f0c582"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_go08.png",
+      "output": "assets/ui/Main/bv361ke46s2.png",
+      "sha256": "6356fb41af2c9755fae12f0d0036fe949516ccde83cc301ba2c45bf248c37597"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_go09.png",
+      "output": "assets/ui/Main/bv361ke46s1.png",
+      "sha256": "3818bb2181e0eb84a1462b5adf2161a40826d677e764c44d8c91d44af3c95472"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet01_nor.png",
+      "output": "assets/ui/Main/d0a6v.png",
+      "sha256": "cdb696f3542e55b5337183ef93752015b483d27aabd2e88348727a8e8da07189"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet01_pre.png",
+      "output": "assets/ui/Main/d0a615.png",
+      "sha256": "c46e2cc4880a930872a1192e3a19191ddfda1ed1feeaac67230018103d83ebe6"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_Mask.png",
+      "output": "assets/ui/Main/m0xt1ke473p.png",
+      "sha256": "373af313269caf1dceb6a4c49c0305577be15cb8da202d1d305a664288186154"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet02_nor.png",
+      "output": "assets/ui/Main/d0a61i.png",
+      "sha256": "36d4417e983b38025836562b9075fd7b598aba66c21cc0d0e6ffce6ec8b52058"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet02_pre.png",
+      "output": "assets/ui/Main/d0a6d.png",
+      "sha256": "682eeb7f08433d5dc277cf341e2d7a9f600270cd85b234d202058119263219b0"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet03_nor.png",
+      "output": "assets/ui/Main/d0a61g.png",
+      "sha256": "d56cd634512a9e542d260fb593e62204057671f8fc2f25df1fe65b011a92c817"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet03_pre.png",
+      "output": "assets/ui/Main/d0a6c.png",
+      "sha256": "f28cc54574b2b857955c5df181ee2ac4a9a76d7d0426069e325c50616cfd2b6a"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet04_nor.png",
+      "output": "assets/ui/Main/d0a61e.png",
+      "sha256": "1457e93cd19b0bbce1a3bc0121e4f2be7a1d8ed80fcf58410824f07be1eeae7d"
+    },
+    {
+      "source": "fgui/assets/Main/Images/btn_main_bet04_pre.png",
+      "output": "assets/ui/Main/d0a6b.png",
+      "sha256": "5a785404bcdaf0fc314fc7535b93e7bfc4b98c8d9c9f4234b67350699b3546a7"
+    },
+    {
+      "source": "fgui/assets/Main/Images/icon_main_bottom_build_1.png",
+      "output": "assets/ui/Main/cao11ke46sf.png",
+      "sha256": "48fd0918bc103752742f48272fddf71971f3aa3099aa0b80e2c07975df48e2f8"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_saoguang_01.png",
+      "output": "assets/ui/Main/cao11ke46se.png",
+      "sha256": "f987f5fcc8b6a568773a68bfbff156bb067f0eb040cd44133d47fec9a56e35c0"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_progress.png",
+      "output": "assets/ui/Main/jxom1ke473m.png",
+      "sha256": "49eb4df39f5c58479305c9273cfc03d00a28aaab25ad919363f50cd4e062929a"
+    },
+    {
+      "source": "fgui/assets/Main/Images/tex_mask.png",
+      "output": "assets/ui/Main/jg8x1ke4729.png",
+      "sha256": "3af6716545ca7e1b596c535017cfdfde8c71a524d9d82246fae9346f9d2256f6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_main_wechatshare.png",
+      "output": "assets/ui/Common/tj0m1ke471x.png",
+      "sha256": "58e3105686a28fa6de7b4dcf8a2eb0164033627725fd41548a4714506d9daeac"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_info_bet.png",
+      "output": "assets/ui/Common/xoij1ke46m7.png",
+      "sha256": "a10e3b0df0dbe7da6912c6a3d6e41e130298c5f2571335245ec1ab48627d442d"
+    },
+    {
+      "source": "fgui/assets/Build/Images/icon_build_Activity01.png",
+      "output": "assets/ui/Build/pqyw2v.png",
+      "sha256": "708aa6d729d7e60cf3720a80a454db04d0310ad9b97bb8108444514dd39e46aa"
+    },
+    {
+      "source": "fgui/assets/Build/Images/icon_build_0.png",
+      "output": "assets/ui/Build/uxin5p.png",
+      "sha256": "fcf46f5a5b5a075ff750de54e2127c76ef5f530064be443aeaf272db854937f1"
+    },
+    {
+      "source": "fgui/assets/Build/Images/icon_shield01_b.png",
+      "output": "assets/ui/Build/s4282k.png",
+      "sha256": "92c5bb8ddbc3625e4e8b49a37fe60b52827b49cd7ea9b415aea26c0bee344201"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_paper_01.png",
+      "output": "assets/ui/Build/anbh5c.png",
+      "sha256": "2c742efd06da08fa3dc232e1c591da3c63ed2290d26c536f538c6bb0095aa775"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_lock3.png",
+      "output": "assets/ui/Common/mzam1ke46sj.png",
+      "sha256": "dd8a69a8ad076ec0794d55c259831ebf446bf50b09df0b7d701b5f012229899f"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_lock2.png",
+      "output": "assets/ui/Common/mzam1ke46si.png",
+      "sha256": "2e2d791b6f0b112963ed2105a3153f94d5fac005627ff7f1c02489940cbf63b2"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card_red.png",
+      "output": "assets/ui/Build/ov5g47.png",
+      "sha256": "0de60e1d4839ee400d514113216e7378f6c0e34352482f782667444da836bce3"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card_yellow.png",
+      "output": "assets/ui/Build/ov5g48.png",
+      "sha256": "c3b9d50c0f55ab5627e0fd5662f9c4dcbe58c818195b48bafd9c25dd75a736fc"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card_blue.png",
+      "output": "assets/ui/Build/kjwu52.png",
+      "sha256": "e7dfb1f20cdb0f88035568b943e6fe58a737bda00afa3a037e4ab2e00d09a282"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_deco_1.png",
+      "output": "assets/ui/Build/rw2c5m.png",
+      "sha256": "dabbee84a464926da78ed476aaef541c0ec60fd9b2f9fdb3cf646affe42636d1"
+    },
+    {
+      "source": "fgui/assets/Build/Images/icon_build_s_001_3_2.png",
+      "output": "assets/ui/Build/rw2c5n.png",
+      "sha256": "889bb640731692477ce7af9aa5ac9b1b14332261d0087c188366ac65f298ee8f"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_card02.png",
+      "output": "assets/ui/Build/ov5g4f.png",
+      "sha256": "a2f64f4a460e422fd3cfa407e6f0d69220260764cc09fe4605b6329ad6800d52"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/btn_album_emoji.png",
+      "output": "assets/ui/Common/nwzr1ke46yr.png",
+      "sha256": "7d9575eb4d51a43b7cf2f016f08f810405d4d06deec787c464a68d19e1a8eeb2"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_08.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66y.png",
+      "sha256": "ee4d1b9344f90a0af2cd023f57efef29367cffb53e0c56872cd07a0374350b87"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/emoji_base_02.png",
+      "output": "assets/ui/Common/up5h18.png",
+      "sha256": "045f6f638c51ff3a5a7793338140e7434a043f433da1433e41abc39a357addb8"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/icon_emoji.png",
+      "output": "assets/ui/ShowRoomItem/w9l81gmg66s.png",
+      "sha256": "daffb2d1f160d65b92c2cf4cf31eb6aa1241deb7c3a4075734694cc8a87646d9"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_09.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66z.png",
+      "sha256": "0f32ef7f79a5c45b0b64a50bf3ac3453beb50e17837dca3e56019cc48422289d"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_10.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg670.png",
+      "sha256": "56348e562c9fe867808f21995c0b161449664e0855a147a02293368f80039180"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/img_avater_player_00.png",
+      "output": "assets/ui/Common/ooyb1ke46zg.png",
+      "sha256": "f9be800c1bab91ce143a0c6d033f5a4b2463d9868c1ce419aecf51fbd330785c"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue_award01.png",
+      "output": "assets/ui/BlindBox/i1ll7.png",
+      "sha256": "6e69ed805d5d1addd1a57504f7c645556de7237ad615304110d9474c8f773ef2"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue_item01_on.png",
+      "output": "assets/ui/BlindBox/i1lla.png",
+      "sha256": "98b8f80a08c82436c5a54904f60b0860b3417dde87a7b4851050d3786c3324b2"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/icon_BlindBox_figure02_s.png",
+      "output": "assets/ui/BlindBox/i1ll13.png",
+      "sha256": "0fd8fb4d7c32af71f64107a6847d8868504bfdc990801147e909149ae64c6b90"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_blue_award02.png",
+      "output": "assets/ui/BlindBox/i1ll8.png",
+      "sha256": "9e5b52f92cfd90a09c2f259fce968a8a1af99b6f87372a474a4272b40c0ce124"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/bg_BlindBox_red_award02.png",
+      "output": "assets/ui/BlindBox/i1llk.png",
+      "sha256": "2e9cf6c7a7f7541786378d2923b50fcb26334d807d8df4db6f3982cd82112f68"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend01.png",
+      "output": "assets/ui/Common/mwjh1ke479l.png",
+      "sha256": "42120ab883bfe3f791436484700cc004efd8d7c729c8bd25fd336e8352d33951"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend03.png",
+      "output": "assets/ui/Common/mwjh1ke479p.png",
+      "sha256": "d8143f75370eef70c2af6a23c91e1a521841af74393b3497949ae901efb9b8cf"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend04.png",
+      "output": "assets/ui/Common/mwjh1ke479q.png",
+      "sha256": "f5e4c0d0ed0af3dacacdc0b4837f5fb9e750b442495129b26ca5bd728fd6927c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend02.png",
+      "output": "assets/ui/Common/mwjh1ke479o.png",
+      "sha256": "4ba6a76f6d6431545396a17480d70abe0c3f02ddf45e168876696d039e45eb39"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_list02.png",
+      "output": "assets/ui/Common/ctd01ke46x1.png",
+      "sha256": "adf8397a874ce2bbeb0d00cee4d30db19c6b3b7283c42e9badf67350cc2557a7"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_list04.png",
+      "output": "assets/ui/Common/ctd01ke46x3.png",
+      "sha256": "3f1057fd4158d66b025205356fe4d73bc909bc886434a939641a6a56b78bcb5b"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend01_1.png",
+      "output": "assets/ui/Common/mwjh1ke479m.png",
+      "sha256": "26aae785ac991264a0e6fce8d8e610669238f2ca11ab5c331f0958fda8a653a7"
+    },
+    {
+      "source": "fgui/assets/MakeTrouble/Images/btn_Maketrouble_switch.png",
+      "output": "assets/ui/MakeTrouble/kjwu1ke46qf.png",
+      "sha256": "32a331d7da15300ea9940b0611f5522991bb2d2163e631755a55c35e861cf95f"
+    },
+    {
+      "source": "fgui/assets/Friend/image/img_friend_fire_02.png",
+      "output": "assets/ui/Friend/j1zy1ke46s9.png",
+      "sha256": "c407abb3a707c24ce64ea4ef8164125998a3fa5ab0ca908447d6cef90182e051"
+    },
+    {
+      "source": "fgui/assets/Friend/image/img_friend_fire_01.png",
+      "output": "assets/ui/Friend/j1zy1ke46s6.png",
+      "sha256": "046e087910c8e66506423c31e36db45e7b3e044e601a78d049cfbe977a14cad9"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_sfx_mask_269.png",
+      "output": "assets/ui/Fund/b7622u.png",
+      "sha256": "2073a267b13d22661914063f9e1a0ba59ee4d05bd7f2460436dd772261c4a0aa"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_Select02.png",
+      "output": "assets/ui/Fund/9pmr11.png",
+      "sha256": "85c9b2ab9e73fb5ce30d8a7f2430b4e621291f99beb95adc5ba3e77663f93f6e"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_Select01.png",
+      "output": "assets/ui/Fund/9pmr10.png",
+      "sha256": "144c5e81606241aa09fc6278f24856b462a20b782d2ad258bd67cce360aef4af"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_sfx_quan_001.png",
+      "output": "assets/ui/Fund/ht174q.png",
+      "sha256": "4dc36eeba3d4773d5e20e4cbb02b1aba7ef46376723c6e7fb0e621277d617946"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/icon_fund_hammer.png",
+      "output": "assets/ui/Fund/9pmrq.png",
+      "sha256": "446b73085b72c6fc08ddc5975ad5a672b6bc97e5fee9d5a0af4b3978d01187ad"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips04.png",
+      "output": "assets/ui/Common/r9eu1ke46xj.png",
+      "sha256": "a2025b8f7ddeedf64d61fdfeeadea1400d1de5f297595731c30938ecb3ae96dd"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/icon_fund_Packages.png",
+      "output": "assets/ui/Fund/9pmro.png",
+      "sha256": "643721f17389420bcec28e089dcb12bff1b4d5a46676766f8f73f327db0658be"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_arrow.png",
+      "output": "assets/ui/Fund/9pmrl.png",
+      "sha256": "4742f039b6b46c0e8f1cbdcec6db72c98de2f48706052fe3900a1c0b5eb0c725"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_01.png",
+      "output": "assets/ui/IconItem/i3hm1ke46sc.png",
+      "sha256": "4c12fdab62672b9b20a9498936b5a538db2f66f3cc917a9044f5e1b5c1e77a52"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_02.png",
+      "output": "assets/ui/IconItem/i3hm1ke46sd.png",
+      "sha256": "fd535fc8ada0f59345d94a8c31b11ea714d5ee107065dacb17dfa0904485814a"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_03.png",
+      "output": "assets/ui/IconItem/i3hm1ke46se.png",
+      "sha256": "2af694ea475a56ae3503e98fce66cc5713be4a131a429146ac1ab9237fe25319"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_05.png",
+      "output": "assets/ui/IconItem/j5t21ke474i.png",
+      "sha256": "78d3ebca30723fb355299a383c32cc0dc707591e137926475160167b43d87d7b"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_12.png",
+      "output": "assets/ui/GetReward/ici21gmg677.png",
+      "sha256": "f31495edfe4e3937c4fe33e2af45cdc5d006a876cb0e3f3c44aa3f5d9b001a31"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime11.png",
+      "output": "assets/ui/IconActivity/d0a6t.png",
+      "sha256": "cbbb0e81d4cbd7eb6426b2c8df13fe6daf9aef0d5300c62e39403341903c0e43"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_11.png",
+      "output": "assets/ui/GetReward/ici21gmg676.png",
+      "sha256": "f4c82d4aa4a9517e973af2a2c211e3cf7b54903807aea0d210914bd6a12c5e1c"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_04.png",
+      "output": "assets/ui/IconItem/d0a61ke46oo.png",
+      "sha256": "8dadc9cc3ecea0231aa605bb5a5912f587e38d97749a029aa8238c1870ab2887"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime01.png",
+      "output": "assets/ui/IconActivity/d0a610.png",
+      "sha256": "7670d446895cd6b244daf5ea356917f094d13ad0a5ffce20c734713244cd090a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips06.png",
+      "output": "assets/ui/Common/o8wu1ke46zk.png",
+      "sha256": "7edb6729ba13c2798a65943e94b5a7db64219be14a596932794cf4057b9d4ddf"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_star.png",
+      "output": "assets/ui/Common/xoij1ke46mj.png",
+      "sha256": "229d0a2a43edb239e331bd69decf4faa90994eaa84b05c34ab23323566f6c8a4"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips05.png",
+      "output": "assets/ui/Common/ozrm1ke46y6.png",
+      "sha256": "07b4679fdd497f1d7e9bcf5d15cfbb5b6fa7c53ae62fd1f425934663d5749acc"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_04.png",
+      "output": "assets/ui/IconItem/mv571ke474h.png",
+      "sha256": "ebd89d2ed7fbbefe81850469b1f2940ff71fc5405c81420d15b6d8ddb7f151a6"
+    },
+    {
+      "source": "fgui/assets/Displayroom/Image/pawn_050.png",
+      "output": "assets/ui/Displayroom/h8v8v62.png",
+      "sha256": "605e06bc2960008d145040d7212a3cce60889dcc2f62dad3c23b431adc1a5c3c"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/img_GachaMachine011.png",
+      "output": "assets/ui/GachaMachine/g6rj3n.png",
+      "sha256": "fc43264ab6168495dac8dcf2d868df616da7639277ecdc9a2c91f6804ce4c815"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/tex_sfx_line_400.png",
+      "output": "assets/ui/GachaMachine/nfv53s.png",
+      "sha256": "f91b0115bd8be833fac45223f8275be865c43663a76320aa2169fc9c516e7099"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/bg_gacha_btn.png",
+      "output": "assets/ui/GachaMachine/nhd52r.png",
+      "sha256": "2a2a8bc420f6ac83d54b73626974c1bfcc828aa2e98780e1ad4a388db6763982"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/btn_gacha_multiple_01.png",
+      "output": "assets/ui/GachaMachine/nhd52p.png",
+      "sha256": "4af300a707f0ff4df7e1d536928463f9461d2eb57849d79774bfc7e4c965b5c2"
+    },
+    {
+      "source": "fgui/assets/GachaMachine/image/btn_gacha_multiple_02.png",
+      "output": "assets/ui/GachaMachine/nhd52q.png",
+      "sha256": "a362c77d68095aec9bdc0b916a01fc409f0a3333609c11e455d464ba86d83f8c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_line03.png",
+      "output": "assets/ui/Common/sxnt1ke46xb.png",
+      "sha256": "d54e5ada565a533b5c09995c7db503299f1b65bcd199bb3aa73a175f05d602fd"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_seal_progress02.png",
+      "output": "assets/ui/Main/ap341ke46t0.png",
+      "sha256": "348b7aebf75d4f8427ce98abaf0dd0ff767c09ed44f633c544b3818c635b1147"
+    },
+    {
+      "source": "fgui/assets/IconBusiness/MainSlider/icon_main_fundpack_01.png",
+      "output": "assets/ui/IconBusiness/8nbo96.png",
+      "sha256": "58a99490ba1914cca1398433c20c86f232fb383b0af41cc766b986bfb07cebe1"
+    },
+    {
+      "source": "fgui/assets/EffectCommon/Image/glow/tex_star_05.png",
+      "output": "assets/ui/EffectCommon/e97y2h.png",
+      "sha256": "b2e68aaa3122e705700144087e4ccde9bb7110a33bf3e6f79d359f8203552cab"
+    },
+    {
+      "source": "fgui/assets_CN/Main/Images/img_main_full_01.png",
+      "output": "assets/ui/Main/8nbo1ke471o.png",
+      "sha256": "bdc86c4421046c8a44cd8be94fbd650c189755f9baf392336134dd72d1156e14"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_point01.png",
+      "output": "assets/ui/Build/xoijp.png",
+      "sha256": "75d453e3d42cdd6ad850e0a741d61c9696471d1204ceb072ba0057eba89dac6c"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_point02.png",
+      "output": "assets/ui/Build/xoijq.png",
+      "sha256": "2d7cb06700ec66581a158911e4a138b1204c68cade890fcd5ce01670089b3fce"
+    },
+    {
+      "source": "fgui/assets/Build/Images/img_build_point03.png",
+      "output": "assets/ui/Build/xoijb.png",
+      "sha256": "0f933224001159c6a8b2b972e51ff21489a523989474cd2c2e14c50720ca7610"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_ui_star_104.png",
+      "output": "assets/ui/Fund/wj7o59.png",
+      "sha256": "79d81097f3457dec30365428319f6a3b84d85b1ebb9957cf14ab96cf9c2cc8a5"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_01.png",
+      "output": "assets/ui/Fund/kjwu3w.png",
+      "sha256": "b5b39eeadf28a9359fa816e056dabb389970ddb738ce74f1202da6c7dc35a163"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_011.png",
+      "output": "assets/ui/Fund/j6l44s.png",
+      "sha256": "0d03ab6a1b501cebbd0840dffdf3356400c6dad5f5537792e44b760acf3d2eb5"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_01.png",
+      "output": "assets/ui/Fund/kjwu43.png",
+      "sha256": "702e63ed6bc768d5197fd2f7b31374506a4e54df5e4331fe2f94fdc4f89d02eb"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_02.png",
+      "output": "assets/ui/Fund/kjwu4b.png",
+      "sha256": "debeda87697fc8830f78ff269ce9d6d51b1954676d47abc939e557058519d412"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_022.png",
+      "output": "assets/ui/Fund/wj7o5b.png",
+      "sha256": "38da962d32b6008051b828042a6647babe5c626b921d7bf44f47ae7fae8779c8"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_089.png",
+      "output": "assets/ui/Fund/wj7o53.png",
+      "sha256": "4205a9559fb3eed0783d557f5211bdeff7b399bfe7a105d5255c7e9896d31f67"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_02.png",
+      "output": "assets/ui/Fund/kjwu42.png",
+      "sha256": "eb4a65b80eede39cb92fc09da297c742db3f28858ab30287583044dcfe8bf3ff"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_03.png",
+      "output": "assets/ui/Fund/kjwu4a.png",
+      "sha256": "7d36e88576e06ae35f2dab7a42fb7037279b999426025022bfe5e91a4c872768"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_044.png",
+      "output": "assets/ui/Fund/wj7o5d.png",
+      "sha256": "a88b227dd561e242382f66dae076fbd0bf333c11339a658b7bf5090ac0b5725d"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_03.png",
+      "output": "assets/ui/Fund/kjwu41.png",
+      "sha256": "995fbcd7729bb6604f507f8a962f8e10d92f1177678c75f644287214cd6b4b99"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_04.png",
+      "output": "assets/ui/Fund/kjwu49.png",
+      "sha256": "81512b00d55a00376e03573bdd1d2d4e4d561db4c896b206eb12f29300b78a52"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_055.png",
+      "output": "assets/ui/Fund/wj7o5e.png",
+      "sha256": "823b3d0c27b389d96897d1b908e30ecfd236857643349699dba0f7129a00316e"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_04.png",
+      "output": "assets/ui/Fund/kjwu40.png",
+      "sha256": "91736fb809677962b01eee5447090e6e7b683229c65f870a819b3d3d49ed1ec7"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_05.png",
+      "output": "assets/ui/Fund/kjwu48.png",
+      "sha256": "b860d6913afd659905123ed3ecc8a3a896c04cd7c660f876e871eae91fd84b21"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_066.png",
+      "output": "assets/ui/Fund/wj7o5f.png",
+      "sha256": "a051bbaa153350cfd851db5aad1175bd5b65e2e2467fbc4ad117a91c4da94a8c"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_05.png",
+      "output": "assets/ui/Fund/kjwu3z.png",
+      "sha256": "1abbb6f3599e23866234c2de158da4a316c54eefd8bee0ffea56be68480918f5"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_06.png",
+      "output": "assets/ui/Fund/kjwu47.png",
+      "sha256": "c4f74e8044a6c96fcebeb53fca76577d215367e106850dda34d176ff1c1d3590"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_077.png",
+      "output": "assets/ui/Fund/wj7o5g.png",
+      "sha256": "9df732eb499affb5033224483ab045b21806bd924808b8b5d5ca4fcf09a15514"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_06.png",
+      "output": "assets/ui/Fund/kjwu3y.png",
+      "sha256": "f596adc5d2849a9cb8fc1104e8c64bb7264c2ef09b855a39817fef4907de25cc"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_07.png",
+      "output": "assets/ui/Fund/kjwu46.png",
+      "sha256": "0fa5425368ac2a7886618c287f41af2bf3916ee0e716f0b34d9deff5d4f52fa7"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_088.png",
+      "output": "assets/ui/Fund/wj7o5h.png",
+      "sha256": "7766aa782849dda9f8e02c62219de945773a90aa79d1b8665c3c5173e63adec1"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_07.png",
+      "output": "assets/ui/Fund/kjwu3x.png",
+      "sha256": "75b93b0a0c877d04bd383f7331f9e2d385bc8f8c33a1ec632d4fb65c4c79d552"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_08.png",
+      "output": "assets/ui/Fund/kjwu45.png",
+      "sha256": "6b5e62a32ec7769c62bbd0ee10b58e5739ca8ed8419a790c6af5017c64e15c85"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_08.png",
+      "output": "assets/ui/Fund/kjwu4c.png",
+      "sha256": "218e8f5a53e05ed94bc8d1a37d6a1978586e857094faacb52ddd3b622656d44c"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_09.png",
+      "output": "assets/ui/Fund/kjwu44.png",
+      "sha256": "83be1373ca7ed4a697ca925858873b328aedd47ed126b97d4e8c9b7f1e14b628"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_099.png",
+      "output": "assets/ui/Fund/wj7o5i.png",
+      "sha256": "e6b6d25bb52fd543489d16f97b39dcb20f34cee7c29c8ab85020f121362cc7f8"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/bg_fund_bar_0991.png",
+      "output": "assets/ui/Fund/wj7o56.png",
+      "sha256": "aa144b22428144773018d3704615d430a0bff793bc5e1b2a2893f656f39e7916"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/img_fund_number_09.png",
+      "output": "assets/ui/Fund/kjwu4d.png",
+      "sha256": "43d1f7e898364e70bbc8c14b3a2e590600bb1dd973e5d6d3e6ee010bc51e51de"
+    },
+    {
+      "source": "fgui/assets/Common/Images/tex_saoguang_01.png",
+      "output": "assets/ui/Common/qo4v1ke470l.png",
+      "sha256": "f987f5fcc8b6a568773a68bfbff156bb067f0eb040cd44133d47fec9a56e35c0"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_02.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46ro.png",
+      "sha256": "ecfa8c3fb1e523bb1ceb70e05a39d0f1136dcd81e28427e71d3b7dad055db75c"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_01.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rn.png",
+      "sha256": "d00d6ca911cf996d34cdeab45cb8f05640d2b7695aed3b0893738965c151cb1e"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_07.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66x.png",
+      "sha256": "a6518307f110bc6b60b937861e45007f356e1044d83df9b3a136c0e5051c2cc5"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_05.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rx.png",
+      "sha256": "766221be7c46792a3be77fbd31fcc583a3c2b84e05a6fe84e71b6716ce1b1c53"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_06.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66w.png",
+      "sha256": "b8a906f491577c0a8597dee217f94a61be13991179509645be70bfe5490bea8c"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_03.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rp.png",
+      "sha256": "02e2d5041c58d561d9baa036fd708498bf0efabda5bd98b68dc0eb9b6e6dd4ce"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_04.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rq.png",
+      "sha256": "39e42320d74bda4834665ba78e05e5a45cae835c87d6b5f57b20a8f620440365"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_13.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg679.png",
+      "sha256": "731aa5e8fedb9190a9fa83c8dac3e2d86497a13260786991eb1f2e5ce162096d"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_14.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg67a.png",
+      "sha256": "7155e2d191c3ead34e14385f92c200fbc3fd516118afd24dcda9b8846d54f30e"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_15.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg67b.png",
+      "sha256": "ec23aa89ba0a8ff39bbcac4c0e02cadab62e6258ff5b217c6aed440d3026f904"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_13.png",
+      "output": "assets/ui/GetReward/blg51ke4748.png",
+      "sha256": "a7c71c46fc5743f2846ea9ad16d0e78ace3696e073b9ada1100f7408714322c3"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_seal_progress01.png",
+      "output": "assets/ui/Main/ap341ke46sz.png",
+      "sha256": "454d814ec7ec41d7e3f82e39abdd8daea99bd4f0e99734dd0a34769390d77b8e"
+    },
+    {
+      "source": "fgui/assets/IconBusiness/MainSlider/icon_main_3in1Pack_04.png",
+      "output": "assets/ui/IconBusiness/dvs915.png",
+      "sha256": "d98d69f67e1963b779d66254787e11216c524e38624f5255c60a0fb9c6f58a51"
+    },
+    {
+      "source": "fgui/assets/Fund/Images/tex_sfx_line_308.png",
+      "output": "assets/ui/Fund/b7622m.png",
+      "sha256": "b0c5d662a9280542a423c63a80c3e9981a003741a54d129a1c0f3244667ea799"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_1.png",
+      "output": "assets/scene/bg_main_1_1.webp",
+      "sha256": "7490a4e2b97ecafe6d137e72c285e60bf4dd79c41cd143c3dbc22dea7d4a731e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_2.png",
+      "output": "assets/scene/bg_main_1_2.webp",
+      "sha256": "c483be1bdf9614b256d5be834531f6ec325bc8c35c1d72edb956d2ea17748372"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_3.png",
+      "output": "assets/scene/bg_main_1_3.webp",
+      "sha256": "b9bd539f19b72b589587a72e48f0bef240e14f6338ca3d543c619b049c6d774b"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_4.png",
+      "output": "assets/scene/bg_main_1_4.webp",
+      "sha256": "cce42927eb2a4ef122a35fa32d2ed9feab76e6df4d7bb1bcd1e4b9ecc548e486"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_1.png",
+      "output": "assets/scene/bg_main_1_full.webp",
+      "sha256": "ae047cdc4bfeb30a3f33de8500b5ae851af54279885f7e2a5dcc0287d0ff3b50"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_2.png",
+      "output": "assets/scene/bg_main_1_full.webp",
+      "sha256": "ae047cdc4bfeb30a3f33de8500b5ae851af54279885f7e2a5dcc0287d0ff3b50"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_3.png",
+      "output": "assets/scene/bg_main_1_full.webp",
+      "sha256": "ae047cdc4bfeb30a3f33de8500b5ae851af54279885f7e2a5dcc0287d0ff3b50"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_4.png",
+      "output": "assets/scene/bg_main_1_full.webp",
+      "sha256": "ae047cdc4bfeb30a3f33de8500b5ae851af54279885f7e2a5dcc0287d0ff3b50"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_1.png",
+      "output": "assets/scene/bg_main_2_1.webp",
+      "sha256": "3b95a33d065f650528b62e328c4fcd30a991f6b4c2bd30a49f62533e9f6f6950"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_2.png",
+      "output": "assets/scene/bg_main_2_2.webp",
+      "sha256": "693e5b207e31a80a414c3d837a639882cc9b6184fac680d74b2fe8a1de942f89"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_3.png",
+      "output": "assets/scene/bg_main_2_3.webp",
+      "sha256": "8dd26ad3b6497c04894f8f2c703877ce28f4509832f84de7cd7fecb50771847c"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_4.png",
+      "output": "assets/scene/bg_main_2_4.webp",
+      "sha256": "2f0bed5a97539bd1921c627fa6a6f4f3d4c6db813afb2ff39b831ace55c6e9e3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_1.png",
+      "output": "assets/scene/bg_main_2_full.webp",
+      "sha256": "7eafd35ed2852079d5f299543914f13a4910172ccde8ba638f1d1646972ab2b3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_2.png",
+      "output": "assets/scene/bg_main_2_full.webp",
+      "sha256": "7eafd35ed2852079d5f299543914f13a4910172ccde8ba638f1d1646972ab2b3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_3.png",
+      "output": "assets/scene/bg_main_2_full.webp",
+      "sha256": "7eafd35ed2852079d5f299543914f13a4910172ccde8ba638f1d1646972ab2b3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/CityBg/bg_main_2_4.png",
+      "output": "assets/scene/bg_main_2_full.webp",
+      "sha256": "7eafd35ed2852079d5f299543914f13a4910172ccde8ba638f1d1646972ab2b3"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/BuildingBg/bg_build_1.png",
+      "output": "assets/scene/bg_build_1.webp",
+      "sha256": "581174c63f0b59f26d219179cf051ab45aad96c75f7301753a6ec29b89a783c9"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/BuildingBg/bg_build_2.png",
+      "output": "assets/scene/bg_build_2.webp",
+      "sha256": "c2b6487eb1dbbb53a2c779a478ffda7cfc3df38001eb62a0158d96ca75a44899"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Textures/SquareTex.png",
+      "output": "assets/scene/SquareTex.png",
+      "sha256": "6ff15c1519ce3211ade7ef58b8e6be22a4cf95d661287c8d1bf73f38543acdd9"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_01.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_01_1.mesh",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_02.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_02_1.mesh",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_03.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_03_1.mesh",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_04.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_05.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_06.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_06_01.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_1_blue.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_1_grey.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_1_organge.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_1_red.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_green.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_purple.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_07_yellow.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_15.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_15_1.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_16.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_16_1.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_17.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_17_1.mesh",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_18.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_18_1.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_19.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/City/Chessboard/Grid/Models/checkerboard_19_1.asset",
+      "output": "assets/scene/grid-meshes.json",
+      "sha256": "2e695a542e193e1ee83616930d6ac0fa1d1d05b1649e311bb37dec3bc883ac36"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/Spine/ChessPiece/role_001/1_body.skel.bytes",
+      "output": "assets/spine/shin/1_body.skel",
+      "sha256": "9bd6165d8f313016f06e204f11b1f1eb544c14dc5da06713d48e7dd9fcc0cf3f"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/Spine/ChessPiece/role_001/1_body.atlas.txt",
+      "output": "assets/spine/shin/1_body.atlas",
+      "sha256": "e04e3b11c9b854b55e30ca06bd370a67241834740f611503b952161d1740ab56"
+    },
+    {
+      "source": "client/SHIN/Assets/Art/Spine/ChessPiece/role_001/1_body.png",
+      "output": "assets/spine/shin/1_body.png",
+      "sha256": "5e078cc0096dfaafd1fa21d22cfd35c162ee11dce2aa1e0a69bcdd02e5e54071"
+    }
+  ],
+  "missing": [
+    {
+      "pkg": "y30ecr90",
+      "id": "cdkr1ke46r4",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_03.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "y30ecr90",
+      "id": "cdkr1ke46r5",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_04.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "y30ecr90",
+      "id": "cdkr1ke46r6",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_06.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "y30ecr90",
+      "id": "twk81ke46rg",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_10.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "y30ecr90",
+      "id": "twk81ke46rh",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_11.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "y30ecr90",
+      "id": "cdkr1ke46r3",
+      "path": "fgui/assets/ChessboardEvent/Images/EventIcon/img_card_02.png",
+      "reason": "source file absent"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "xoijx",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "5apon8vh",
+      "id": "ntn34o",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "5apon8vh",
+      "id": "kjwu3r",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "uvf71ke46y6",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "dhb8x10i",
+      "id": "ke1p1ke46yr",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "0m1k71tg",
+      "id": "nhd52u",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "doreeo0x",
+      "id": "mwjh1ke46tc",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "rdwn1ke46nq",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "m2as1q",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "ici21ke474g",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471j",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471n",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471k",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471l",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "d0a61ke46ow",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "pmh51ke46qy",
+      "reason": "resource ID absent"
+    },
+    {
+      "pkg": "2e1ky9q4",
+      "id": "ici21gmg675",
+      "reason": "resource ID absent"
+    }
+  ],
+  "warnings": [
+    {
+      "pkg": "8kl4wcf5",
+      "id": "xoij17",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "gay61ke46q7",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "hw2q1ke46sk",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "p3rt1ke46zn",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "ri4s3u7h",
+      "id": "skyg1ke46pr",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "5apon8vh",
+      "id": "9pmr1h",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "jpg443",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    },
+    {
+      "pkg": "2mp2w94w",
+      "id": "pi311x",
+      "warning": "Read-only XML normalization: quoted original numeric attributes / removed forbidden control characters."
+    }
+  ],
+  "roots": {
+    "MainWindow": {
+      "pkg": "b8kc7kqz",
+      "id": "w5mg1ke46q8"
+    },
+    "BoardReportWindow": {
+      "pkg": "b8kc7kqz",
+      "id": "uvf71ke46rx"
+    },
+    "bg_com_window01": {
+      "pkg": "jcq5wm2b",
+      "id": "q7l53n"
+    },
+    "Com_FirstPopUp": {
+      "pkg": "jcq5wm2b",
+      "id": "q7l53o"
+    },
+    "Com_SecondPopUp": {
+      "pkg": "jcq5wm2b",
+      "id": "xc5o1ke46q4"
+    },
+    "CommonDescWindow": {
+      "pkg": "jcq5wm2b",
+      "id": "ocr91ke46sm"
+    },
+    "Com_ThirdPopUp": {
+      "pkg": "jcq5wm2b",
+      "id": "kdeb1ke46vr"
+    },
+    "ChanceWindow": {
+      "pkg": "y30ecr90",
+      "id": "n80ae"
+    },
+    "FriendRentWindow": {
+      "pkg": "y30ecr90",
+      "id": "8y6d1ke46q2"
+    },
+    "PrisonWindow": {
+      "pkg": "y30ecr90",
+      "id": "xxxc1ke46pz"
+    },
+    "SheildWindow": {
+      "pkg": "y30ecr90",
+      "id": "xxxc1ke46q0"
+    },
+    "PrisonCageWindow": {
+      "pkg": "y30ecr90",
+      "id": "t5hv1ke46q5"
+    },
+    "BuildWindow": {
+      "pkg": "8kl4wcf5",
+      "id": "xoijr"
+    },
+    "BuildCompletedWindow": {
+      "pkg": "8kl4wcf5",
+      "id": "xoij17"
+    },
+    "MapChooseWindow": {
+      "pkg": "8kl4wcf5",
+      "id": "xoij1a"
+    },
+    "MapUpgradeWindow": {
+      "pkg": "8kl4wcf5",
+      "id": "xf165f"
+    },
+    "Com_BuildBottom": {
+      "pkg": "8kl4wcf5",
+      "id": "nk7i5k"
+    },
+    "BlindBoxRewardWindow": {
+      "pkg": "2mp2w94w",
+      "id": "i1ll1k"
+    },
+    "BlindBoxWindow": {
+      "pkg": "2mp2w94w",
+      "id": "l7j81l"
+    },
+    "BlindBoxRuleWindow": {
+      "pkg": "2mp2w94w",
+      "id": "ulpi1m"
+    },
+    "BadFriendLoadingWindow": {
+      "pkg": "ri4s3u7h",
+      "id": "n80an"
+    },
+    "DestroyBuildingWindow": {
+      "pkg": "ri4s3u7h",
+      "id": "n80at"
+    },
+    "ChooseOpponentWindow": {
+      "pkg": "ri4s3u7h",
+      "id": "khkb1ke46pk"
+    },
+    "FundMainWindow": {
+      "pkg": "5apon8vh",
+      "id": "nflu0"
+    },
+    "FundCongratulationsWindow": {
+      "pkg": "5apon8vh",
+      "id": "9pmr1o"
+    },
+    "FundSocialWindow": {
+      "pkg": "5apon8vh",
+      "id": "9pmr1p"
+    },
+    "FundPublicWelfareWindow": {
+      "pkg": "5apon8vh",
+      "id": "jpg41q"
+    },
+    "GachaMachineWindow": {
+      "pkg": "0m1k71tg",
+      "id": "xxxcw"
+    },
+    "GachaMachineProbability": {
+      "pkg": "0m1k71tg",
+      "id": "oca01f"
+    },
+    "PlayerInfoWindow": {
+      "pkg": "doreeo0x",
+      "id": "qx33k"
+    }
+  },
+  "scene": {
+    "maps": {
+      "1": [
+        {
+          "url": "assets/scene/bg_main_1_1.webp",
+          "width": 1288,
+          "height": 2048,
+          "part": 1
+        },
+        {
+          "url": "assets/scene/bg_main_1_2.webp",
+          "width": 1289,
+          "height": 2048,
+          "part": 2
+        },
+        {
+          "url": "assets/scene/bg_main_1_3.webp",
+          "width": 1288,
+          "height": 2048,
+          "part": 3
+        },
+        {
+          "url": "assets/scene/bg_main_1_4.webp",
+          "width": 1289,
+          "height": 2048,
+          "part": 4
+        }
+      ],
+      "2": [
+        {
+          "url": "assets/scene/bg_main_2_1.webp",
+          "width": 1288,
+          "height": 2048,
+          "part": 1
+        },
+        {
+          "url": "assets/scene/bg_main_2_2.webp",
+          "width": 1289,
+          "height": 2048,
+          "part": 2
+        },
+        {
+          "url": "assets/scene/bg_main_2_3.webp",
+          "width": 1288,
+          "height": 2048,
+          "part": 3
+        },
+        {
+          "url": "assets/scene/bg_main_2_4.webp",
+          "width": 1289,
+          "height": 2048,
+          "part": 4
+        }
+      ]
+    },
+    "map1Full": {
+      "url": "assets/scene/bg_main_1_full.webp",
+      "width": 1288,
+      "height": 2048,
+      "partsOrder": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    "map2Full": {
+      "url": "assets/scene/bg_main_2_full.webp",
+      "width": 1288,
+      "height": 2048,
+      "partsOrder": [
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    "build1": {
+      "url": "assets/scene/bg_build_1.webp",
+      "width": 1216,
+      "height": 1624
+    },
+    "build2": {
+      "url": "assets/scene/bg_build_2.webp",
+      "width": 1216,
+      "height": 1624
+    },
+    "tileAtlas": "assets/scene/SquareTex.png",
+    "gridMeshes": {
+      "url": "assets/scene/grid-meshes.json",
+      "meshes": 27,
+      "issues": []
+    }
+  }
+}

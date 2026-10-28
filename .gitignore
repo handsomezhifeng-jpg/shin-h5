@@ -1,0 +1,9 @@
+/dist/
+/outputs/
+/tools/python-libs/
+/tools/unity-libs/
+*.log
+.env
+.env.*
+/node_modules/
+/.openai/*.tar.gz

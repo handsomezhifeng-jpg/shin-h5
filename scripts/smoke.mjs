@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url);
+const {chromium}=require('C:/Users/zhfzhang/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+const page=await browser.newPage({viewport:{width:375,height:812},deviceScaleFactor:1,hasTouch:true,isMobile:true});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',msg=>{if(msg.type()==='error')errors.push(msg.text());});
+await page.goto('http://127.0.0.1:10689/',{waitUntil:'networkidle',timeout:60000});
+await page.waitForFunction(()=>window.__SHIN,{timeout:30000});await page.waitForTimeout(1800);
+await page.screenshot({path:'outputs/h5-initial.png'});
+console.log(JSON.stringify({errors,state:await page.evaluate(()=>({coins:__SHIN.engine.state.coins,dice:__SHIN.engine.state.dice,tiles:GAME_DATA.squares.length,images:document.images.length,broken:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src),canvas:!!document.querySelector('#spine canvas')}))},null,2));
+await browser.close();

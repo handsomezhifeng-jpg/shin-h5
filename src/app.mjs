@@ -5,7 +5,7 @@ import {OriginalScene} from './scene.mjs';
 const $=s=>document.querySelector(s);const ui=new OriginalUI();
 let saved=null;try{saved=JSON.parse(localStorage.getItem(SAVE_KEY));}catch{}
 const engine=new BoardGame(window.GAME_DATA,saved);const game=$('#game'),piece=$('#piece'),modal=$('#modal-layer');
-let facing='f',buildingLayout,currentAnimation='';
+let facing='f',buildingLayout,currentAnimation='',relaxRemaining=10+Math.random()*10;
 let dice3d;
 let mainView,scene,player,busy=false,auto=false,autoTimer=0,toastTimer=0,modalKind='',modalView=null,prisonBusy=false;
 const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
@@ -49,16 +49,16 @@ function update(){
  const go=ui.find(mainView,'btn_go');if(go)go.setAttribute('aria-disabled',String(busy));
  scene?.draw(s);if(scene&&!busy)scene.setPiece(s.position,piece);save();
 }
-function play(animation){animation=animation.replace(/_[fb]$/, '_'+facing);if(player?.animationState&&animation!==currentAnimation){try{player.setAnimation(animation,true);currentAnimation=animation;}catch{}}}
+function play(animation,options={}){animation=animation.includes('_b')||animation.includes('_f')?animation.replace(/_[fb]$/, '_'+facing):animation+'_'+facing;if(player?.animationState){player.animationState.timeScale=options.speed ?? 1.5;if(animation!==currentAnimation||options.restart){player.setAnimation(animation,options.loop ?? true);if(options.offset)player.animationState.tracks[0].trackTime=options.offset*(options.speed ?? 1.5);currentAnimation=animation;}}}
 async function diceAnimation(dice){if(modalKind!=='prison')return dice3d.play(dice);const fx=$('#dice-fx');fx.hidden=false;const images=fx.querySelectorAll('img');for(let k=0;k<9;k++){for(let i=0;i<2;i++)images[i].src=ui.image(`icon_prisondice_0${1+Math.floor(Math.random()*6)}.png`);fx.style.transform=`rotate(${(k%2?1:-1)*7}deg)`;await wait(60);}for(let i=0;i<2;i++)images[i].src=ui.image(`icon_prisondice_0${dice[i]}.png`);fx.style.transform='';await wait(420);fx.hidden=true;}
 function floatReward(text){const el=document.createElement('div');el.className='float-reward';el.textContent=text;const p=scene.screenPosition(engine.state.position);el.style.left=p.x+'px';el.style.top=(p.y-160)+'px';$('#float-layer').append(el);setTimeout(()=>el.remove(),1600);}
 function scheduleAuto(){if(!modal.hidden || engine.state.pending)return;clearTimeout(autoTimer);if(auto&&!busy&&modal.hidden&&!engine.state.pending)autoTimer=setTimeout(roll,900);}
 async function roll(){
  if(busy)return;if(!modal.hidden){toast('请先完成当前操作');return;}
  const result=engine.roll();if(result.error){auto=false;toast(result.error);return;}busy=true;save();
- try{await diceAnimation(result.dice);play('run_f');await scene.move(result.path,piece,(index)=>{scene.draw(engine.state);});play('idle_f');update();if(result.gain)floatReward((result.gain>0?'+':'')+format(result.gain));
-  if(engine.state.pending){await wait(220);showPending();}else if(result.event?.kind==='fund-add')toast('存钱罐 +'+format(result.event.value));
- }finally{busy=false;update();scheduleAuto();}
+ try{scene.beginFollow();await diceAnimation(result.dice);await scene.move(result.path,piece);update();if(result.gain)floatReward((result.gain>0?'+':'')+format(result.gain));
+  if(engine.state.pending){await wait(scene.lastMove?.run?600:220);showPending();}else if(result.event?.kind==='fund-add')toast('存钱罐 +'+format(result.event.value));
+ }finally{busy=false;if(!auto)scene.stopFollow();update();scheduleAuto();}
 }
 function showPending(){const p=engine.state.pending;if(!p){hideModal();return;}
  if(p.kind==='chance'){
@@ -73,7 +73,7 @@ function showPending(){const p=engine.state.pending;if(!p){hideModal();return;}
  }else if(p.kind==='prison')showPrison();else if(p.kind==='attack')showAttack();else if(p.kind==='blind')showBlind();
 }
 function autoCollect(action){if(auto){const current=modalKind;clearTimeout(autoTimer);autoTimer=setTimeout(()=>{if(modalKind===current)handleAction(action);},1800);}}
-async function chanceConfirm(){if(busy)return;const result=engine.resolveChance();if(!result)return;save();if(result.kind==='move'){modal.hidden=true;modal.replaceChildren();modalKind='';busy=true;play('run_f');try{await scene.move(result.path,piece);play('idle_f');}finally{busy=false;update();}showPending();}else{hideModal();toast(result.free?'获得 '+result.free+' 次免费投点':result.dice?'骰子 +'+result.dice:'美金 '+(result.coins>=0?'+':'')+format(result.coins));}}
+async function chanceConfirm(){if(busy)return;const result=engine.resolveChance();if(!result)return;save();if(result.kind==='move'){modal.hidden=true;modal.replaceChildren();modalKind='';busy=true;try{await scene.move(result.path,piece);}finally{busy=false;update();}showPending();}else{hideModal();toast(result.free?'获得 '+result.free+' 次免费投点':result.dice?'骰子 +'+result.dice:'美金 '+(result.coins>=0?'+':'')+format(result.coins));}}
 function showPrison(){const p=engine.state.pending;const v=showModal('PrisonWindow',{controllers:{c1:'0'}},'prison');setText(v,'title_01','剩余 '+(3-p.attempts)+' 次');setText(v,'title_02','掷出相同点数逃脱');setText(v,'title_08',p.bet);activate(v,'btn_go','prison-roll','尝试脱困');addButton(modal,'掷骰子 · '+(3-p.attempts)+'次','prison-roll',1280);}
 async function prisonRoll(){if(prisonBusy)return;prisonBusy=true;const result=engine.prisonRoll();save();await diceAnimation(result.dice);prisonBusy=false;if(result.finished){hideModal();toast(result.success?'成功脱困，骰子 +'+result.awarded:'脱困失败，缴纳 '+format(result.fine)+' 美金');}else{showPrison();toast('点数不同，再试一次');}}
 function mapBase(){return engine.mapConfig.baseId || 1;}
@@ -105,7 +105,7 @@ function showGacha(){if(engine.state.pending)return;const v=showModal('GachaMach
 function simplePanel(title,body,buttons=[]){modal.replaceChildren();modal.hidden=false;modalKind='panel';const box=document.createElement('div');box.className='simple-panel';const h=document.createElement('h1');h.textContent=title;box.append(h);const content=document.createElement('div');content.innerHTML=body;box.append(content);for(const [text,action] of buttons){const b=document.createElement('button');b.textContent=text;b.dataset.action=action;box.append(b);}modal.append(box);closeButton();}
 function report(){if(engine.state.pending)return;simplePanel('棋盘报告',`<div class="report-scroll">${engine.state.report.length?engine.state.report.map(r=>`<div class="report-item">${escape(r.message)}</div>`).join(''):'<p>还没有棋盘事件</p>'}</div>`);}
 async function handleAction(action){
- if(action==='roll'){if(auto){auto=false;clearTimeout(autoTimer);toast('已停止自动投点');return;}return roll();}
+ if(action==='roll'){if(auto){auto=false;clearTimeout(autoTimer);if(!busy)scene.stopFollow();toast('已停止自动投点');return;}return roll();}
  if(action==='bet'){if(busy)return;engine.nextBet();update();return;}
  if(action==='close')return close();
  if(action==='build')return showBuild();if(action==='gacha')return showGacha();
@@ -131,12 +131,14 @@ game.addEventListener('click',event=>{const el=event.target.closest('[data-actio
 game.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){const el=event.target.closest('[data-action]');if(el && el.tagName!=='BUTTON'){event.preventDefault();handleAction(el.dataset.action);}}});
 async function init(){
  try{
-  buildingLayout=await fetch('assets/scene/building-layout.json').then(r=>r.json());await document.fonts.load('24px ShinOriginal');makeMain();scene=new OriginalScene($('#board'),window.GAME_DATA,ui,engine.mapConfig.baseId);await scene.load();dice3d=new OriginalDice(scene,game);await dice3d.load();scene.onDraw=()=>{if(!dice3d.playing)dice3d.redraw();const f=$('#world-ui [data-action="fund"]');if(f){const p=scene.project(0,.084,2.1);f.style.left=p.x+'px';f.style.top=(p.y-45)+'px';}};scene.onDirection=(to)=>{const d=scene.direction(to);facing=d.back?'b':'f';$('#spine').style.transform=d.flip?'scaleX(-1)':'';play('run_'+facing);};scene.onDirection(engine.state.position);scene.position=engine.state.position;scene.follow(engine.state.position,true);scene.draw(engine.state);scene.setPiece(engine.state.position,piece);
-  player=new spine.SpinePlayer('spine',{skeleton:'assets/spine/shin/1_body.skel',atlas:'assets/spine/shin/1_body.atlas',animation:'idle_'+facing,showControls:false,showLoading:false,interactive:false,alpha:true,backgroundColor:'#00000000',premultipliedAlpha:true,viewport:{x:-180,y:-60,width:360,height:450,padLeft:0,padRight:0,padTop:0,padBottom:0},error:(p,message)=>{console.error('原Spine加载失败',message);toast('角色动画加载失败，请刷新重试');}});
-  piece.style.width=(360*.0024*1624/11)+'px';piece.style.height=(450*.0024*1624/11*Math.cos(35*Math.PI/180))+'px';
+  buildingLayout=await fetch('assets/scene/building-layout.json').then(r=>r.json());await document.fonts.load('24px ShinOriginal');makeMain();scene=new OriginalScene($('#board'),window.GAME_DATA,ui,engine.mapConfig.baseId);await scene.load();dice3d=new OriginalDice(scene,game);await dice3d.load();scene.onDraw=()=>{if(!dice3d.playing)dice3d.redraw();const f=$('#world-ui [data-action="fund"]');if(f){const p=scene.project(0,.084,2.1);f.style.left=p.x+'px';f.style.top=(p.y-45)+'px';}};scene.onMotion=(animation,options)=>{if(animation==='idle')relaxRemaining=10+Math.random()*10;play(animation,options);};scene.onDirection=(to)=>{const d=scene.direction(to);facing=d.back?'b':'f';$('#spine').style.transform=`scale(${d.flip?-1:1},${Math.cos(35*Math.PI/180)})`;if(!currentAnimation.includes('jump'))play(currentAnimation?.replace(/_[fb]$/,'')||'idle');};scene.onDirection(engine.state.position);scene.position=engine.state.position;scene.follow(engine.state.position,true);scene.draw(engine.state);scene.setPiece(engine.state.position,piece);
+  player=new spine.SpinePlayer('spine',{skeleton:'assets/spine/shin/1_body.skel',atlas:'assets/spine/shin/1_body.atlas',animation:'idle_'+facing,showControls:false,showLoading:false,interactive:false,alpha:true,backgroundColor:'#00000000',premultipliedAlpha:true,viewport:{...scene.pieceProfile.viewport,padLeft:0,padRight:0,padTop:0,padBottom:0},error:(p,message)=>{console.error('原Spine加载失败',message);toast('角色动画加载失败，请刷新重试');}});
+  const v=scene.pieceProfile.viewport;piece.style.width=(v.width*.0024*1624/11)+'px';piece.style.height=(v.height*.0024*1624/11)+'px';piece.style.transform=`translate(${v.x/v.width*100}%,${-(v.y+v.height)/v.height*100}%)`;$('#spine').style.transformOrigin=`${-v.x/v.width*100}% ${(v.y+v.height)/v.height*100}%`;
+  await new Promise((resolve,reject)=>{const deadline=performance.now()+15000;const ready=()=>{if(player.animationState){player.animationState.timeScale=1.5;player.animationState.data.defaultMix=.2;currentAnimation='idle_'+facing;resolve();}else if(performance.now()>deadline)reject(new Error('小新动画加载超时'));else requestAnimationFrame(ready);};ready();});
   update();$('#loading').hidden=true;if(engine.state.pending)showPending();
-  window.__SHIN={engine,ui,scene,dice3d,get busy(){return busy;},get auto(){return auto;},showPending,showBuild,handleAction};
+  window.__SHIN={engine,ui,scene,dice3d,get player(){return player;},get busy(){return busy;},get auto(){return auto;},showPending,showBuild,handleAction};
   setInterval(()=>{if(engine.restoreDice())update();},30000);
+  let relaxTick=performance.now();setInterval(()=>{const now=performance.now(),dt=Math.min(1,(now-relaxTick)/1000);relaxTick=now;if(!currentAnimation.startsWith('idle'))return;relaxRemaining-=dt;if(relaxRemaining>0||busy||!modal.hidden||engine.state.pending)return;relaxRemaining=10+Math.random()*10;const name='relax_'+facing,duration=player.skeleton.data.findAnimation(name).duration/1.5;play('relax',{loop:false,speed:1.5});setTimeout(()=>{if(currentAnimation.startsWith('relax')&&!scene.moving)play('idle');},duration*1000);},100);
  }catch(error){console.error(error);$('#loading').innerHTML='<div>加载失败</div><span>请刷新重试</span>';}
 }
 init();

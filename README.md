@@ -24,3 +24,7 @@
 
 用Node执行 scripts/build.mjs，产物在dist。发布复用.openai/hosting.json中的同一网站身份。
 本次画面校正：使用原35°相机、0.9棋盘比例、格子各自材质与顶点色；按原矩阵绘制前后景和格面文字，小新按0.01×0.24比例及原Center朝向显示；存钱罐和普通骰子使用原3D模型，普通投骰重放原横向动画及6×6落点修正。建造图读取map_base坐标与原贴图大小。
+
+动态还原：普通经过/落地重放原 ani_gezi_jingguo、ani_gezi_stop（1.5倍速），连带父节点变形和原加色叠层。普通移动使用walk，捣蛋末三格使用原jump01/02/03，移动时长按原速度/距离计算，动画画框覆盖原跳跃全部边界；相机按原Cinemachine的1秒误差衰减到1%的阻尼逐帧跟随XY，并保留0.5秒启用过渡。数据在assets/scene/board-motion.json、board-overlays.json、piece-motion.json。
+
+棋盘模型现在共用三维深度缓冲，倾斜和联动时按几何遮挡。格面数字仍单独绘制，原TMP深度需要运行时核对；落地烟尘和扫光粒子未移植。

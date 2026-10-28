@@ -1,0 +1,560 @@
+{
+  "sourceRoot": "fgui/assets",
+  "preservedBranch": "Original default assets; assets_CN is never read.",
+  "addedResources": [
+    {
+      "pkg": "ri4s3u7h",
+      "id": "toj01ke46pz",
+      "name": "com_selectBuilding.xml"
+    },
+    {
+      "pkg": "ri4s3u7h",
+      "id": "n80au",
+      "name": "btn_select.xml"
+    },
+    {
+      "pkg": "ri4s3u7h",
+      "id": "n80ak",
+      "name": "img_Make trouble_select.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mo",
+      "name": "Font3_a_0.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mp",
+      "name": "Font3_a_1.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mq",
+      "name": "Font3_a_2.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mr",
+      "name": "Font3_a_3.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85ms",
+      "name": "Font3_a_4.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mt",
+      "name": "Font3_a_5.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mu",
+      "name": "Font3_a_6.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mv",
+      "name": "Font3_a_7.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mw",
+      "name": "Font3_a_8.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mx",
+      "name": "Font3_a_9.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "g85my",
+      "name": "Font3_a_comma.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "pctp10",
+      "name": "Font3_a_add.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "kyyw1f",
+      "name": "Font3_a_slash.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopi",
+      "name": "Font_a_0.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopj",
+      "name": "Font_a_1.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopk",
+      "name": "Font_a_2.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopl",
+      "name": "Font_a_3.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopm",
+      "name": "Font_a_4.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopn",
+      "name": "Font_a_5.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopd",
+      "name": "Font_a_6.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjope",
+      "name": "Font_a_7.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopf",
+      "name": "Font_a_8.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopg",
+      "name": "Font_a_9.png"
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjoph",
+      "name": "Font_a_X.png"
+    }
+  ],
+  "bitmapFonts": [
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mz",
+      "name": "CoinFont.fnt",
+      "glyphs": 13
+    },
+    {
+      "pkg": "0uor6woz",
+      "id": "gjopb",
+      "name": "BetFont.fnt",
+      "glyphs": 11
+    }
+  ],
+  "records": [
+    {
+      "source": "fgui/assets/MakeTrouble/Images/img_Make trouble_select.png",
+      "output": "assets/ui/MakeTrouble/n80ak.png",
+      "reused": true,
+      "sha256": "c3d4a8263d3fd4e747416ba69afa6fe93cf4f63bad693195b94fe141b6c6cd95"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_pattern_01.png",
+      "output": "assets/ui/Common/ctd01ke46x5.png",
+      "reused": true,
+      "sha256": "f868aa8fb8fdb35a0f898594e75a41489e83224c03938a4857f58312b1104be3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/img_avater_player_00.png",
+      "output": "assets/ui/Common/ooyb1ke46zg.png",
+      "reused": true,
+      "sha256": "f9be800c1bab91ce143a0c6d033f5a4b2463d9868c1ce419aecf51fbd330785c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_avater.png",
+      "output": "assets/ui/Common/pmf31ke46ul.png",
+      "reused": true,
+      "sha256": "0afdbc11d3b69fed1cf1ec821c256706e4f87625a8bc0bb40724829df44ad07a"
+    },
+    {
+      "source": "fgui/assets/ArtFont/CoinFont.fnt",
+      "output": "assets/ui/ArtFont/g85mz.fnt",
+      "reused": true,
+      "sha256": "9eb70edfb7030791cc018cbbf616226e6d1552c483a740dea056dac4ae8a4df3"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_0.png",
+      "output": "assets/ui/ArtFont/g85mo.png",
+      "reused": true,
+      "sha256": "7a2a21cd552b3fb3b58edb558c18fe9327f7651e2badc9b104ba56ea1b7ab875"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_1.png",
+      "output": "assets/ui/ArtFont/g85mp.png",
+      "reused": true,
+      "sha256": "d4e701acc93c98b979505d73c84b651a6ca3d9a0ea180266c0e429d88781ba1b"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_2.png",
+      "output": "assets/ui/ArtFont/g85mq.png",
+      "reused": true,
+      "sha256": "811bb9f0f60178eb0ea1991649fd2d8d1e6f0e462f5682b4c63fa33a4cbb1cd1"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_3.png",
+      "output": "assets/ui/ArtFont/g85mr.png",
+      "reused": true,
+      "sha256": "981c66639a78bd0343c4051d2181f8767b6fc316e3cf31296d77c19d8de5d3fc"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_4.png",
+      "output": "assets/ui/ArtFont/g85ms.png",
+      "reused": true,
+      "sha256": "7cf39fdf9d83558e067308ca40b861be0ec4791448d6ed2ba7b1d85910cc6d82"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_5.png",
+      "output": "assets/ui/ArtFont/g85mt.png",
+      "reused": true,
+      "sha256": "2d801ad8ca6925d062914a0d338a487ba8166f94d84fb41cb13e58cc75c7bca1"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_6.png",
+      "output": "assets/ui/ArtFont/g85mu.png",
+      "reused": true,
+      "sha256": "91b620dbc76d3edf0b22fcaad85bdd7e32feefa7eec03b4d7143ba0c1926c831"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_7.png",
+      "output": "assets/ui/ArtFont/g85mv.png",
+      "reused": true,
+      "sha256": "c3862c80cb8d53eec2d385bbc340e053efadc61c682a8ede836c68af91700e2a"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_8.png",
+      "output": "assets/ui/ArtFont/g85mw.png",
+      "reused": true,
+      "sha256": "9be8375a0428fd8b63de9e3f6af466cffb95aa5ceb1d9e42e6dccd6a93ee654d"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_9.png",
+      "output": "assets/ui/ArtFont/g85mx.png",
+      "reused": true,
+      "sha256": "deabc5a5685bd27419f8522bd3cfefb31ad93f9db5d611a1d2ec735a36b7afa2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_comma.png",
+      "output": "assets/ui/ArtFont/g85my.png",
+      "reused": true,
+      "sha256": "3ca1155d24bca4d98afa8e4e9ef88f8ba0efaf2cb3e2ca8f3ee0c8011fb6a264"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_add.png",
+      "output": "assets/ui/ArtFont/pctp10.png",
+      "reused": true,
+      "sha256": "91b2b41e4f481906ca3d0b7f5ef873249f6f43c57b44aeac85d0a8e355e5c4c2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_slash.png",
+      "output": "assets/ui/ArtFont/kyyw1f.png",
+      "reused": true,
+      "sha256": "c3af1e9f60281108e2da7bbcb3039dc30716df71d76f98f18c975a74d197480d"
+    },
+    {
+      "source": "fgui/assets/ArtFont/BetFont.fnt",
+      "output": "assets/ui/ArtFont/gjopb.fnt",
+      "reused": true,
+      "sha256": "794a8467244c21b7dee066028f9854a6091d08905c16cb482fb24f83fcd5d8cb"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_0.png",
+      "output": "assets/ui/ArtFont/gjopi.png",
+      "reused": true,
+      "sha256": "fc1c1f263baee40e518bbf73a9406d5ca4071683e229866f4f388fcb1f83340c"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_1.png",
+      "output": "assets/ui/ArtFont/gjopj.png",
+      "reused": true,
+      "sha256": "b6aa05a63927f390765c44d1ad3c3c8be353257c9185707c233a107356b545af"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_2.png",
+      "output": "assets/ui/ArtFont/gjopk.png",
+      "reused": true,
+      "sha256": "4b049c8f7cd1e392c8803839ccf649baeff6671caae8aec56145ddb6f2de60eb"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_3.png",
+      "output": "assets/ui/ArtFont/gjopl.png",
+      "reused": true,
+      "sha256": "4ff836b8abc3950accbcc4365c042437e32ccfb7152df162e2a6442303391ab3"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_4.png",
+      "output": "assets/ui/ArtFont/gjopm.png",
+      "reused": true,
+      "sha256": "4ffb7d2a30800435cfb43a67c86f211ca2111aaec14128b3d79136b7214dd439"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_5.png",
+      "output": "assets/ui/ArtFont/gjopn.png",
+      "reused": true,
+      "sha256": "338f738620312da1867f6f9e10c6fcf65e97f5b5129d66e9b4a9d53a896e3992"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_6.png",
+      "output": "assets/ui/ArtFont/gjopd.png",
+      "reused": true,
+      "sha256": "3776e8d27af1399a284d8baf4b4d0c2785b31002ec550c90cc42d60ec5c08d12"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_7.png",
+      "output": "assets/ui/ArtFont/gjope.png",
+      "reused": true,
+      "sha256": "03c448a48ab2971c033aff96328ba20a7045d1f9a2d886ebf747c3292e6852e7"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_8.png",
+      "output": "assets/ui/ArtFont/gjopf.png",
+      "reused": true,
+      "sha256": "b7308777796b6f2e5296fb933ea85068037f01900f62292b852e86624dc7773c"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_9.png",
+      "output": "assets/ui/ArtFont/gjopg.png",
+      "reused": true,
+      "sha256": "6ef891bb1fdfc77ff9298228ac403167d16bee4990f1e2dde320fd9fd0ac74d2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/Bet/Font_a_X.png",
+      "output": "assets/ui/ArtFont/gjoph.png",
+      "reused": true,
+      "sha256": "9a8ba514cdfdea979c62fbae440304866345544831e718262452cfa4dc2a985e"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_background.png",
+      "output": "assets/ui/BlindBox_01/g6ih0.png",
+      "reused": true,
+      "sha256": "b62a4aa566bf36ba9290374e8983e45a0fd0ddfd66545798f6e9aeac4a90e3dd"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure04_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih1.png",
+      "reused": true,
+      "sha256": "81c7f53b17d6b886a9b34dcda747a9c2dc85c48e1c7c0edd5cdae2574dab4894"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure04.png",
+      "output": "assets/ui/BlindBox_01/g6ih2.png",
+      "reused": true,
+      "sha256": "3f0834545a493a4d05310910f607432547559e5c149fca720675c4cf70b0dbff"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure03_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih3.png",
+      "reused": true,
+      "sha256": "f561b1b8d3d67680b009490a8505dd8c6186b1cf7c1de40ec21a360af3b0bde3"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure03.png",
+      "output": "assets/ui/BlindBox_01/g6ih4.png",
+      "reused": true,
+      "sha256": "2a81d270bc4b061e120c0ee9a18817ed91f6a9386c87d54032c28138fc65c27c"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure02_s.png",
+      "output": "assets/ui/BlindBox_01/g6ih5.png",
+      "reused": true,
+      "sha256": "0fd8fb4d7c32af71f64107a6847d8868504bfdc990801147e909149ae64c6b90"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/icon_BlindBox_figure02.png",
+      "output": "assets/ui/BlindBox_01/g6ih6.png",
+      "reused": true,
+      "sha256": "9898329fe02f71e3d61127ee16492a534f8ed7d233eee183c20a227aa782c3ab"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue03.png",
+      "output": "assets/ui/BlindBox_01/g6ihc.png",
+      "reused": true,
+      "sha256": "3ec7de3df46f092347129694d5b2aea3e1e570cad6664e5671f5e97ed9becfcb"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue02.png",
+      "output": "assets/ui/BlindBox_01/g6ihd.png",
+      "reused": true,
+      "sha256": "50a319eeb7b1e3dbc06a4b9510e859d58b72dbb978a3dc45ab8b4f8730f48a37"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/bg_BlindBox_blue01.png",
+      "output": "assets/ui/BlindBox_01/g6ihe.png",
+      "reused": true,
+      "sha256": "1a114d2da593b7560dab2a839ec4bc718a3bee9e6a2d40dff4372a7bd8180ada"
+    },
+    {
+      "source": "fgui/assets/BlindBox_01/Image/盲盒/img_BlindBox_blue.png",
+      "output": "assets/ui/BlindBox_01/g6ihg.png",
+      "reused": true,
+      "sha256": "6ae0aa52510620ad98eafa23197bcc2dd2f1e60c818f88a6d4ae790e15433646"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_01_zh_cn.png",
+      "output": "assets/scene/events/img_main_title_01_zh_cn.png",
+      "reused": true,
+      "sha256": "a315a338f142ace31da42b1217ff3e42873d46bf4eb25f22eaefa89122e52cc0"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_03_zh_cn.png",
+      "output": "assets/scene/events/img_main_title_03_zh_cn.png",
+      "reused": true,
+      "sha256": "cc0c2c7e96c6071827345bdfc60286e55f1ae7cf3a7e8b188723eed2e655bfb2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_04_zh_cn.png",
+      "output": "assets/scene/events/img_main_title_04_zh_cn.png",
+      "reused": true,
+      "sha256": "7fe727a4f002b9f1929882f5ace82ae2cd8d44082ec7e2d6af93669f925217ab"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_card_title_zh_cn.png",
+      "output": "assets/scene/events/img_card_title_zh_cn.png",
+      "reused": true,
+      "sha256": "366bff598a2519394152176500187db42009e8facc665363c433fa9d339a548f"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_BlindBox_title_01_zh_cn.png",
+      "output": "assets/scene/events/img_BlindBox_title_01_zh_cn.png",
+      "reused": true,
+      "sha256": "a1226fa3d93cdf8a2ecd8af6bd2f05ba57827199f768b07e5f92e341d30a7a37"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_BlindBox_title_02_zh_cn.png",
+      "output": "assets/scene/events/img_BlindBox_title_02_zh_cn.png",
+      "reused": true,
+      "sha256": "2ac617405ee66ddd2008820ff490843533e62293dffe8d32f084e047d54db811"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_Guessing_box_Lucky_zh_cn.png",
+      "output": "assets/scene/events/img_Guessing_box_Lucky_zh_cn.png",
+      "reused": true,
+      "sha256": "f64a086fb47f57193f136d5ac95f633f4c5b5c5ada5e55a6568b9cd8860afb54"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Lang/Default/lang_zh_cn.txt",
+      "output": "assets/scene/events/strings.json",
+      "reused": false,
+      "sha256": "e1fc9b2ac219c7d5346fe991f459744828b80ddb5c52e0892564813450ca346a"
+    }
+  ],
+  "issues": [],
+  "eventArtisticFonts": {
+    "PrisonWindow": {
+      "loader_title_main": {
+        "name": "img_main_title_01",
+        "url": "assets/scene/events/img_main_title_01_zh_cn.png",
+        "width": 292,
+        "height": 136,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_01_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/PrisonWindow.cs",
+        "line": 208
+      },
+      "loader_title_fail": {
+        "name": "img_main_title_03",
+        "url": "assets/scene/events/img_main_title_03_zh_cn.png",
+        "width": 184,
+        "height": 80,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_03_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/PrisonWindow.cs",
+        "line": 209
+      },
+      "loader_title_success": {
+        "name": "img_main_title_04",
+        "url": "assets/scene/events/img_main_title_04_zh_cn.png",
+        "width": 316,
+        "height": 84,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_main_title_04_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/PrisonWindow.cs",
+        "line": 210
+      }
+    },
+    "ChanceWindow": {
+      "icon_title": {
+        "name": "img_card_title",
+        "url": "assets/scene/events/img_card_title_zh_cn.png",
+        "width": 200,
+        "height": 108,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_card_title_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/ChanceWindow.cs",
+        "line": 146
+      }
+    },
+    "BlindBoxRewardWindow": {
+      "loader_title": {
+        "name": "img_BlindBox_title_01",
+        "url": "assets/scene/events/img_BlindBox_title_01_zh_cn.png",
+        "width": 337,
+        "height": 100,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_BlindBox_title_01_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/BlindBoxRewardWindow.cs",
+        "line": 200
+      },
+      "loader_guessingBox_hint": {
+        "name": "img_BlindBox_title_02",
+        "url": "assets/scene/events/img_BlindBox_title_02_zh_cn.png",
+        "width": 272,
+        "height": 156,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_BlindBox_title_02_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/BlindBoxRewardWindow.cs",
+        "line": 201
+      },
+      "loader_star": {
+        "name": "img_Guessing_box_Lucky",
+        "url": "assets/scene/events/img_Guessing_box_Lucky_zh_cn.png",
+        "width": 364,
+        "height": 372,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_Guessing_box_Lucky_zh_cn.png",
+        "code": "client/SHIN/Assets/Script/Game/moduls/ChessboardEvent/BlindBoxRewardWindow.cs",
+        "line": 197
+      }
+    }
+  },
+  "eventStrings": {
+    "url": "assets/scene/events/strings.json",
+    "source": "client/SHIN/Assets/ResourcesAssets/Lang/Default/lang_zh_cn.txt",
+    "ids": [
+      10100017,
+      10200033,
+      10700025,
+      10900001,
+      10900002,
+      10900005,
+      10900006,
+      10900008,
+      10900009,
+      11200001,
+      11200003,
+      11200004,
+      11200016,
+      11200017,
+      11200024,
+      11200025,
+      11200029,
+      11200035,
+      12900017,
+      14400020
+    ],
+    "blindBoxRewardReferencedIds": [
+      10900002,
+      11200004,
+      11200035,
+      12900017,
+      14400020
+    ]
+  },
+  "eventArtisticFontNotes": [
+    "DestroyBuildingWindow and BlindBoxWindow themselves do not call SetArtisticFont in the current original code; BlindBox localized artwork belongs to BlindBoxRewardWindow.",
+    "ResUtils.SetArtisticFont appends the current language code; this export selects the actual zh_cn files."
+  ]
+}

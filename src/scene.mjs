@@ -57,7 +57,8 @@ export class OriginalScene {
   }
   direction(index){const m=this.hooks.slots[String(index+1)].center.matrixInNormalPrefab;const yaw=Math.atan2(m[8],m[10])*180/Math.PI;return {back:yaw>-90&&yaw<=90,flip:yaw>0};}
   worldPosition(index) {const p=this.data.positions[index];return worldPoint(p.x,0,p.z);}
-  project(x,y,z){return {x:375+x*S+this.camera.x,y:812-((y-6)*UP+(z+10)*PITCH)*S+this.camera.y};}
+  project(x,y,z){const scale=1624/(2*this.zoom);return {x:375+(x-this.cameraWorld.x)*scale,y:812-((y-this.cameraWorld.y)*UP+(z+10)*PITCH)*scale};}
+  setView(position,zoom){this.zoom=zoom;this.cameraWorld={...position};const scale=1624/(2*zoom);this.camera={x:-position.x*scale,y:(position.y-6)*UP*scale};this.draw();}
   screenPosition(index,hook='base') {const h=this.hooks?.slots[String(index+1)]?.[hook];if(h){const path=hook==='propRoot'?'Root/prop_root':'Root/Root_model/center',m=this.motion.deform(index,path,h.matrixInNormalPrefab);return this.project(m[12]*BOARD_SCALE,m[13]*BOARD_SCALE,m[14]*BOARD_SCALE);}const p=this.worldPosition(index);return {x:p.x+this.offset.x+this.camera.x,y:p.y+this.offset.y+this.camera.y};}
   centerWorld(index,animated=false){const h=this.hooks.slots[String(index+1)].center;let m=h.matrixInNormalPrefab;if(animated)m=this.motion.deform(index,'Root/Root_model/center',m);return {x:m[12]*BOARD_SCALE,y:m[13]*BOARD_SCALE,z:m[14]*BOARD_SCALE};}
   requestFrame(){if(this.framePending)return;this.framePending=true;requestAnimationFrame(t=>{this.framePending=false;if(this.moving)return;const now=t/1000,dt=Math.max(0,now-(this.lastFrame || now));this.lastFrame=now;this.now=now;this.motion.update(now);this.updateCamera(dt,now);this.draw();if(this.motion.active.size||this.followActive)this.requestFrame();});}

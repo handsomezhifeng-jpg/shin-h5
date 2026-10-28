@@ -19,21 +19,18 @@ export class OriginalUI {
     if(!resource?.xml)return outer;
     const root=resource.xml;const control={};
     for(const c of root.children.filter(c=>c.tag==='controller')){const pages=(c.attrs.pages || '0,').split(',');control[c.attrs.name]=pages[Number(c.attrs.selected || 0)*2] || pages[0] || '0';}
-    Object.assign(control,options.controllers || {});outer.fgControls=control;
-    const content=document.createElement('div');content.className='fg-content';content.style.width=width+'px';content.style.height=height+'px';outer.append(content);outer.fgContent=content;if(root.attrs.overflow==='hidden')content.style.overflow='hidden';if(root.attrs.mask){content.style.borderRadius='50%';content.style.overflow='hidden';}
+    Object.assign(control,options.controllers || {});outer.fgControls=control;outer.fgAttrs=root.attrs;outer.fgSource=root;outer.fgXML=root;outer.fgState={};outer.fgNodes=new Map();outer.fgGroups=new Map();outer.fgTimelines=new Set();const pivot=vec(root.attrs.pivot);outer.style.transformOrigin=`${pivot[0]*100}% ${pivot[1]*100}%`;
+    const content=document.createElement('div');content.className='fg-content';content.style.width=width+'px';content.style.height=height+'px';outer.append(content);outer.fgContent=content;if(root.attrs.overflow==='hidden')content.style.overflow='hidden';
     const display=root.children.find(c=>c.tag==='displayList');
     if(!display)return outer;
     const groups=new Map(display.children.filter(n=>n.tag==='group').map(n=>[n.attrs.id,n]));
-    const visible=node=>{
-      if(node.attrs.visible==='false'||Number(node.attrs.alpha ?? 1)<=0)return false;
-      for(const g of node.children.filter(c=>c.tag==='gearDisplay'))if(g.attrs.pages!==undefined && g.attrs.pages!=='' && !g.attrs.pages.split(',').includes(control[g.attrs.controller]))return false;
-      const group=groups.get(node.attrs.group);return !group || visible(group);
-    };
+    for(const [id,node] of groups){const a=node.attrs;const [x,y]=vec(a.xy),[w,h]=vec(a.size);const g={fgAttrs:a,fgSource:node,fgState:{},fgBox:{x,y,w,h},fgGroup:true};outer.fgGroups.set(id,g);outer.fgNodes.set(id,g);}
     for(const node of display.children){
-      if(node.tag==='group'||!visible(node))continue;
+      if(node.tag==='group')continue;
       const a={...node.attrs};
-      for(const gear of node.children){const ga=gear.attrs;if(!ga.controller || !['gearXY','gearSize','gearText','gearIcon','gearColor','gearFontSize'].includes(gear.tag))continue;const pages=(ga.pages || '').split(',');const index=pages.indexOf(control[ga.controller]);const values=(ga.values || '').split('|');const value=index>=0 ? values[index] : ga.default;
+      for(const gear of node.children){const ga=gear.attrs;if(!ga.controller || !['gearXY','gearSize','gearText','gearIcon','gearColor','gearFontSize','gearLook'].includes(gear.tag))continue;const pages=(ga.pages || '').split(',');const index=pages.indexOf(control[ga.controller]);const values=(ga.values || '').split('|');const value=index>=0 ? values[index] : ga.default;
         if(value===undefined)continue;
+        if(gear.tag==='gearLook'){const [alpha,rotation,grayed,touchable]=value.split(',');Object.assign(a,{alpha,rotation,grayed:grayed==='1'?'true':'false',touchable:touchable==='1'?'true':'false'});}
         if(gear.tag==='gearXY')a.xy=value;
         if(gear.tag==='gearSize'){const v=vec(value);a.size=v.slice(0,2).join(',');if(v.length>2)a.scale=v.slice(2,4).join(',');}
         if(gear.tag==='gearText')a.text=value;if(gear.tag==='gearIcon')a.url=value;if(gear.tag==='gearFontSize')a.fontSize=value;if(gear.tag==='gearColor'){a.color=value.split(',')[0];if(value.split(',')[1])a.strokeColor=value.split(',')[1];}
@@ -57,7 +54,7 @@ export class OriginalUI {
       const [x,y]=vec(a.xy),[px,py]=vec(a.pivot),[sx,sy]=vec(a.scale,[1,1]);const anchor=a.anchor==='true';
       el.style.left=(x-(anchor?px*w:0))+'px';el.style.top=(y-(anchor?py*h:0))+'px';el.style.width=w+'px';el.style.height=h+'px';el.style.opacity=a.alpha ?? '1';
       // FGUI size overrides resize the component; scale is a separate attribute.
-      el.fgBox={x:x-(anchor?px*w:0),y:y-(anchor?py*h:0),w,h};el.fgSource=node;
+      el.fgBox={x:x-(anchor?px*w:0),y:y-(anchor?py*h:0),w,h};el.fgSource=node;el.fgState={};el.fgOwner=outer;outer.fgNodes.set(a.id,el);
       if(sx!==1||sy!==1||a.rotation){el.style.transform=`rotate(${a.rotation || 0}deg) scale(${sx},${sy})`;el.style.transformOrigin=`${px*100}% ${py*100}%`;}
       if(['image','loader'].includes(node.tag)){el.fgFlip=a.flip;if(a.color)this.tint(el,a.color);if(a.grayed==='true')el.style.filter+=(el.style.filter?' ':'')+'grayscale(1)';const image=el.firstElementChild;if(image&&a.flip)image.style.transform=`scale(${a.flip==='hz'||a.flip==='both'?-1:1},${a.flip==='vt'||a.flip==='both'?-1:1})`;if(a.blend==='add')el.style.mixBlendMode='plus-lighter';}
       if(a.touchable==='false')el.style.pointerEvents='none';content.append(el);
@@ -65,16 +62,47 @@ export class OriginalUI {
       if(label){if(label.attrs.title!==undefined)this.text(el,'title',label.attrs.title);if(label.attrs.icon){const icon=this.find(el,'icon');if(icon)this.setImage(icon,this.url(label.attrs.icon)?.url);}}
     }
     this.applyRelations(outer,display,width-nativeWidth,height-nativeHeight);
-    return outer;
+    for(const el of content.children)if(['text','richtext','inputtext'].includes(el.fgSource?.tag))this.renderText(el,el.fgAttrs.text || '');
+    const mask=outer.fgNodes.get(root.attrs.mask);if(mask){const a=mask.fgAttrs,r=this.resource(a.pkg || pkg,a.src);if(r?.url){content.style.maskImage=`url("${r.url}")`;content.style.maskPosition=`${mask.fgBox.x}px ${mask.fgBox.y}px`;content.style.maskSize=`${mask.fgBox.w}px ${mask.fgBox.h}px`;content.style.maskRepeat='no-repeat';mask.fgMask=true;}}
+    this.refresh(outer);return outer;
   }
   applyRelations(outer,display,dw,dh){
     if(!dw&&!dh)return;
     for(const el of outer.fgContent.children){const b=el.fgBox;if(!b)continue;for(const rel of (el.fgSource?.children || []).filter(n=>n.tag==='relation' && !n.attrs.target)){for(const pair of (rel.attrs.sidePair || '').split(',')){const p=pair.replace('%','');if(p==='width-width')b.w+=dw;else if(p==='height-height')b.h+=dh;else if(p==='center-center')b.x+=dw/2;else if(p==='right-right')b.x+=dw;else if(p==='middle-middle')b.y+=dh/2;else if(p==='bottom-bottom')b.y+=dh;else if(p==='rightext-right')b.w+=dw;else if(p==='bottomext-bottom')b.h+=dh;}}el.style.left=b.x+'px';el.style.top=b.y+'px';el.style.width=b.w+'px';el.style.height=b.h+'px';}
   }
   parseControllers(value) {const result={};if(value){const values=value.split(',');for(let i=0;i+1<values.length;i+=2)result[values[i]]=values[i+1];}return result;}
-  find(root,path){let node=root;for(const name of path.split('/')){const direct=node?.fgContent ? [...node.fgContent.children].find(el=>el.dataset.name===name) : null;node=direct || node?.querySelector(`[data-name="${CSS.escape(name)}"]`);if(!node)return null;}return node;}
-  text(root,path,value){const node=this.find(root,path);if(node)node.textContent=String(value);return node;}
-  hide(root,path){const node=this.find(root,path);if(node)node.style.display='none';}
+  renderText(el,value){
+    const a=el.fgAttrs || {};el.fgText=String(value);const clean=el.fgText.replace(/\[\/?[^\]]+\]/g,'');el.replaceChildren();el.setAttribute('aria-label',clean);const font=this.url(a.font)?.bitmap;
+    if(font){const size=Number(a.fontSize)||font.size,ratio=size/font.size,spacing=Number(a.letterSpacing)||0;let x=0,height=0;const glyphs=[];for(const ch of clean){const g=font.glyphs[ch];if(!g){glyphs.push({fallback:ch,x});x+=size*.4+spacing;height=Math.max(height,size);continue;}const image=g.image;const advance=(g.xadvance || g.xoffset+image.width)*ratio;glyphs.push({g,x:x+g.xoffset*ratio});x+=advance+spacing;height=Math.max(height,(g.yoffset+image.height)*ratio);}x=Math.max(0,x-spacing);const b=el.fgBox || {w:0,h:0},shrink=a.autoSize==='shrink'?Math.min(1,b.w/(x || 1),b.h/(height || 1)):1;const run=document.createElement('span');run.className='fg-bitmap-run';run.style.cssText=`position:relative;display:block;flex:none;width:${x*shrink}px;height:${height*shrink}px`;for(const {g,x:gx,fallback} of glyphs){if(fallback){const span=document.createElement('span');span.textContent=fallback;span.style.cssText=`position:absolute;left:${gx*shrink}px;top:0;font-family:ShinOriginal;font-size:${size*shrink}px;line-height:1;color:#ffe66c;-webkit-text-stroke:1px #795629`;run.append(span);continue;}const img=document.createElement('img');img.src=g.image.url;img.alt='';img.style.cssText=`position:absolute;left:${gx*shrink}px;top:${g.yoffset*ratio*shrink}px;width:${g.image.width*ratio*shrink}px;height:${g.image.height*ratio*shrink}px`;run.append(img);}el.append(run);el.dataset.bitmap='true';return;}
+    if(/\[color=#[0-9a-f]{6}\]/i.test(el.fgText)){const run=document.createElement('span');let active=null;for(const part of el.fgText.split(/(\[color=#[0-9a-f]{6}\]|\[\/color\])/ig)){if(part.startsWith('[color=')){active=part.slice(7,-1);continue;}if(part==='[/color]'){active=null;continue;}const span=document.createElement('span');span.textContent=part.replace(/\[\/?[^\]]+\]/g,'');if(active)span.style.color=active;run.append(span);}el.append(run);}else el.textContent=clean;el.style.letterSpacing=(Number(a.letterSpacing)||0)+'px';let size=Number(a.fontSize)||24;if(a.autoSize==='shrink'&&el.fgBox){const canvas=this.measureCanvas ||= document.createElement('canvas'),ctx=canvas.getContext('2d');ctx.font=`700 ${size}px ShinOriginal`;const width=ctx.measureText(clean).width+(clean.length-1)*(Number(a.letterSpacing)||0);size*=Math.min(1,el.fgBox.w/(width || 1));}el.style.fontSize=size+'px';
+  }
+  page(root,name,page){return root.fgControls[name]===String(page);}
+  refresh(root){
+    const allowed=node=>{const a=node.fgAttrs,s=node.fgState || {};if(s.visible===false||s.visible===undefined&&a.visible==='false')return false;for(const gear of node.fgSource?.children || [])if(gear.tag==='gearDisplay'&&gear.attrs.pages&&!gear.attrs.pages.split(',').includes(root.fgControls[gear.attrs.controller]))return false;return true;};
+    const ancestors=node=>{const out=[];let id=node.fgAttrs?.group;while(id){const g=root.fgGroups.get(id);if(!g)break;out.push(g);id=g.fgAttrs.group;}return out;};
+    const apply=(node,isRoot=false)=>{const a=node.fgAttrs || {},s=node.fgState || {},b=node.fgBox || {x:0,y:0,w:parseFloat(root.style.width),h:parseFloat(root.style.height)},gs=isRoot?[]:ancestors(node);if(!isRoot){node.style.display=(!node.fgMask&&allowed(node)&&gs.every(allowed))?'':'none';const [px,py]=vec(a.pivot),anchor=a.anchor==='true',xy=s.xy || vec(a.xy,[b.x,b.y]);let x=s.xy?xy[0]-(anchor?px*b.w:0):b.x,y=s.xy?xy[1]-(anchor?py*b.h:0):b.y;for(const g of gs){const original=vec(g.fgAttrs.xy);const cur=g.fgState.xy || original;x+=cur[0]-original[0];y+=cur[1]-original[1];}node.style.left=x+'px';node.style.top=y+'px';if(s.size){node.style.width=s.size[0]+'px';node.style.height=s.size[1]+'px';}}
+      let alpha=s.alpha ?? Number(a.alpha ?? 1);for(const g of gs)alpha*=g.fgState.alpha ?? Number(g.fgAttrs.alpha ?? 1);node.style.opacity=alpha;const [sx,sy]=s.scale || vec(a.scale,[1,1]),rotation=s.rotation ?? Number(a.rotation || 0),skew=s.skew || vec(a.skew);let translate='';if(isRoot&&s.xy)translate=`translate(${s.xy[0]}px,${s.xy[1]}px) `;node.style.transform=`${translate}rotate(${rotation}deg) skew(${-skew[0]}deg,${skew[1]}deg) scale(${sx},${sy})`;};
+    apply(root,true);for(const el of root.fgContent.children)if(el.fgAttrs)apply(el);
+  }
+  autoplay(root){for(const c of root.fgContent?.children || [])if(c.fgContent)this.autoplay(c);for(const t of root.fgXML.children.filter(n=>n.tag==='transition'&&n.attrs.autoPlay==='true'))this.play(root,t.attrs.name,{repeat:Number(t.attrs.autoPlayRepeat ?? 1),delay:Number(t.attrs.autoPlayDelay || 0)});}
+  stop(root){if(!root)return;for(const t of root.fgTimelines || []){t.cancelled=true;t.resolve?.();}root.fgTimelines?.clear();for(const c of root.fgContent?.children || [])if(c.fgContent)this.stop(c);}
+  play(root,name,{speed=1,repeat=1,delay=0,reverse=false,seek=null}={}){
+    const transition=root.fgXML.children.find(n=>n.tag==='transition'&&n.attrs.name===name);if(!transition)return Promise.resolve();const items=transition.children.filter(n=>n.tag==='item'),fps=24,duration=Math.max(0,...items.map(n=>(Number(n.attrs.time || 0)+Number(n.attrs.duration || 0))/fps)),timeline={cancelled:false,name};root.fgTimelines.add(timeline);
+    const ease=(name,t)=>name==='Linear'?t:name==='Quad.In'?t*t:name==='Quad.InOut'?(t<.5?2*t*t:1-Math.pow(-2*t+2,2)/2):name==='Cubic.Out'?1-Math.pow(1-t,3):name==='Cubic.In'?t*t*t:name==='Back.Out'?1+2.70158*Math.pow(t-1,3)+1.70158*Math.pow(t-1,2):1-(1-t)*(1-t);
+    const values=(v,current)=>String(v ?? '').split(',').slice(0,2).map((x,i)=>x==='-'?current[i]:Number(x));const fired=new Set();
+    const sample=time=>{for(let i=0;i<items.length;i++){const a=items[i].attrs,start=Number(a.time || 0)/fps;if(time<start)continue;const node=a.target?root.fgNodes.get(a.target):root;if(!node)continue;const s=node.fgState;const tween=a.tween==='true',span=Number(a.duration || 0)/fps,t=tween?ease(a.ease,span?Math.min(1,(time-start)/span):1):1;const original=node.fgAttrs;
+      if(a.type==='Transition'){if(!fired.has(i)&&node.fgContent){fired.add(i);const [childName,count]=String(a.value || '').split(',');if(childName)this.play(node,childName,{repeat:count===undefined?1:Number(count),speed});else this.stop(node);}continue;}
+      const property={XY:'xy',Size:'size',Scale:'scale',Skew:'skew',Alpha:'alpha',Rotation:'rotation',Visible:'visible'}[a.type];if(property){if(['xy','size','scale','skew'].includes(property)){const base=property==='xy'?vec(original.xy):property==='size'?vec(original.size):property==='scale'?vec(original.scale,[1,1]):vec(original.skew),from=values(tween?a.startValue:a.value,base),to=values(tween?a.endValue:a.value,from);s[property]=from.map((v,j)=>v+(to[j]-v)*t);}else if(property==='visible')s.visible=a.value==='true';else{s[property]=tween?Number(a.startValue)+(Number(a.endValue)-Number(a.startValue))*t:Number(a.value);}continue;}
+      if(!fired.has(i)){fired.add(i);if(a.type==='Text')this.renderText(node,a.value || '');if(a.type==='Icon')this.setImage(node,this.url(a.value)?.url);if(a.type==='Color')node.style.color=color(a.value);}
+    }this.refresh(root);};
+    if(seek!==null){sample(Math.min(duration,seek));root.fgTimelines.delete(timeline);return Promise.resolve();}
+    return new Promise(resolve=>{timeline.resolve=resolve;const begin=performance.now()/1000+delay;const tick=now=>{if(timeline.cancelled||!root.isConnected){root.fgTimelines.delete(timeline);resolve();return;}const elapsed=(now/1000-begin)*speed;if(elapsed<0){requestAnimationFrame(tick);return;}const looping=repeat===0||repeat<0||elapsed<duration*repeat;let local=duration?Math.min(duration,looping?elapsed%duration:duration):0;if(reverse)local=duration-local;sample(local);if(looping&&duration)requestAnimationFrame(tick);else{root.fgTimelines.delete(timeline);resolve();}};sample(reverse?duration:0);requestAnimationFrame(tick);});
+  }
+  find(root,path){let node=root;for(const name of path.split('/')){const direct=node?.fgContent ? [...node.fgContent.children].find(el=>el.dataset.name===name) : null;node=direct || [...(node?.fgGroups?.values() || [])].find(g=>g.fgAttrs.name===name) || node?.querySelector?.(`[data-name="${CSS.escape(name)}"]`);if(!node)return null;}return node;}
+  text(root,path,value){const node=this.find(root,path);if(node)this.renderText(node,String(value));return node;}
+  hide(root,path){const node=this.find(root,path);if(node){node.fgState.visible=false;if(node.style)node.style.display='none';else this.refresh(root);}}
+  show(root,path){const node=this.find(root,path);if(node){node.fgState.visible=true;if(node.style)node.style.display='';else this.refresh(root);}return node;}
+  replace(old,next){next.style.cssText=old.style.cssText;next.dataset.name=old.dataset.name;next.dataset.node=old.dataset.node;next.fgAttrs=old.fgAttrs;next.fgBox={...old.fgBox};next.fgSource=old.fgSource;next.fgOwner=old.fgOwner;next.fgOwner?.fgNodes.set(next.dataset.node,next);this.stop(old);old.replaceWith(next);return next;}
   setImage(el,url,res=null,contain=true){if(!el)return;el.replaceChildren();el.style.border='';el.style.borderImage='';if(!url)return;let image;if(res?.scale==='9grid' && res.scale9grid){const [l,t,w,h]=res.scale9grid;const right=Math.max(0,res.width-l-w),bottom=Math.max(0,res.height-t-h);image=document.createElement('div');image.style.cssText=`position:absolute;inset:0;border-style:solid;border-width:${t}px ${right}px ${bottom}px ${l}px;border-image-source:url("${url}");border-image-slice:${t} ${right} ${bottom} ${l} fill;border-image-repeat:stretch`;}
     else {image=document.createElement('img');image.src=url;image.alt='';image.draggable=false;image.style.width='100%';image.style.height='100%';image.style.objectFit=contain?'contain':'fill';}if(el.fgFlip)image.style.transform=`scale(${el.fgFlip==='hz'||el.fgFlip==='both'?-1:1},${el.fgFlip==='vt'||el.fgFlip==='both'?-1:1})`;el.append(image);}
 

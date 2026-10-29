@@ -5,6 +5,10 @@ await fs.mkdir(dist,{recursive:true});
 for(const name of files)await fs.copyFile(path.join(root,name),path.join(dist,name));
 for(const name of ['src','assets','vendor'])await fs.cp(path.join(root,name),path.join(dist,name),{recursive:true,filter:source=>!source.endsWith('_parts_preview.jpg')});
 const sandbox={window:{}};const {default:vm}=await import('node:vm');vm.runInNewContext(await fs.readFile(path.join(root,'fgui-data.js'),'utf8'),sandbox);
+// The original FGUI TTF and the main CSS font are byte-identical; ship one copy.
+const duplicateFont='assets/ui/Common/qe9t1ke46ym.ttf',sharedFont='assets/fonts/NotoSansSCBold.ttf';
+const [fgFont,mainFont]=await Promise.all([fs.readFile(path.join(root,duplicateFont)),fs.readFile(path.join(root,sharedFont))]);
+if(fgFont.equals(mainFont)){for(const pkg of Object.values(sandbox.window.FGUI_DATA.packages))for(const item of Object.values(pkg.items))if(item.url===duplicateFont)item.url=sharedFont;await fs.writeFile(path.join(dist,'fgui-data.js'),'window.FGUI_DATA='+JSON.stringify(sandbox.window.FGUI_DATA)+';\n');await fs.unlink(path.join(dist,duplicateFont));}
 let checked=0;for(const pkg of Object.values(sandbox.window.FGUI_DATA.packages))for(const item of Object.values(pkg.items))if(item.url){await fs.access(path.join(dist,item.url));checked++;}
 const prefabs=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/grid-prefabs.json'),'utf8'));if(Object.keys(prefabs.prefabs).length!==40)throw new Error('原棋盘格子数量错误');
 const meshData=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/grid-meshes.json'),'utf8'));for(const prefab of Object.values(prefabs.prefabs))if(!meshData[prefab.meshName])throw new Error('缺少原网格：'+prefab.meshName);

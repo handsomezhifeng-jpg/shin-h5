@@ -1,0 +1,12 @@
+info size=130 resizable=true colored=true
+char id=48 img=gjopi xoffset=0 yoffset=0 xadvance=0
+char id=49 img=gjopj xoffset=0 yoffset=0 xadvance=0
+char id=50 img=gjopk xoffset=0 yoffset=0 xadvance=0
+char id=51 img=gjopl xoffset=0 yoffset=0 xadvance=0
+char id=52 img=gjopm xoffset=0 yoffset=0 xadvance=0
+char id=53 img=gjopn xoffset=0 yoffset=0 xadvance=0
+char id=54 img=gjopd xoffset=0 yoffset=0 xadvance=0
+char id=55 img=gjope xoffset=0 yoffset=0 xadvance=0
+char id=56 img=gjopf xoffset=0 yoffset=0 xadvance=0
+char id=57 img=gjopg xoffset=0 yoffset=0 xadvance=0
+char id=88 img=gjoph xoffset=0 yoffset=0 xadvance=0

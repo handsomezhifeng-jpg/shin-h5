@@ -1,0 +1,292 @@
+{
+  "sourceScope": "NormalChessboard_01 original prefab and CURRENT source runtime code; no live Unity frame captured.",
+  "slot11": {
+    "baseModel": {
+      "id": 11,
+      "meshName": "checkerboard_goldcoin_01",
+      "texture": "assets/scene/grid-atlas-goldcoin.png",
+      "materials": [
+        {
+          "name": "checkerboard_goldcoin_01",
+          "texture": {
+            "name": "checkerboard_goldcoin_01_d",
+            "url": "assets/scene/grid-atlas-goldcoin.png",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        }
+      ],
+      "instance": {
+        "position": {
+          "x": -3.244445324,
+          "y": 0.0,
+          "z": -3.244445086
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "model": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": 1.0,
+          "z": -0.0,
+          "w": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "modelChain": [
+        {
+          "name": "Root",
+          "active": true,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "name": "Root_model",
+          "active": true,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "name": "model",
+          "active": true,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": 1.0,
+            "z": -0.0,
+            "w": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "modelMatrix": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "instanceMatrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.244445324,
+        0.0,
+        -3.244445086,
+        1.0
+      ],
+      "path": [
+        "NormalChessboard_01",
+        "Root",
+        "11",
+        "Root",
+        "Root_model",
+        "model"
+      ],
+      "meshVertexCount": 64
+    },
+    "coinObject": {
+      "name": "luckyCoin",
+      "path": [
+        "NormalChessboard_01",
+        "Root",
+        "11",
+        "Root",
+        "Root_model",
+        "luckyCoin"
+      ],
+      "local": {
+        "position": {
+          "x": 0.338,
+          "y": 0.307999998,
+          "z": 0.360000014
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "matrixInInstance": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.338,
+        0.307999998,
+        0.360000014,
+        1.0
+      ],
+      "matrixInNormalPrefab": [
+        0.707106791,
+        0.0,
+        -0.707106794,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.707106794,
+        0.0,
+        0.707106791,
+        0.0,
+        -4.094777932,
+        0.307999998,
+        0.015556535,
+        1.0
+      ],
+      "positionInInstance": {
+        "x": 0.338,
+        "y": 0.307999998,
+        "z": 0.360000014
+      },
+      "positionInNormalPrefab": {
+        "x": -4.094777932,
+        "y": 0.307999998,
+        "z": 0.015556535
+      }
+    },
+    "coinDisabledDoesNotHideBase": true,
+    "runtimeCode": "Assets/Script/Game/moduls/Chessboard/Square/BlankSquare.cs RefreshLuckyCoinShow (MapId threshold and season config)",
+    "disabledFallback": "Keep checkerboard_goldcoin_01 base with original texture; do not replace by checkerboard_02."
+  },
+  "materialEvidence": {
+    "39BaseModels": "ChessboardSquare -> SquareTex",
+    "slot11Base": "checkerboard_goldcoin_01 -> checkerboard_goldcoin_01_d",
+    "unusedForDefault40": "ChessboardSquare_01 -> SquareTex_01 exists in bundle but no default active base model uses it.",
+    "variantManifestEvidence": [
+      {
+        "Address": "bg_main_1_1",
+        "AssetPath": "Assets/ResourcesAssets/TextureRule/CityBg/bg_main_1_1.png",
+        "AssetGUID": "",
+        "AssetTags": [],
+        "BundleID": 7002
+      },
+      {
+        "Address": "bg_main_1_f_1",
+        "AssetPath": "Assets/ResourcesAssets/TextureRule/CityBgFront/bg_main_1_f_1.png",
+        "AssetGUID": "",
+        "AssetTags": [],
+        "BundleID": 7446
+      }
+    ],
+    "sourceTextures": "These textures are from original default Assets/Art/City paths, not __CN; material mapping came from the original declared normal prefab bundle."
+  },
+  "role": {
+    "skeletonDataSource": "client/SHIN/Assets/Art/Spine/ChessPiece/role_001/1_body_SkeletonData.asset",
+    "skeletonScale": 0.01,
+    "nestedPrefabScale": 0.24,
+    "effectiveSkeletonUnitsToWorld": 0.0024,
+    "nestedPositionOverride": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "nestedRotationOverride": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    }
+  },
+  "warnings": [
+    "Prefab matrix labels are explicit about parent scale/rotation; do not apply NormalChessboard Root rotation twice.",
+    "Text material and font metrics are original values, not browser pixel sizes.",
+    "Original shader lighting, outline and shadow passes are not replaced by this metadata export."
+  ]
+}

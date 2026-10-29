@@ -1,0 +1,457 @@
+{
+  "package": "Common",
+  "id": "nbao1ke46yb",
+  "name": "Com_List02",
+  "width": 564,
+  "height": 132,
+  "children": [
+    {
+      "id": "n3_ir9z",
+      "name": "n3",
+      "type": 0,
+      "src": "ctd01ke46x1",
+      "pkg": null,
+      "xy": [
+        0,
+        0
+      ],
+      "size": [
+        564,
+        132
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": []
+    },
+    {
+      "id": "n4_ir9z",
+      "name": "n4",
+      "type": 0,
+      "src": "ctd01ke46x3",
+      "pkg": null,
+      "xy": [
+        3,
+        3
+      ],
+      "size": [
+        558,
+        122
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fff1afff",
+      "gears": [
+        {
+          "type": 4,
+          "controllerIndex": 0,
+          "default": [
+            "#fff1afff",
+            "#000000ff"
+          ],
+          "statuses": {
+            "0": [
+              "#fff1afff",
+              "#000000ff"
+            ],
+            "1": [
+              "#b6d9fdff",
+              "#000000ff"
+            ],
+            "3": [
+              "#c9f3ffff",
+              "#000000ff"
+            ],
+            "4": [
+              "#ffc1bfff",
+              "#000000ff"
+            ],
+            "5": [
+              "#d7f8c4ff",
+              "#000000ff"
+            ],
+            "9": [
+              "#eeeeeeff",
+              "#000000ff"
+            ],
+            "10": [
+              "#b8f3f9ff",
+              "#000000ff"
+            ],
+            "11": [
+              "#ffa9bbff",
+              "#000000ff"
+            ],
+            "16": [
+              "#de66fcff",
+              "#000000ff"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_ir9z",
+      "name": "n5",
+      "type": 0,
+      "src": "ctd01ke46x3",
+      "pkg": null,
+      "xy": [
+        4,
+        5
+      ],
+      "size": [
+        554,
+        118
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fb8d44ff",
+      "gears": [
+        {
+          "type": 4,
+          "controllerIndex": 0,
+          "default": [
+            "#ffc15bff",
+            "#000000ff"
+          ],
+          "statuses": {
+            "1": [
+              "#376395ff",
+              "#000000ff"
+            ],
+            "3": [
+              "#80bfceff",
+              "#000000ff"
+            ],
+            "4": [
+              "#da655eff",
+              "#000000ff"
+            ],
+            "5": [
+              "#ace196ff",
+              "#000000ff"
+            ],
+            "9": [
+              "#c8c8c8ff",
+              "#000000ff"
+            ],
+            "10": [
+              "#67d8daff",
+              "#000000ff"
+            ],
+            "11": [
+              "#ffa9bbff",
+              "#000000ff"
+            ],
+            "16": [
+              "#de66fcff",
+              "#000000ff"
+            ],
+            "17": [
+              "#fb8d44ff",
+              "#000000ff"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "n6_ir9z",
+      "name": "bar",
+      "type": 0,
+      "src": "ctd01ke46x3",
+      "pkg": null,
+      "xy": [
+        554,
+        64
+      ],
+      "size": [
+        546,
+        110
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        1.0,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": []
+    },
+    {
+      "id": "n9_ir9z",
+      "name": "n9",
+      "type": 0,
+      "src": "ctd01ke46x4",
+      "pkg": null,
+      "xy": [
+        281,
+        14
+      ],
+      "size": [
+        512,
+        4
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fb8d44ff",
+      "gears": [
+        {
+          "type": 4,
+          "controllerIndex": 0,
+          "default": [
+            "#fff1afff",
+            "#000000ff"
+          ],
+          "statuses": {
+            "1": [
+              "#b6d9fdff",
+              "#000000ff"
+            ],
+            "3": [
+              "#c9f3ffff",
+              "#000000ff"
+            ],
+            "4": [
+              "#ffc1bfff",
+              "#000000ff"
+            ],
+            "5": [
+              "#d7f8c4ff",
+              "#000000ff"
+            ],
+            "9": [
+              "#eeeeeeff",
+              "#000000ff"
+            ],
+            "10": [
+              "#b8f3f9ff",
+              "#000000ff"
+            ],
+            "11": [
+              "#fdc1cfff",
+              "#000000ff"
+            ],
+            "16": [
+              "#de66fcff",
+              "#000000ff"
+            ],
+            "17": [
+              "#fb8d44ff",
+              "#000000ff"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "n10_ir9z",
+      "name": "n10",
+      "type": 0,
+      "src": "ctd01ke46x4",
+      "pkg": null,
+      "xy": [
+        280,
+        113
+      ],
+      "size": [
+        512,
+        4
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fb8d44ff",
+      "gears": [
+        {
+          "type": 4,
+          "controllerIndex": 0,
+          "default": [
+            "#fff1afff",
+            "#000000ff"
+          ],
+          "statuses": {
+            "1": [
+              "#b6d9fdff",
+              "#000000ff"
+            ],
+            "3": [
+              "#c9f3ffff",
+              "#000000ff"
+            ],
+            "4": [
+              "#ffc1bfff",
+              "#000000ff"
+            ],
+            "5": [
+              "#d7f8c4ff",
+              "#000000ff"
+            ],
+            "9": [
+              "#eeeeeeff",
+              "#000000ff"
+            ],
+            "10": [
+              "#b8f3f9ff",
+              "#000000ff"
+            ],
+            "11": [
+              "#fdc1cfff",
+              "#000000ff"
+            ],
+            "16": [
+              "#de66fcff",
+              "#000000ff"
+            ],
+            "17": [
+              "#fb8d44ff",
+              "#000000ff"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "n7_ir9z",
+      "name": "n7",
+      "type": 0,
+      "src": "ctd01ke46x2",
+      "pkg": null,
+      "xy": [
+        543,
+        43
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fb8d44ff",
+      "gears": [
+        {
+          "type": 4,
+          "controllerIndex": 0,
+          "default": [
+            "#ffc15bff",
+            "#000000ff"
+          ],
+          "statuses": {
+            "1": [
+              "#376395ff",
+              "#000000ff"
+            ],
+            "3": [
+              "#80bfceff",
+              "#000000ff"
+            ],
+            "4": [
+              "#da655eff",
+              "#000000ff"
+            ],
+            "5": [
+              "#ace196ff",
+              "#000000ff"
+            ],
+            "9": [
+              "#c8c8c8ff",
+              "#000000ff"
+            ],
+            "10": [
+              "#67d8daff",
+              "#000000ff"
+            ],
+            "11": [
+              "#ffa9bbff",
+              "#000000ff"
+            ],
+            "16": [
+              "#de66fcff",
+              "#000000ff"
+            ],
+            "17": [
+              "#fb8d44ff",
+              "#000000ff"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "defaultPage": "0",
+  "nativeYellowColors": [
+    "#fff1afff",
+    "#ffc15bff"
+  ],
+  "note": "Exact published component parameters. GearColor default/page0 must override serialized initial colors. Images retain native untinted pixels."
+}

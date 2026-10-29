@@ -7,3 +7,4 @@
 .env.*
 /node_modules/
 /.openai/*.tar.gz
+__pycache__/

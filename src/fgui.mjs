@@ -37,7 +37,7 @@ export class OriginalUI {
       }
       let el;let res=null;
       if(node.tag==='component'){
-        const childPkg=a.pkg || pkg;res=this.resource(childPkg,a.src);el=this.component(childPkg,a.src,{controllers:this.parseControllers(a.controller),size:a.size?vec(a.size):undefined},depth+1);
+        const childPkg=a.pkg || pkg;res=this.resource(childPkg,a.src);if(a.pivot===undefined&&res?.xml?.attrs.pivot){a.pivot=res.xml.attrs.pivot;a.anchor=res.xml.attrs.anchor || 'false';}el=this.component(childPkg,a.src,{controllers:this.parseControllers(a.controller),size:a.size?vec(a.size):undefined},depth+1);
       }else{el=document.createElement('div');el.className='fg-node fg-'+node.tag;}
       el.dataset.name=a.name || '';el.dataset.node=a.id || '';el.fgAttrs=a;
       let [w,h]=vec(a.size,[res?.width || 0,res?.height || 0]);
@@ -67,8 +67,9 @@ export class OriginalUI {
     this.refresh(outer);return outer;
   }
   applyRelations(outer,display,dw,dh){
-    if(!dw&&!dh)return;
-    for(const el of outer.fgContent.children){const b=el.fgBox;if(!b)continue;for(const rel of (el.fgSource?.children || []).filter(n=>n.tag==='relation' && !n.attrs.target)){for(const pair of (rel.attrs.sidePair || '').split(',')){const p=pair.replace('%','');if(p==='width-width')b.w+=dw;else if(p==='height-height')b.h+=dh;else if(p==='center-center')b.x+=dw/2;else if(p==='right-right')b.x+=dw;else if(p==='middle-middle')b.y+=dh/2;else if(p==='bottom-bottom')b.y+=dh;else if(p==='rightext-right')b.w+=dw;else if(p==='bottomext-bottom')b.h+=dh;}}el.style.left=b.x+'px';el.style.top=b.y+'px';el.style.width=b.w+'px';el.style.height=b.h+'px';}
+    if(!dw&&!dh)return;const nodes=[...outer.fgContent.children].filter(el=>el.fgBox),base=new Map(nodes.map(el=>[el,{...el.fgBox}])),byId=new Map(nodes.map(el=>[el.dataset.node,el])),done=new Set(),visiting=new Set();
+    const solve=el=>{if(done.has(el)||visiting.has(el))return;visiting.add(el);const b=el.fgBox,a=el.fgAttrs,[px,py]=vec(a.pivot),anchor=a.anchor==='true';for(const rel of(el.fgSource?.children || []).filter(n=>n.tag==='relation')){let dx=0,dy=0,rw=dw,rh=dh;if(rel.attrs.target){const target=byId.get(rel.attrs.target);if(!target)continue;solve(target);const old=base.get(target),now=target.fgBox;dx=now.x-old.x;dy=now.y-old.y;rw=now.w-old.w;rh=now.h-old.h;}for(const pair of(rel.attrs.sidePair || '').split(',')){const type=pair.replace('%','');if(type==='width-width'){b.w+=rw;if(anchor)b.x-=px*rw;}else if(type==='height-height'){b.h+=rh;if(anchor)b.y-=py*rh;}else if(type==='center-center')b.x+=dx+rw/2;else if(type==='right-right')b.x+=dx+rw;else if(type==='left-left')b.x+=dx;else if(type==='middle-middle')b.y+=dy+rh/2;else if(type==='bottom-bottom')b.y+=dy+rh;else if(type==='top-top')b.y+=dy;else if(type==='rightext-right')b.w+=dx+rw;else if(type==='bottomext-bottom')b.h+=dy+rh;}}
+    el.style.left=b.x+'px';el.style.top=b.y+'px';el.style.width=b.w+'px';el.style.height=b.h+'px';visiting.delete(el);done.add(el);};for(const el of nodes)solve(el);
   }
   parseControllers(value) {const result={};if(value){const values=value.split(',');for(let i=0;i+1<values.length;i+=2)result[values[i]]=values[i+1];}return result;}
   renderText(el,value){

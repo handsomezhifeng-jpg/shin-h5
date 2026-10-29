@@ -1,0 +1,1357 @@
+{
+  "roots": {
+    "Comp_MileStoneMainProgress": {
+      "pkg": "b8kc7kqz",
+      "id": "khlb1ke46qg"
+    },
+    "Com_MileStoneReward": {
+      "pkg": "b8kc7kqz",
+      "id": "b4z81ke46tx"
+    },
+    "main_Activity_MileStoneItem": {
+      "pkg": "b8kc7kqz",
+      "id": "udwk1ke46td"
+    },
+    "progress_mileStoneActivity": {
+      "pkg": "b8kc7kqz",
+      "id": "d0a639"
+    },
+    "MileStoneNoRankWindow": {
+      "pkg": "oat65s2u",
+      "id": "xf161ke46s5"
+    },
+    "MileStoneRankLockWindow": {
+      "pkg": "oat65s2u",
+      "id": "r5dd1ke46rl"
+    },
+    "MileStoneRulesWindow": {
+      "pkg": "oat65s2u",
+      "id": "tb8o1ke46o7"
+    },
+    "Comp_MileStoneUnLockRank": {
+      "pkg": "oat65s2u",
+      "id": "snxz1ke46vc"
+    },
+    "Comp_StonelDesAndLoot": {
+      "pkg": "oat65s2u",
+      "id": "s6di1ke46oy"
+    },
+    "Comp_MileStoneReward": {
+      "pkg": "oat65s2u",
+      "id": "b4z81ke471c"
+    },
+    "card": {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46oi"
+    },
+    "MileStoneRankWindow": {
+      "pkg": "oat65s2u",
+      "id": "r5dd1ke46rl"
+    },
+    "Comp_StoneBigReward": {
+      "pkg": "kaqu57ng",
+      "id": "tequ1ke46p6"
+    },
+    "Com_CommonTip": {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke46zu"
+    },
+    "Com_CommonTipProgress": {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke4704"
+    },
+    "card_mini": {
+      "pkg": "oat65s2u",
+      "id": "ll1b1ke46ro"
+    },
+    "Comp_Bet_Milestone": {
+      "pkg": "oat65s2u",
+      "id": "h5u41ke46qq"
+    },
+    "Com_mileStonePreview": {
+      "pkg": "oat65s2u",
+      "id": "lk1c1ke46va"
+    },
+    "Ruleswindow_list": {
+      "pkg": "oat65s2u",
+      "id": "jjx91ke46ou"
+    },
+    "Comp_StoneRankListItem": {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46on"
+    },
+    "Com_rankTopThree": {
+      "pkg": "kaqu57ng",
+      "id": "myob1ke46rj"
+    }
+  },
+  "aliases": {
+    "MileStoneRankWindow": "MileStoneRankLockWindow"
+  },
+  "skinPackage": "Milestone_01",
+  "packagingConfigs": {
+    "8": {
+      "skinId": 8,
+      "title": "img_milestone_title_8",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_8",
+      "rankBg": [
+        "img_rules_banner_8",
+        "img_tournament_banner_8"
+      ]
+    },
+    "24": {
+      "skinId": 24,
+      "title": "img_milestone_title_24",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_24",
+      "rankBg": [
+        "img_rules_banner_24",
+        "img_tournament_banner_24"
+      ]
+    }
+  },
+  "dynamicImages": {
+    "icon_milestone_0008": {
+      "url": "assets/scene/milestone/icon_milestone_0008.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0008.png"
+    },
+    "icon_milestone_0024": {
+      "url": "assets/scene/milestone/icon_milestone_0024.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0024.png"
+    },
+    "img_milestone_title_8": {
+      "url": "assets/scene/milestone/img_milestone_title_8_zh_cn.png",
+      "width": 252,
+      "height": 224,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_8_zh_cn.png"
+    },
+    "img_milestone_banner_8": {
+      "url": "assets/scene/milestone/img_milestone_banner_8_zh_cn.png",
+      "width": 632,
+      "height": 548,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_8_zh_cn.png"
+    },
+    "img_rules_banner_8": {
+      "url": "assets/scene/milestone/img_rules_banner_8_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_8_zh_cn.png"
+    },
+    "img_tournament_banner_8": {
+      "url": "assets/scene/milestone/img_tournament_banner_8.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_8.png"
+    },
+    "img_milestone_title_24": {
+      "url": "assets/scene/milestone/img_milestone_title_24_zh_cn.png",
+      "width": 412,
+      "height": 164,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_24_zh_cn.png"
+    },
+    "img_milestone_banner_24": {
+      "url": "assets/scene/milestone/img_milestone_banner_24_zh_cn.png",
+      "width": 632,
+      "height": 564,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_24_zh_cn.png"
+    },
+    "img_rules_banner_24": {
+      "url": "assets/scene/milestone/img_rules_banner_24_zh_cn.png",
+      "width": 656,
+      "height": 528,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_24_zh_cn.png"
+    },
+    "img_tournament_banner_24": {
+      "url": "assets/scene/milestone/img_tournament_banner_24.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_24.png"
+    },
+    "bg_milestone_main_01": {
+      "url": "assets/scene/milestone/bg_milestone_main_01.png",
+      "width": 480,
+      "height": 162,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/MileStoneIcon/bg_milestone_main_01.png"
+    },
+    "tipsTitle": {
+      "url": "assets/scene/milestone/tipsTitle_zh_cn.png",
+      "width": 200,
+      "height": 52,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/tipsTitle_zh_cn.png"
+    },
+    "icon_shield01": {
+      "url": "assets/scene/milestone/icon_shield01.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Shield/icon_shield01.png"
+    },
+    "hely_icon_10_01": {
+      "url": "assets/ui/GameRule/at3r1ke47bi.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "GameRule",
+      "id": "at3r1ke47bi",
+      "icon": "hely_icon_10_01",
+      "source": "fgui/assets/GameRule/Image/hely_icon_10_01.png"
+    },
+    "hely_icon_11_01": {
+      "url": "assets/ui/GameRule/at3r1ke47bk.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "GameRule",
+      "id": "at3r1ke47bk",
+      "icon": "hely_icon_11_01",
+      "source": "fgui/assets/GameRule/Image/hely_icon_11_01.png"
+    }
+  },
+  "rewardImages": {
+    "40001": {
+      "url": "assets/ui/IconItem/jwkq1ke46p3.png",
+      "w": 460,
+      "h": 460,
+      "width": 460,
+      "height": 460,
+      "pkg": "IconItem",
+      "id": "jwkq1ke46p3",
+      "icon": "icon_CardPack_01",
+      "source": "fgui/assets/IconItem/icon_CardPack_01.png",
+      "name": "一星卡包",
+      "quality": 1,
+      "itemId": 40001,
+      "configuredIcon": "icon_CardPack_01"
+    },
+    "40002": {
+      "url": "assets/ui/IconItem/d0a61ke46om.png",
+      "w": 460,
+      "h": 460,
+      "width": 460,
+      "height": 460,
+      "pkg": "IconItem",
+      "id": "d0a61ke46om",
+      "icon": "icon_CardPack_02",
+      "source": "fgui/assets/IconItem/icon_CardPack_02.png",
+      "name": "二星卡包",
+      "quality": 2,
+      "itemId": 40002,
+      "configuredIcon": "icon_CardPack_02"
+    },
+    "40003": {
+      "url": "assets/ui/IconItem/d0a61ke46on.png",
+      "w": 460,
+      "h": 460,
+      "width": 460,
+      "height": 460,
+      "pkg": "IconItem",
+      "id": "d0a61ke46on",
+      "icon": "icon_CardPack_03",
+      "source": "fgui/assets/IconItem/icon_CardPack_03.png",
+      "name": "三星卡包",
+      "quality": 3,
+      "itemId": 40003,
+      "configuredIcon": "icon_CardPack_03"
+    },
+    "40004": {
+      "url": "assets/ui/IconItem/d0a61ke46oo.png",
+      "w": 460,
+      "h": 460,
+      "width": 460,
+      "height": 460,
+      "pkg": "IconItem",
+      "id": "d0a61ke46oo",
+      "icon": "icon_CardPack_04",
+      "source": "fgui/assets/IconItem/icon_CardPack_04.png",
+      "name": "四星卡包",
+      "quality": 4,
+      "itemId": 40004,
+      "configuredIcon": "icon_CardPack_04"
+    },
+    "40005": {
+      "url": "assets/ui/IconItem/d0a61ke46op.png",
+      "w": 460,
+      "h": 460,
+      "width": 460,
+      "height": 460,
+      "pkg": "IconItem",
+      "id": "d0a61ke46op",
+      "icon": "icon_CardPack_05",
+      "source": "fgui/assets/IconItem/icon_CardPack_05.png",
+      "name": "五星卡包",
+      "quality": 5,
+      "itemId": 40005,
+      "configuredIcon": "icon_CardPack_05"
+    },
+    "40110": {
+      "url": "assets/ui/IconActivity/d0a6x.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a6x",
+      "icon": "icon_main_LimitedTime06",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime06.png",
+      "name": "超真实扮家家酒",
+      "quality": 4,
+      "itemId": 40110,
+      "configuredIcon": "icon_main_LimitedTime06"
+    },
+    "40117": {
+      "url": "assets/ui/IconActivity/d0a6t.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a6t",
+      "icon": "icon_main_LimitedTime11",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime11.png",
+      "name": "小白的特别技",
+      "quality": 4,
+      "itemId": 40117,
+      "configuredIcon": "icon_main_LimitedTime11"
+    },
+    "40118": {
+      "url": "assets/ui/IconActivity/d0a6t.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a6t",
+      "icon": "icon_main_LimitedTime11",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime11.png",
+      "name": "小白的特别技",
+      "quality": 4,
+      "itemId": 40118,
+      "configuredIcon": "icon_main_LimitedTime11"
+    },
+    "40140": {
+      "url": "assets/ui/IconActivity/d0a64.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a64",
+      "icon": "icon_main_LimitedTime08",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime08.png",
+      "name": "小爱的钞能力",
+      "quality": 4,
+      "itemId": 40140,
+      "configuredIcon": "icon_main_LimitedTime08"
+    },
+    "40141": {
+      "url": "assets/ui/IconActivity/d0a64.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a64",
+      "icon": "icon_main_LimitedTime08",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime08.png",
+      "name": "小爱的钞能力",
+      "quality": 4,
+      "itemId": 40141,
+      "configuredIcon": "icon_main_LimitedTime08"
+    },
+    "40142": {
+      "url": "assets/ui/IconActivity/d0a64.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a64",
+      "icon": "icon_main_LimitedTime08",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime08.png",
+      "name": "小爱的钞能力",
+      "quality": 4,
+      "itemId": 40142,
+      "configuredIcon": "icon_main_LimitedTime08"
+    },
+    "40153": {
+      "url": "assets/ui/IconActivity/t71v1z.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "t71v1z",
+      "icon": "icon_main_LimitedTime14",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime14.png",
+      "name": "限定盲盒",
+      "quality": 4,
+      "itemId": 40153,
+      "configuredIcon": "icon_main_LimitedTime14"
+    },
+    "40155": {
+      "url": "assets/ui/IconActivity/t71v1z.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "t71v1z",
+      "icon": "icon_main_LimitedTime14",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime14.png",
+      "name": "限定盲盒",
+      "quality": 4,
+      "itemId": 40155,
+      "configuredIcon": "icon_main_LimitedTime14"
+    },
+    "40169": {
+      "url": "assets/ui/IconActivity/d0a6q.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "d0a6q",
+      "icon": "icon_main_LimitedTime12",
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime12.png",
+      "name": "卖间久里代的拜访",
+      "quality": 4,
+      "itemId": 40169,
+      "configuredIcon": "icon_main_LimitedTime12"
+    },
+    "45002": {
+      "url": "assets/ui/IconActivity/ifbg22.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "ifbg22",
+      "icon": "icon_treasure_01",
+      "source": "fgui/assets/IconActivity/Item/icon_treasure_01.png",
+      "name": "宝藏矿稿",
+      "quality": 3,
+      "itemId": 45002,
+      "configuredIcon": "icon_treasure_01"
+    },
+    "45003": {
+      "url": "assets/ui/IconActivity/ifbg1ke46pr.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "ifbg1ke46pr",
+      "icon": "icon_MarblesCoin",
+      "source": "fgui/assets/IconActivity/Item/icon_MarblesCoin.png",
+      "name": "弹珠币",
+      "quality": 3,
+      "itemId": 45003,
+      "configuredIcon": "icon_MarblesCoin"
+    },
+    "45004": {
+      "url": "assets/ui/IconActivity/jsrj2l.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "jsrj2l",
+      "icon": "icon_partners_01",
+      "source": "fgui/assets/IconActivity/Item/icon_partners_01.png",
+      "name": "合作币",
+      "quality": 3,
+      "itemId": 45004,
+      "configuredIcon": "icon_partners_01"
+    },
+    "45005": {
+      "url": "assets/ui/IconActivity/forr30.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "forr30",
+      "icon": "icon_kayak_01",
+      "source": "fgui/assets/IconActivity/Item/icon_kayak_01.png",
+      "name": "汽油",
+      "quality": 3,
+      "itemId": 45005,
+      "configuredIcon": "icon_kayak_01"
+    },
+    "45006": {
+      "url": "assets/ui/IconActivity/forr2y.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "forr2y",
+      "icon": "icon_Claw",
+      "source": "fgui/assets/IconActivity/Item/icon_Claw.png",
+      "name": "抓娃娃夹子",
+      "quality": 3,
+      "itemId": 45006,
+      "configuredIcon": "icon_Claw"
+    },
+    "45008": {
+      "url": "assets/ui/IconActivity/forr2t.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "forr2t",
+      "icon": "icon_Dream_01",
+      "source": "fgui/assets/IconActivity/Item/icon_Dream_01.png",
+      "name": "行动力",
+      "quality": 3,
+      "itemId": 45008,
+      "configuredIcon": "icon_Dream_01"
+    },
+    "45012": {
+      "url": "assets/ui/IconActivity/kn0c1ke477q.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "kn0c1ke477q",
+      "icon": "icon_merge_01",
+      "source": "fgui/assets/IconActivity/Item/icon_merge_01.png",
+      "name": "黄油",
+      "quality": 3,
+      "itemId": 45012,
+      "configuredIcon": "icon_merge_01"
+    },
+    "45017": {
+      "url": "assets/ui/IconActivity/gi7b1ke478a.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "gi7b1ke478a",
+      "icon": "icon_ActivityShop_01",
+      "source": "fgui/assets/IconActivity/Item/icon_ActivityShop_01.png",
+      "name": "金不理商店货币",
+      "quality": 3,
+      "itemId": 45017,
+      "configuredIcon": "icon_ActivityShop_01"
+    },
+    "45024": {
+      "url": "assets/ui/IconActivity/at3r1ke47bp.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconActivity",
+      "id": "at3r1ke47bp",
+      "icon": "icon_Block_coin_01",
+      "source": "fgui/assets/IconActivity/Item/icon_Block_coin_01.png",
+      "name": "方块",
+      "quality": 3,
+      "itemId": 45024,
+      "configuredIcon": "icon_Block_coin_01"
+    },
+    "resource:1": {
+      "url": "assets/ui/IconItem/khoq1ke46sb.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "khoq1ke46sb",
+      "icon": "icon_money",
+      "source": "fgui/assets/IconItem/icon_money.png",
+      "name": "金币",
+      "resourceId": 1,
+      "configuredIcon": "icon_money",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:2": {
+      "url": "assets/ui/IconItem/v4ji1ke46s6.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "v4ji1ke46s6",
+      "icon": "icon_dice",
+      "source": "fgui/assets/IconItem/icon_dice.png",
+      "name": "骰子",
+      "resourceId": 2,
+      "configuredIcon": "icon_dice",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:3": {
+      "url": "assets/ui/IconItem/xoij1ke46n8.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "xoij1ke46n8",
+      "icon": "icon_GachaCoin",
+      "source": "fgui/assets/IconItem/icon_GachaCoin.png",
+      "name": "扭蛋币增加",
+      "resourceId": 3,
+      "configuredIcon": "icon_GachaCoin",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:4": {
+      "url": "assets/scene/milestone/icon_shield01.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Shield/icon_shield01.png",
+      "w": 200,
+      "h": 200,
+      "icon": "icon_shield01",
+      "pkg": null,
+      "configurationSource": "Original Unity texture exists though absent from current IconItem FGUI package.",
+      "name": "护盾",
+      "resourceId": 4,
+      "configuredIcon": "icon_shield01",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:5": {
+      "url": "assets/ui/IconItem/nhd51ke4749.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "nhd51ke4749",
+      "icon": "icon_EXGachaCoin",
+      "source": "fgui/assets/IconItem/icon_EXGachaCoin.png",
+      "name": "EX扭蛋币",
+      "resourceId": 5,
+      "configuredIcon": "icon_EXGachaCoin",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:6": {
+      "url": "assets/ui/IconItem/j5t21ke474w.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "j5t21ke474w",
+      "icon": "icon_pet_xp",
+      "source": "fgui/assets/IconItem/icon_pet_xp.png",
+      "name": "伙伴经验",
+      "resourceId": 6,
+      "configuredIcon": "icon_pet_xp",
+      "configuration": "player_variables.config_pic"
+    },
+    "resource:7": {
+      "url": "assets/ui/IconItem/wgcb1ke474a.png",
+      "w": 200,
+      "h": 200,
+      "width": 200,
+      "height": 200,
+      "pkg": "IconItem",
+      "id": "wgcb1ke474a",
+      "icon": "icon_diamond_01",
+      "source": "fgui/assets/IconItem/icon_diamond_01.png",
+      "name": "钻石",
+      "resourceId": 7,
+      "configuredIcon": "icon_diamond_01",
+      "configuration": "player_variables.config_pic"
+    }
+  },
+  "itemNames": {
+    "40001": "一星卡包",
+    "40002": "二星卡包",
+    "40003": "三星卡包",
+    "40004": "四星卡包",
+    "40005": "五星卡包",
+    "40110": "超真实扮家家酒",
+    "40117": "小白的特别技",
+    "40118": "小白的特别技",
+    "40140": "小爱的钞能力",
+    "40141": "小爱的钞能力",
+    "40142": "小爱的钞能力",
+    "40153": "限定盲盒",
+    "40155": "限定盲盒",
+    "40169": "卖间久里代的拜访",
+    "45002": "宝藏矿稿",
+    "45003": "弹珠币",
+    "45004": "合作币",
+    "45005": "汽油",
+    "45006": "抓娃娃夹子",
+    "45008": "行动力",
+    "45012": "黄油",
+    "45017": "金不理商店货币",
+    "45020": "小飞鞋",
+    "45024": "方块"
+  },
+  "rewardImageVariants": {
+    "45020": {
+      "1": {
+        "url": "assets/ui/IconActivity/jtk41ke47aj.png",
+        "w": 200,
+        "h": 200,
+        "width": 200,
+        "height": 200,
+        "pkg": "IconActivity",
+        "id": "jtk41ke47aj",
+        "icon": "icon_storm_01_01",
+        "source": "fgui/assets/IconActivity/Item/icon_storm_01_01.png"
+      },
+      "3": {
+        "url": "assets/ui/IconActivity/de001ke47bi.png",
+        "w": 200,
+        "h": 200,
+        "width": 200,
+        "height": 200,
+        "pkg": "IconActivity",
+        "id": "de001ke47bi",
+        "icon": "icon_storm_01_03",
+        "source": "fgui/assets/IconActivity/Item/icon_storm_01_03.png"
+      },
+      "4": {
+        "url": "assets/ui/IconActivity/de001ke47bj.png",
+        "w": 200,
+        "h": 200,
+        "width": 200,
+        "height": 200,
+        "pkg": "IconActivity",
+        "id": "de001ke47bj",
+        "icon": "icon_storm_01_04",
+        "source": "fgui/assets/IconActivity/Item/icon_storm_01_04.png"
+      },
+      "5": {
+        "url": "assets/ui/IconActivity/de001ke47bk.png",
+        "w": 200,
+        "h": 200,
+        "width": 200,
+        "height": 200,
+        "pkg": "IconActivity",
+        "id": "de001ke47bk",
+        "icon": "icon_storm_01_05",
+        "source": "fgui/assets/IconActivity/Item/icon_storm_01_05.png"
+      }
+    }
+  },
+  "rewardImageIssues": [
+    {
+      "itemId": 45020,
+      "configuredIcon": "icon_storm_01",
+      "reason": "Original icon_storm_01.png does not exist; native ActivityHelper resolves a running Storm activity subCfg.icon. True source variants are exported by activity skin, without pretending the unsuffixed icon exists.",
+      "variants": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "stringsURL": "assets/scene/milestone/strings.json",
+  "notes": [
+    "Package ids8/24 are activity packaging rows, not Milestone_08/24 FGUI IP packages. Original current IP dynamic card art is Milestone_01.",
+    "MileStoneRankWindow is an H5 lookup alias of the actual native MileStoneRankLockWindow root.",
+    "Screenshot targets: icon_milestone_0008 is the orange; icon_milestone_0024 is a small drum with two drumsticks.",
+    "Original component trees, controllers, layout and transitions are preserved. Dynamic lists still need native-layout handling in the H5 renderer."
+  ],
+  "issues": [
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471j",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471n",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471k",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471l",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "m2as1q",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "pmh51ke46qz",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "h7lx1ke4798",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "m5h41ke46mt",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "m5h41ke46my",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "pmh51ke46qy",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "2e1ky9q4",
+      "id": "ici21gmg675",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    }
+  ],
+  "referenceSkinImages": {
+    "bg_main_activity01": {
+      "pkg": "Main",
+      "id": "d0a66",
+      "name": "bg_main_activity01",
+      "url": "assets/scene/milestone/reference/Main_d0a66_default.png",
+      "width": 424,
+      "height": 84,
+      "w": 424,
+      "h": 84,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1,
+          1,
+          84,
+          407
+        ],
+        "rotated": true,
+        "offset": [
+          1,
+          0
+        ],
+        "originalSize": [
+          424,
+          84
+        ]
+      },
+      "branch": "default",
+      "sha256": "0763c76f7801530817f8b1f30818045c83cc043c6953a65b1a8f536cd7e5aec6",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/loader_bgMain",
+      "layout": {
+        "xy": [
+          -2,
+          23
+        ],
+        "size": null,
+        "pivot": [
+          0.0,
+          0.5
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    },
+    "bg_main_activity03": {
+      "pkg": "Main",
+      "id": "syfz1ke471f",
+      "name": "bg_main_activity03",
+      "url": "assets/scene/milestone/reference/Main_syfz1ke471f_default.png",
+      "width": 92,
+      "height": 92,
+      "w": 92,
+      "h": 92,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1121,
+          278,
+          66,
+          75
+        ],
+        "rotated": true,
+        "offset": [
+          1,
+          10
+        ],
+        "originalSize": [
+          92,
+          92
+        ]
+      },
+      "branch": "default",
+      "sha256": "e00fe7392b7b5566f8f850fc835086b7223d451eb20b0486283f757fc22b7073",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/n173",
+      "layout": {
+        "xy": [
+          4,
+          20
+        ],
+        "size": null,
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    },
+    "bg_milestone_progress_02": {
+      "pkg": "Main",
+      "id": "j0rg1ke46s5",
+      "name": "bg_milestone_progress_02",
+      "url": "assets/scene/milestone/reference/Main_j0rg1ke46s5_default.png",
+      "width": 40,
+      "height": 32,
+      "w": 40,
+      "h": 32,
+      "scale9grid": [
+        17,
+        14,
+        7,
+        5
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1414,
+          964,
+          32,
+          40
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          32
+        ]
+      },
+      "branch": "default",
+      "sha256": "31c5667a3a0a76e512f1c2db7768b82e6fbce1963f6960389b175c118bfa70fa",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 17,
+        "top": 14,
+        "right": 16,
+        "bottom": 13
+      },
+      "controlPath": "Main/Comp_MileStoneMainProgress/n157",
+      "layout": {
+        "xy": [
+          62,
+          48
+        ],
+        "size": [
+          291,
+          38
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#92796bff"
+      }
+    },
+    "bg_common_list02": {
+      "pkg": "Common",
+      "id": "ctd01ke46x1",
+      "name": "bg_common_list02",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x1_default.png",
+      "width": 100,
+      "height": 132,
+      "w": 100,
+      "h": 132,
+      "scale9grid": [
+        24,
+        23,
+        52,
+        85
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          544,
+          1767,
+          132,
+          100
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          100,
+          132
+        ]
+      },
+      "branch": "default",
+      "sha256": "f1d5987e8e3d868d20e194595f142f26aba573cbb7f0673f2231fc42c2c0d70d",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 24,
+        "top": 23,
+        "right": 24,
+        "bottom": 24
+      },
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_list03": {
+      "pkg": "Common",
+      "id": "ctd01ke46x2",
+      "name": "bg_common_list03",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x2_default.png",
+      "width": 12,
+      "height": 40,
+      "w": 12,
+      "h": 40,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1938,
+          525,
+          38,
+          12
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          1
+        ],
+        "originalSize": [
+          12,
+          40
+        ]
+      },
+      "branch": "default",
+      "sha256": "3c5b58405597f09131ec6c6ad983caf6f2a3b5320c89a366f17e7dfd51332df6",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_list04": {
+      "pkg": "Common",
+      "id": "ctd01ke46x3",
+      "name": "bg_common_list04",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x3_default.png",
+      "width": 80,
+      "height": 120,
+      "w": 80,
+      "h": 120,
+      "scale9grid": [
+        36,
+        56,
+        8,
+        8
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1365,
+          1639,
+          80,
+          120
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          80,
+          120
+        ]
+      },
+      "branch": "default",
+      "sha256": "2e4e90fa288408691d2970b7b3ecb7f0ff1912e90e67739c66790100b879a5e9",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 36,
+        "top": 56,
+        "right": 36,
+        "bottom": 56
+      },
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_listline01": {
+      "pkg": "Common",
+      "id": "ctd01ke46x4",
+      "name": "bg_common_listline01",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x4_default.png",
+      "width": 60,
+      "height": 4,
+      "w": 60,
+      "h": 4,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          778,
+          1125,
+          4,
+          60
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          60,
+          4
+        ]
+      },
+      "branch": "default",
+      "sha256": "5b75e54e4df250b7ff037fd7201be716da473f0dca54f086c0b103c263d716a8",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_round": {
+      "pkg": "Common",
+      "id": "xoij1ke46lk",
+      "name": "bg_common_round",
+      "url": "assets/scene/milestone/reference/Common_xoij1ke46lk_default.png",
+      "width": 160,
+      "height": 160,
+      "w": 160,
+      "h": 160,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1508,
+          801,
+          160,
+          160
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          160,
+          160
+        ]
+      },
+      "branch": "default",
+      "sha256": "f5630fb19e99b09c9320e11ffd67e498d8e1ca57ab06b4fb0eeb46ec0edcc8b8",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPaths": [
+        "Main/Comp_MileStoneMainProgress/com_mileReward/n146",
+        "Main/Comp_MileStoneMainProgress/com_mileReward/n147"
+      ],
+      "layouts": {
+        "n146": {
+          "xy": [
+            34,
+            33
+          ],
+          "size": [
+            60,
+            60
+          ],
+          "pivot": [
+            0.5,
+            0.5
+          ],
+          "anchor": true,
+          "scale": [
+            1,
+            1
+          ],
+          "rotation": 0.0,
+          "color": "#291f1eff"
+        },
+        "n147": {
+          "xy": [
+            34,
+            33
+          ],
+          "size": [
+            54,
+            54
+          ],
+          "pivot": [
+            0.5,
+            0.5
+          ],
+          "anchor": true,
+          "scale": [
+            1,
+            1
+          ],
+          "rotation": 0.0,
+          "color": "#836c60ff"
+        }
+      },
+      "nativeComponentURL": "assets/scene/milestone/reference/Main_Com_MileStoneReward_published.json"
+    },
+    "icon_common_time": {
+      "pkg": "Common",
+      "id": "xoij1ke46mf",
+      "name": "icon_common_time",
+      "url": "assets/scene/milestone/reference/Common_xoij1ke46mf_default.png",
+      "width": 42,
+      "height": 42,
+      "w": 42,
+      "h": 42,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1938,
+          437,
+          42,
+          42
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          42,
+          42
+        ]
+      },
+      "branch": "default",
+      "sha256": "0aeb8b6f9480b4d3f572804524aa7a0f3dceb1f502e151be14063aa126eda57b",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/n170",
+      "layout": {
+        "xy": [
+          115,
+          8
+        ],
+        "size": [
+          29,
+          29
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    }
+  },
+  "referenceSkinComponents": {
+    "Common/Com_List02": {
+      "url": "assets/scene/milestone/reference/Common_Com_List02_published.json",
+      "width": 564,
+      "height": 132,
+      "page": "0"
+    },
+    "Main/Comp_MileStoneMainProgress": {
+      "url": "assets/scene/milestone/reference/Main_Comp_MileStoneMainProgress_published.json"
+    },
+    "Main/Com_MileStoneReward": {
+      "url": "assets/scene/milestone/reference/Main_Com_MileStoneReward_published.json",
+      "width": 70,
+      "height": 77,
+      "parentLayout": {
+        "id": "n146_sti0",
+        "name": "com_mileReward",
+        "type": 9,
+        "src": "b4z81ke46tx",
+        "pkg": null,
+        "xy": [
+          335,
+          33
+        ],
+        "size": null,
+        "scale": [
+          1,
+          1
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "alpha": 1.0,
+        "rotation": 0.0,
+        "visible": true,
+        "grayed": false,
+        "color": "#ffffffff",
+        "gears": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1842 @@
+{
+  "sourceRoot": "fgui/assets",
+  "preservedBranch": "Original assets, never assets_CN",
+  "addedResources": [
+    {
+      "pkg": "b8kc7kqz",
+      "id": "udwk1ke46td",
+      "name": "main_Activity_MileStoneItem.xml"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "khlb1n",
+      "name": "img_main_Activitybg.png"
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "d15l1o",
+      "name": "img_main_Rankingbg.png"
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "95wr1v",
+      "name": "img_main_Rankingbg01.png"
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "d0a639",
+      "name": "progress_mileStoneActivity.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "95wr1ke46u6",
+      "name": "bg_common_progress2.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "mann1ke46xt",
+      "name": "bg_common_progressround_01.png"
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "pma71ke46r1",
+      "name": "img_progress05.png"
+    },
+    {
+      "pkg": "b8kc7kqz",
+      "id": "j0rg1ke46s4",
+      "name": "bg_milestone_progress_01.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "stoh1ke46sv",
+      "name": "icon_lock4.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "xf161ke46s5",
+      "name": "MileStoneNoRankWindow.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "kdeb1ke46vu",
+      "name": "bg_com_window_02.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "rfr91ke46to",
+      "name": "img_milestone_banner_12_ja.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "udcm1ke46rf",
+      "name": "bg_milestone_progress_02.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "jwkq1ke46pk",
+      "name": "progress_bg.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46ol",
+      "name": "bar.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "b4z81ke471c",
+      "name": "Comp_MileStoneReward.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "jwkq1ke46pj",
+      "name": "img_com_Round.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "udcm1ke46re",
+      "name": "bg_milestone_progress_01.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "b4z81ke471b",
+      "name": "bg_goldenburi_bubble_03.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "b4z81ke471c",
+      "name": "bg_goldenburi_bubblearrow_02.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46oi",
+      "name": "card.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "h5u41ke46qp",
+      "name": "sqbg_milestone_list01.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "h7lx1ke471d",
+      "name": "img_card_lichengbei.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "nbao1ke46yb",
+      "name": "Com_List02.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ctd01ke46x4",
+      "name": "bg_common_listline01.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ctd01ke46x2",
+      "name": "bg_common_list03.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "ll1b1ke46ro",
+      "name": "card_mini.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "j0rg1ke46rq",
+      "name": "img_card_luzhang.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "h5u41ke46qq",
+      "name": "Comp_Bet_Milestone.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "lk1c1ke46va",
+      "name": "Com_mileStonePreview.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "lk1c1ke46v6",
+      "name": "img_milestone_skinstand.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "lk1c1ke46v9",
+      "name": "img_GetReward_txt_03_zh_cn.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "r5dd1ke46rl",
+      "name": "MileStoneRankLockWindow.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "rfr91ke46up",
+      "name": "img_rules_banner_1_ja.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "zkdw1ke46sf",
+      "name": "img_milestone_title_1_ja.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "dvs92l",
+      "name": "Com_CountDown.xml"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "myob1ke46rj",
+      "name": "Com_rankTopThree.xml"
+    },
+    {
+      "pkg": "zf0sl6ow",
+      "id": "kf8fv4n",
+      "name": "pawn_001.png"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "wmn84",
+      "name": "img_dream_rank_03.png"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "wmn82",
+      "name": "img_dream_rank_01.png"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "wmn83",
+      "name": "img_dream_rank_02.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "s6di1ke46oy",
+      "name": "Comp_StonelDesAndLoot.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "jjx91ke46ou",
+      "name": "Ruleswindow_list.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "l45e1ke46v4",
+      "name": "hely_icon_10.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "l45e1ke46v5",
+      "name": "hely_icon_11.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "ifbg22",
+      "name": "icon_treasure_01.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "udcm1ke46rg",
+      "name": "bg_milestone_num.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "udcm1ke46rh",
+      "name": "bg_milestone_num_arrow.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "snxz1ke46vc",
+      "name": "Comp_MileStoneUnLockRank.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46on",
+      "name": "Comp_StoneRankListItem.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "wmn88",
+      "name": "img_selfRankBg.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "o5lq1ke46ti",
+      "name": "bg_friend_rank.png"
+    },
+    {
+      "pkg": "dhb8x10i",
+      "id": "r5dd1ke46yc",
+      "name": "Item_Reward_50.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "nbao1ke46yg",
+      "name": "line_friend_bottom.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "o5lq1ke46tb",
+      "name": "img_rankIndex01.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "o5lq1ke46tc",
+      "name": "img_rankIndex02.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "o5lq1ke46td",
+      "name": "img_rankIndex03.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "rdwn1ke46nv",
+      "name": "btn_blue_Med.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "kdeb1ke46wi",
+      "name": "btn_com_blue02.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "tb8o1ke46o7",
+      "name": "MileStoneRulesWindow.xml"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "tequ1ke46p6",
+      "name": "Comp_StoneBigReward.xml"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "jyy71ke46qs",
+      "name": "tips_milestone_pop.png"
+    },
+    {
+      "pkg": "kaqu57ng",
+      "id": "jyy71ke46qr",
+      "name": "tips_milestone_arrow.png"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "t7hs1ke46s3",
+      "name": "tips_milestone_title.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke46zu",
+      "name": "Com_CommonTip.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke46zv",
+      "name": "Com_TipBg.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "r9eu1ke46xh",
+      "name": "bg_com_tips02.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke46zw",
+      "name": "Com_TextPart.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "t59o1ke470f",
+      "name": "Com_arrow.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "xoij1ke46ml",
+      "name": "img_com_tips02.png"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke4704",
+      "name": "Com_CommonTipProgress.xml"
+    },
+    {
+      "pkg": "wmp9wtjk",
+      "id": "ox2n1b",
+      "name": "img_login_star02.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r0",
+      "name": "img_card.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r1",
+      "name": "img_card02.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r2",
+      "name": "img_card_binggan.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r3",
+      "name": "img_card_che.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r4",
+      "name": "img_card_dujia.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r5",
+      "name": "img_card_dunpai.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r6",
+      "name": "img_card_jia.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r7",
+      "name": "img_card_jihui.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r8",
+      "name": "img_card_jijin.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3r9",
+      "name": "img_card_jinbi.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3ra",
+      "name": "img_card_lichengbei.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3rb",
+      "name": "img_card_luzhang.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3rc",
+      "name": "img_card_xianjing.png"
+    },
+    {
+      "pkg": "8ys8t4fz",
+      "id": "at3rd",
+      "name": "img_card_youzhiyuan.png"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "jwkq1ke46p3",
+      "name": "icon_CardPack_01.png"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "d0a61ke46om",
+      "name": "icon_CardPack_02.png"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "d0a61ke46on",
+      "name": "icon_CardPack_03.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "d0a6x",
+      "name": "icon_main_LimitedTime06.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "d0a64",
+      "name": "icon_main_LimitedTime08.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "t71v1z",
+      "name": "icon_main_LimitedTime14.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "d0a6q",
+      "name": "icon_main_LimitedTime12.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "ifbg1ke46pr",
+      "name": "icon_MarblesCoin.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "jsrj2l",
+      "name": "icon_partners_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "forr30",
+      "name": "icon_kayak_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "forr2y",
+      "name": "icon_Claw.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "forr2t",
+      "name": "icon_Dream_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "kn0c1ke477q",
+      "name": "icon_merge_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "gi7b1ke478a",
+      "name": "icon_ActivityShop_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "jtk41ke47aj",
+      "name": "icon_storm_01_01.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "de001ke47bi",
+      "name": "icon_storm_01_03.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "de001ke47bj",
+      "name": "icon_storm_01_04.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "de001ke47bk",
+      "name": "icon_storm_01_05.png"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "at3r1ke47bp",
+      "name": "icon_Block_coin_01.png"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "j5t21ke474w",
+      "name": "icon_pet_xp.png"
+    },
+    {
+      "pkg": "qz00fmik",
+      "id": "at3r1ke47bi",
+      "name": "hely_icon_10_01.png"
+    },
+    {
+      "pkg": "qz00fmik",
+      "id": "at3r1ke47bk",
+      "name": "hely_icon_11_01.png"
+    }
+  ],
+  "rootsAdded": {
+    "Comp_MileStoneMainProgress": {
+      "pkg": "b8kc7kqz",
+      "id": "khlb1ke46qg"
+    },
+    "Com_MileStoneReward": {
+      "pkg": "b8kc7kqz",
+      "id": "b4z81ke46tx"
+    },
+    "main_Activity_MileStoneItem": {
+      "pkg": "b8kc7kqz",
+      "id": "udwk1ke46td"
+    },
+    "progress_mileStoneActivity": {
+      "pkg": "b8kc7kqz",
+      "id": "d0a639"
+    },
+    "MileStoneNoRankWindow": {
+      "pkg": "oat65s2u",
+      "id": "xf161ke46s5"
+    },
+    "MileStoneRankLockWindow": {
+      "pkg": "oat65s2u",
+      "id": "r5dd1ke46rl"
+    },
+    "MileStoneRulesWindow": {
+      "pkg": "oat65s2u",
+      "id": "tb8o1ke46o7"
+    },
+    "Comp_MileStoneUnLockRank": {
+      "pkg": "oat65s2u",
+      "id": "snxz1ke46vc"
+    },
+    "Comp_StonelDesAndLoot": {
+      "pkg": "oat65s2u",
+      "id": "s6di1ke46oy"
+    },
+    "Comp_MileStoneReward": {
+      "pkg": "oat65s2u",
+      "id": "b4z81ke471c"
+    },
+    "card": {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46oi"
+    },
+    "MileStoneRankWindow": {
+      "pkg": "oat65s2u",
+      "id": "r5dd1ke46rl"
+    },
+    "Comp_StoneBigReward": {
+      "pkg": "kaqu57ng",
+      "id": "tequ1ke46p6"
+    },
+    "Com_CommonTip": {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke46zu"
+    },
+    "Com_CommonTipProgress": {
+      "pkg": "jcq5wm2b",
+      "id": "dvs91ke4704"
+    },
+    "card_mini": {
+      "pkg": "oat65s2u",
+      "id": "ll1b1ke46ro"
+    },
+    "Comp_Bet_Milestone": {
+      "pkg": "oat65s2u",
+      "id": "h5u41ke46qq"
+    },
+    "Com_mileStonePreview": {
+      "pkg": "oat65s2u",
+      "id": "lk1c1ke46va"
+    },
+    "Ruleswindow_list": {
+      "pkg": "oat65s2u",
+      "id": "jjx91ke46ou"
+    },
+    "Comp_StoneRankListItem": {
+      "pkg": "oat65s2u",
+      "id": "ugwg1ke46on"
+    },
+    "Com_rankTopThree": {
+      "pkg": "kaqu57ng",
+      "id": "myob1ke46rj"
+    }
+  },
+  "fontsUpdated": [
+    {
+      "pkg": "0uor6woz",
+      "id": "g85mz",
+      "name": "CoinFont.fnt",
+      "glyphs": 13
+    }
+  ],
+  "records": [
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity02.png",
+      "output": "assets/ui/Main/dd7a1ke46rd.png",
+      "reused": true,
+      "sha256": "d4fd25f0d2974c27ad11e686f8b39894eb5e369f7a2b2b2a9d80b200fd74af32"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity01.png",
+      "output": "assets/ui/Main/d0a66.png",
+      "reused": true,
+      "sha256": "96e02b70dea06a9d77ef05fc6e1ca63b2ca510ed26abad3e67fdd19efd111ecf"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_milestone_progress_02.png",
+      "output": "assets/ui/Main/j0rg1ke46s5.png",
+      "reused": true,
+      "sha256": "1c1ace15233699676019473196e3555873b32935e25ed48c6086479cede5d980"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bar.png",
+      "output": "assets/ui/Common/d15l1ke46ss.png",
+      "reused": true,
+      "sha256": "8c30a31444c03d6df3f73920f1fbb5d178f043ddbb423cf87d75c5937221da67"
+    },
+    {
+      "source": "fgui/assets/Common/Font/DreamHanSansCN-W22.ttf",
+      "output": "assets/ui/Common/pa8c1ke4798.ttf",
+      "reused": true,
+      "sha256": "fa3e8b3d065057ca1f06890dc140c8e6a690e2da11514dabf8d03948fa393822"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_activity03.png",
+      "output": "assets/ui/Main/syfz1ke471f.png",
+      "reused": true,
+      "sha256": "eac5b2ed14bf1fe5275ba3b680fe1b455ec5bc1f23f2a9cab95937b6d6df607e"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_temporary01.png",
+      "output": "assets/ui/IconItem/d0a61ke46oj.png",
+      "reused": true,
+      "sha256": "fbcb454c130b18b83bbb594e94a2f4408b25acb186ac64ff24209bc5d96ce698"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_com_Details.png",
+      "output": "assets/ui/Common/xoij1ke46lq.png",
+      "reused": true,
+      "sha256": "84afd20c36c98e4affecb6dc0e0be16b82743c0762e49575dd08b42d8cf094dc"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_milestone_01.png",
+      "output": "assets/ui/Main/syfz1ke46u4.png",
+      "reused": true,
+      "sha256": "645a453d6528eb75f2dde91ecce18cd5c687a4b9791dcabdb5ff30565eb292c1"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_round.png",
+      "output": "assets/ui/Common/xoij1ke46lk.png",
+      "reused": true,
+      "sha256": "fb8676e7288b3fa69418dcd7b0aafd775dffea086fc19a6f8139392f293c5515"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_pattern_01.png",
+      "output": "assets/ui/Common/ctd01ke46x5.png",
+      "reused": true,
+      "sha256": "f868aa8fb8fdb35a0f898594e75a41489e83224c03938a4857f58312b1104be3"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_dice.png",
+      "output": "assets/ui/IconItem/v4ji1ke46s6.png",
+      "reused": true,
+      "sha256": "2d9388fcdd451b729e4660de87fcfc035fa209ab41f3417ac7defbd91a985d0b"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_04.png",
+      "output": "assets/ui/IconItem/d0a61ke46oo.png",
+      "reused": true,
+      "sha256": "8dadc9cc3ecea0231aa605bb5a5912f587e38d97749a029aa8238c1870ab2887"
+    },
+    {
+      "source": "fgui/assets/Common/Images/tex_saoguang_01.png",
+      "output": "assets/ui/Common/qo4v1ke470l.png",
+      "reused": true,
+      "sha256": "f987f5fcc8b6a568773a68bfbff156bb067f0eb040cd44133d47fec9a56e35c0"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_complete_01.png",
+      "output": "assets/ui/Common/mann1ke46y1.png",
+      "reused": true,
+      "sha256": "e1fed508e2cad778b664b18fb9e687ea30e8fe1c347ac130d8ee4ea1631abf38"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime01.png",
+      "output": "assets/ui/IconActivity/d0a610.png",
+      "reused": true,
+      "sha256": "7670d446895cd6b244daf5ea356917f094d13ad0a5ffce20c734713244cd090a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips06.png",
+      "output": "assets/ui/Common/o8wu1ke46zk.png",
+      "reused": true,
+      "sha256": "7edb6729ba13c2798a65943e94b5a7db64219be14a596932794cf4057b9d4ddf"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_star.png",
+      "output": "assets/ui/Common/xoij1ke46mj.png",
+      "reused": true,
+      "sha256": "229d0a2a43edb239e331bd69decf4faa90994eaa84b05c34ab23323566f6c8a4"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips05.png",
+      "output": "assets/ui/Common/ozrm1ke46y6.png",
+      "reused": true,
+      "sha256": "07b4679fdd497f1d7e9bcf5d15cfbb5b6fa7c53ae62fd1f425934663d5749acc"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_01.png",
+      "output": "assets/ui/IconItem/i3hm1ke46sc.png",
+      "reused": true,
+      "sha256": "4c12fdab62672b9b20a9498936b5a538db2f66f3cc917a9044f5e1b5c1e77a52"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_03.png",
+      "output": "assets/ui/IconItem/i3hm1ke46se.png",
+      "reused": true,
+      "sha256": "2af694ea475a56ae3503e98fce66cc5713be4a131a429146ac1ab9237fe25319"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_02.png",
+      "output": "assets/ui/IconItem/i3hm1ke46sd.png",
+      "reused": true,
+      "sha256": "fd535fc8ada0f59345d94a8c31b11ea714d5ee107065dacb17dfa0904485814a"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_04.png",
+      "output": "assets/ui/IconItem/mv571ke474h.png",
+      "reused": true,
+      "sha256": "ebd89d2ed7fbbefe81850469b1f2940ff71fc5405c81420d15b6d8ddb7f151a6"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pawn_pack_05.png",
+      "output": "assets/ui/IconItem/j5t21ke474i.png",
+      "reused": true,
+      "sha256": "78d3ebca30723fb355299a383c32cc0dc707591e137926475160167b43d87d7b"
+    },
+    {
+      "source": "fgui/assets/Displayroom/Image/pawn_050.png",
+      "output": "assets/ui/Displayroom/h8v8v62.png",
+      "reused": true,
+      "sha256": "605e06bc2960008d145040d7212a3cce60889dcc2f62dad3c23b431adc1a5c3c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_oval_02.png",
+      "output": "assets/ui/Common/pctp1ke470c.png",
+      "reused": true,
+      "sha256": "e00c670718bb27afde9baa2996d563dec72c1937541e29cadfc4818751a4b8ee"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_main_milestone_02.png",
+      "output": "assets/ui/Main/syfz1ke471e.png",
+      "reused": true,
+      "sha256": "20d26c62aa19281ccb9f2378a0b1b3ffeba5a37c51755429182d4c5e0175e61b"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_add_01.png",
+      "output": "assets/ui/Main/syfz1ke46u5.png",
+      "reused": true,
+      "sha256": "28fa0d217ac3bf3dcc4ae7169e3e0599d753bb276181b39ec4b52ada8fa0af1b"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/img_main_Activitybg.png",
+      "output": "assets/ui/IconActivity/khlb1n.png",
+      "reused": true,
+      "sha256": "fd7a4597ee544a05d4c8179a5c3a4a3d3b3e831e8cfd479645cf1c5413a6421c"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_Rankingbg.png",
+      "output": "assets/ui/Main/d15l1o.png",
+      "reused": true,
+      "sha256": "cf5daf413bfcb9c4782984532b84b0a6e835e854efb70e7812097861be935a57"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_main_Rankingbg01.png",
+      "output": "assets/ui/Main/95wr1v.png",
+      "reused": true,
+      "sha256": "23a5a029dbbb037b404926e4eff6c04ffdf66f72cef02fcc44f3e8181a911172"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_reddot.png",
+      "output": "assets/ui/Common/xoij1ke46n1.png",
+      "reused": true,
+      "sha256": "c3830435beb629e332ca5a74a65a5ff00595809ae2e632bbe85868fc80d68f52"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips04.png",
+      "output": "assets/ui/Common/r9eu1ke46xj.png",
+      "reused": true,
+      "sha256": "a2025b8f7ddeedf64d61fdfeeadea1400d1de5f297595731c30938ecb3ae96dd"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_progress2.png",
+      "output": "assets/ui/Common/95wr1ke46u6.png",
+      "reused": true,
+      "sha256": "f1d7863eaa31f130ac4c8274e8a05696994c8c570eee7735abe4fff0194cc945"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_common_progressround_01.png",
+      "output": "assets/ui/Common/mann1ke46xt.png",
+      "reused": true,
+      "sha256": "dc20367725602b1c7deb500bbd95582db7abea48a32fca4a4538bddfa2831541"
+    },
+    {
+      "source": "fgui/assets/Main/Images/img_progress05.png",
+      "output": "assets/ui/Main/pma71ke46r1.png",
+      "reused": true,
+      "sha256": "c9367478b68758c9696f03d13d34c8cd5122e5ce580b7b94515d1dee1121ad55"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_fund_decorate03.png",
+      "output": "assets/ui/Common/qj9u1ke46r4.png",
+      "reused": true,
+      "sha256": "06787be8f1347f53592be1bf8f37589265951310f465597766ec4b4a6415fc26"
+    },
+    {
+      "source": "fgui/assets/Main/Images/bg_milestone_progress_01.png",
+      "output": "assets/ui/Main/j0rg1ke46s4.png",
+      "reused": true,
+      "sha256": "2874b093876ca68593e8283673899274c2ff80fe6f875b8f037cde64cd2e037a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_lock.png",
+      "output": "assets/ui/Common/mzam1ke46sh.png",
+      "reused": true,
+      "sha256": "8466ed87a52121ad336d69e234afb204019e2d13d2cfc6e13adccc71017c5ce3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_lock4.png",
+      "output": "assets/ui/Common/stoh1ke46sv.png",
+      "reused": true,
+      "sha256": "9214d05edd39936fc7e656a25c49746d2a6f1b59f92d6739088717c69c246671"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_window_02.png",
+      "output": "assets/ui/Common/kdeb1ke46vu.png",
+      "reused": true,
+      "sha256": "d3c5c16283e56667212dc47d454ba8226cfd0eea3a01384d63ddbacaf410cfcb"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_milestone_banner_12_ja.png",
+      "output": "assets/ui/Milestone/rfr91ke46to.png",
+      "reused": true,
+      "sha256": "f27a5451f839661284de2d28729bb909e37d573f1f72c1620349d920570ddddc"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/icon_common_time.png",
+      "output": "assets/ui/Common/xoij1ke46mf.png",
+      "reused": true,
+      "sha256": "b1b67c5a694a253ebd102e7d1f4958a3807c95131bc43d5ca46608be99d61b4d"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/bg_milestone_progress_02.png",
+      "output": "assets/ui/Milestone/udcm1ke46rf.png",
+      "reused": true,
+      "sha256": "e593c742a7975dccb7e1869427d12f1b8faa62cbdd9303e49ae21f82b8fc7ee6"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/progress_bg.png",
+      "output": "assets/ui/Milestone/jwkq1ke46pk.png",
+      "reused": true,
+      "sha256": "dc7aa7cfa04689c5f1685ecb774af97e264b4dc68803b329cac53abeae6f3c6f"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/bar.png",
+      "output": "assets/ui/Milestone/ugwg1ke46ol.png",
+      "reused": true,
+      "sha256": "cbd086965ac14d932ec0733d015ec8aa85fb1225145e8f51b27daa2362add73c"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_com_Round.png",
+      "output": "assets/ui/Milestone/jwkq1ke46pj.png",
+      "reused": true,
+      "sha256": "83c8e4927bdadf2abdbf66bf5a13c9afde8d01efa92185503d380ddcb6d0a580"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/bg_milestone_progress_01.png",
+      "output": "assets/ui/Milestone/udcm1ke46re.png",
+      "reused": true,
+      "sha256": "2874b093876ca68593e8283673899274c2ff80fe6f875b8f037cde64cd2e037a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_goldenburi_bubble_03.png",
+      "output": "assets/ui/Common/b4z81ke471b.png",
+      "reused": true,
+      "sha256": "81629e6df9e5b79869c536a05591ed14d02668fa805d9150834498b17e8f1d51"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_goldenburi_bubblearrow_02.png",
+      "output": "assets/ui/Common/b4z81ke471c.png",
+      "reused": true,
+      "sha256": "ced85575cb772b6dea0264634df6bc185948b7b37db53846be3b79b008dd195e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_common_title_03.png",
+      "output": "assets/ui/Common/sxnt1ke46xf.png",
+      "reused": true,
+      "sha256": "47f3db271e5dd519fb41369f6a6b8f309524c2d10f11b547aeac11fcbc75faf3"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/sqbg_milestone_list01.png",
+      "output": "assets/ui/Milestone/h5u41ke46qp.png",
+      "reused": true,
+      "sha256": "75892fb8d81053d0c897ae5cd625b1a3008bbd8add2f035f27f4a21e51e5e640"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_card_lichengbei.png",
+      "output": "assets/ui/Milestone/h7lx1ke471d.png",
+      "reused": true,
+      "sha256": "37adad4c6932f7d0a59d4185783282ba051c746839e0f3ffe92187f163fe7ed2"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_list02.png",
+      "output": "assets/ui/Common/ctd01ke46x1.png",
+      "reused": true,
+      "sha256": "adf8397a874ce2bbeb0d00cee4d30db19c6b3b7283c42e9badf67350cc2557a7"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_list04.png",
+      "output": "assets/ui/Common/ctd01ke46x3.png",
+      "reused": true,
+      "sha256": "3f1057fd4158d66b025205356fe4d73bc909bc886434a939641a6a56b78bcb5b"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend01.png",
+      "output": "assets/ui/Common/mwjh1ke479l.png",
+      "reused": true,
+      "sha256": "42120ab883bfe3f791436484700cc004efd8d7c729c8bd25fd336e8352d33951"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_listFriend01_1.png",
+      "output": "assets/ui/Common/mwjh1ke479m.png",
+      "reused": true,
+      "sha256": "26aae785ac991264a0e6fce8d8e610669238f2ca11ab5c331f0958fda8a653a7"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_listline01.png",
+      "output": "assets/ui/Common/ctd01ke46x4.png",
+      "reused": true,
+      "sha256": "7eb7ead0d350fc003227977b8186b3112482bcd1f2730ce54dd67b9eb65c7bc9"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_list03.png",
+      "output": "assets/ui/Common/ctd01ke46x2.png",
+      "reused": true,
+      "sha256": "3ac54c3d277bd9b2bfe8a9bc8be86ee84f740ceb12e7738c73ad69d5170e9026"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_card_luzhang.png",
+      "output": "assets/ui/Milestone/j0rg1ke46rq.png",
+      "reused": true,
+      "sha256": "7f84d1098164f92fe1cf2bf8caec8868d411c786d8382565ac4553c58c5a54d4"
+    },
+    {
+      "source": "fgui/assets/Common/Images/icon_com_close_decoration02.png",
+      "output": "assets/ui/Common/kdeb1ke46vz.png",
+      "reused": true,
+      "sha256": "7cedba602aeb9677c642599a578eb1ce899cd3240afe0a5353e1fea3795edbd3"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_close_new.png",
+      "output": "assets/ui/Common/kdeb1ke46vs.png",
+      "reused": true,
+      "sha256": "f66b41561d2d687079fe8a5a139380eb6797de9c0107e1e711f6cb623d7e1d7a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_close_new02.png",
+      "output": "assets/ui/Common/q6hj1ke479s.png",
+      "reused": true,
+      "sha256": "e212d1803818434462e2361acdc61b41afb510b89e85480be04c9f5006265325"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_milestone_skinstand.png",
+      "output": "assets/ui/Milestone/lk1c1ke46v6.png",
+      "reused": true,
+      "sha256": "78e06a3760be4e1e40504cb3ff8ac46b9420e5be0875d8e2624e6f461db51b6b"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/img_GetReward_txt_03_zh_cn.png",
+      "output": "assets/ui/Milestone/lk1c1ke46v9.png",
+      "reused": true,
+      "sha256": "7d6313b4655f1843ba7e5941a32755c9b1019d2d420a32497cac5e15f73db450"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/有排面里程碑背景/img_rules_banner_1_ja.png",
+      "output": "assets/ui/Milestone/rfr91ke46up.png",
+      "reused": true,
+      "sha256": "b719125945f1473dac0fbce08e4587622492a719b3ffd7d64ec23046d6e980ed"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/img_milestone_title_1_ja.png",
+      "output": "assets/ui/Milestone/zkdw1ke46sf.png",
+      "reused": true,
+      "sha256": "b0c71a37de86d973bf5f272bd1354c8a4432637c77ef4ddfcf9da4336f25acb2"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_progress.png",
+      "output": "assets/ui/Common/xoij1ke46lj.png",
+      "reused": true,
+      "sha256": "3569cda4802e018d8196e670ae2d1803a5f01943b195163eb00a2b7eb6280623"
+    },
+    {
+      "source": "fgui/assets/Displayroom/Image/pawn_001.png",
+      "output": "assets/ui/Displayroom/kf8fv4n.png",
+      "reused": true,
+      "sha256": "45f7c3bd9bcc02a762f0ff5a82d8639cea042c6556dac77467c94842c4b4aacf"
+    },
+    {
+      "source": "fgui/assets/CommonActivity/Img/img_dream_rank_03.png",
+      "output": "assets/ui/CommonActivity/wmn84.png",
+      "reused": true,
+      "sha256": "fe4512e843f75f87dd00729e325dae8c01a220e0637e8b758ab6a7906d308e3c"
+    },
+    {
+      "source": "fgui/assets/CommonActivity/Img/img_dream_rank_01.png",
+      "output": "assets/ui/CommonActivity/wmn82.png",
+      "reused": true,
+      "sha256": "a9e416634823cbf0d388d98203ed03236bd858f0684c7240017895469c00e559"
+    },
+    {
+      "source": "fgui/assets/CommonActivity/Img/img_dream_rank_02.png",
+      "output": "assets/ui/CommonActivity/wmn83.png",
+      "reused": true,
+      "sha256": "a319867c384be82bb71723fad9fb027471716a4aa216ba6ba922cd9544d831fb"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/img_avater_player_00.png",
+      "output": "assets/ui/Common/ooyb1ke46zg.png",
+      "reused": true,
+      "sha256": "f9be800c1bab91ce143a0c6d033f5a4b2463d9868c1ce419aecf51fbd330785c"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_avater.png",
+      "output": "assets/ui/Common/pmf31ke46ul.png",
+      "reused": true,
+      "sha256": "0afdbc11d3b69fed1cf1ec821c256706e4f87625a8bc0bb40724829df44ad07a"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/hely_icon_10.png",
+      "output": "assets/ui/Milestone/l45e1ke46v4.png",
+      "reused": true,
+      "sha256": "557181a3d974aca48ff62d24be1047963422d10177b61751c5e54a3fe7172da6"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/hely_icon_11.png",
+      "output": "assets/ui/Milestone/l45e1ke46v5.png",
+      "reused": true,
+      "sha256": "4f824ee22f29b8b80d37bf1d9db02a391ba453187d13f135499582f3c595bb7a"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_treasure_01.png",
+      "output": "assets/ui/IconActivity/ifbg22.png",
+      "reused": true,
+      "sha256": "1e2aa37fffcb22eab5696d72466ac1979dac623ed7bd142142eec6ab87ce05f3"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/bg_milestone_num.png",
+      "output": "assets/ui/Milestone/udcm1ke46rg.png",
+      "reused": true,
+      "sha256": "835a0a82b5944813fb0688c93462451105ce64f3d70634f1959ee070e39e9087"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/bg_milestone_num_arrow.png",
+      "output": "assets/ui/Milestone/udcm1ke46rh.png",
+      "reused": true,
+      "sha256": "99a5d5be868e4799817ae1ce5b8be3be80e875388b89ba62203b0a8ae7f1d1dd"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/bg_common_panel04.png",
+      "output": "assets/ui/Common/sxnt1ke46xa.png",
+      "reused": true,
+      "sha256": "27a720247ab64fc48df34f234b82a118374714df6bd523602becddecebcee209"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_selfRankBg.png",
+      "output": "assets/ui/Common/wmn88.png",
+      "reused": true,
+      "sha256": "04c62c902a00440d06544a083153716a68409786fc40c0e34b38089bad177989"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Icon/bg_friend_rank.png",
+      "output": "assets/ui/Common/o5lq1ke46ti.png",
+      "reused": true,
+      "sha256": "3b7e521ef08c1eff4f5ec893d3cc977fcec39f4ff5336cb6d9e8ba14809ee9ee"
+    },
+    {
+      "source": "fgui/assets/ArtFont/CoinFont.fnt",
+      "output": "assets/ui/ArtFont/g85mz.fnt",
+      "reused": true,
+      "sha256": "9eb70edfb7030791cc018cbbf616226e6d1552c483a740dea056dac4ae8a4df3"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_0.png",
+      "output": "assets/ui/ArtFont/g85mo.png",
+      "reused": true,
+      "sha256": "7a2a21cd552b3fb3b58edb558c18fe9327f7651e2badc9b104ba56ea1b7ab875"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_1.png",
+      "output": "assets/ui/ArtFont/g85mp.png",
+      "reused": true,
+      "sha256": "d4e701acc93c98b979505d73c84b651a6ca3d9a0ea180266c0e429d88781ba1b"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_2.png",
+      "output": "assets/ui/ArtFont/g85mq.png",
+      "reused": true,
+      "sha256": "811bb9f0f60178eb0ea1991649fd2d8d1e6f0e462f5682b4c63fa33a4cbb1cd1"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_3.png",
+      "output": "assets/ui/ArtFont/g85mr.png",
+      "reused": true,
+      "sha256": "981c66639a78bd0343c4051d2181f8767b6fc316e3cf31296d77c19d8de5d3fc"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_4.png",
+      "output": "assets/ui/ArtFont/g85ms.png",
+      "reused": true,
+      "sha256": "7cf39fdf9d83558e067308ca40b861be0ec4791448d6ed2ba7b1d85910cc6d82"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_5.png",
+      "output": "assets/ui/ArtFont/g85mt.png",
+      "reused": true,
+      "sha256": "2d801ad8ca6925d062914a0d338a487ba8166f94d84fb41cb13e58cc75c7bca1"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_6.png",
+      "output": "assets/ui/ArtFont/g85mu.png",
+      "reused": true,
+      "sha256": "91b620dbc76d3edf0b22fcaad85bdd7e32feefa7eec03b4d7143ba0c1926c831"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_7.png",
+      "output": "assets/ui/ArtFont/g85mv.png",
+      "reused": true,
+      "sha256": "c3862c80cb8d53eec2d385bbc340e053efadc61c682a8ede836c68af91700e2a"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_8.png",
+      "output": "assets/ui/ArtFont/g85mw.png",
+      "reused": true,
+      "sha256": "9be8375a0428fd8b63de9e3f6af466cffb95aa5ceb1d9e42e6dccd6a93ee654d"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_9.png",
+      "output": "assets/ui/ArtFont/g85mx.png",
+      "reused": true,
+      "sha256": "deabc5a5685bd27419f8522bd3cfefb31ad93f9db5d611a1d2ec735a36b7afa2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_comma.png",
+      "output": "assets/ui/ArtFont/g85my.png",
+      "reused": true,
+      "sha256": "3ca1155d24bca4d98afa8e4e9ef88f8ba0efaf2cb3e2ca8f3ee0c8011fb6a264"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_add.png",
+      "output": "assets/ui/ArtFont/pctp10.png",
+      "reused": true,
+      "sha256": "91b2b41e4f481906ca3d0b7f5ef873249f6f43c57b44aeac85d0a8e355e5c4c2"
+    },
+    {
+      "source": "fgui/assets/ArtFont/coin/Font3_a_slash.png",
+      "output": "assets/ui/ArtFont/kyyw1f.png",
+      "reused": true,
+      "sha256": "c3af1e9f60281108e2da7bbcb3039dc30716df71d76f98f18c975a74d197480d"
+    },
+    {
+      "source": "fgui/assets/Common/Images/line_friend_bottom.png",
+      "output": "assets/ui/Common/nbao1ke46yg.png",
+      "reused": true,
+      "sha256": "8e49812e86db2ab127f2be2c9f4073c4f4fc4539015030fcd4a558135324164f"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_rankIndex01.png",
+      "output": "assets/ui/Common/o5lq1ke46tb.png",
+      "reused": true,
+      "sha256": "8a968b49033c163cac776899ebdc41d7194334fe4ced531fdc612ee8418052c6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_rankIndex02.png",
+      "output": "assets/ui/Common/o5lq1ke46tc.png",
+      "reused": true,
+      "sha256": "eef852468686e833ff469a26be3a9523e03f96e78e08663cf15661e38b7c730a"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_rankIndex03.png",
+      "output": "assets/ui/Common/o5lq1ke46td.png",
+      "reused": true,
+      "sha256": "1bdbf978b56865f50fde2912f536853509f6941a6e69e7dedfc383f323a45cbd"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/img_common_null.png",
+      "output": "assets/ui/Common/sxnt1ke46x9.png",
+      "reused": true,
+      "sha256": "47435f74f8ef59454ccebb20087f3cab4d04954d47b2cf4cc2a366bfc617b2c6"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Btn/btn_com_blue02.png",
+      "output": "assets/ui/Common/kdeb1ke46wi.png",
+      "reused": true,
+      "sha256": "fdeda7687c6149f4185eda897b8f8747e24ad158d4c72ef5bb33dfe5e3e2e1bf"
+    },
+    {
+      "source": "fgui/assets/Common/Images/bg_com_window_03.png",
+      "output": "assets/ui/Common/kdeb1ke46vv.png",
+      "reused": true,
+      "sha256": "db769bfb78306ab3330cc7de5345bb94fe3493c3c2de677f5a2bd4e3f0bc2b01"
+    },
+    {
+      "source": "fgui/assets/CommonActivity/Images/tips_milestone_pop.png",
+      "output": "assets/ui/CommonActivity/jyy71ke46qs.png",
+      "reused": true,
+      "sha256": "d358f7cdf155990fea9e38cb49f120125dd5e0cd1547db961535cd9e3ae90d00"
+    },
+    {
+      "source": "fgui/assets/CommonActivity/Images/tips_milestone_arrow.png",
+      "output": "assets/ui/CommonActivity/jyy71ke46qr.png",
+      "reused": true,
+      "sha256": "7a8cbf25655e6a19bc9a11df99f420c3715698ff682c4bd54920005066441324"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_common_oval_01.png",
+      "output": "assets/ui/Common/mann1ke46y3.png",
+      "reused": true,
+      "sha256": "a658468bd9a9af1557e96ff5af708d5a240efac19120468c1867897112e24648"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_02.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46ro.png",
+      "reused": true,
+      "sha256": "ecfa8c3fb1e523bb1ceb70e05a39d0f1136dcd81e28427e71d3b7dad055db75c"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_01.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rn.png",
+      "reused": true,
+      "sha256": "d00d6ca911cf996d34cdeab45cb8f05640d2b7695aed3b0893738965c151cb1e"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_07.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66x.png",
+      "reused": true,
+      "sha256": "a6518307f110bc6b60b937861e45007f356e1044d83df9b3a136c0e5051c2cc5"
+    },
+    {
+      "source": "fgui/assets/BlindBox/Images/tex_sfx_line_400.png",
+      "output": "assets/ui/BlindBox/b76223.png",
+      "reused": true,
+      "sha256": "f91b0115bd8be833fac45223f8275be865c43663a76320aa2169fc9c516e7099"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_05.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rx.png",
+      "reused": true,
+      "sha256": "766221be7c46792a3be77fbd31fcc583a3c2b84e05a6fe84e71b6716ce1b1c53"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_06.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66w.png",
+      "reused": true,
+      "sha256": "b8a906f491577c0a8597dee217f94a61be13991179509645be70bfe5490bea8c"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_03.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rp.png",
+      "reused": true,
+      "sha256": "02e2d5041c58d561d9baa036fd708498bf0efabda5bd98b68dc0eb9b6e6dd4ce"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_04.png",
+      "output": "assets/ui/ShowRoomItem/11n7c1ke46rq.png",
+      "reused": true,
+      "sha256": "39e42320d74bda4834665ba78e05e5a45cae835c87d6b5f57b20a8f620440365"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_08.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66y.png",
+      "reused": true,
+      "sha256": "ee4d1b9344f90a0af2cd023f57efef29367cffb53e0c56872cd07a0374350b87"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/emoji_base_02.png",
+      "output": "assets/ui/Common/up5h18.png",
+      "reused": true,
+      "sha256": "045f6f638c51ff3a5a7793338140e7434a043f433da1433e41abc39a357addb8"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/icon_emoji.png",
+      "output": "assets/ui/ShowRoomItem/w9l81gmg66s.png",
+      "reused": true,
+      "sha256": "daffb2d1f160d65b92c2cf4cf31eb6aa1241deb7c3a4075734694cc8a87646d9"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_09.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg66z.png",
+      "reused": true,
+      "sha256": "0f32ef7f79a5c45b0b64a50bf3ac3453beb50e17837dca3e56019cc48422289d"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_10.png",
+      "output": "assets/ui/ShowRoomItem/gtyd1gmg670.png",
+      "reused": true,
+      "sha256": "56348e562c9fe867808f21995c0b161449664e0855a147a02293368f80039180"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_13.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg679.png",
+      "reused": true,
+      "sha256": "731aa5e8fedb9190a9fa83c8dac3e2d86497a13260786991eb1f2e5ce162096d"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_14.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg67a.png",
+      "reused": true,
+      "sha256": "7155e2d191c3ead34e14385f92c200fbc3fd516118afd24dcda9b8846d54f30e"
+    },
+    {
+      "source": "fgui/assets/ShowRoomItem/Images/img_friend_display_15.png",
+      "output": "assets/ui/ShowRoomItem/oeuw1gmg67b.png",
+      "reused": true,
+      "sha256": "ec23aa89ba0a8ff39bbcac4c0e02cadab62e6258ff5b217c6aed440d3026f904"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_13.png",
+      "output": "assets/ui/GetReward/blg51ke4748.png",
+      "reused": true,
+      "sha256": "a7c71c46fc5743f2846ea9ad16d0e78ace3696e073b9ada1100f7408714322c3"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_12.png",
+      "output": "assets/ui/GetReward/ici21gmg677.png",
+      "reused": true,
+      "sha256": "f31495edfe4e3937c4fe33e2af45cdc5d006a876cb0e3f3c44aa3f5d9b001a31"
+    },
+    {
+      "source": "fgui/assets/GetReward/Images/img_friend_display_11.png",
+      "output": "assets/ui/GetReward/ici21gmg676.png",
+      "reused": true,
+      "sha256": "f4c82d4aa4a9517e973af2a2c211e3cf7b54903807aea0d210914bd6a12c5e1c"
+    },
+    {
+      "source": "fgui/assets/Milestone/Images/Japan/tips_milestone_title.png",
+      "output": "assets/ui/Milestone/t7hs1ke46s3.png",
+      "reused": true,
+      "sha256": "4fdc676f30b4753f7156ea9e1fa9072922318e3164925753d96af148e277e4d5"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips02.png",
+      "output": "assets/ui/Common/r9eu1ke46xh.png",
+      "reused": true,
+      "sha256": "4c5a83aee4f68718b06fa7bdb8d64d7a5b2706cc9f69acc644ad906a21bb5280"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tips01.png",
+      "output": "assets/ui/Common/r9eu1ke46xg.png",
+      "reused": true,
+      "sha256": "1e9e43be047582e529e397396c4725ccb93f8d56f7a99df4cfe319e5e04e2827"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tipsline01.png",
+      "output": "assets/ui/Common/r9eu1ke46xm.png",
+      "reused": true,
+      "sha256": "e21a51cef64727a95c1f855c4fd2e28a8e3cfe21d71abca1796d1203021d0071"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_common_avatar_player.png",
+      "output": "assets/ui/Common/skyg1ke46rt.png",
+      "reused": true,
+      "sha256": "30a285a45d4cb9d2d9db313141573cc313879d89ffd5e0ed47c13fdcf10b6476"
+    },
+    {
+      "source": "fgui/assets/Common/Images/Panel/2.0/bg_com_tipsarrow02.png",
+      "output": "assets/ui/Common/r9eu1ke46xl.png",
+      "reused": true,
+      "sha256": "b37ca33275f8a1c0a1db6bcca8adfa34b32ab0a356e7a3b908bbd0142a3e1e5e"
+    },
+    {
+      "source": "fgui/assets/Common/Images/img_com_tips02.png",
+      "output": "assets/ui/Common/xoij1ke46ml.png",
+      "reused": true,
+      "sha256": "cea206e17a4f68e5b6bb8a8e6938fcf979cc4d8dcde520ef321f16c374b7040c"
+    },
+    {
+      "source": "fgui/assets/Signin/Images/img_login_star02.png",
+      "output": "assets/ui/Signin/ox2n1b.png",
+      "reused": true,
+      "sha256": "bac7626810a7b0cb4847a9319c465debd84c30b57a75f9e4c1a523e11ad4e9e4"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card.png",
+      "output": "assets/ui/Milestone_01/at3r0.png",
+      "reused": true,
+      "sha256": "1952fcea36969a0e02287fd548b27b81241d72a42ad8c28f3a299db8d88b3a1d"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card02.png",
+      "output": "assets/ui/Milestone_01/at3r1.png",
+      "reused": true,
+      "sha256": "e2d632a00e439478a7336711e22197a185fce4f566560d6d68367d6365d130d8"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_binggan.png",
+      "output": "assets/ui/Milestone_01/at3r2.png",
+      "reused": true,
+      "sha256": "2c140ca5decfd4c7d7b9bdef2fbe2fbba49dca9c1f54b50c70f83bed862d0dfe"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_che.png",
+      "output": "assets/ui/Milestone_01/at3r3.png",
+      "reused": true,
+      "sha256": "7c11806c86d8d82d9bd51dd6319ce9650efb475b45b08d40be30868feb94df17"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_dujia.png",
+      "output": "assets/ui/Milestone_01/at3r4.png",
+      "reused": true,
+      "sha256": "175b6979e7cea12b0dc1a0785a8858a0dd7b438535e5b7249756eeeb2f4d8c44"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_dunpai.png",
+      "output": "assets/ui/Milestone_01/at3r5.png",
+      "reused": true,
+      "sha256": "c567731c761eaf4af9640dcf2038971a0bbae788e1c62ca800ae2c9cac17185b"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_jia.png",
+      "output": "assets/ui/Milestone_01/at3r6.png",
+      "reused": true,
+      "sha256": "e74686123807a564348dd9eb9496fc14d98d83af3f1aedb4d058fcf86ef90173"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_jihui.png",
+      "output": "assets/ui/Milestone_01/at3r7.png",
+      "reused": true,
+      "sha256": "1952fcea36969a0e02287fd548b27b81241d72a42ad8c28f3a299db8d88b3a1d"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_jijin.png",
+      "output": "assets/ui/Milestone_01/at3r8.png",
+      "reused": true,
+      "sha256": "ca70479f3dc506d8c0aa73e180472bb75fba8de70d3b2197e2c86f5ba4b985cc"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_jinbi.png",
+      "output": "assets/ui/Milestone_01/at3r9.png",
+      "reused": true,
+      "sha256": "d19a133ff98fbb9cd2b089e7ea8af6a70a24d4e3b27dd690f60dd5be079dbb77"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_lichengbei.png",
+      "output": "assets/ui/Milestone_01/at3ra.png",
+      "reused": true,
+      "sha256": "37adad4c6932f7d0a59d4185783282ba051c746839e0f3ffe92187f163fe7ed2"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_luzhang.png",
+      "output": "assets/ui/Milestone_01/at3rb.png",
+      "reused": true,
+      "sha256": "7f84d1098164f92fe1cf2bf8caec8868d411c786d8382565ac4553c58c5a54d4"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_xianjing.png",
+      "output": "assets/ui/Milestone_01/at3rc.png",
+      "reused": true,
+      "sha256": "dc54d92c8bc60beeee9cc08bc5ea78b2851c78baa35c8c8760cfce173133e933"
+    },
+    {
+      "source": "fgui/assets/Milestone_01/img/img_card_youzhiyuan.png",
+      "output": "assets/ui/Milestone_01/at3rd.png",
+      "reused": true,
+      "sha256": "c6d9e62c76fe460e570bcb1b46d58b65fdf838cd68e51cbfc536893c65155989"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0008.png",
+      "output": "assets/scene/milestone/icon_milestone_0008.png",
+      "reused": true,
+      "sha256": "b4527f5c780268a96bea32efdb10d8fd269554af945109857872ff99d5d5aa9a"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0024.png",
+      "output": "assets/scene/milestone/icon_milestone_0024.png",
+      "reused": true,
+      "sha256": "e6200ee9ee52e85d1a9428835429a6dd3514977394aa1170440e969f2b755e84"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_8_zh_cn.png",
+      "reused": true,
+      "sha256": "cdef4c2f16a8ad215b4e56ecf75dc2e22bbc0c118542360b232d557cd43702d4"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_8_zh_cn.png",
+      "reused": true,
+      "sha256": "a76c4c835718ddf7ba3216b4ae4543b0caca1bf483a207165ebd3656f42a543e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_8_zh_cn.png",
+      "reused": true,
+      "sha256": "da117c4b2e75c807353c9da39f4b2461a42e6588a5f2442600b9d8539a31e9fe"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_8.png",
+      "output": "assets/scene/milestone/img_tournament_banner_8.png",
+      "reused": true,
+      "sha256": "3f4f50b19f2b1565df78797f285f7068afe5cfe24ae0783edb6a7328505fd2f2"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_24_zh_cn.png",
+      "reused": true,
+      "sha256": "8df25c41b649cb5a0417b53b78d5e6020cf9fadc5a5fedde3ea03099ff77717e"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_24_zh_cn.png",
+      "reused": true,
+      "sha256": "0922d3f42441c6eaba728343d9b13e2c026eee380a5237b1aff71e7339deea42"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_24_zh_cn.png",
+      "reused": true,
+      "sha256": "c5a3163e82c2639cc7638593c9e9b5e1d81863cb2fa440d47723ba5a99866063"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_24.png",
+      "output": "assets/scene/milestone/img_tournament_banner_24.png",
+      "reused": true,
+      "sha256": "ba1556b46dc5bc7fb7b03fb41426f8dcd6f9bdf69cb6182e7e83a0086a559f4d"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block8x8/MileStoneIcon/bg_milestone_main_01.png",
+      "output": "assets/scene/milestone/bg_milestone_main_01.png",
+      "reused": true,
+      "sha256": "c1bb14a312c8d8ce6f8f41efca18f0a7ea95fb3375f343d048141f898d879b50"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/tipsTitle_zh_cn.png",
+      "output": "assets/scene/milestone/tipsTitle_zh_cn.png",
+      "reused": true,
+      "sha256": "3d5efbdcb8ac86d16227d53f6c1484aec5e7a0691a3a26971ac3de5a572830fa"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Lang/Default/lang_zh_cn.txt",
+      "output": "assets/scene/milestone/strings.json",
+      "reused": false,
+      "sha256": "5177e2a3b374585419a3ccbcfc7a73b40b327181aebc2eea50f684c8646eb7e5"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_01.png",
+      "output": "assets/ui/IconItem/jwkq1ke46p3.png",
+      "reused": true,
+      "sha256": "fca7a9e03e42723b03401d02fea8728f5f7ff777fcc32a9bf875baed4987f16e"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_02.png",
+      "output": "assets/ui/IconItem/d0a61ke46om.png",
+      "reused": true,
+      "sha256": "d7c5228c054cb99ecf133fe42b7b6caef1c0cf99766489307da86c8bcffcab9b"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_03.png",
+      "output": "assets/ui/IconItem/d0a61ke46on.png",
+      "reused": true,
+      "sha256": "37e9c04e27f69fb3e2759d6b153906733ced342abc78f5a956d023d65720252a"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_CardPack_05.png",
+      "output": "assets/ui/IconItem/d0a61ke46op.png",
+      "reused": true,
+      "sha256": "c0741ed325a86057929e19b9fadee75b26710f93e4892805a4f962793dd65eea"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime06.png",
+      "output": "assets/ui/IconActivity/d0a6x.png",
+      "reused": true,
+      "sha256": "26c5e3eeba3b7def0ac83338a11407fb7849c084b24c496e06777dc7903eddb2"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime11.png",
+      "output": "assets/ui/IconActivity/d0a6t.png",
+      "reused": true,
+      "sha256": "cbbb0e81d4cbd7eb6426b2c8df13fe6daf9aef0d5300c62e39403341903c0e43"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime08.png",
+      "output": "assets/ui/IconActivity/d0a64.png",
+      "reused": true,
+      "sha256": "62342ee694ba6c39a4f3617b15d65869af85eb6e8fb4152e5c03af027e867227"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime14.png",
+      "output": "assets/ui/IconActivity/t71v1z.png",
+      "reused": true,
+      "sha256": "8be93e90e0c112e1710be18ffb39433180eb40ee15fc9c5ae57386d8060e0244"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Entrance/icon_main_LimitedTime12.png",
+      "output": "assets/ui/IconActivity/d0a6q.png",
+      "reused": true,
+      "sha256": "aa48c0559d7a3dc859dcd414025645f47a339cec2aed5397ffde96e259ea0cc2"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_MarblesCoin.png",
+      "output": "assets/ui/IconActivity/ifbg1ke46pr.png",
+      "reused": true,
+      "sha256": "6107a94d88a184b54f5b15b2dc4e3eea8cbbd3ea8e665bb76fe9ec7012c5d41e"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_partners_01.png",
+      "output": "assets/ui/IconActivity/jsrj2l.png",
+      "reused": true,
+      "sha256": "bbeaeeb57bc0fda8b1ae72438df1af794f8c9cd6ed27c36e4a5710eac9b2b680"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_kayak_01.png",
+      "output": "assets/ui/IconActivity/forr30.png",
+      "reused": true,
+      "sha256": "582e7dff7bf75ff8600c53db0550e97211daa14ca5068c8e9e44c3a4e6b76c40"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_Claw.png",
+      "output": "assets/ui/IconActivity/forr2y.png",
+      "reused": true,
+      "sha256": "dc20f0a56487cf8611852afe5474e0c829fe38173b24e3dab79c123301dc3d17"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_Dream_01.png",
+      "output": "assets/ui/IconActivity/forr2t.png",
+      "reused": true,
+      "sha256": "29b91f67398b2d41e5d86ffde93c0a92a6e4c4952438f6a6f43b9854d946b49b"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_merge_01.png",
+      "output": "assets/ui/IconActivity/kn0c1ke477q.png",
+      "reused": true,
+      "sha256": "54f8ae66be5ab5316bb3d895f4af10c12b3c7b61bc99b5f0076bf46905a8b9ab"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_ActivityShop_01.png",
+      "output": "assets/ui/IconActivity/gi7b1ke478a.png",
+      "reused": true,
+      "sha256": "001a145def3df557eb847ac86f6b3a3dff3e302a4b57c326e5fb5f3066cbb82f"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_storm_01_01.png",
+      "output": "assets/ui/IconActivity/jtk41ke47aj.png",
+      "reused": true,
+      "sha256": "caea95ef1d974d4cce1006fce25b1b5eec75597b89a510827c7967d654f15188"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_storm_01_03.png",
+      "output": "assets/ui/IconActivity/de001ke47bi.png",
+      "reused": true,
+      "sha256": "de6906cbbbb0ea1a7f8045c3d5730ca04b318fb13293d1de7ab9afefb36fcb15"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_storm_01_04.png",
+      "output": "assets/ui/IconActivity/de001ke47bj.png",
+      "reused": true,
+      "sha256": "a63beb5bf5fbd5f3252954e8f0c497e3241fcc169e9d0df9aa092a88b5693aa2"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_storm_01_05.png",
+      "output": "assets/ui/IconActivity/de001ke47bk.png",
+      "reused": true,
+      "sha256": "840dd4542a53eb7bc6eb9f717acf4fd7f6ed0da449452de99f78d798d25e5a65"
+    },
+    {
+      "source": "fgui/assets/IconActivity/Item/icon_Block_coin_01.png",
+      "output": "assets/ui/IconActivity/at3r1ke47bp.png",
+      "reused": true,
+      "sha256": "af866e06dcb84501b58f088ba5849e305cf0c088b00fa135e1c1b0504cf5f513"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_money.png",
+      "output": "assets/ui/IconItem/khoq1ke46sb.png",
+      "reused": true,
+      "sha256": "a44b6a11d1e53409b6bd7e624b5ec6e4fa0db6dfb8b4ad4335cb56fed646e625"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_GachaCoin.png",
+      "output": "assets/ui/IconItem/xoij1ke46n8.png",
+      "reused": true,
+      "sha256": "d3789de77ccda9a8530aacdb381c4f03ead339df312ceab42f0db6e029a44576"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Shield/icon_shield01.png",
+      "output": "assets/scene/milestone/icon_shield01.png",
+      "reused": true,
+      "sha256": "da7f0b1a15f627c5ff2ba268c25fde8f928a6e997bece9b08f8deb8726a81def"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_EXGachaCoin.png",
+      "output": "assets/ui/IconItem/nhd51ke4749.png",
+      "reused": true,
+      "sha256": "19e22aa9c412546a2a33366e83969d741fc46be3740a8c7aeaf4606063b4964f"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_pet_xp.png",
+      "output": "assets/ui/IconItem/j5t21ke474w.png",
+      "reused": true,
+      "sha256": "47ccdf0e6e2a343ac5a1bc5886a27a7c6498c833a8c810556d2c4574d129c212"
+    },
+    {
+      "source": "fgui/assets/IconItem/icon_diamond_01.png",
+      "output": "assets/ui/IconItem/wgcb1ke474a.png",
+      "reused": true,
+      "sha256": "8d03bc27d9bb7f81f211a9f13fe77365213a763605a962eb5f41ff156a66b622"
+    },
+    {
+      "source": "fgui/assets/GameRule/Image/hely_icon_10_01.png",
+      "output": "assets/ui/GameRule/at3r1ke47bi.png",
+      "reused": true,
+      "sha256": "27c08bacb8417c33d366fcedb99cbb8e072c29acf2a79db6e8dd17e18f991baf"
+    },
+    {
+      "source": "fgui/assets/GameRule/Image/hely_icon_11_01.png",
+      "output": "assets/ui/GameRule/at3r1ke47bk.png",
+      "reused": true,
+      "sha256": "1a904bf4dccd3b37130dddd921991876372c3e3948b54eb17d2b0c10a4ffed72"
+    }
+  ],
+  "xmlReadOnlyNormalizations": [
+    "fgui/assets/Milestone/Component/Comp_StonelDesAndLoot.xml"
+  ],
+  "packagingConfigSource": "client/SHIN/Assets/ResourcesAssets/Config/Data/Default/activity_milestone_ui.bytes",
+  "issues": [
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471j",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471n",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471k",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "jcq5wm2b",
+      "id": "ob6v1ke471l",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "m2as1q",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "pmh51ke46qz",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "b93avhsx",
+      "id": "h7lx1ke4798",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "m5h41ke46mt",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "oat65s2u",
+      "id": "m5h41ke46my",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "bc67m9pu",
+      "id": "pmh51ke46qy",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    },
+    {
+      "pkg": "2e1ky9q4",
+      "id": "ici21gmg675",
+      "reason": "Original referenced resource ID absent from current original package.xml"
+    }
+  ]
+}

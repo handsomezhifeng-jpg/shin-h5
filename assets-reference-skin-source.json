@@ -1,0 +1,942 @@
+{
+  "decoderEvidence": [
+    "client/SHIN/Assets/External/GameFramework/3rd/FairyGUI/Scripts/UI/UIPackage.cs:749-1009",
+    "client/SHIN/Assets/External/GameFramework/3rd/FairyGUI/Scripts/Core/NTexture.cs:349-376"
+  ],
+  "variants": {
+    "Main/d0a66": {
+      "default": {
+        "pkg": "Main",
+        "id": "d0a66",
+        "name": "bg_main_activity01",
+        "url": "assets/scene/milestone/reference/Main_d0a66_default.png",
+        "width": 424,
+        "height": 84,
+        "w": 424,
+        "h": 84,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1,
+            1,
+            84,
+            407
+          ],
+          "rotated": true,
+          "offset": [
+            1,
+            0
+          ],
+          "originalSize": [
+            424,
+            84
+          ]
+        },
+        "branch": "default",
+        "sha256": "0763c76f7801530817f8b1f30818045c83cc043c6953a65b1a8f536cd7e5aec6"
+      },
+      "CN": {
+        "pkg": "Main",
+        "id": "d0a66",
+        "name": "bg_main_activity01",
+        "url": "assets/scene/milestone/reference/Main_d0a66_CN.png",
+        "width": 424,
+        "height": 84,
+        "w": 424,
+        "h": 84,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1,
+            1,
+            84,
+            407
+          ],
+          "rotated": true,
+          "offset": [
+            1,
+            0
+          ],
+          "originalSize": [
+            424,
+            84
+          ]
+        },
+        "branch": "CN",
+        "sha256": "0763c76f7801530817f8b1f30818045c83cc043c6953a65b1a8f536cd7e5aec6"
+      }
+    },
+    "Main/syfz1ke471f": {
+      "default": {
+        "pkg": "Main",
+        "id": "syfz1ke471f",
+        "name": "bg_main_activity03",
+        "url": "assets/scene/milestone/reference/Main_syfz1ke471f_default.png",
+        "width": 92,
+        "height": 92,
+        "w": 92,
+        "h": 92,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1121,
+            278,
+            66,
+            75
+          ],
+          "rotated": true,
+          "offset": [
+            1,
+            10
+          ],
+          "originalSize": [
+            92,
+            92
+          ]
+        },
+        "branch": "default",
+        "sha256": "e00fe7392b7b5566f8f850fc835086b7223d451eb20b0486283f757fc22b7073"
+      },
+      "CN": {
+        "pkg": "Main",
+        "id": "syfz1ke471f",
+        "name": "bg_main_activity03",
+        "url": "assets/scene/milestone/reference/Main_syfz1ke471f_CN.png",
+        "width": 92,
+        "height": 92,
+        "w": 92,
+        "h": 92,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1129,
+            208,
+            75,
+            66
+          ],
+          "rotated": false,
+          "offset": [
+            1,
+            10
+          ],
+          "originalSize": [
+            92,
+            92
+          ]
+        },
+        "branch": "CN",
+        "sha256": "e00fe7392b7b5566f8f850fc835086b7223d451eb20b0486283f757fc22b7073"
+      }
+    },
+    "Main/j0rg1ke46s5": {
+      "default": {
+        "pkg": "Main",
+        "id": "j0rg1ke46s5",
+        "name": "bg_milestone_progress_02",
+        "url": "assets/scene/milestone/reference/Main_j0rg1ke46s5_default.png",
+        "width": 40,
+        "height": 32,
+        "w": 40,
+        "h": 32,
+        "scale9grid": [
+          17,
+          14,
+          7,
+          5
+        ],
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1414,
+            964,
+            32,
+            40
+          ],
+          "rotated": true,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            32
+          ]
+        },
+        "branch": "default",
+        "sha256": "31c5667a3a0a76e512f1c2db7768b82e6fbce1963f6960389b175c118bfa70fa"
+      },
+      "CN": {
+        "pkg": "Main",
+        "id": "j0rg1ke46s5",
+        "name": "bg_milestone_progress_02",
+        "url": "assets/scene/milestone/reference/Main_j0rg1ke46s5_CN.png",
+        "width": 40,
+        "height": 32,
+        "w": 40,
+        "h": 32,
+        "scale9grid": [
+          17,
+          14,
+          7,
+          5
+        ],
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/__CN/Main_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1147,
+            80,
+            32,
+            40
+          ],
+          "rotated": true,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            32
+          ]
+        },
+        "branch": "CN",
+        "sha256": "31c5667a3a0a76e512f1c2db7768b82e6fbce1963f6960389b175c118bfa70fa"
+      }
+    },
+    "Common/ctd01ke46x1": {
+      "default": {
+        "pkg": "Common",
+        "id": "ctd01ke46x1",
+        "name": "bg_common_list02",
+        "url": "assets/scene/milestone/reference/Common_ctd01ke46x1_default.png",
+        "width": 100,
+        "height": 132,
+        "w": 100,
+        "h": 132,
+        "scale9grid": [
+          24,
+          23,
+          52,
+          85
+        ],
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            544,
+            1767,
+            132,
+            100
+          ],
+          "rotated": true,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            132
+          ]
+        },
+        "branch": "default",
+        "sha256": "f1d5987e8e3d868d20e194595f142f26aba573cbb7f0673f2231fc42c2c0d70d"
+      }
+    },
+    "Common/ctd01ke46x2": {
+      "default": {
+        "pkg": "Common",
+        "id": "ctd01ke46x2",
+        "name": "bg_common_list03",
+        "url": "assets/scene/milestone/reference/Common_ctd01ke46x2_default.png",
+        "width": 12,
+        "height": 40,
+        "w": 12,
+        "h": 40,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1938,
+            525,
+            38,
+            12
+          ],
+          "rotated": true,
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            12,
+            40
+          ]
+        },
+        "branch": "default",
+        "sha256": "3c5b58405597f09131ec6c6ad983caf6f2a3b5320c89a366f17e7dfd51332df6"
+      }
+    },
+    "Common/ctd01ke46x3": {
+      "default": {
+        "pkg": "Common",
+        "id": "ctd01ke46x3",
+        "name": "bg_common_list04",
+        "url": "assets/scene/milestone/reference/Common_ctd01ke46x3_default.png",
+        "width": 80,
+        "height": 120,
+        "w": 80,
+        "h": 120,
+        "scale9grid": [
+          36,
+          56,
+          8,
+          8
+        ],
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1365,
+            1639,
+            80,
+            120
+          ],
+          "rotated": false,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            80,
+            120
+          ]
+        },
+        "branch": "default",
+        "sha256": "2e4e90fa288408691d2970b7b3ecb7f0ff1912e90e67739c66790100b879a5e9"
+      }
+    },
+    "Common/ctd01ke46x4": {
+      "default": {
+        "pkg": "Common",
+        "id": "ctd01ke46x4",
+        "name": "bg_common_listline01",
+        "url": "assets/scene/milestone/reference/Common_ctd01ke46x4_default.png",
+        "width": 60,
+        "height": 4,
+        "w": 60,
+        "h": 4,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            778,
+            1125,
+            4,
+            60
+          ],
+          "rotated": true,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            60,
+            4
+          ]
+        },
+        "branch": "default",
+        "sha256": "5b75e54e4df250b7ff037fd7201be716da473f0dca54f086c0b103c263d716a8"
+      }
+    },
+    "Common/xoij1ke46lk": {
+      "default": {
+        "pkg": "Common",
+        "id": "xoij1ke46lk",
+        "name": "bg_common_round",
+        "url": "assets/scene/milestone/reference/Common_xoij1ke46lk_default.png",
+        "width": 160,
+        "height": 160,
+        "w": 160,
+        "h": 160,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1508,
+            801,
+            160,
+            160
+          ],
+          "rotated": false,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            160,
+            160
+          ]
+        },
+        "branch": "default",
+        "sha256": "f5630fb19e99b09c9320e11ffd67e498d8e1ca57ab06b4fb0eeb46ec0edcc8b8"
+      }
+    },
+    "Common/xoij1ke46mf": {
+      "default": {
+        "pkg": "Common",
+        "id": "xoij1ke46mf",
+        "name": "icon_common_time",
+        "url": "assets/scene/milestone/reference/Common_xoij1ke46mf_default.png",
+        "width": 42,
+        "height": 42,
+        "w": 42,
+        "h": 42,
+        "scale9grid": null,
+        "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+        "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+        "sprite": {
+          "atlas": "atlas0",
+          "rect": [
+            1938,
+            437,
+            42,
+            42
+          ],
+          "rotated": false,
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            42,
+            42
+          ]
+        },
+        "branch": "default",
+        "sha256": "0aeb8b6f9480b4d3f572804524aa7a0f3dceb1f502e151be14063aa126eda57b"
+      }
+    }
+  },
+  "referenceSkinImages": {
+    "bg_main_activity01": {
+      "pkg": "Main",
+      "id": "d0a66",
+      "name": "bg_main_activity01",
+      "url": "assets/scene/milestone/reference/Main_d0a66_default.png",
+      "width": 424,
+      "height": 84,
+      "w": 424,
+      "h": 84,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1,
+          1,
+          84,
+          407
+        ],
+        "rotated": true,
+        "offset": [
+          1,
+          0
+        ],
+        "originalSize": [
+          424,
+          84
+        ]
+      },
+      "branch": "default",
+      "sha256": "0763c76f7801530817f8b1f30818045c83cc043c6953a65b1a8f536cd7e5aec6",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/loader_bgMain",
+      "layout": {
+        "xy": [
+          -2,
+          23
+        ],
+        "size": null,
+        "pivot": [
+          0.0,
+          0.5
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    },
+    "bg_main_activity03": {
+      "pkg": "Main",
+      "id": "syfz1ke471f",
+      "name": "bg_main_activity03",
+      "url": "assets/scene/milestone/reference/Main_syfz1ke471f_default.png",
+      "width": 92,
+      "height": 92,
+      "w": 92,
+      "h": 92,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1121,
+          278,
+          66,
+          75
+        ],
+        "rotated": true,
+        "offset": [
+          1,
+          10
+        ],
+        "originalSize": [
+          92,
+          92
+        ]
+      },
+      "branch": "default",
+      "sha256": "e00fe7392b7b5566f8f850fc835086b7223d451eb20b0486283f757fc22b7073",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/n173",
+      "layout": {
+        "xy": [
+          4,
+          20
+        ],
+        "size": null,
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    },
+    "bg_milestone_progress_02": {
+      "pkg": "Main",
+      "id": "j0rg1ke46s5",
+      "name": "bg_milestone_progress_02",
+      "url": "assets/scene/milestone/reference/Main_j0rg1ke46s5_default.png",
+      "width": 40,
+      "height": 32,
+      "w": 40,
+      "h": 32,
+      "scale9grid": [
+        17,
+        14,
+        7,
+        5
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Main_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Main_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1414,
+          964,
+          32,
+          40
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          32
+        ]
+      },
+      "branch": "default",
+      "sha256": "31c5667a3a0a76e512f1c2db7768b82e6fbce1963f6960389b175c118bfa70fa",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 17,
+        "top": 14,
+        "right": 16,
+        "bottom": 13
+      },
+      "controlPath": "Main/Comp_MileStoneMainProgress/n157",
+      "layout": {
+        "xy": [
+          62,
+          48
+        ],
+        "size": [
+          291,
+          38
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#92796bff"
+      }
+    },
+    "bg_common_list02": {
+      "pkg": "Common",
+      "id": "ctd01ke46x1",
+      "name": "bg_common_list02",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x1_default.png",
+      "width": 100,
+      "height": 132,
+      "w": 100,
+      "h": 132,
+      "scale9grid": [
+        24,
+        23,
+        52,
+        85
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          544,
+          1767,
+          132,
+          100
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          100,
+          132
+        ]
+      },
+      "branch": "default",
+      "sha256": "f1d5987e8e3d868d20e194595f142f26aba573cbb7f0673f2231fc42c2c0d70d",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 24,
+        "top": 23,
+        "right": 24,
+        "bottom": 24
+      },
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_list03": {
+      "pkg": "Common",
+      "id": "ctd01ke46x2",
+      "name": "bg_common_list03",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x2_default.png",
+      "width": 12,
+      "height": 40,
+      "w": 12,
+      "h": 40,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1938,
+          525,
+          38,
+          12
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          1
+        ],
+        "originalSize": [
+          12,
+          40
+        ]
+      },
+      "branch": "default",
+      "sha256": "3c5b58405597f09131ec6c6ad983caf6f2a3b5320c89a366f17e7dfd51332df6",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_list04": {
+      "pkg": "Common",
+      "id": "ctd01ke46x3",
+      "name": "bg_common_list04",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x3_default.png",
+      "width": 80,
+      "height": 120,
+      "w": 80,
+      "h": 120,
+      "scale9grid": [
+        36,
+        56,
+        8,
+        8
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1365,
+          1639,
+          80,
+          120
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          80,
+          120
+        ]
+      },
+      "branch": "default",
+      "sha256": "2e4e90fa288408691d2970b7b3ecb7f0ff1912e90e67739c66790100b879a5e9",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": {
+        "left": 36,
+        "top": 56,
+        "right": 36,
+        "bottom": 56
+      },
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_listline01": {
+      "pkg": "Common",
+      "id": "ctd01ke46x4",
+      "name": "bg_common_listline01",
+      "url": "assets/scene/milestone/reference/Common_ctd01ke46x4_default.png",
+      "width": 60,
+      "height": 4,
+      "w": 60,
+      "h": 4,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          778,
+          1125,
+          4,
+          60
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          60,
+          4
+        ]
+      },
+      "branch": "default",
+      "sha256": "5b75e54e4df250b7ff037fd7201be716da473f0dca54f086c0b103c263d716a8",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Common/Com_List02",
+      "nativeComponentURL": "assets/scene/milestone/reference/Common_Com_List02_published.json"
+    },
+    "bg_common_round": {
+      "pkg": "Common",
+      "id": "xoij1ke46lk",
+      "name": "bg_common_round",
+      "url": "assets/scene/milestone/reference/Common_xoij1ke46lk_default.png",
+      "width": 160,
+      "height": 160,
+      "w": 160,
+      "h": 160,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1508,
+          801,
+          160,
+          160
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          160,
+          160
+        ]
+      },
+      "branch": "default",
+      "sha256": "f5630fb19e99b09c9320e11ffd67e498d8e1ca57ab06b4fb0eeb46ec0edcc8b8",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPaths": [
+        "Main/Comp_MileStoneMainProgress/com_mileReward/n146",
+        "Main/Comp_MileStoneMainProgress/com_mileReward/n147"
+      ],
+      "layouts": {
+        "n146": {
+          "xy": [
+            34,
+            33
+          ],
+          "size": [
+            60,
+            60
+          ],
+          "pivot": [
+            0.5,
+            0.5
+          ],
+          "anchor": true,
+          "scale": [
+            1,
+            1
+          ],
+          "rotation": 0.0,
+          "color": "#291f1eff"
+        },
+        "n147": {
+          "xy": [
+            34,
+            33
+          ],
+          "size": [
+            54,
+            54
+          ],
+          "pivot": [
+            0.5,
+            0.5
+          ],
+          "anchor": true,
+          "scale": [
+            1,
+            1
+          ],
+          "rotation": 0.0,
+          "color": "#836c60ff"
+        }
+      },
+      "nativeComponentURL": "assets/scene/milestone/reference/Main_Com_MileStoneReward_published.json"
+    },
+    "icon_common_time": {
+      "pkg": "Common",
+      "id": "xoij1ke46mf",
+      "name": "icon_common_time",
+      "url": "assets/scene/milestone/reference/Common_xoij1ke46mf_default.png",
+      "width": 42,
+      "height": 42,
+      "w": 42,
+      "h": 42,
+      "scale9grid": null,
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1938,
+          437,
+          42,
+          42
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          42,
+          42
+        ]
+      },
+      "branch": "default",
+      "sha256": "0aeb8b6f9480b4d3f572804524aa7a0f3dceb1f502e151be14063aa126eda57b",
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "nineSliceInsets": null,
+      "controlPath": "Main/Comp_MileStoneMainProgress/n170",
+      "layout": {
+        "xy": [
+          115,
+          8
+        ],
+        "size": [
+          29,
+          29
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor": false,
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0.0,
+        "color": "#ffffffff"
+      }
+    }
+  },
+  "missingNewEditorIds": [
+    "Common/mwjh1ke479l",
+    "Common/mwjh1ke479m"
+  ],
+  "note": "Exact original published atlas pixels, with authored rotation/trim restored. No recoloring or generated art. Common published component uses older image resources and authored GearColor defaults."
+}

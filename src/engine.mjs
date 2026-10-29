@@ -89,7 +89,7 @@ export class BoardGame {
     if(s.shields.includes(s.position)){
       const awarded=Math.min(bet,s.shieldCap-s.shield);const returned=bet-awarded;s.shield+=awarded;s.dice+=returned;this.replaceEvent('shield',s.position);s.pending={kind:'shield',awarded,returned};
     }else if(s.rents.includes(s.position)){
-      const value=Math.round((60+(s.level-1)*5)*bet);s.coins+=value;this.replaceEvent('rent',s.position);s.pending={kind:'rent',value,target:this.int(s.opponents.length)};
+      const value=Math.round((60+(s.level-1)*5)*bet);s.coins+=value;this.replaceEvent('rent',s.position);s.pending={kind:'rent',value,bet,target:s.position%s.opponents.length};
     }
     return s.pending || result;
   }

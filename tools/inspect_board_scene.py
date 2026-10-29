@@ -36,11 +36,26 @@ def chain_of(obj):
 def hook(owner,ref,instance_index):
  obj=raw_pointer(owner,ref)
  if not obj:return None
- chain=chain_of(obj);local=chain[-1]
+ chain=chain_of(obj);local=chain[-1];tr=transform_of(obj)
+ tmp_rect=None
+ if local['name']=='TMP' and hasattr(tr,'m_AnchoredPosition'):
+  # Unity restores RectTransform XY from AnchoredPosition when its parent is a
+  # plain Transform. Inherited m_LocalPosition can still contain stale XY=0.
+  # Current board TMP parents are ordinary Root_model Transforms.
+  if tr.m_Father.path_id and tr.m_Father.deref().type.name=='RectTransform':
+   raise ValueError('Board TMP with RectTransform parent needs explicit anchor-layout support')
+  raw_position={k:float(getattr(tr.m_LocalPosition,k)) for k in ['x','y','z']}
+  anchored={k:float(getattr(tr.m_AnchoredPosition,k)) for k in ['x','y']}
+  effective={'x':round(anchored['x'],9),'y':round(anchored['y'],9),'z':local['position']['z']}
+  local['position']=effective
+  tmp_rect={'rawLocalPosition':raw_position,'anchoredPosition':anchored,
+   'anchorMin':{k:float(getattr(tr.m_AnchorMin,k)) for k in ['x','y']},
+   'anchorMax':{k:float(getattr(tr.m_AnchorMax,k)) for k in ['x','y']},
+   'effectiveLocalPosition':dict(effective)}
  matrix=combined(chain[instance_index+1:]);normal=combined(chain[1:])
  result={'name':local['name'],'path':[r['name'] for r in chain],'local':{k:local[k] for k in ['position','rotation','scale']},'matrixInInstance':matrix,'matrixInNormalPrefab':normal,'positionInInstance':{'x':matrix[12],'y':matrix[13],'z':matrix[14]},'positionInNormalPrefab':{'x':normal[12],'y':normal[13],'z':normal[14]}}
- tr=transform_of(obj)
  if hasattr(tr,'m_SizeDelta'):result['rect']={'sizeDelta':{'x':tr.m_SizeDelta.x,'y':tr.m_SizeDelta.y},'pivot':{'x':tr.m_Pivot.x,'y':tr.m_Pivot.y}}
+ if tmp_rect:result['rect'].update(tmp_rect)
  return result
 
 slots={};issues=[];font_names=set()

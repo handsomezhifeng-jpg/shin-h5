@@ -134,3 +134,7 @@ if ui_path.is_file():
 proof={'decoderEvidence':['client/SHIN/Assets/External/GameFramework/3rd/FairyGUI/Scripts/UI/UIPackage.cs:749-1009','client/SHIN/Assets/External/GameFramework/3rd/FairyGUI/Scripts/Core/NTexture.cs:349-376'],'variants':variants,'referenceSkinImages':reference,'missingNewEditorIds':['Common/mwjh1ke479l','Common/mwjh1ke479m'],'note':'Exact original published atlas pixels, with authored rotation/trim restored. No recoloring or generated art. Common published component uses older image resources and authored GearColor defaults.'}
 (OUT/'assets-reference-skin-source.json').write_text(json.dumps(proof,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
 print(json.dumps({'exportedImages':len(proof['referenceSkinImages']),'nativeCommonSize':[component['width'],component['height']],'mainComponent':component_id,'branchPixelsEqual':{key:value['default']['sha256']==value['CN']['sha256']for key,value in variants.items()if 'default'in value and'CN'in value},'controls':{key:value.get('layout')for key,value in reference.items()if value['pkg']=='Main'}},ensure_ascii=False))
+
+# Append bounded ranking-window original resources after shared reference export.
+import subprocess,sys
+subprocess.run([sys.executable,str(OUT/"tools/export_rank_reference_ui.py")],check=True)

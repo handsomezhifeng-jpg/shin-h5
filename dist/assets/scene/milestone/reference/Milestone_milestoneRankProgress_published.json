@@ -1,0 +1,133 @@
+{
+  "package": "Milestone",
+  "id": "v4q91ke474q",
+  "name": "milestoneRankProgress",
+  "width": 388,
+  "height": 34,
+  "controllers": [],
+  "children": [
+    {
+      "id": "n0_mmma",
+      "name": "n0",
+      "type": 0,
+      "src": "udcm1ke46rf",
+      "pkg": null,
+      "xy": [
+        0,
+        0
+      ],
+      "size": [
+        388,
+        34
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            },
+            {
+              "type": 15,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n3_mmma",
+      "name": "bar",
+      "type": 3,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        4,
+        4
+      ],
+      "size": [
+        381,
+        26
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "shapeType": 1,
+      "lineSize": 0,
+      "lineColor": "#000000ff",
+      "fillColor": "#22c1bfff",
+      "relations": []
+    },
+    {
+      "id": "n2_mmma",
+      "name": "text_val",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        57,
+        1
+      ],
+      "size": [
+        274,
+        32
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "font": null,
+      "fontSize": 22,
+      "align": 1,
+      "vAlign": 0,
+      "text": null,
+      "relations": []
+    }
+  ],
+  "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes"
+}

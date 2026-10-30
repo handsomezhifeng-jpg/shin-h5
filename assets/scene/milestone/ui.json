@@ -1309,6 +1309,743 @@
         "rotation": 0.0,
         "color": "#ffffffff"
       }
+    },
+    "btn_com_close_new": {
+      "pkg": "Common",
+      "id": "kdeb1ke46vs",
+      "name": "btn_com_close_new",
+      "url": "assets/scene/milestone/reference/Common_btn_com_close_new_screenshot.png",
+      "width": 94,
+      "height": 98,
+      "w": 94,
+      "h": 98,
+      "scale9grid": null,
+      "nineSliceInsets": null,
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Common/btn_close_03/n10",
+          "layout": {
+            "xy": [
+              0,
+              0
+            ],
+            "size": [
+              94,
+              98
+            ],
+            "pivot": [
+              0.5,
+              0.5
+            ],
+            "anchor": false,
+            "scale": [
+              0.8500000238418579,
+              0.8500000238418579
+            ],
+            "rotation": 0.0,
+            "color": "#b9b9b9ff"
+          },
+          "gears": [
+            {
+              "type": 2,
+              "controllerIndex": 0
+            },
+            {
+              "type": 4,
+              "controllerIndex": 0,
+              "default": [
+                "#ffffffff",
+                "#000000ff"
+              ],
+              "statuses": {
+                "1": [
+                  "#b9b9b9ff",
+                  "#000000ff"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1321,
+          1761,
+          94,
+          98
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          94,
+          98
+        ]
+      },
+      "publishedVariantURL": "assets/scene/milestone/reference/Common_kdeb1ke46vs_default.png",
+      "source": "peibiao/fairygui/trunk/assets/Common/Images/Btn/btn_com_close_new.png",
+      "referenceVariant": "Original trunk source gold circle redX matches user screenshot; current native atlas is blue variant."
+    },
+    "bg_com_window_02": {
+      "pkg": "Common",
+      "id": "kdeb1ke46vu",
+      "name": "bg_com_window_02",
+      "url": "assets/scene/milestone/reference/Common_kdeb1ke46vu_default.png",
+      "width": 312,
+      "height": 1076,
+      "w": 312,
+      "h": 1076,
+      "scale9grid": [
+        114,
+        67,
+        38,
+        929
+      ],
+      "nineSliceInsets": {
+        "left": 114,
+        "top": 67,
+        "right": 160,
+        "bottom": 80
+      },
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindow/bgLoader",
+          "layout": {
+            "xy": [
+              6,
+              274
+            ],
+            "size": [
+              714,
+              1076
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/bgLoader",
+          "layout": {
+            "xy": [
+              6,
+              228
+            ],
+            "size": [
+              714,
+              1076
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": [
+            {
+              "type": 1,
+              "controllerIndex": 0
+            }
+          ]
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankShowInfoWindow/bgLoader",
+          "layout": {
+            "xy": [
+              6,
+              274
+            ],
+            "size": [
+              714,
+              1076
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas_kdeb1ke46vu.png",
+      "sprite": {
+        "atlas": "atlas_kdeb1ke46vu",
+        "rect": [
+          0,
+          0,
+          312,
+          1076
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          312,
+          1076
+        ]
+      }
+    },
+    "icon_lock": {
+      "pkg": "Common",
+      "id": "mzam1ke46sh",
+      "name": "icon_lock",
+      "url": "assets/scene/milestone/reference/Common_mzam1ke46sh_default.png",
+      "width": 68,
+      "height": 80,
+      "w": 68,
+      "h": 80,
+      "scale9grid": null,
+      "nineSliceInsets": null,
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindow/img_finalLock",
+          "layout": {
+            "xy": [
+              550,
+              548
+            ],
+            "size": [
+              43,
+              51
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/img_finalLock",
+          "layout": {
+            "xy": [
+              548,
+              593
+            ],
+            "size": [
+              43,
+              51
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": [
+            {
+              "type": 0,
+              "controllerIndex": 0,
+              "pages": [
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1913,
+          0,
+          68,
+          76
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          2
+        ],
+        "originalSize": [
+          68,
+          80
+        ]
+      }
+    },
+    "bg_common_progressround_01": {
+      "pkg": "Common",
+      "id": "mann1ke46xt",
+      "name": "bg_common_progressround_01",
+      "url": "assets/scene/milestone/reference/Common_mann1ke46xt_default.png",
+      "width": 98,
+      "height": 98,
+      "w": 98,
+      "h": 98,
+      "scale9grid": null,
+      "nineSliceInsets": null,
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindow/loader_bgIcon",
+          "layout": {
+            "xy": [
+              164,
+              575
+            ],
+            "size": [
+              72,
+              72
+            ],
+            "pivot": [
+              0.5,
+              0.5
+            ],
+            "anchor": true,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/loader_bgIcon",
+          "layout": {
+            "xy": [
+              161,
+              621
+            ],
+            "size": [
+              72,
+              72
+            ],
+            "pivot": [
+              0.5,
+              0.5
+            ],
+            "anchor": true,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankShowInfoWindow/loader_bgIcon",
+          "layout": {
+            "xy": [
+              165,
+              587
+            ],
+            "size": [
+              72,
+              72
+            ],
+            "pivot": [
+              0.5,
+              0.5
+            ],
+            "anchor": true,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Common_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Common_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1155,
+          1765,
+          98,
+          98
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          98,
+          98
+        ]
+      }
+    },
+    "rank_bg_milestone_progress_02": {
+      "pkg": "Milestone",
+      "id": "udcm1ke46rf",
+      "name": "bg_milestone_progress_02",
+      "url": "assets/scene/milestone/reference/Milestone_udcm1ke46rf_default.png",
+      "width": 40,
+      "height": 32,
+      "w": 40,
+      "h": 32,
+      "scale9grid": [
+        17,
+        14,
+        7,
+        5
+      ],
+      "nineSliceInsets": {
+        "left": 17,
+        "top": 14,
+        "right": 16,
+        "bottom": 13
+      },
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/n237",
+          "layout": {
+            "xy": [
+              178,
+              610
+            ],
+            "size": [
+              390,
+              32
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/milestoneRankProgress/n0",
+          "layout": {
+            "xy": [
+              0,
+              0
+            ],
+            "size": [
+              388,
+              34
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1466,
+          820,
+          40,
+          32
+        ],
+        "rotated": false,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          32
+        ]
+      }
+    },
+    "rank_bar": {
+      "pkg": "Milestone",
+      "id": "ugwg1ke46ol",
+      "name": "bar",
+      "url": "assets/scene/milestone/reference/Milestone_ugwg1ke46ol_default.png",
+      "width": 100,
+      "height": 34,
+      "w": 100,
+      "h": 34,
+      "scale9grid": null,
+      "nineSliceInsets": null,
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/progress",
+          "layout": {
+            "xy": [
+              192,
+              614
+            ],
+            "size": [
+              345,
+              23
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": [
+            {
+              "type": 2,
+              "controllerIndex": 0
+            }
+          ]
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          754,
+          172,
+          34,
+          100
+        ],
+        "rotated": true,
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          100,
+          34
+        ]
+      }
+    },
+    "rank_bg_milestone_progress_01": {
+      "pkg": "Milestone",
+      "id": "udcm1ke46re",
+      "name": "bg_milestone_progress_01",
+      "url": "assets/scene/milestone/reference/Milestone_udcm1ke46re_default.png",
+      "width": 72,
+      "height": 72,
+      "w": 72,
+      "h": 72,
+      "scale9grid": null,
+      "nineSliceInsets": null,
+      "atlasRotationRestored": true,
+      "rotation": 0,
+      "usages": [
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindow/n228",
+          "layout": {
+            "xy": [
+              535,
+              540
+            ],
+            "size": [
+              73,
+              70
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/n228",
+          "layout": {
+            "xy": [
+              534,
+              585
+            ],
+            "size": [
+              73,
+              70
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankLockWindowOld/n269",
+          "layout": {
+            "xy": [
+              649,
+              585
+            ],
+            "size": [
+              73,
+              70
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankShowInfoWindow/n312",
+          "layout": {
+            "xy": [
+              533,
+              551
+            ],
+            "size": [
+              73,
+              70
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        },
+        {
+          "controlPath": "Milestone/MileStoneRankShowInfoWindow/n318",
+          "layout": {
+            "xy": [
+              614,
+              551
+            ],
+            "size": [
+              73,
+              70
+            ],
+            "pivot": [
+              0,
+              0
+            ],
+            "anchor": false,
+            "scale": [
+              1,
+              1
+            ],
+            "rotation": 0.0,
+            "color": "#ffffffff"
+          },
+          "gears": []
+        }
+      ],
+      "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes",
+      "sourceAtlas": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_atlas0.png",
+      "sprite": {
+        "atlas": "atlas0",
+        "rect": [
+          1466,
+          748,
+          70,
+          70
+        ],
+        "rotated": false,
+        "offset": [
+          1,
+          1
+        ],
+        "originalSize": [
+          72,
+          72
+        ]
+      }
     }
   },
   "referenceSkinComponents": {
@@ -1352,6 +2089,78 @@
         "color": "#ffffffff",
         "gears": []
       }
+    },
+    "Milestone/MileStoneRankLockWindow": {
+      "url": "assets/scene/milestone/reference/Milestone_MileStoneRankLockWindow_published.json",
+      "id": "r5dd1ke46rl",
+      "width": 750,
+      "height": 1624
+    },
+    "Milestone/MileStoneRankLockWindowOld": {
+      "url": "assets/scene/milestone/reference/Milestone_MileStoneRankLockWindowOld_published.json",
+      "id": "o24d1ke475g",
+      "width": 750,
+      "height": 1624
+    },
+    "Milestone/MileStoneRankShowInfoWindow": {
+      "url": "assets/scene/milestone/reference/Milestone_MileStoneRankShowInfoWindow_published.json",
+      "id": "v4q91ke474x",
+      "width": 750,
+      "height": 1624
+    },
+    "Milestone/milestoneRankProgress": {
+      "url": "assets/scene/milestone/reference/Milestone_milestoneRankProgress_published.json",
+      "id": "v4q91ke474q",
+      "width": 388,
+      "height": 34
+    },
+    "Milestone/Comp_MileStoneRankView": {
+      "url": "assets/scene/milestone/reference/Milestone_Comp_MileStoneRankView_published.json",
+      "id": "v4q91ke474u",
+      "width": 600,
+      "height": 451
+    },
+    "Common/btn_close_03": {
+      "url": "assets/scene/milestone/reference/Common_btn_close_03_published.json",
+      "id": "kdeb1ke46vw",
+      "width": 94,
+      "height": 98
     }
+  },
+  "rankWindowReference": {
+    "lockedRoot": "Milestone/MileStoneRankLockWindow",
+    "unlockedRoot": "Milestone/MileStoneRankShowInfoWindow",
+    "legacyRoot": "Milestone/MileStoneRankLockWindowOld",
+    "lockedPoster": {
+      "configuredField": "activity_milestone_ui.rankBg[0]",
+      "image": {
+        "url": "assets/scene/milestone/img_rules_banner_8_zh_cn.png",
+        "width": 656,
+        "height": 452,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_8_zh_cn.png"
+      },
+      "control": "loader_titleBg"
+    },
+    "unlockedPoster": {
+      "configuredField": "activity_milestone_ui.rankBg[0]",
+      "image": {
+        "url": "assets/scene/milestone/img_rules_banner_8_zh_cn.png",
+        "width": 656,
+        "height": 452,
+        "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_8_zh_cn.png"
+      },
+      "control": "loader_titleBg"
+    },
+    "closeButton": "Common/btn_close_03",
+    "closeImage": "btn_com_close_new",
+    "lockImage": "icon_lock",
+    "progressFrame": "rank_bg_milestone_progress_02",
+    "notes": [
+      "Both current locked and unlocked code load rankBg[0]. The empty orange tournament banner is not their poster.",
+      "The screenshot is locked:0/1, final lock, goal explanation. Current unlocked native root has ranking rows; retain distinct states.",
+      "Published current RankLock differs substantially from editor XML: rank progress is milestoneRankProgress component; current published RankLock has no ctrl_lockType. That controller belongs to legacy root.",
+      "MilestoneEventTemplateWindow_fui.bytes is absent from original GUI; editor package shares Milestone packageID, but runtime Config.package is Milestone.",
+      "Current native Common package and bundle contain later blue close button. Gold circle/redX is exact preserved peibiao/fairygui/trunk source, visually confirmed against screenshot."
+    ]
   }
 }

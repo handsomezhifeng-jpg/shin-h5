@@ -24,7 +24,7 @@ export class OriginalUI {
     const display=root.children.find(c=>c.tag==='displayList');
     if(!display)return outer;
     const groups=new Map(display.children.filter(n=>n.tag==='group').map(n=>[n.attrs.id,n]));
-    for(const [id,node] of groups){const a=node.attrs;const [x,y]=vec(a.xy),[w,h]=vec(a.size);const g={fgAttrs:a,fgSource:node,fgState:{},fgBox:{x,y,w,h},fgGroup:true};outer.fgGroups.set(id,g);outer.fgNodes.set(id,g);}
+    for(const [id,node] of groups){const a=node.attrs;const [x,y]=vec(a.xy),[w,h]=vec(a.size);const g={fgAttrs:a,fgSource:node,fgState:{},fgBox:{x,y,w,h},fgGroup:true};for(const gear of node.children){const ga=gear.attrs,index=(ga.pages || '').split(',').indexOf(control[ga.controller]),value=index>=0?(ga.values || '').split('|')[index]:ga.default;if(value===undefined)continue;if(gear.tag==='gearXY')g.fgState.xy=vec(value).slice(0,2);if(gear.tag==='gearSize')g.fgState.size=vec(value).slice(0,2);if(gear.tag==='gearLook'){const [alpha,rotation]=value.split(',');g.fgState.alpha=Number(alpha);g.fgState.rotation=Number(rotation);}}outer.fgGroups.set(id,g);outer.fgNodes.set(id,g);}
     for(const node of display.children){
       if(node.tag==='group')continue;
       const a={...node.attrs};
@@ -37,7 +37,7 @@ export class OriginalUI {
       }
       let el;let res=null;
       if(node.tag==='component'){
-        const childPkg=a.pkg || pkg;res=this.resource(childPkg,a.src);if(a.pivot===undefined&&res?.xml?.attrs.pivot){a.pivot=res.xml.attrs.pivot;a.anchor=res.xml.attrs.anchor || 'false';}el=this.component(childPkg,a.src,{controllers:this.parseControllers(a.controller),size:a.size?vec(a.size):undefined},depth+1);
+        const childPkg=a.pkg || pkg;res=this.resource(childPkg,a.src);if(a.pivot===undefined&&res?.xml?.attrs.pivot){a.pivot=res.xml.attrs.pivot;a.anchor=res.xml.attrs.anchor || 'false';}const childControllers=this.parseControllers(a.controller);for(const parentController of root.children.filter(n=>n.tag==='controller'))for(const action of parentController.children || []){const ca=action.attrs;if(action.tag==='action'&&ca.type==='change_page'&&ca.objectId===a.id&&ca.controller&&ca.targetPage&&!ca.targetPage.startsWith('~')&&(!ca.toPage||ca.toPage.split(',').includes(control[parentController.attrs.name])))childControllers[ca.controller]=ca.targetPage;}el=this.component(childPkg,a.src,{controllers:childControllers,size:a.size?vec(a.size):undefined},depth+1);
       }else{el=document.createElement('div');el.className='fg-node fg-'+node.tag;}
       el.dataset.name=a.name || '';el.dataset.node=a.id || '';el.fgAttrs=a;
       let [w,h]=vec(a.size,[res?.width || 0,res?.height || 0]);
@@ -79,7 +79,7 @@ export class OriginalUI {
   }
   page(root,name,page){return root.fgControls[name]===String(page);}
   refresh(root){
-    const allowed=node=>{const a=node.fgAttrs,s=node.fgState || {};if(s.visible===false||s.visible===undefined&&a.visible==='false')return false;for(const gear of node.fgSource?.children || [])if(gear.tag==='gearDisplay'&&gear.attrs.pages&&!gear.attrs.pages.split(',').includes(root.fgControls[gear.attrs.controller]))return false;return true;};
+    const allowed=node=>{const a=node.fgAttrs,s=node.fgState || {};if(s.visible===false||s.visible===undefined&&a.visible==='false')return false;let connected=true;for(const gear of node.fgSource?.children || [])if(gear.tag==='gearDisplay'&&gear.attrs.pages)connected=gear.attrs.pages.split(',').includes(root.fgControls[gear.attrs.controller]);for(const gear of node.fgSource?.children || [])if(gear.tag==='gearDisplay2'){const visible=!gear.attrs.pages||gear.attrs.pages.split(',').includes(root.fgControls[gear.attrs.controller]);connected=Number(gear.attrs.condition || 0)===0?connected&&visible:connected||visible;}return connected;};
     const ancestors=node=>{const out=[];let id=node.fgAttrs?.group;while(id){const g=root.fgGroups.get(id);if(!g)break;out.push(g);id=g.fgAttrs.group;}return out;};
     const apply=(node,isRoot=false)=>{const a=node.fgAttrs || {},s=node.fgState || {},b=node.fgBox || {x:0,y:0,w:parseFloat(root.style.width),h:parseFloat(root.style.height)},gs=isRoot?[]:ancestors(node);if(!isRoot){node.style.display=(!node.fgMask&&allowed(node)&&gs.every(allowed))?'':'none';const [px,py]=vec(a.pivot),anchor=a.anchor==='true',xy=s.xy || vec(a.xy,[b.x,b.y]);let x=s.xy?xy[0]-(anchor?px*b.w:0):b.x,y=s.xy?xy[1]-(anchor?py*b.h:0):b.y;for(const g of gs){const original=vec(g.fgAttrs.xy);const cur=g.fgState.xy || original;x+=cur[0]-original[0];y+=cur[1]-original[1];}node.style.left=x+'px';node.style.top=y+'px';if(s.size){node.style.width=s.size[0]+'px';node.style.height=s.size[1]+'px';}}
       let alpha=s.alpha ?? Number(a.alpha ?? 1);for(const g of gs)alpha*=g.fgState.alpha ?? Number(g.fgAttrs.alpha ?? 1);node.style.opacity=alpha;const [sx,sy]=s.scale || vec(a.scale,[1,1]),rotation=s.rotation ?? Number(a.rotation || 0),skew=s.skew || vec(a.skew);let translate='';if(isRoot&&s.xy)translate=`translate(${s.xy[0]}px,${s.xy[1]}px) `;node.style.transform=`${translate}rotate(${rotation}deg) skew(${-skew[0]}deg,${skew[1]}deg) scale(${sx},${sy})`;};

@@ -1,0 +1,291 @@
+{
+  "package": "Milestone",
+  "id": "v4q91ke474u",
+  "name": "Comp_MileStoneRankView",
+  "width": 600,
+  "height": 451,
+  "controllers": [],
+  "children": [
+    {
+      "id": "n262_snxz",
+      "name": "n262",
+      "type": 3,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        0,
+        0
+      ],
+      "size": [
+        600,
+        451
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "shapeType": 1,
+      "lineSize": 0,
+      "lineColor": "#000000ff",
+      "fillColor": "#ffffffff",
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            },
+            {
+              "type": 15,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n163_tequ",
+      "name": "n99",
+      "type": 0,
+      "src": "sxnt1ke46xa",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        0,
+        0
+      ],
+      "size": [
+        598,
+        450
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            },
+            {
+              "type": 15,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n166_tequ",
+      "name": "list_Rank",
+      "type": 10,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        9,
+        6
+      ],
+      "size": [
+        583,
+        438
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            },
+            {
+              "type": 15,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n256_p4g2",
+      "name": "n256",
+      "type": 0,
+      "src": "sxnt1ke46x9",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        224,
+        131
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 5,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n257_p4g2",
+      "name": "text_emptyRank",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        76,
+        283
+      ],
+      "size": [
+        444,
+        36
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#c95c27ff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 5,
+      "font": null,
+      "fontSize": 24,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n259_p4g2",
+      "name": "group_emptyRank",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        76,
+        131
+      ],
+      "size": [
+        444,
+        188
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 10,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes"
+}

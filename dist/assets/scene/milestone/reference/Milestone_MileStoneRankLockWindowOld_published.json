@@ -1,0 +1,2276 @@
+{
+  "package": "Milestone",
+  "id": "o24d1ke475g",
+  "name": "MileStoneRankLockWindowOld",
+  "width": 750,
+  "height": 1624,
+  "controllers": [
+    {
+      "name": "ctrl_lockType",
+      "autoRadioGroupDepth": false,
+      "pages": [
+        {
+          "id": "0",
+          "name": "lock"
+        },
+        {
+          "id": "1",
+          "name": "unlock"
+        },
+        {
+          "id": "2",
+          "name": "end"
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "id": "n123_jjx9",
+      "name": "bgLoader",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        6,
+        228
+      ],
+      "size": [
+        714,
+        1076
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": "ui://jcq5wm2bkdeb1ke46vu",
+      "gears": [
+        {
+          "type": 1,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "nativeLayoutGears": [
+        {
+          "type": 1,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              6,
+              228
+            ],
+            "1": [
+              6,
+              228
+            ],
+            "2": [
+              6,
+              308
+            ]
+          }
+        }
+      ],
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 10,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n227_i4ym",
+      "name": "loader_titleBg",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        371,
+        708
+      ],
+      "size": [
+        656,
+        452
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        1.0
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [
+        {
+          "type": 1,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "nativeLayoutGears": [
+        {
+          "type": 1,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              371,
+              708
+            ],
+            "1": [
+              371,
+              708
+            ],
+            "2": [
+              371,
+              654
+            ]
+          }
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "n262_p3rt",
+      "name": "loader_title",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        379,
+        230
+      ],
+      "size": [
+        338,
+        159
+      ],
+      "scale": [
+        0.7599999904632568,
+        0.7599999904632568
+      ],
+      "pivot": [
+        0.5,
+        1.0
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "2"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 11,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n266_pctp",
+      "name": "countDownTime",
+      "type": 9,
+      "src": "dvs92l",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        234,
+        670
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": 1,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "nativeLayoutGears": [
+        {
+          "type": 1,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              234,
+              670
+            ],
+            "1": [
+              234,
+              671
+            ],
+            "2": [
+              236,
+              317
+            ]
+          }
+        }
+      ],
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n249_myob",
+      "name": "com_rankFirst",
+      "type": 9,
+      "src": "myob1ke46rj",
+      "pkg": "kaqu57ng",
+      "xy": [
+        277,
+        560
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 7,
+      "relations": []
+    },
+    {
+      "id": "n250_myob",
+      "name": "com_rankSec",
+      "type": 9,
+      "src": "myob1ke46rj",
+      "pkg": "kaqu57ng",
+      "xy": [
+        67,
+        581
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 7,
+      "relations": []
+    },
+    {
+      "id": "n251_myob",
+      "name": "com_rankThird",
+      "type": 9,
+      "src": "myob1ke46rj",
+      "pkg": "kaqu57ng",
+      "xy": [
+        488,
+        581
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 7,
+      "relations": []
+    },
+    {
+      "id": "n252_myob",
+      "name": "group_rankTopThree",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        67,
+        560
+      ],
+      "size": [
+        617,
+        161
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "2"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n18_m5h4",
+      "name": "Comp_StonelDesAndLoot",
+      "type": 9,
+      "src": "s6di1ke46oy",
+      "pkg": null,
+      "xy": [
+        378,
+        968
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n237_udcm",
+      "name": "n237",
+      "type": 0,
+      "src": "udcm1ke46rf",
+      "pkg": null,
+      "xy": [
+        178,
+        610
+      ],
+      "size": [
+        390,
+        32
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 13,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            },
+            {
+              "type": 15,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n187_6ijb",
+      "name": "progress",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        192,
+        614
+      ],
+      "size": [
+        345,
+        23
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": "ui://oat65s2uugwg1ke46ol",
+      "gears": [
+        {
+          "type": 2,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 13,
+      "nativeLayoutGears": [
+        {
+          "type": 2,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              343,
+              24,
+              1.0,
+              1.0
+            ],
+            "1": [
+              345,
+              23,
+              1.0,
+              1.0
+            ]
+          },
+          "default": [
+            343,
+            24,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "n219_rz52",
+      "name": "n219",
+      "type": 3,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        396,
+        612
+      ],
+      "size": [
+        0,
+        28
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 13,
+      "shapeType": 1,
+      "lineSize": 1,
+      "lineColor": "#00000000",
+      "fillColor": "#291f1eff",
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n188_6ijb",
+      "name": "text_progress",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        229,
+        607
+      ],
+      "size": [
+        274,
+        32
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 13,
+      "font": null,
+      "fontSize": 22,
+      "align": 1,
+      "vAlign": 0,
+      "text": null,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 10,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n189_6ijb",
+      "name": "n189",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        178,
+        607
+      ],
+      "size": [
+        390,
+        34
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 36,
+      "relations": []
+    },
+    {
+      "id": "n225_qhdt",
+      "name": "loader_bgIcon",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        161,
+        621
+      ],
+      "size": [
+        72,
+        72
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": "ui://jcq5wm2bmann1ke46xt",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 36,
+      "relations": []
+    },
+    {
+      "id": "n178_6ijb",
+      "name": "loder_need",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        135,
+        594
+      ],
+      "size": [
+        55,
+        52
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 36,
+      "relations": []
+    },
+    {
+      "id": "n229_udcm",
+      "name": "text_lockMoreInfo",
+      "type": 7,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        225,
+        568
+      ],
+      "size": [
+        279,
+        36
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 36,
+      "font": null,
+      "fontSize": 22,
+      "align": 1,
+      "vAlign": 0,
+      "text": "收集<img src=ui://IconActivity/icon_milestone_0025  width='35' height='35'/>后解锁",
+      "relations": []
+    },
+    {
+      "id": "n263_l45e",
+      "name": "n263",
+      "type": 3,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        363,
+        608
+      ],
+      "size": [
+        6,
+        29
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "shapeType": 1,
+      "lineSize": 1,
+      "lineColor": "#00000000",
+      "fillColor": "#291f1eff",
+      "relations": []
+    },
+    {
+      "id": "n276_mvb1",
+      "name": "com_midReward",
+      "type": 9,
+      "src": "dvs91ke46zp",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        321,
+        557
+      ],
+      "size": null,
+      "scale": [
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "relations": []
+    },
+    {
+      "id": "n235_udcm",
+      "name": "n299",
+      "type": 0,
+      "src": "udcm1ke46rg",
+      "pkg": null,
+      "xy": [
+        304,
+        642
+      ],
+      "size": [
+        124,
+        24
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 21,
+      "relations": [
+        {
+          "targetIndex": 22,
+          "pairs": [
+            {
+              "type": 14,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n236_udcm",
+      "name": "n236",
+      "type": 0,
+      "src": "udcm1ke46rh",
+      "pkg": null,
+      "xy": [
+        356,
+        634
+      ],
+      "size": [
+        19,
+        10
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 21,
+      "relations": []
+    },
+    {
+      "id": "n264_q2h5",
+      "name": "group_targetNumBg",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        304,
+        634
+      ],
+      "size": [
+        124,
+        32
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "relations": []
+    },
+    {
+      "id": "n208_m2as",
+      "name": "text_targetNum",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        312,
+        639
+      ],
+      "size": [
+        110,
+        29
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": false,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "font": null,
+      "fontSize": 20,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": []
+    },
+    {
+      "id": "n210_m2as",
+      "name": "group_target1",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        304,
+        557
+      ],
+      "size": [
+        124,
+        111
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": false,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 36,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n228_udcm",
+      "name": "n228",
+      "type": 0,
+      "src": "udcm1ke46re",
+      "pkg": null,
+      "xy": [
+        534,
+        585
+      ],
+      "size": [
+        73,
+        70
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 29,
+      "relations": []
+    },
+    {
+      "id": "n238_udcm",
+      "name": "targetNum2Bg",
+      "type": 0,
+      "src": "udcm1ke46rg",
+      "pkg": null,
+      "xy": [
+        532,
+        641
+      ],
+      "size": [
+        79,
+        24
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 29,
+      "relations": []
+    },
+    {
+      "id": "n181_6ijb",
+      "name": "text_targetNum2",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        537,
+        638
+      ],
+      "size": [
+        67,
+        29
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 29,
+      "font": null,
+      "fontSize": 20,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": []
+    },
+    {
+      "id": "n275_mvb1",
+      "name": "com_finalReward",
+      "type": 9,
+      "src": "dvs91ke46zp",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        528,
+        576
+      ],
+      "size": [
+        85,
+        93
+      ],
+      "scale": [
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 29,
+      "relations": []
+    },
+    {
+      "id": "n278_mvb1",
+      "name": "img_finalLock",
+      "type": 0,
+      "src": "mzam1ke46sh",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        548,
+        593
+      ],
+      "size": [
+        43,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 29,
+      "relations": []
+    },
+    {
+      "id": "n209_m2as",
+      "name": "group_target2",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        528,
+        576
+      ],
+      "size": [
+        85,
+        93
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 35,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 6,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n269_cc2z",
+      "name": "n269",
+      "type": 0,
+      "src": "udcm1ke46re",
+      "pkg": null,
+      "xy": [
+        649,
+        585
+      ],
+      "size": [
+        73,
+        70
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 34,
+      "relations": []
+    },
+    {
+      "id": "n270_cc2z",
+      "name": "loader_target3",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        656,
+        581
+      ],
+      "size": [
+        60,
+        71
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [
+        {
+          "type": 2,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 34,
+      "nativeLayoutGears": [
+        {
+          "type": 2,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              42,
+              50,
+              1.0,
+              1.0
+            ],
+            "1": [
+              60,
+              71,
+              1.0,
+              1.0
+            ]
+          },
+          "default": [
+            42,
+            50,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "n271_cc2z",
+      "name": "targetNum3Bg",
+      "type": 0,
+      "src": "udcm1ke46rg",
+      "pkg": null,
+      "xy": [
+        647,
+        641
+      ],
+      "size": [
+        79,
+        24
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 34,
+      "relations": []
+    },
+    {
+      "id": "n272_cc2z",
+      "name": "text_targetNum3",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        652,
+        638
+      ],
+      "size": [
+        67,
+        29
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 34,
+      "font": null,
+      "fontSize": 20,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": []
+    },
+    {
+      "id": "n273_cc2z",
+      "name": "group_target3",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        647,
+        581
+      ],
+      "size": [
+        79,
+        85
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": false,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 35,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 6,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n274_cc2z",
+      "name": "rewardGroup2",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        528,
+        576
+      ],
+      "size": [
+        85,
+        93
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 36,
+      "relations": []
+    },
+    {
+      "id": "n185_6ijb",
+      "name": "group_progress",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        125,
+        557
+      ],
+      "size": [
+        488,
+        112
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n230_udcm",
+      "name": "n230",
+      "type": 0,
+      "src": "sxnt1ke46xf",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        187,
+        699
+      ],
+      "size": [
+        431,
+        42
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 39,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n203_jwkq",
+      "name": "text_miaoshu",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        225,
+        702
+      ],
+      "size": [
+        356,
+        34
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 39,
+      "font": null,
+      "fontSize": 24,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": [
+        {
+          "targetIndex": 37,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n231_udcm",
+      "name": "group_lockDesc",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        187,
+        699
+      ],
+      "size": [
+        431,
+        42
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 7,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n171_6ijb",
+      "name": "text_unlockRadioMoreInfo",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        310,
+        1211
+      ],
+      "size": [
+        431,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#511b2fff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 42,
+      "font": null,
+      "fontSize": 20,
+      "align": 0,
+      "vAlign": 1,
+      "text": "11111111111111",
+      "relations": []
+    },
+    {
+      "id": "n268_mxjv",
+      "name": "comp_radio",
+      "type": 9,
+      "src": "h5u41ke46qq",
+      "pkg": null,
+      "xy": [
+        528,
+        1191
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 42,
+      "relations": []
+    },
+    {
+      "id": "n172_6ijb",
+      "name": "group_lockBet",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        95,
+        1186
+      ],
+      "size": [
+        569,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 8,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n163_tequ",
+      "name": "Comp_UnLockRank",
+      "type": 9,
+      "src": "o24d1ke475e",
+      "pkg": null,
+      "xy": [
+        76,
+        725
+      ],
+      "size": [
+        598,
+        555
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 44,
+      "relations": []
+    },
+    {
+      "id": "n168_tequ",
+      "name": "unlockRank",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        76,
+        725
+      ],
+      "size": [
+        598,
+        555
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": 1,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "nativeLayoutGears": [
+        {
+          "type": 1,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              61,
+              628
+            ],
+            "1": [
+              76,
+              725
+            ],
+            "2": [
+              76,
+              678
+            ]
+          }
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "n215_fonr",
+      "name": "btn_getReward",
+      "type": 9,
+      "src": "rdwn1ke46nv",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        256,
+        1179
+      ],
+      "size": [
+        234,
+        84
+      ],
+      "scale": [
+        1.25,
+        1.25
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "2"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n140_jjx9",
+      "name": "btn_info",
+      "type": 9,
+      "src": "9pmr1q",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        612,
+        285
+      ],
+      "size": [
+        46,
+        52
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0",
+            "1"
+          ]
+        },
+        {
+          "type": 1,
+          "controllerIndex": 0
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "nativeLayoutGears": [
+        {
+          "type": 1,
+          "controllerIndex": 0,
+          "statuses": {
+            "0": [
+              613,
+              285
+            ],
+            "1": [
+              613,
+              286
+            ],
+            "2": [
+              612,
+              368
+            ]
+          }
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "n261_ttm0",
+      "name": "btn_close",
+      "type": 9,
+      "src": "kdeb1ke46vw",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        328,
+        1504
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n265_lk1c",
+      "name": "com_previewReward",
+      "type": 9,
+      "src": "lk1c1ke46va",
+      "pkg": null,
+      "xy": [
+        3,
+        1204
+      ],
+      "size": [
+        195,
+        742
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "0",
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 8,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes"
+}

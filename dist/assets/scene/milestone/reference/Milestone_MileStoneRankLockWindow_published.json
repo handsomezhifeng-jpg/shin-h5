@@ -1,0 +1,1147 @@
+{
+  "package": "Milestone",
+  "id": "r5dd1ke46rl",
+  "name": "MileStoneRankLockWindow",
+  "width": 750,
+  "height": 1624,
+  "controllers": [
+    {
+      "name": "ctrl_isHaveRankLevel",
+      "autoRadioGroupDepth": false,
+      "pages": [
+        {
+          "id": "0",
+          "name": "no"
+        },
+        {
+          "id": "1",
+          "name": "yes"
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "id": "n123_jjx9",
+      "name": "bgLoader",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        6,
+        274
+      ],
+      "size": [
+        714,
+        1076
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": "ui://jcq5wm2bkdeb1ke46vu",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 10,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n227_i4ym",
+      "name": "loader_titleBg",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        371,
+        653
+      ],
+      "size": [
+        656,
+        452
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        1.0
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 7,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n18_m5h4",
+      "name": "Comp_StonelDesAndLoot",
+      "type": 9,
+      "src": "s6di1ke46oy",
+      "pkg": null,
+      "xy": [
+        378,
+        963
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n280_mmma",
+      "name": "progress",
+      "type": 9,
+      "src": "v4q91ke474q",
+      "pkg": null,
+      "xy": [
+        173,
+        559
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "relations": []
+    },
+    {
+      "id": "n225_qhdt",
+      "name": "loader_bgIcon",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        164,
+        575
+      ],
+      "size": [
+        72,
+        72
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": "ui://jcq5wm2bmann1ke46xt",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "relations": []
+    },
+    {
+      "id": "n178_6ijb",
+      "name": "loder_need",
+      "type": 4,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        138,
+        548
+      ],
+      "size": [
+        55,
+        52
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "url": null,
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "relations": []
+    },
+    {
+      "id": "n229_udcm",
+      "name": "text_lockMoreInfo",
+      "type": 7,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        233,
+        522
+      ],
+      "size": [
+        279,
+        36
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "font": null,
+      "fontSize": 22,
+      "align": 1,
+      "vAlign": 0,
+      "text": "收集<img src=ui://IconActivity/icon_milestone_0025  width='35' height='35'/>后解锁",
+      "relations": []
+    },
+    {
+      "id": "n228_udcm",
+      "name": "n228",
+      "type": 0,
+      "src": "udcm1ke46re",
+      "pkg": null,
+      "xy": [
+        535,
+        540
+      ],
+      "size": [
+        73,
+        70
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "relations": []
+    },
+    {
+      "id": "n278_mvb1",
+      "name": "img_finalLock",
+      "type": 0,
+      "src": "mzam1ke46sh",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        550,
+        548
+      ],
+      "size": [
+        43,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 9,
+      "relations": []
+    },
+    {
+      "id": "n185_6ijb",
+      "name": "group_progress",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        128,
+        522
+      ],
+      "size": [
+        480,
+        89
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n230_udcm",
+      "name": "n230",
+      "type": 0,
+      "src": "sxnt1ke46xf",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        183,
+        643
+      ],
+      "size": [
+        431,
+        42
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 12,
+      "relations": [
+        {
+          "targetIndex": 1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n203_jwkq",
+      "name": "text_miaoshu",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        221,
+        646
+      ],
+      "size": [
+        356,
+        34
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 12,
+      "font": null,
+      "fontSize": 24,
+      "align": 1,
+      "vAlign": 1,
+      "text": null,
+      "relations": [
+        {
+          "targetIndex": 10,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n231_udcm",
+      "name": "group_lockDesc",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        183,
+        643
+      ],
+      "size": [
+        431,
+        42
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 7,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n140_jjx9",
+      "name": "btn_info",
+      "type": 9,
+      "src": "9pmr1q",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        613,
+        229
+      ],
+      "size": [
+        46,
+        52
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": []
+    },
+    {
+      "id": "n261_ttm0",
+      "name": "btn_close",
+      "type": 9,
+      "src": "kdeb1ke46vw",
+      "pkg": "jcq5wm2b",
+      "xy": [
+        328,
+        1504
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 3,
+              "percent": false
+            },
+            {
+              "type": 13,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n265_lk1c",
+      "name": "com_previewReward",
+      "type": 9,
+      "src": "lk1c1ke46va",
+      "pkg": null,
+      "xy": [
+        3,
+        1204
+      ],
+      "size": [
+        195,
+        742
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": -1,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 8,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n290_pyud",
+      "name": "btn_seasonInfo",
+      "type": 9,
+      "src": "v4q91ke474p",
+      "pkg": null,
+      "xy": [
+        95,
+        1165
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 24,
+      "relations": []
+    },
+    {
+      "id": "n291_pyud",
+      "name": "n291",
+      "type": 0,
+      "src": "v4q91ke473z",
+      "pkg": null,
+      "xy": [
+        368,
+        1191
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [
+        {
+          "type": 0,
+          "controllerIndex": 0,
+          "pages": [
+            "1"
+          ]
+        }
+      ],
+      "tooltip": null,
+      "groupIndex": 24,
+      "relations": []
+    },
+    {
+      "id": "n292_pyud",
+      "name": "btn_passport",
+      "type": 9,
+      "src": "v4q91ke474o",
+      "pkg": null,
+      "xy": [
+        560,
+        1174
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 24,
+      "relations": []
+    },
+    {
+      "id": "n293_pyud",
+      "name": "btn_rank",
+      "type": 9,
+      "src": "v4q91ke474o",
+      "pkg": null,
+      "xy": [
+        430,
+        1172
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 24,
+      "relations": []
+    },
+    {
+      "id": "n299_awal",
+      "name": "n299",
+      "type": 0,
+      "src": "ioic1ke475p",
+      "pkg": null,
+      "xy": [
+        615,
+        1157
+      ],
+      "size": null,
+      "scale": [
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "relations": []
+    },
+    {
+      "id": "n300_awal",
+      "name": "text_offsetVal",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        628,
+        1169
+      ],
+      "size": [
+        51,
+        32
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fff38fff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "font": null,
+      "fontSize": 22,
+      "align": 1,
+      "vAlign": 0,
+      "text": null,
+      "relations": []
+    },
+    {
+      "id": "n301_awal",
+      "name": "n7",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        633,
+        1194
+      ],
+      "size": [
+        39,
+        26
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#fff38fff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 23,
+      "font": null,
+      "fontSize": 18,
+      "align": 1,
+      "vAlign": 0,
+      "text": "OFF",
+      "relations": []
+    },
+    {
+      "id": "n302_awal",
+      "name": "group_offset",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        615,
+        1157
+      ],
+      "size": [
+        76,
+        76
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 24,
+      "relations": []
+    },
+    {
+      "id": "n294_pyud",
+      "name": "n294",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        95,
+        1157
+      ],
+      "size": [
+        596,
+        127
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 7,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n295_pyud",
+      "name": "n295",
+      "type": 0,
+      "src": "v4q91ke473m",
+      "pkg": null,
+      "xy": [
+        86,
+        701
+      ],
+      "size": [
+        488,
+        48
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 28,
+      "relations": []
+    },
+    {
+      "id": "n296_pyud",
+      "name": "text_unlockRadioMoreInfo",
+      "type": 6,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        307,
+        723
+      ],
+      "size": [
+        431,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "anchor": true,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#511b2fff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 28,
+      "font": null,
+      "fontSize": 20,
+      "align": 0,
+      "vAlign": 1,
+      "text": "11111111111111",
+      "relations": []
+    },
+    {
+      "id": "n297_pyud",
+      "name": "comp_radio",
+      "type": 9,
+      "src": "h5u41ke46qq",
+      "pkg": null,
+      "xy": [
+        529,
+        707
+      ],
+      "size": null,
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": 28,
+      "relations": []
+    },
+    {
+      "id": "n298_pyud",
+      "name": "group_lockBet",
+      "type": 5,
+      "src": null,
+      "pkg": null,
+      "xy": [
+        86,
+        698
+      ],
+      "size": [
+        579,
+        51
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0
+      ],
+      "anchor": false,
+      "alpha": 1.0,
+      "rotation": 0.0,
+      "visible": true,
+      "grayed": false,
+      "color": "#ffffffff",
+      "gears": [],
+      "tooltip": null,
+      "groupIndex": -1,
+      "relations": [
+        {
+          "targetIndex": 0,
+          "pairs": [
+            {
+              "type": 0,
+              "percent": false
+            },
+            {
+              "type": 7,
+              "percent": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceFui": "client/SHIN/Assets/ResourcesAssets/GUI/Milestone_fui.bytes"
+}

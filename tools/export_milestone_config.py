@@ -332,7 +332,7 @@ def export(workspace):
             "scoring": "只有停留结果参与；命中 goal 后加 score × 本轮骰子倍率。goal2不因经过每格加分。",
             "stages": "singleValue为单档增量，threshold/min/max由按index升序累加得到；达到阈值自动奖励，每档只能领取一次。",
             "offlineDrop": "resolvedOfflineRewards使用原spare奖励分支；直接奖励为空时解析原drop_id到main_activity_type=0。不把未知物品替换成骰子或金币。",
-            "money": "美金保留原配表基础数量，未乘玩家状态相关通胀；原服务端buildCommonDrop应用inflationService。",
+            "money": "原配表保留美金基础数量；H5在展示与发奖时乘当前地图通胀，并应用原AssetService美金向上取整。",
             "schedule": "按原国服排期自动选择当前一期；到期停止旧期积分，各期进度独立，不在加载时重设倒计时。",
             "settlement": "离线仅补发已实际达到且未标记领取的阶段奖励；不得据本机单人成绩发放线上排名结算奖励。",
             "mapUnlock": "mapUnlock来自原activity_main.map_id，NoRank=3、Rank=6；若演示绕过门槛，应明确属于本地演示策略。",

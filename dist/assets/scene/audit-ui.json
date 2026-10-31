@@ -1,0 +1,239 @@
+{
+  "images": {
+    "img_gacha_title_01": "assets/scene/audit-ui/img_gacha_title_01_zh_cn.png",
+    "img_gacha_title_02": "assets/scene/audit-ui/img_gacha_title_02_zh_cn.png",
+    "shell_blue_b": "assets/scene/audit-ui/GachaMachine-shell_blue_b.png",
+    "shell_green": "assets/scene/audit-ui/GachaMachine-shell_green.png",
+    "shell_green_b": "assets/scene/audit-ui/GachaMachine-shell_green_b.png",
+    "normal_golden": "assets/scene/audit-ui/GachaMachine-normal_golden.png",
+    "shell_blue": "assets/scene/audit-ui/GachaMachine-shell_blue.png",
+    "icon_CardPack_02": "assets/scene/audit-ui/IconItem-icon_CardPack_02.png",
+    "icon_CardPack_03": "assets/scene/audit-ui/IconItem-icon_CardPack_03.png",
+    "icon_CardPack_04": "assets/scene/audit-ui/IconItem-icon_CardPack_04.png",
+    "icon_CardPack_01": "assets/scene/audit-ui/IconItem-icon_CardPack_01.png",
+    "icon_money_02": "assets/scene/audit-ui/IconItem-icon_money_02.png",
+    "icon_dice": "assets/scene/audit-ui/IconItem-icon_dice.png",
+    "icon_dice_02": "assets/scene/audit-ui/IconItem-icon_dice_02.png",
+    "icon_money": "assets/scene/audit-ui/IconItem-icon_money.png"
+  },
+  "strings": {
+    "10100016": "{0}后骰子+{1}",
+    "10200053": "普通扭蛋",
+    "10200054": "黄金扭蛋",
+    "10400071": "免费移动{0}次",
+    "10800038": "尚未收到好友邀请",
+    "10800055": "没有通知",
+    "11000007": "陷阱",
+    "11200027": "打扫"
+  },
+  "gachaProbabilities": [
+    {
+      "gold": false,
+      "name": "骰子×100",
+      "icon": "icon_dice",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "骰子×50",
+      "icon": "icon_dice",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "骰子×30",
+      "icon": "icon_dice",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "骰子×15",
+      "icon": "icon_dice",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "骰子×5",
+      "icon": "icon_dice",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "金币×6000",
+      "icon": "icon_money",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "金币×4000",
+      "icon": "icon_money",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "金币×6000",
+      "icon": "icon_money",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "金币×4000",
+      "icon": "icon_money",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "金币×2000",
+      "icon": "icon_money",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "2星卡包×1",
+      "icon": "icon_CardPack_02",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "2星卡包×1",
+      "icon": "icon_CardPack_02",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "1星卡包×1",
+      "icon": "icon_CardPack_01",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": false,
+      "name": "1星卡包×1",
+      "icon": "icon_CardPack_01",
+      "probability": 7.14,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×2000",
+      "icon": "icon_dice",
+      "probability": 0.4,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×1000",
+      "icon": "icon_dice",
+      "probability": 2.0,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×500",
+      "icon": "icon_dice",
+      "probability": 6.1,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×300",
+      "icon": "icon_dice",
+      "probability": 20.59,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×200",
+      "icon": "icon_dice",
+      "probability": 15.25,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "骰子×100",
+      "icon": "icon_dice",
+      "probability": 15.25,
+      "split": false,
+      "yMove": 0.5
+    },
+    {
+      "gold": true,
+      "name": "3星卡包×1",
+      "icon": "icon_CardPack_03",
+      "probability": 0,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "4星卡包×1",
+      "icon": "icon_CardPack_04",
+      "probability": 7.62,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "3星卡包×3",
+      "icon": "icon_CardPack_03",
+      "probability": 6.1,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "3星卡包×2",
+      "icon": "icon_CardPack_03",
+      "probability": 7.62,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "金币×200000",
+      "icon": "icon_money",
+      "probability": 3.8,
+      "split": true,
+      "yMove": 0
+    },
+    {
+      "gold": true,
+      "name": "金币×40000",
+      "icon": "icon_money",
+      "probability": 15.27,
+      "split": true,
+      "yMove": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';import path from 'node:path';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');const dist=path.join(root,'dist');
+const nativeRules=JSON.parse(await fs.readFile(path.join(root,'assets/board-rules.json'),'utf8'));await fs.writeFile(path.join(root,'src/native-rules.mjs'),'export default '+JSON.stringify(nativeRules)+';\n');
 const files=['index.html','style.css','game-data.js','fgui-data.js'];
 await fs.mkdir(dist,{recursive:true});
 for(const name of files)await fs.copyFile(path.join(root,name),path.join(dist,name));
@@ -20,3 +21,5 @@ const characters=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/board
 const gridProps=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/grid-props.json'),'utf8'));if(Object.keys(gridProps.slots).length!==40)throw new Error('格上建筑清单未覆盖40格');for(const[id,slot]of Object.entries(gridProps.slots))for(const prop of slot.props){if(!gridProps.meshes[prop.mesh])throw new Error('缺少格上原建筑网格：'+id);for(const name of prop.materials){const mat=gridProps.materials[name];for(const t of Object.values(mat.textures || {}))if(t.texture)await fs.access(path.join(dist,gridProps.textures[t.texture].url));}}
 
 for(const a of activities.activities){if(!milestone.packagingConfigs[a.skinId]||!milestone.dynamicImages[a.icon])throw new Error("排期缺少原美术："+a.id);const skin=milestone.packagingConfigs[a.skinId];for(const stem of(a.kind==='noRank'?[skin.noRankBg]:[skin.title,...skin.rankBg]))if(!milestone.dynamicImages[stem])throw new Error("排期缺少原海报："+a.id);}
+
+const auditUI=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/audit-ui.json'),'utf8'));for(const url of Object.values(auditUI.images))await fs.access(path.join(dist,url));const prison=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/prison-prop.json'),'utf8'));if(prison.objects.length!==2)throw new Error('原监狱笼子渲染器不完整');for(const t of Object.values(prison.textures))await fs.access(path.join(dist,t.url));for(const key of ['ani_mesh_cage_01_into','ani_mesh_cage_01_out','ani_caju_into','ani_caju_out'])if(!prison.clips[key])throw new Error('缺少原监狱动画：'+key);

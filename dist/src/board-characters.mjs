@@ -3,7 +3,7 @@ const loadImage=url=>new Promise((resolve,reject)=>{const i=new Image();i.onload
 const pose=(position={x:0,y:0,z:0},rotation={x:0,y:0,z:0,w:1})=>({position,rotation,scale:{x:1,y:1,z:1}});
 export class OriginalBoardCharacters{
  constructor(scene){this.scene=scene;this.tokens=new Map();this.suppressed=new Set();this.held=null;}
- async load(){this.data=await fetch('assets/scene/board-characters.json').then(r=>r.json());await Promise.all(Object.values(this.data.textures).map(async t=>this.scene.images[t.url]=await loadImage(t.url)));const c=document.createElement('canvas');c.width=c.height=1;c.getContext('2d').fillStyle='#fff';c.getContext('2d').fillRect(0,0,1,1);this.scene.images['native:white']=c;}
+ async load(){this.data=await fetch('assets/scene/board-characters.json').then(r=>r.json());await Promise.all(Object.values(this.data.textures).map(async t=>this.scene.images[t.url]=await loadImage(t.url)));if(this.scene.cast)for(const [i,t]of this.data.localOpponentTextures.entries())this.scene.images[t.url]=this.scene.cast.portraits[i%3];const c=document.createElement('canvas');c.width=c.height=1;c.getContext('2d').fillStyle='#fff';c.getContext('2d').fillRect(0,0,1,1);this.scene.images['native:white']=c;}
  get active(){return this.tokens.size>0;}
  prepareLanding(old,result){if(result.event?.kind!=='rent')return;const index=result.path.at(-1);this.held={index,started:null};this.suppressed=new Set(this.scene.state.rents.filter(i=>!old.includes(i)));if(!this.tokens.has(index))this.tokens.set(index,{angle:0});}
  landed(index,now){if(this.held?.index===index&&this.held.started===null)this.held.started=now;}

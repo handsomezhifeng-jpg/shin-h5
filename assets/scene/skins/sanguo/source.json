@@ -10,7 +10,12 @@
     "基金猪造型替换为粮仓，交互位置与数值保留",
     "门楼改开放通道和蜀字挂幡，重新调整市集/门楼比例及位置",
     "补入矮墙、树木、灯幡及远景建筑，形成院落衔接",
-    "按完整连通主体生成独立贴图，避免图集跨区截脚/串入邻格"
+    "按完整连通主体生成独立贴图，避免图集跨区截脚/串入邻格",
+    "新增府邸、马厩、茶铺和亭子，扩充周边院落",
+    "主角改为金冠、玉绿米白衣袍、红披风主公，8帧前后向行走与起跳表现沿用原路径节奏",
+    "按母版加入蓝衣谋士、橙衣仕女、绿袍武将，气泡复用奖励与投骰入口",
+    "主公头像与三国格上人物标记替换，旧小新资源保留供original模式核对",
+    "中心绿袍人物校正为无帽发髻、抚须站姿，移除长兵器并面向同伴"
   ],
   "invariants": [
     "40格顺序/坐标",
@@ -18,7 +23,7 @@
     "原控件结构与游戏存档规则"
   ],
   "implementation": "src/sanguo-environment.mjs",
-  "prompts": "prompts-v3.json",
+  "prompts": "prompts-v4.json",
   "textures": [
     {
       "url": "assets/scene/skins/sanguo/grid-atlas-v2.png",
@@ -75,11 +80,33 @@
     {
       "url": "assets/scene/skins/sanguo/landscape-v3.png",
       "sha256": "be92b4c1263580027ef8b26b093d57c4c884b09aa368ce458532bb6d109f79b5"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/lord-v4.png",
+      "sha256": "9555a5c8cca1b0fbd2ca2a9da0d4cf7692d996e33d3c04f1e30f387c16fef9cb"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/cast-v4.png",
+      "sha256": "2cc9eea2c79d5c9448b16f84d3a9a5c8598bcbf4399eb043b54d389b8be7b790"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/district-v4.png",
+      "sha256": "a98eee5b6a11c163adb82784e8441b125b00f230a19cd838500556cbeb9ad169"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/portrait-v4.png",
+      "sha256": "888579bc7963ce35c70501c67d30fb4d148009c21a8b3c815d01cc29e08c4195"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/general-v4.png",
+      "sha256": "3767fcc81811f6431bfec7576461632620ccb58fe0219793f58498c426aab65d"
     }
   ],
   "remaining": [
-    "原角色、头像、NPC与UI未换皮",
-    "建筑及场景为参照母版重制，非母版逐像素拆分"
+    "主公为首版帧动画，未重制原Spine骨骼",
+    "NPC为站立图，尚无独立待机骨骼动作",
+    "其余UI、活动海报及事件主题美术仍含原题材",
+    "场景与角色按母版重制，未认定逐像素一致"
   ],
-  "environmentVersion": "sanguo-v3"
+  "environmentVersion": "sanguo-v4"
 }

@@ -92,7 +92,7 @@ export class OriginalScene {
   draw(state=this.state) {
     if(state)this.state=state;if(!this.state||!this.images.atlas)return;const s=this.state,ctx=this.ctx;this.motion.update(this.now);this.coinRewards?.update(performance.now()/1000);this.characters?.update(this.now,s.rents);const base=this.data.maps[Math.min(s.map-1,2)].baseId;if(!this.loadedMaps.has(base)){this.ensureMap(base).then(()=>this.draw()).catch(console.error);return;}
     ctx.clearRect(0,0,750,1624);ctx.fillStyle='#5c9073';ctx.fillRect(0,0,750,1624);
-    this.drawBoard3D(base);
+    this.drawBoard3D(base);this.cast?.draw(this,ctx);
     for(const pos of s.shields){const p=this.screenPosition(pos,'propRoot');const icon=this.images.shield;if(icon)ctx.drawImage(icon,p.x-25,p.y-78,50,58);else{ctx.save();ctx.fillStyle='#9dd5ee';ctx.strokeStyle='white';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(p.x-21,p.y-77);ctx.lineTo(p.x+21,p.y-77);ctx.lineTo(p.x+18,p.y-48);ctx.lineTo(p.x,p.y-35);ctx.lineTo(p.x-18,p.y-48);ctx.closePath();ctx.fill();ctx.stroke();ctx.restore();}}
     const w=this.pieceWorld || this.centerWorld(this.position),p=this.project(w.x,w.y,w.z);ctx.save();ctx.fillStyle='#31502c44';ctx.beginPath();ctx.ellipse(p.x,p.y+4,35,10,0,0,Math.PI*2);ctx.fill();ctx.restore();
     if(this.pieceElement){this.pieceElement.style.left=p.x+'px';this.pieceElement.style.top=p.y+'px';}this.prison?.drawFront();this.onDraw?.(this.camera);

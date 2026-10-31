@@ -1,0 +1,85 @@
+{
+  "theme": "sanguo-v2",
+  "master": "经验/知识库/美术方案/三国棋盘/定版/主界面母版.png",
+  "changes": [
+    "简化石板/铜钱纹饰与金属高光",
+    "原宝箱格去除旧尖角装饰，保留格位/顶点/UV",
+    "租金侧色改为更柔和的同色系",
+    "以真实世界地面及2.5D朝相机建筑替换旧背景/前景建筑",
+    "格上1/21/31建筑沿原足点和动画替换",
+    "基金猪造型替换为粮仓，交互位置与数值保留",
+    "门楼改开放通道和蜀字挂幡，重新调整市集/门楼比例及位置",
+    "补入矮墙、树木、灯幡及远景建筑，形成院落衔接",
+    "按完整连通主体生成独立贴图，避免图集跨区截脚/串入邻格"
+  ],
+  "invariants": [
+    "40格顺序/坐标",
+    "35度相机及5.5正交参数",
+    "原控件结构与游戏存档规则"
+  ],
+  "implementation": "src/sanguo-environment.mjs",
+  "prompts": "prompts-v3.json",
+  "textures": [
+    {
+      "url": "assets/scene/skins/sanguo/grid-atlas-v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "sha256": "502f7c594368e267a2ff82443f538fa3e9f2365f93392c49b26fad82b2d82239"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/grid-atlas-goldcoin-v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "sha256": "ace40ec83b7df1521e33c864e2328ca522d9eb35f6ad7c332c783e6c19953be4"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/ground-v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "sha256": "cbc734134aab9bdb1401e0a93f2b3059ca459a1cdfbb57887fdfd851e367fa0d"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/buildings-v2.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alphaRange": [
+        0,
+        254
+      ],
+      "sha256": "9d5be00069800b52a6e2e2d0bf2d18fff4fdaad41d0177339f4d992df0088a79"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/buildings-v3.png",
+      "sha256": "0cc2eeffe2410e9f48f82267237c939b99a3e4694a9767166e411df632e48ed0"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/landscape-v3.png",
+      "sha256": "be92b4c1263580027ef8b26b093d57c4c884b09aa368ce458532bb6d109f79b5"
+    }
+  ],
+  "remaining": [
+    "原角色、头像、NPC与UI未换皮",
+    "建筑及场景为参照母版重制，非母版逐像素拆分"
+  ],
+  "environmentVersion": "sanguo-v3"
+}

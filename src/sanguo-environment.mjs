@@ -1,11 +1,11 @@
 import{multiply,inverse}from './motion.mjs';
 const UP=Math.cos(35*Math.PI/180),PITCH=Math.sin(35*Math.PI/180),IDENTITY=[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1];
-const ROOT='assets/scene/skins/sanguo/',GROUND=ROOT+'ground-v2.png',BUILDINGS=ROOT+'buildings-v3.png',LANDSCAPE=ROOT+'landscape-v3.png';
-export const SANGUO_ENVIRONMENT_ASSETS=[GROUND,BUILDINGS,LANDSCAPE];
+const ROOT='assets/scene/skins/sanguo/',GROUND=ROOT+'ground-v2.png',BUILDINGS=ROOT+'buildings-v3.png',LANDSCAPE=ROOT+'landscape-v3.png',DISTRICT=ROOT+'district-v4.png';
+export const SANGUO_ENVIRONMENT_ASSETS=[GROUND,BUILDINGS,LANDSCAPE,DISTRICT];
 const load=url=>new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=()=>reject(new Error('三国场景资源加载失败：'+url));i.src=url;});
 const billboard=(x,y,z,w,h)=>[w,0,0,0,0,h*UP,h*PITCH,0,0,-PITCH,UP,0,x,y,z,1];
 export class SanguoEnvironment{
- constructor(scene){this.scene=scene;this.skinVersion='sanguo-v3';this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=[
+ constructor(scene){this.scene=scene;this.skinVersion='sanguo-v4';this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=[
   {role:'market',kind:0,position:[1.8,.02,4.8],size:[2.7,2.2]},
   {role:'far-shop',kind:2,position:[4.2,.02,5.9],size:[1.75,1.75]},
   {role:'near-gate',kind:1,position:[-.8,.02,-7.1],size:[2.05,2]},
@@ -31,10 +31,21 @@ export class SanguoEnvironment{
   {role:'far-tree',kind:4,position:[3.2,.01,10.3],size:[1.7,1.55]},
   {role:'far-tree',kind:5,position:[-6.4,.01,7.5],size:[1.7,1.55]},
   {role:'far-wall',kind:6,position:[-4,.005,8],size:[2.5,1.05]},
-  {role:'far-wall',kind:6,position:[4.1,.005,9],size:[2.6,1.05]}
+  {role:'far-wall',kind:6,position:[4.1,.005,9],size:[2.6,1.05]},
+  {role:'command-hall',kind:8,position:[-2.2,.01,4.1],size:[2.8,2.15]},
+  {role:'stable',kind:9,position:[-1.8,.01,-4.7],size:[2.2,1.8]},
+  {role:'tea-shop',kind:10,position:[4.35,.01,-.6],size:[2.15,1.75]},
+  {role:'pavilion',kind:11,position:[-5.4,.01,5.7],size:[2.1,1.9]},
+  {role:'courtyard-residence',kind:8,position:[3.25,.01,-6.4],size:[2.5,2]},
+  {role:'outer-stable',kind:9,position:[5.2,.01,7.1],size:[2.05,1.7]},
+  {role:'far-tea-shop',kind:10,position:[-6.5,.01,9.4],size:[2.0,1.65]},
+  {role:'outer-pavilion',kind:11,position:[-7.4,.01,-3.1],size:[2.3,1.95]},
+  {role:'side-wall',kind:6,position:[-5.0,.005,-2.1],size:[-2.4,1.05]},
+  {role:'side-wall',kind:6,position:[6.0,.005,4.7],size:[2.4,1.05]}
+
 
  ];}
- async load(){const s=this.scene;s.images[GROUND]=await load(GROUND);for(const url of [BUILDINGS,LANDSCAPE])await this.loadAtlas(url);
+ async load(){const s=this.scene;s.images[GROUND]=await load(GROUND);for(const url of [BUILDINGS,LANDSCAPE,DISTRICT])await this.loadAtlas(url);
  const positions=[],uv=[],indices=[];for(let x=-16;x<16;x+=4)for(let z=-16;z<16;z+=4){const n=positions.length/3;for(const[a,b]of [[x,z],[x+4,z],[x+4,z+4],[x,z+4]])positions.push((a+b)*Math.SQRT1_2,-.08,(-a+b)*Math.SQRT1_2);uv.push(0,0,1,0,1,1,0,1);indices.push(n,n+1,n+2,n,n+2,n+3);}this.ground={positions,uv,indices};return this;
  }
  async loadAtlas(url){const image=await load(url),c=document.createElement('canvas');c.width=image.width;c.height=image.height;const ctx=c.getContext('2d');ctx.drawImage(image,0,0);const imageData=ctx.getImageData(0,0,c.width,c.height),pixels=imageData.data,seen=new Uint8Array(c.width*c.height),groups=[[],[],[],[]];

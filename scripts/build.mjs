@@ -29,3 +29,5 @@ const mainReference=JSON.parse(await fs.readFile(path.join(dist,'assets/ui/refer
 const {BOARD_SKIN}=await import('../src/board-skin.mjs');for(const url of new Set(Object.values(BOARD_SKIN.textures)))await fs.access(path.join(dist,url));console.log('棋盘三国贴图地址检查通过');
 
 const {SANGUO_ENVIRONMENT_ASSETS}=await import('../src/sanguo-environment.mjs');for(const url of SANGUO_ENVIRONMENT_ASSETS)await fs.access(path.join(dist,url));console.log('三国场景地面/建筑资源检查通过');
+
+const {SANGUO_CAST_ASSETS}=await import('../src/sanguo-cast.mjs');for(const url of SANGUO_CAST_ASSETS)await fs.access(path.join(dist,url));console.log('三国主公/周边人物与头像资源检查通过');

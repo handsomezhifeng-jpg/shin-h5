@@ -1,0 +1,36 @@
+{
+  "theme": "sanguo-v1",
+  "scope": "棋盘本体两张3D图集；保留原模型/UV/40格/相机/动作/UI/角色/地图背景",
+  "master": "经验/知识库/美术方案/三国棋盘/定版/主界面母版.png",
+  "mode": "built-in image_gen",
+  "textures": [
+    {
+      "url": "assets/scene/skins/sanguo/grid-atlas-v1.png",
+      "original": "assets/scene/grid-atlas.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "sha256": "6ebdbf1e1a10df6dde71bd1b4858e4a632afd222e87715ac8b0fce074f6f73ed",
+      "originalSHA256": "f11ae347fff45f06d8079f1f40b7ccb82cfeef8557f83caa1360de4330c539e2"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/grid-atlas-goldcoin-v1.png",
+      "original": "assets/scene/grid-atlas-goldcoin.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "sha256": "95c6a5fc50366a7ef31e61fe0a7e2ade05a68e7b8449aad5ee25a43f223f69ca",
+      "originalSHA256": "08078d8f429b38cb69c14f860401f745ba3354081e068102cac7873a768aae6e"
+    }
+  ]
+}

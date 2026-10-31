@@ -27,3 +27,5 @@ const auditUI=JSON.parse(await fs.readFile(path.join(dist,'assets/scene/audit-ui
 const mainReference=JSON.parse(await fs.readFile(path.join(dist,'assets/ui/reference-main/ui.json'),'utf8')).referenceUI.main;let referenceImages=0;for(const pkg of Object.values(mainReference.packages))for(const item of Object.values(pkg.items))if(item.url){await fs.access(path.join(dist,item.url));referenceImages++;}for(const name of ['MainWindow','Top_Bar','Main_Big_Button','MainSideBarWindow']){const ref=mainReference.roots[name];if(!ref||!mainReference.packages[ref.pkg]?.items[ref.id]?.xml)throw new Error('缺少原发布主UI组件：'+name);}console.log(`原发布主UI检查通过：${referenceImages}个素材地址`);
 
 const {BOARD_SKIN}=await import('../src/board-skin.mjs');for(const url of new Set(Object.values(BOARD_SKIN.textures)))await fs.access(path.join(dist,url));console.log('棋盘三国贴图地址检查通过');
+
+const {SANGUO_ENVIRONMENT_ASSETS}=await import('../src/sanguo-environment.mjs');for(const url of SANGUO_ENVIRONMENT_ASSETS)await fs.access(path.join(dist,url));console.log('三国场景地面/建筑资源检查通过');

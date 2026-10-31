@@ -8,3 +8,4 @@
 /node_modules/
 /.openai/*.tar.gz
 __pycache__/
+.dream-loop/

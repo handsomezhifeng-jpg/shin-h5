@@ -1,24 +1,26 @@
 import{multiply,inverse}from './motion.mjs';
+import{loadSpriteAtlas}from './sanguo-cast.mjs';
 const UP=Math.cos(35*Math.PI/180),PITCH=Math.sin(35*Math.PI/180),IDENTITY=[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1];
-const ROOT='assets/scene/skins/sanguo/',GROUND=ROOT+'ground-v2.png',BUILDINGS=ROOT+'buildings-v3.png',LANDSCAPE=ROOT+'landscape-v3.png',DISTRICT=ROOT+'district-v4.png';
-export const SANGUO_ENVIRONMENT_ASSETS=[GROUND,BUILDINGS,LANDSCAPE,DISTRICT];
+const ROOT='assets/scene/skins/sanguo/',GROUND=ROOT+'ground-v2.png',BUILDINGS=ROOT+'buildings-v3.png',LANDSCAPE=ROOT+'landscape-v3.png',DISTRICT=ROOT+'district-v4.png',MONUMENTS=ROOT+'dice-monuments-v7.png';
+const CARTS=ROOT+'merchant-carts-v8.png';
+export const SANGUO_ENVIRONMENT_ASSETS=[GROUND,BUILDINGS,LANDSCAPE,DISTRICT,MONUMENTS,CARTS];
 const load=url=>new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=()=>reject(new Error('三国场景资源加载失败：'+url));i.src=url;});
 const billboard=(x,y,z,w,h)=>[w,0,0,0,0,h*UP,h*PITCH,0,0,-PITCH,UP,0,x,y,z,1];
 export class SanguoEnvironment{
- constructor(scene){this.scene=scene;this.skinVersion='sanguo-v4';this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=[
-  {role:'market',kind:0,position:[1.8,.02,4.8],size:[2.7,2.2]},
+ constructor(scene){this.scene=scene;this.skinVersion='sanguo-v6';this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=[
+  {role:'market',kind:0,position:[-2.95,.02,4.5],size:[2.7,2.2]},
   {role:'far-shop',kind:2,position:[4.2,.02,5.9],size:[1.75,1.75]},
-  {role:'near-gate',kind:1,position:[-.8,.02,-7.1],size:[2.05,2]},
+  {role:'near-gate',kind:1,position:[-3.65,.02,-4.8],size:[2.05,2]},
   {role:'warehouse',kind:2,position:[2.6,.02,-4.9],size:[1.6,1.5]},
-  {role:'wall',kind:6,position:[-3.3,.005,3.2],size:[2.6,1.05]},
+  {role:'wall',kind:6,position:[-4.25,.005,4.1],size:[2.6,1.05]},
   {role:'wall',kind:6,position:[4.6,.005,2.4],size:[-2.3,1]},
   {role:'wall',kind:6,position:[2.3,.005,-5.8],size:[2.6,1.05]},
   {role:'green-tree',kind:4,position:[-4.8,.01,1.8],size:[1.7,1.6]},
-  {role:'green-tree',kind:4,position:[-2.4,.01,5],size:[1.8,1.6]},
+  {role:'green-tree',kind:4,position:[-3.7,.01,6.4],size:[1.8,1.6]},
   {role:'green-tree',kind:4,position:[1.3,.01,6.6],size:[1.8,1.5]},
   {role:'maple',kind:5,position:[4.8,.01,3.4],size:[1.7,1.55]},
   {role:'green-tree',kind:4,position:[5.8,.01,-1],size:[1.6,1.5]},
-  {role:'maple',kind:5,position:[4,.01,-4.6],size:[1.8,1.65]},
+  {role:'maple',kind:5,position:[-.3,.01,-3.9],size:[1.5,1.4]},
   {role:'green-tree',kind:4,position:[-1.3,.01,-6],size:[1.7,1.6]},
   {role:'green-tree',kind:4,position:[-5,.01,-2.4],size:[1.7,1.6]},
   {role:'banners',kind:7,position:[-3.8,.01,1.8],size:[.9,1.65]},
@@ -32,8 +34,8 @@ export class SanguoEnvironment{
   {role:'far-tree',kind:5,position:[-6.4,.01,7.5],size:[1.7,1.55]},
   {role:'far-wall',kind:6,position:[-4,.005,8],size:[2.5,1.05]},
   {role:'far-wall',kind:6,position:[4.1,.005,9],size:[2.6,1.05]},
-  {role:'command-hall',kind:8,position:[-2.2,.01,4.1],size:[2.8,2.15]},
-  {role:'stable',kind:9,position:[-1.8,.01,-4.7],size:[2.2,1.8]},
+  {role:'command-hall',kind:8,position:[-1.1,.01,8.5],size:[2.8,2.15]},
+  {role:'stable',kind:9,position:[-4.25,.01,-6.65],size:[2.2,1.8]},
   {role:'tea-shop',kind:10,position:[4.35,.01,-.6],size:[2.15,1.75]},
   {role:'pavilion',kind:11,position:[-5.4,.01,5.7],size:[2.1,1.9]},
   {role:'courtyard-residence',kind:8,position:[3.25,.01,-6.4],size:[2.5,2]},
@@ -41,11 +43,18 @@ export class SanguoEnvironment{
   {role:'far-tea-shop',kind:10,position:[-6.5,.01,9.4],size:[2.0,1.65]},
   {role:'outer-pavilion',kind:11,position:[-7.4,.01,-3.1],size:[2.3,1.95]},
   {role:'side-wall',kind:6,position:[-5.0,.005,-2.1],size:[-2.4,1.05]},
-  {role:'side-wall',kind:6,position:[6.0,.005,4.7],size:[2.4,1.05]}
+  {role:'side-wall',kind:6,position:[6.0,.005,4.7],size:[2.4,1.05]},
+  {role:'market-backdrop-tree',kind:4,position:[-1.4,.01,7.1],size:[1.65,1.55]},
+  {role:'gate-garden',kind:4,position:[-4.7,.01,-3.6],size:[1.45,1.4]},
+  {role:'courtyard-tree',kind:4,position:[-.65,.01,-1.3],size:[1.15,1.1]},
+  {role:'foreground-maple',kind:5,position:[-1.15,.01,-6.8],size:[1.45,1.35]},
+  {role:'golden-dice-monuments',kind:12,position:[-.5,.01,-2.05],size:[1.7,1.4]}
 
 
  ];}
  async load(){const s=this.scene;s.images[GROUND]=await load(GROUND);for(const url of [BUILDINGS,LANDSCAPE,DISTRICT])await this.loadAtlas(url);
+ s.images[MONUMENTS]=await load(MONUMENTS);this.cells.push({texture:MONUMENTS,positions:[-.5,-.02,0,.5,-.02,0,.5,.98,0,-.5,.98,0],normals:[0,0,1,0,0,1,0,0,1,0,0,1],uv:[0,0,1,0,1,1,0,1],indices:[0,1,2,0,2,3]});
+ const carts=await loadSpriteAtlas(CARTS,2,1);this.cartKinds=carts.map((frame,i)=>{const texture=CARTS+':'+i;s.images[texture]=frame.canvas;const kind=this.cells.length;this.cells.push({texture,positions:[-.5,0,0,.5,0,0,.5,1,0,-.5,1,0],normals:[0,0,1,0,0,1,0,0,1,0,0,1],uv:[0,0,1,0,1,1,0,1],indices:[0,1,2,0,2,3]});return kind;});
  const positions=[],uv=[],indices=[];for(let x=-16;x<16;x+=4)for(let z=-16;z<16;z+=4){const n=positions.length/3;for(const[a,b]of [[x,z],[x+4,z],[x+4,z+4],[x,z+4]])positions.push((a+b)*Math.SQRT1_2,-.08,(-a+b)*Math.SQRT1_2);uv.push(0,0,1,0,1,1,0,1);indices.push(n,n+1,n+2,n,n+2,n+3);}this.ground={positions,uv,indices};return this;
  }
  async loadAtlas(url){const image=await load(url),c=document.createElement('canvas');c.width=image.width;c.height=image.height;const ctx=c.getContext('2d');ctx.drawImage(image,0,0);const imageData=ctx.getImageData(0,0,c.width,c.height),pixels=imageData.data,seen=new Uint8Array(c.width*c.height),groups=[[],[],[],[]];
@@ -57,7 +66,8 @@ export class SanguoEnvironment{
  this.cells.push({texture:key,positions:[-.5,-.02,0,.5,-.02,0,.5,.98,0,-.5,.98,0],normals:[0,0,1,0,0,1,0,0,1,0,0,1],uv:[0,0,1,0,1,1,0,1],indices:[0,1,2,0,2,3],crop:[left,top,right-left,bottom-top]});}
  this.scene.images[url]=image;
  }
- prepareMeshes(){const s=this.scene;for(const[name,mesh]of Object.entries(s.meshes))if(name.startsWith('checkerboard')&&mesh.colors)s.meshes[name]={...mesh,colors:mesh.colors.map((c,i)=>i%4===3?c:1-(1-c)*.45)};for(const name of ['checkerboard_04','checkerboard_05']){const mesh=s.meshes[name],adj=Array.from({length:mesh.positions.length/3},()=>new Set());for(let j=0;j<mesh.indices.length;j+=3){const ids=mesh.indices.slice(j,j+3);for(const id of ids)for(const next of ids)adj[id].add(next);}const visited=new Set(),remove=new Set();for(let k=0;k<adj.length;k++){if(visited.has(k))continue;const q=[k];visited.add(k);for(let h=0;h<q.length;h++)for(const n of adj[q[h]])if(!visited.has(n)){visited.add(n);q.push(n);}const ys=q.map(n=>mesh.positions[n*3+1]);if(q.length<20&&Math.min(...ys)>.43&&Math.max(...ys)>.6)for(const n of q)remove.add(n);}const indices=[];for(let j=0;j<mesh.indices.length;j+=3)if(!mesh.indices.slice(j,j+3).some(n=>remove.has(n)))indices.push(...mesh.indices.slice(j,j+3));s.meshes[name]={...mesh,indices};this.removedEars[name]={vertices:remove.size,triangles:(mesh.indices.length-indices.length)/3};}}
+ prepareMeshes(){const s=this.scene;for(const[name,mesh]of Object.entries(s.meshes))if(name.startsWith('checkerboard')&&mesh.colors)s.meshes[name]={...mesh,colors:mesh.colors.map((c,i)=>i%4===3?c:1-(1-c)*.45)};for(const name of ['checkerboard_04','checkerboard_05']){const mesh=s.meshes[name],adj=Array.from({length:mesh.positions.length/3},()=>new Set());for(let j=0;j<mesh.indices.length;j+=3){const ids=mesh.indices.slice(j,j+3);for(const id of ids)for(const next of ids)adj[id].add(next);}const visited=new Set(),remove=new Set();for(let k=0;k<adj.length;k++){if(visited.has(k))continue;const q=[k];visited.add(k);for(let h=0;h<q.length;h++)for(const n of adj[q[h]])if(!visited.has(n)){visited.add(n);q.push(n);}const ys=q.map(n=>mesh.positions[n*3+1]);if(q.length<20&&Math.min(...ys)>.43&&Math.max(...ys)>.6)for(const n of q)remove.add(n);}const indices=[];for(let j=0;j<mesh.indices.length;j+=3)if(!mesh.indices.slice(j,j+3).some(n=>remove.has(n)))indices.push(...mesh.indices.slice(j,j+3));s.meshes[name]={...mesh,indices};this.removedEars[name]={vertices:remove.size,triangles:(mesh.indices.length-indices.length)/3};}for(const [chest,base]of [['checkerboard_04','checkerboard_07_1_red'],['checkerboard_05','checkerboard_07_1_blue']])s.meshes[chest]={...s.meshes[base]};}
+ drawCarts(render,matrices){const s=this.scene;for(const tile of s.data.squares){const source=s.prefabs[String(tile.id)];if(!['checkerboard_04','checkerboard_05'].includes(source.meshName))continue;const original=multiply(s.boardRotation,multiply(source.instanceMatrix,source.modelMatrix)),delta=multiply(matrices.get(tile.id-1),inverse(original)),base=billboard(original[12],original[13]+.255,original[14],1.04,.98),frame=source.meshName==='checkerboard_04'?1:0;this.drawSprite(render,this.cartKinds[frame],multiply(delta,base),.9);}}
  drawSprite(render,kind,matrix,scale=1){const s=this.scene,g=render.gl;g.blendFunc(g.SRC_ALPHA,g.ONE_MINUS_SRC_ALPHA);s.geometry3D(render,this.cells[kind],matrix,this.cells[kind].texture,0,scale,[1,1,1,1],this.cells[kind].indices,null,true,.5);}
  drawGround(render){const g=render.gl;g.depthMask(true);this.scene.geometry3D(render,this.ground,IDENTITY,GROUND,0,1,[1,1,1,1],this.ground.indices,null,true);g.depthMask(false);for(const p of this.placements)this.worldShadow(render,p.position[0],p.position[2],Math.abs(p.size[0])*.38,Math.abs(p.size[0])*.18);g.disable(g.DEPTH_TEST);this.drawn=[];const list=[...this.placements].sort((a,b)=>b.position[2]-a.position[2]);for(const p of list){this.drawSprite(render,p.kind,billboard(...p.position,...p.size));this.drawn.push(p);}g.enable(g.DEPTH_TEST);g.depthMask(true);}
  worldShadow(render,x,z,w,h){const positions=[x,-.07,z],uv=[.5,.5],colors=[.2,.18,.15,.14],indices=[];for(let i=0;i<=24;i++){const a=i/24*Math.PI*2;positions.push(x+Math.cos(a)*w,-.07,z+Math.sin(a)*h);uv.push(.5,.5);colors.push(.2,.18,.15,0);if(i)indices.push(0,i,i+1);}const mesh={positions,uv,colors,indices};render.gl.blendFunc(render.gl.SRC_ALPHA,render.gl.ONE_MINUS_SRC_ALPHA);this.scene.geometry3D(render,mesh,IDENTITY,GROUND,0,1,[1,1,1,1],indices,null,true);}

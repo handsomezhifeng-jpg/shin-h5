@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';import path from 'node:path';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');const dist=path.join(root,'dist');
 const nativeRules=JSON.parse(await fs.readFile(path.join(root,'assets/board-rules.json'),'utf8'));await fs.writeFile(path.join(root,'src/native-rules.mjs'),'export default '+JSON.stringify(nativeRules)+';\n');
-const files=['index.html','style.css','game-data.js','fgui-data.js'];
+const files=['index.html','style.css','sanguo-ui.css','game-data.js','fgui-data.js'];
 await fs.mkdir(dist,{recursive:true});
 for(const name of files)await fs.copyFile(path.join(root,name),path.join(dist,name));
 for(const name of ['src','assets','vendor'])await fs.cp(path.join(root,name),path.join(dist,name),{recursive:true,filter:source=>!source.endsWith('_parts_preview.jpg')});
@@ -31,3 +31,4 @@ const {BOARD_SKIN}=await import('../src/board-skin.mjs');for(const url of new Se
 const {SANGUO_ENVIRONMENT_ASSETS}=await import('../src/sanguo-environment.mjs');for(const url of SANGUO_ENVIRONMENT_ASSETS)await fs.access(path.join(dist,url));console.log('三国场景地面/建筑资源检查通过');
 
 const {SANGUO_CAST_ASSETS}=await import('../src/sanguo-cast.mjs');for(const url of SANGUO_CAST_ASSETS)await fs.access(path.join(dist,url));console.log('三国主公/周边人物与头像资源检查通过');
+const {SANGUO_UI_ASSETS}=await import('../src/sanguo-ui.mjs');for(const url of SANGUO_UI_ASSETS)await fs.access(path.join(dist,url));console.log('三国主界面与事件窗口换肤资源检查通过');

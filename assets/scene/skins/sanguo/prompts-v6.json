@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "reference": ".dream-loop/target.png",
+  "assets": [
+    {
+      "file": "ui-icons-v6.png",
+      "prompt": "Transparent square 4x4 atlas matching reference Three Kingdoms painted cartoon UI, antique gold and dark ink white sticker outlines. Row 1: bronze square-hole coin, wheat, rice dumpling, military helmet/banner. Row 2: Chinese city tower, sealed parchment scroll, handshake, gift. Row 3: 将 banner, treasure chest, horse, three spearmen. Row 4: granary, 战 banner, rice/wheat basket, drum. No captions or numbers."
+    },
+    {
+      "file": "ui-panel-v6.png",
+      "prompt": "Extract and recreate reference empty bottom HUD backplate: muted azure painted enamel/leather panel with antique-gold double rim, large raised central medallion mount and scroll curls, right multiplier shoulder. Transparent background, no red button, dice, words, icons, characters or scene."
+    }
+  ]
+}

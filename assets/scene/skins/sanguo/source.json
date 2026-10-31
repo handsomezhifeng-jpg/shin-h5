@@ -1,5 +1,5 @@
 {
-  "theme": "sanguo-v2",
+  "theme": "sanguo-v6",
   "master": "经验/知识库/美术方案/三国棋盘/定版/主界面母版.png",
   "changes": [
     "简化石板/铜钱纹饰与金属高光",
@@ -18,7 +18,11 @@
     "中心绿袍人物校正为无帽发髻、抚须站姿，移除长兵器并面向同伴",
     "主公前/背图镜像按实际每段移动向量重算，拐角与反向移动沿实际路径",
     "三位NPC各8帧：摇羽扇/团扇/抚须待机4帧及行走4帧",
-    "NPC独立错峰小范围走动，停留时持续刷新，阴影与气泡跟随足点"
+    "NPC独立错峰小范围走动，停留时持续刷新，阴影与气泡跟随足点",
+    "替换主界面资源图标、底板、四入口及左右侧栏，补齐礼物和铃铛入口",
+    "城建、活动、资料、菜单、机缘、宝匣和盲盒改用三国主题资源；保留原流程及数值",
+    "四个宝箱格运行时改为普通格底加商车图，保留格位与原动作变换；护盾落格道具改用卷轴",
+    "按相近站位对照母版，调整市集、门楼、马厩、NPC群及金骰摆件"
   ],
   "invariants": [
     "40格顺序/坐标",
@@ -26,7 +30,13 @@
     "原控件结构与游戏存档规则"
   ],
   "implementation": "src/sanguo-environment.mjs",
-  "prompts": "prompts-v5.json",
+  "prompts": [
+    "prompts-v6.json",
+    "prompts-v7.json",
+    "prompts-v8.json",
+    "prompts-v9.json",
+    "prompts-v10.json"
+  ],
   "textures": [
     {
       "url": "assets/scene/skins/sanguo/grid-atlas-v2.png",
@@ -115,13 +125,65 @@
     {
       "url": "assets/scene/skins/sanguo/general-v5.png",
       "sha256": "58e9f6c01805d19060aca61dc303240ec641b32cb00ba182666a5240f4009193"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/ui-icons-v6.png",
+      "sha256": "ef2c0524ac7dbf86f77da378a296677773720bd66b2a7bf726d0cf211a34f699",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/ui-panel-v6.png",
+      "sha256": "c84305e0b73e9600e31aaab7d284d48f749ba3e5aba7d3e8b62aa5e71d233226",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/dice-monuments-v7.png",
+      "sha256": "3e760d1fa0f605d10addcd0baa9d87b0b4f710e37effd4fbb4f4e31c3d98e361",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/merchant-carts-v8.png",
+      "sha256": "0d51934b2fe6ebc403cbd440322ef7fad3f63779c8b663c05427144734b5f425",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/notification-bell-v8.png",
+      "sha256": "d5d622634fa1ac63779be2d2d8d3473f706b1a9d431ae3a779cb95f36c15bda6",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/build-courtyard-v9.png",
+      "sha256": "b47f7baca6e2e3cc9da6338b17eb982ca26266c23f019876c39a9f452eb5e2b1",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/milestone-banner-v9.png",
+      "sha256": "278d47ef844b130b76ac72d71c7aa336cf596d656fa943e99b41454b059a8b81",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/parchment-panel-v9.png",
+      "sha256": "42c48da4a2bef68075e407fe431e4fda163f5b46ef70cd6eedbdf8a09646c88d",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/treasure-cabinet-v10.png",
+      "sha256": "f62ca997945560ca22a8cf50796b72516f5381cc7049cc4914bfa8a1b1c857fb",
+      "generator": "built-in image_gen"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/chance-scenes-v10.png",
+      "sha256": "79b455233148193b0388fdc60cb54bd83e865480d3a3e99917ee1b82d30b0f88",
+      "generator": "built-in image_gen"
     }
   ],
   "remaining": [
-    "角色使用帧动画，尚未制作独立完整骨骼",
-    "其余UI、活动海报及事件主题美术仍含原题材",
-    "场景与角色按母版重制，未认定逐像素一致"
+    "角色仍是帧动画，未制作完整骨骼",
+    "笔触、建筑与UI局部比例仍与母版有差异，未认定逐像素一致",
+    "母版未提供各弹窗参考图；弹窗统一主题，未认定原画级复刻",
+    "线上社交和未开放侧栏功能未在换肤中新增"
   ],
-  "environmentVersion": "sanguo-v4",
-  "characterVersion": "sanguo-v5"
+  "environmentVersion": "sanguo-v6",
+  "characterVersion": "sanguo-v5",
+  "uiVersion": "sanguo-v6"
 }

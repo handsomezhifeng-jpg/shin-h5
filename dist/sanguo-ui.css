@@ -1,0 +1,55 @@
+.sanguo-ui .sanguo-bottom-plate{position:absolute;left:-5px;top:908px;width:760px;height:730px;pointer-events:none}
+.sanguo-ui [data-name="loader_bottom"],.sanguo-ui [data-name="loader_bottom_02"],.sanguo-ui [data-name="loader_bottom_03"]{opacity:0!important}
+.sanguo-ui .sanguo-icon-button>.fg-content{visibility:hidden}
+.sanguo-ui-icon{width:100%;height:100%;object-fit:contain;pointer-events:none;display:block}
+.sanguo-icon-button>.sanguo-ui-icon{position:absolute;inset:-10px 0 0;width:102px;height:100px}
+.sanguo-ui [data-name="text_guild"],.sanguo-ui [data-name="text_build"],.sanguo-ui [data-name="text_draw"],.sanguo-ui [data-name="text_friend"]{color:#fff8e7!important;font-family:KaiTi,STKaiti,serif!important;font-weight:900!important;text-shadow:2px 3px #493522,-2px -1px #493522!important;-webkit-text-stroke:1px #493522;font-size:33px!important}
+.sanguo-ui [data-name="btn_bet"] .fg-image{filter:hue-rotate(115deg) saturate(.9)!important}
+.sanguo-ui [data-name="btn_go"]{filter:saturate(.92)}
+.sanguo-ui [data-name="com_topBar"] [data-name="bg"]{filter:sepia(.18) saturate(.5)!important}
+.sanguo-rails{position:absolute;inset:0;pointer-events:none}
+.sanguo-side-entry{position:absolute;width:105px;height:116px;padding:0;border:0;background:none;pointer-events:auto;cursor:pointer;filter:drop-shadow(0 2px 1px #634a3744)}
+.sanguo-side-entry.left{left:9px}.sanguo-side-entry.right{right:9px}
+.sanguo-side-entry .sanguo-ui-icon{height:99px}
+.sanguo-side-entry span{position:absolute;bottom:0;left:2px;right:2px;border-radius:5px;border:2px solid #fff9e4;background:linear-gradient(#fff8df,#eadcc2);color:#6b2431;font:700 21px KaiTi,STKaiti,serif;line-height:26px;box-shadow:0 2px 1px #62422c55}
+.sanguo-gift-entry{position:absolute;top:87px;right:25px;width:57px;height:57px;padding:2px;border:3px solid #fff9df;border-radius:50%;background:linear-gradient(#f9d884,#ce9132);box-shadow:0 0 0 2px #8e643b;pointer-events:auto;cursor:pointer}
+/* Preserve the native hit areas while correcting the atlas plate's aspect ratio. */
+.sanguo-ui .sanguo-bottom-plate{top:1030px;height:550px;clip-path:inset(0 0 7% 0)}
+.sanguo-bottom-fill{position:absolute;left:0;top:1498px;width:750px;height:126px;background:linear-gradient(110deg,#287aab,#367eaa 48%,#246c98);border:4px solid #dcb369;border-top:0;pointer-events:none}
+.sanguo-ui [data-name="text_guild"],.sanguo-ui [data-name="text_build"],.sanguo-ui [data-name="text_draw"],.sanguo-ui [data-name="text_friend"]{width:116px!important;white-space:nowrap;justify-content:center;letter-spacing:0!important;paint-order:stroke fill;-webkit-text-stroke:5px #493522;text-shadow:0 2px 0 #fff8e7!important}
+.sanguo-ui [data-name="text_friend"]{margin-left:-30px}
+.sanguo-ui [data-name="btn_bet"] .fg-image{filter:hue-rotate(105deg) saturate(1.3) brightness(1.08)!important}
+.sanguo-side-entry{filter:drop-shadow(2px 0 0 #fff9ed) drop-shadow(-2px 0 0 #fff9ed) drop-shadow(0 2px 0 #fff9ed)}
+.sanguo-side-entry span{background:#fff9ed;border-radius:4px;box-shadow:0 2px 1px #62422c35;font-family:"Microsoft YaHei",sans-serif;font-size:22px;font-weight:800}
+.sanguo-side-entry.left:nth-child(3) span{background:#aa62bd;color:white}
+.sanguo-side-entry.left:nth-child(4) span,.sanguo-side-entry.left:nth-child(6) span{background:#cf7635;color:white}
+.sanguo-side-entry.left:nth-child(5) span{background:#397fa2;color:white}
+.sanguo-ui [data-name="btn_go"]{filter:saturate(1.08)}
+/* Extend the painted panel material beneath the native navigation hit areas. */
+.sanguo-bottom-fill{background-color:#347da6;background-image:url('assets/scene/skins/sanguo/ui-panel-v6.png');background-repeat:no-repeat;background-size:780px 1050px;background-position:center -840px;border-color:#e5c27b;border-bottom:5px solid #e5c27b}
+.sanguo-ui [data-name="text_guild"],.sanguo-ui [data-name="text_build"],.sanguo-ui [data-name="text_draw"],.sanguo-ui [data-name="text_friend"]{font-family:KaiTi,STKaiti,serif!important;font-size:33px!important;font-weight:700!important;letter-spacing:0!important;-webkit-text-stroke:1px #493522;paint-order:normal;text-shadow:2px 3px #493522,-2px -1px #493522!important}
+.sanguo-side-entry{filter:drop-shadow(3px 0 0 #fff9ed) drop-shadow(-3px 0 0 #fff9ed) drop-shadow(0 3px 0 #fff9ed)}
+.sanguo-side-entry span{border-radius:8px;line-height:25px;font-size:20px}
+.sanguo-side-entry:active,.sanguo-gift-entry:active{transform:translateY(2px);filter:brightness(.9)}
+.sanguo-side-entry:focus-visible,.sanguo-gift-entry:focus-visible{outline:3px solid #fff2aa;outline-offset:5px}
+.sanguo-gift-entry{right:89px}
+.sanguo-bell-entry{position:absolute;top:84px;right:14px;width:65px;height:65px;padding:0;border:0;background:none;pointer-events:auto;cursor:pointer}
+.sanguo-bell-entry:active{transform:translateY(2px);filter:brightness(.9)}
+.sanguo-bell-entry:focus-visible{outline:3px solid #fff2aa;outline-offset:3px;border-radius:50%}
+/* Native popup geometry and hit areas, with the same parchment/gold vocabulary as the board. */
+#modal-layer .sanguo-panel-image{filter:none!important}
+#modal-layer .sanguo-activity-title::after{content:'活动奖励';position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:900 42px KaiTi,STKaiti,serif;color:#fff0c2;text-shadow:2px 3px #6c3828,-2px -1px #6c3828;pointer-events:none}
+#modal-layer .sanguo-window-skin .fg-text,#modal-layer .sanguo-window-skin .fg-richtext{font-family:"Microsoft YaHei",sans-serif}
+#modal-layer[data-kind="menu"] [data-name="text_title"]{color:#563c2b!important;text-shadow:none!important}
+#modal-layer[data-kind="profile"] [data-name="text_username"],#modal-layer[data-kind="profile"] [data-name="text_map"]{color:#593a28!important;text-shadow:0 1px #fff6dd!important}
+#modal-layer[data-kind="build"] [data-name="text_mapName"]{color:#593a28!important}
+#modal-layer .sanguo-event-title::after{content:attr(data-sanguo-title);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:900 52px KaiTi,STKaiti,serif;white-space:nowrap;color:#fff2c5;text-shadow:3px 3px #713d24,-2px -2px #713d24;pointer-events:none}
+#modal-layer[data-kind="gacha"] .sanguo-event-title::after{font-size:105px}
+#modal-layer .sanguo-cabinet-glass{border:8px solid #d4ad62;border-radius:28px;box-shadow:inset 0 0 0 4px #633e28;filter:none!important}
+#modal-layer .sanguo-wood-trim{border:5px solid #c99d50;border-radius:14px;background:#6b3027;filter:none!important}
+#modal-layer [data-sanguo-rarity="2"]{filter:hue-rotate(115deg)}
+#modal-layer [data-sanguo-rarity="3"]{filter:hue-rotate(210deg)}
+#modal-layer [data-sanguo-rarity="4"]{filter:saturate(1.3) brightness(1.15)}
+
+/* Thin serif strokes hid the white fill; use the shipped bold face without an inward stroke. */
+.sanguo-ui [data-name="text_guild"],.sanguo-ui [data-name="text_build"],.sanguo-ui [data-name="text_draw"],.sanguo-ui [data-name="text_friend"]{font-family:ShinOriginal,"Microsoft YaHei",sans-serif!important;font-weight:700!important;-webkit-text-stroke:0!important;text-shadow:-2px -2px 0 #493522,2px -2px 0 #493522,-2px 2px 0 #493522,2px 2px 0 #493522!important;white-space:nowrap!important}

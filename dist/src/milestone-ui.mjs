@@ -8,7 +8,7 @@ export class MilestoneWidgets{
 
  drawPickups(){const a=this.model.activity('noRank');if(this.model.status(a)!=='active')return;const slots=this.model.state(a).pickups || [];if(!this.model.config.goals[String(a.goalId)].some(g=>g.type===8))return;const url=this.icon(a);if(this.pickupImage?.srcKey!==url){const img=new Image();img.srcKey=url;img.src=url;this.pickupImage=img;}if(!this.pickupImage.complete||!this.pickupImage.naturalWidth)return;for(const index of slots){const p=this.host.scene.screenPosition(index,'propRoot');this.host.scene.ctx.drawImage(this.pickupImage,p.x-23,p.y-73,46,46);}}
  image(name){return this.assets.dynamicImages[name]?.url || '';}
- icon(a){return this.image(a.icon);}
+ icon(a){return this.ui.sanguoActivityIcon||this.image(a.icon);}
  str(id,...args){return String(this.strings[id] || '').replace(/\{(\d+)\}/g,(_,i)=>args[Number(i)] ?? '');}
  rewardImage(r){const entry=this.assets.rewardImages?.[r.type===1?'resource:'+r.id:String(r.id)];return entry?.url || this.ui.skin('IconItem',r.id===1&&r.type===1?'icon_money.png':r.id===2&&r.type===1?'icon_dice.png':(this.model.config.items[String(r.id)]?.icon || '')+'.png');}
  setImage(v,path,url){this.ui.setImage(this.ui.find(v,path),url);}

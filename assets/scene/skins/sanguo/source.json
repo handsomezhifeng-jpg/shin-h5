@@ -7,7 +7,10 @@
     "租金侧色改为更柔和的同色系",
     "以真实世界地面及2.5D朝相机建筑替换旧背景/前景建筑",
     "格上1/21/31建筑沿原足点和动画替换",
-    "基金猪造型替换为粮仓，交互位置与数值保留"
+    "基金猪造型替换为粮仓，交互位置与数值保留",
+    "门楼改开放通道和蜀字挂幡，重新调整市集/门楼比例及位置",
+    "补入矮墙、树木、灯幡及远景建筑，形成院落衔接",
+    "按完整连通主体生成独立贴图，避免图集跨区截脚/串入邻格"
   ],
   "invariants": [
     "40格顺序/坐标",
@@ -15,7 +18,7 @@
     "原控件结构与游戏存档规则"
   ],
   "implementation": "src/sanguo-environment.mjs",
-  "prompts": "prompts-v2.json",
+  "prompts": "prompts-v3.json",
   "textures": [
     {
       "url": "assets/scene/skins/sanguo/grid-atlas-v2.png",
@@ -64,10 +67,19 @@
         254
       ],
       "sha256": "9d5be00069800b52a6e2e2d0bf2d18fff4fdaad41d0177339f4d992df0088a79"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/buildings-v3.png",
+      "sha256": "0cc2eeffe2410e9f48f82267237c939b99a3e4694a9767166e411df632e48ed0"
+    },
+    {
+      "url": "assets/scene/skins/sanguo/landscape-v3.png",
+      "sha256": "be92b4c1263580027ef8b26b093d57c4c884b09aa368ce458532bb6d109f79b5"
     }
   ],
   "remaining": [
-    "人物与UI仍是原版",
-    "未宣称与母版全画面逐像素一致"
-  ]
+    "原角色、头像、NPC与UI未换皮",
+    "建筑及场景为参照母版重制，非母版逐像素拆分"
+  ],
+  "environmentVersion": "sanguo-v3"
 }

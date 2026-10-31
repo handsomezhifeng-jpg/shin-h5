@@ -109,6 +109,646 @@
         "img_rules_banner_24",
         "img_tournament_banner_24"
       ]
+    },
+    "27": {
+      "skinId": 27,
+      "title": "img_milestone_title_27",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_27",
+      "rankBg": [
+        "img_rules_banner_27",
+        "img_tournament_banner_27"
+      ]
+    },
+    "47": {
+      "skinId": 47,
+      "title": "img_milestone_title_47",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_47",
+      "rankBg": [
+        "img_rules_banner_47",
+        "img_tournament_banner_47"
+      ]
+    },
+    "28": {
+      "skinId": 28,
+      "title": "img_milestone_title_28",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_28",
+      "rankBg": [
+        "img_rules_banner_28",
+        "img_tournament_banner_28"
+      ]
+    },
+    "43": {
+      "skinId": 43,
+      "title": "img_milestone_title_43",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_43",
+      "rankBg": [
+        "img_rules_banner_43",
+        "img_tournament_banner_43"
+      ]
+    },
+    "46": {
+      "skinId": 46,
+      "title": "img_milestone_title_46",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_46",
+      "rankBg": [
+        "img_rules_banner_46",
+        "img_tournament_banner_46"
+      ]
+    },
+    "45": {
+      "skinId": 45,
+      "title": "img_milestone_title_45",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_45",
+      "rankBg": [
+        "img_rules_banner_45",
+        "img_tournament_banner_45"
+      ]
+    },
+    "48": {
+      "skinId": 48,
+      "title": "img_milestone_title_48",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_48",
+      "rankBg": [
+        "img_rules_banner_48",
+        "img_tournament_banner_48"
+      ]
+    },
+    "33": {
+      "skinId": 33,
+      "title": "img_milestone_title_33",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_33",
+      "rankBg": [
+        "img_rules_banner_33",
+        "img_tournament_banner_33"
+      ]
+    },
+    "36": {
+      "skinId": 36,
+      "title": "img_milestone_title_36",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_36",
+      "rankBg": [
+        "img_rules_banner_36",
+        "img_tournament_banner_36"
+      ]
+    },
+    "29": {
+      "skinId": 29,
+      "title": "img_milestone_title_29",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_29",
+      "rankBg": [
+        "img_rules_banner_29",
+        "img_tournament_banner_29"
+      ]
+    },
+    "37": {
+      "skinId": 37,
+      "title": "img_milestone_title_37",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_37",
+      "rankBg": [
+        "img_rules_banner_37",
+        "img_tournament_banner_37"
+      ]
+    },
+    "38": {
+      "skinId": 38,
+      "title": "img_milestone_title_38",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_38",
+      "rankBg": [
+        "img_rules_banner_38",
+        "img_tournament_banner_38"
+      ]
+    },
+    "49": {
+      "skinId": 49,
+      "title": "img_milestone_title_49",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_49",
+      "rankBg": [
+        "img_rules_banner_49",
+        "img_tournament_banner_49"
+      ]
+    },
+    "50": {
+      "skinId": 50,
+      "title": "img_milestone_title_50",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_50",
+      "rankBg": [
+        "img_rules_banner_50",
+        "img_tournament_banner_50"
+      ]
+    },
+    "51": {
+      "skinId": 51,
+      "title": "img_milestone_title_51",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_51",
+      "rankBg": [
+        "img_rules_banner_51",
+        "img_tournament_banner_51"
+      ]
+    },
+    "53": {
+      "skinId": 53,
+      "title": "img_milestone_title_53",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_53",
+      "rankBg": [
+        "img_rules_banner_53",
+        "img_tournament_banner_53"
+      ]
+    },
+    "54": {
+      "skinId": 54,
+      "title": "img_milestone_title_54",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_54",
+      "rankBg": [
+        "img_rules_banner_54",
+        "img_tournament_banner_54"
+      ]
+    },
+    "21": {
+      "skinId": 21,
+      "title": "img_milestone_title_21",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_21",
+      "rankBg": [
+        "img_rules_banner_21",
+        "img_tournament_banner_21"
+      ]
+    },
+    "19": {
+      "skinId": 19,
+      "title": "img_milestone_title_19",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_19",
+      "rankBg": [
+        "img_rules_banner_19",
+        "img_tournament_banner_19"
+      ]
+    },
+    "10": {
+      "skinId": 10,
+      "title": "img_milestone_title_10",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_10",
+      "rankBg": [
+        "img_rules_banner_10",
+        "img_tournament_banner_10"
+      ]
+    },
+    "17": {
+      "skinId": 17,
+      "title": "img_milestone_title_17",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_17",
+      "rankBg": [
+        "img_rules_banner_17",
+        "img_tournament_banner_17"
+      ]
+    },
+    "22": {
+      "skinId": 22,
+      "title": "img_milestone_title_22",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_22",
+      "rankBg": [
+        "img_rules_banner_22",
+        "img_tournament_banner_22"
+      ]
+    },
+    "18": {
+      "skinId": 18,
+      "title": "img_milestone_title_18",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_18",
+      "rankBg": [
+        "img_rules_banner_18",
+        "img_tournament_banner_18"
+      ]
+    },
+    "12": {
+      "skinId": 12,
+      "title": "img_milestone_title_12",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_12",
+      "rankBg": [
+        "img_rules_banner_12",
+        "img_tournament_banner_12"
+      ]
+    },
+    "62": {
+      "skinId": 62,
+      "title": "img_milestone_title_62",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_62",
+      "rankBg": [
+        "img_rules_banner_62",
+        "img_tournament_banner_62"
+      ]
+    },
+    "57": {
+      "skinId": 57,
+      "title": "img_milestone_title_57",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_57",
+      "rankBg": [
+        "img_rules_banner_57",
+        "img_tournament_banner_57"
+      ]
+    },
+    "66": {
+      "skinId": 66,
+      "title": "img_milestone_title_66",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_66",
+      "rankBg": [
+        "img_rules_banner_66",
+        "img_tournament_banner_66"
+      ]
+    },
+    "56": {
+      "skinId": 56,
+      "title": "img_milestone_title_56",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_56",
+      "rankBg": [
+        "img_rules_banner_56",
+        "img_tournament_banner_56"
+      ]
+    },
+    "52": {
+      "skinId": 52,
+      "title": "img_milestone_title_52",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_52",
+      "rankBg": [
+        "img_rules_banner_52",
+        "img_tournament_banner_52"
+      ]
+    },
+    "70": {
+      "skinId": 70,
+      "title": "img_milestone_title_70",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_70",
+      "rankBg": [
+        "img_rules_banner_70",
+        "img_tournament_banner_70"
+      ]
+    },
+    "25": {
+      "skinId": 25,
+      "title": "img_milestone_title_25",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_25",
+      "rankBg": [
+        "img_rules_banner_25",
+        "img_tournament_banner_25"
+      ]
+    },
+    "68": {
+      "skinId": 68,
+      "title": "img_milestone_title_68",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_68",
+      "rankBg": [
+        "img_rules_banner_68",
+        "img_tournament_banner_68"
+      ]
+    },
+    "3": {
+      "skinId": 3,
+      "title": "img_milestone_title_3",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_3",
+      "rankBg": [
+        "img_rules_banner_3",
+        "img_tournament_banner_3"
+      ]
+    },
+    "69": {
+      "skinId": 69,
+      "title": "img_milestone_title_69",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_69",
+      "rankBg": [
+        "img_rules_banner_69",
+        "img_tournament_banner_69"
+      ]
+    },
+    "5": {
+      "skinId": 5,
+      "title": "img_milestone_title_5",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_5",
+      "rankBg": [
+        "img_rules_banner_5",
+        "img_tournament_banner_5"
+      ]
+    },
+    "65": {
+      "skinId": 65,
+      "title": "img_milestone_title_65",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_65",
+      "rankBg": [
+        "img_rules_banner_65",
+        "img_tournament_banner_65"
+      ]
+    },
+    "60": {
+      "skinId": 60,
+      "title": "img_milestone_title_60",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_60",
+      "rankBg": [
+        "img_rules_banner_60",
+        "img_tournament_banner_60"
+      ]
+    },
+    "11": {
+      "skinId": 11,
+      "title": "img_milestone_title_11",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_11",
+      "rankBg": [
+        "img_rules_banner_11",
+        "img_tournament_banner_11"
+      ]
+    },
+    "9": {
+      "skinId": 9,
+      "title": "img_milestone_title_9",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_9",
+      "rankBg": [
+        "img_rules_banner_9",
+        "img_tournament_banner_9"
+      ]
+    },
+    "20": {
+      "skinId": 20,
+      "title": "img_milestone_title_20",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_20",
+      "rankBg": [
+        "img_rules_banner_20",
+        "img_tournament_banner_20"
+      ]
+    },
+    "6": {
+      "skinId": 6,
+      "title": "img_milestone_title_6",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_6",
+      "rankBg": [
+        "img_rules_banner_6",
+        "img_tournament_banner_6"
+      ]
+    },
+    "23": {
+      "skinId": 23,
+      "title": "img_milestone_title_23",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_23",
+      "rankBg": [
+        "img_rules_banner_23",
+        "img_tournament_banner_23"
+      ]
+    },
+    "63": {
+      "skinId": 63,
+      "title": "img_milestone_title_63",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_63",
+      "rankBg": [
+        "img_rules_banner_63",
+        "img_tournament_banner_63"
+      ]
+    },
+    "13": {
+      "skinId": 13,
+      "title": "img_milestone_title_13",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_13",
+      "rankBg": [
+        "img_rules_banner_13",
+        "img_tournament_banner_13"
+      ]
+    },
+    "59": {
+      "skinId": 59,
+      "title": "img_milestone_title_59",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_59",
+      "rankBg": [
+        "img_rules_banner_59",
+        "img_tournament_banner_59"
+      ]
+    },
+    "64": {
+      "skinId": 64,
+      "title": "img_milestone_title_64",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_64",
+      "rankBg": [
+        "img_rules_banner_64",
+        "img_tournament_banner_64"
+      ]
+    },
+    "15": {
+      "skinId": 15,
+      "title": "img_milestone_title_15",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_15",
+      "rankBg": [
+        "img_rules_banner_15",
+        "img_tournament_banner_15"
+      ]
+    },
+    "58": {
+      "skinId": 58,
+      "title": "img_milestone_title_58",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_58",
+      "rankBg": [
+        "img_rules_banner_58",
+        "img_tournament_banner_58"
+      ]
+    },
+    "26": {
+      "skinId": 26,
+      "title": "img_milestone_title_26",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_26",
+      "rankBg": [
+        "img_rules_banner_26",
+        "img_tournament_banner_26"
+      ]
+    },
+    "4": {
+      "skinId": 4,
+      "title": "img_milestone_title_4",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_4",
+      "rankBg": [
+        "img_rules_banner_4",
+        "img_tournament_banner_4"
+      ]
+    },
+    "16": {
+      "skinId": 16,
+      "title": "img_milestone_title_16",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_16",
+      "rankBg": [
+        "img_rules_banner_16",
+        "img_tournament_banner_16"
+      ]
+    },
+    "1": {
+      "skinId": 1,
+      "title": "img_milestone_title_1",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_1",
+      "rankBg": [
+        "img_rules_banner_1",
+        "img_tournament_banner_1"
+      ]
+    },
+    "14": {
+      "skinId": 14,
+      "title": "img_milestone_title_14",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_14",
+      "rankBg": [
+        "img_rules_banner_14",
+        "img_tournament_banner_14"
+      ]
+    },
+    "30": {
+      "skinId": 30,
+      "title": "img_milestone_title_30",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_30",
+      "rankBg": [
+        "img_rules_banner_30",
+        "img_tournament_banner_30"
+      ]
+    },
+    "31": {
+      "skinId": 31,
+      "title": "img_milestone_title_31",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_31",
+      "rankBg": [
+        "img_rules_banner_31",
+        "img_tournament_banner_31"
+      ]
+    },
+    "32": {
+      "skinId": 32,
+      "title": "img_milestone_title_32",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_32",
+      "rankBg": [
+        "img_rules_banner_32",
+        "img_tournament_banner_32"
+      ]
+    },
+    "39": {
+      "skinId": 39,
+      "title": "img_milestone_title_39",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_39",
+      "rankBg": [
+        "img_rules_banner_39",
+        "img_tournament_banner_39"
+      ]
+    },
+    "40": {
+      "skinId": 40,
+      "title": "img_milestone_title_40",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_40",
+      "rankBg": [
+        "img_rules_banner_40",
+        "img_tournament_banner_40"
+      ]
+    },
+    "55": {
+      "skinId": 55,
+      "title": "img_milestone_title_55",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_55",
+      "rankBg": [
+        "img_rules_banner_55",
+        "img_tournament_banner_55"
+      ]
+    },
+    "67": {
+      "skinId": 67,
+      "title": "img_milestone_title_67",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_67",
+      "rankBg": [
+        "img_rules_banner_67",
+        "img_tournament_banner_67"
+      ]
+    },
+    "61": {
+      "skinId": 61,
+      "title": "img_milestone_title_61",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_61",
+      "rankBg": [
+        "img_rules_banner_61",
+        "img_tournament_banner_61"
+      ]
+    },
+    "7": {
+      "skinId": 7,
+      "title": "img_milestone_title_7",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_7",
+      "rankBg": [
+        "img_rules_banner_7",
+        "img_tournament_banner_7"
+      ]
+    },
+    "2": {
+      "skinId": 2,
+      "title": "img_milestone_title_2",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_2",
+      "rankBg": [
+        "img_rules_banner_2",
+        "img_tournament_banner_2"
+      ]
+    },
+    "44": {
+      "skinId": 44,
+      "title": "img_milestone_title_44",
+      "noRankBgMain": "bg_milestone_main_01",
+      "noRankBg": "img_milestone_banner_44",
+      "rankBg": [
+        "img_rules_banner_44",
+        "img_tournament_banner_44"
+      ]
     }
   },
   "dynamicImages": {
@@ -211,6 +851,1782 @@
       "id": "at3r1ke47bk",
       "icon": "hely_icon_11_01",
       "source": "fgui/assets/GameRule/Image/hely_icon_11_01.png"
+    },
+    "icon_milestone_0027": {
+      "url": "assets/scene/milestone/icon_milestone_0027.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0027.png"
+    },
+    "img_milestone_banner_27": {
+      "url": "assets/scene/milestone/img_milestone_banner_27_zh_cn.png",
+      "width": 632,
+      "height": 632,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_27_zh_cn.png"
+    },
+    "icon_milestone_0047": {
+      "url": "assets/scene/milestone/icon_milestone_0047.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0047.png"
+    },
+    "img_milestone_banner_47": {
+      "url": "assets/scene/milestone/img_milestone_banner_47_zh_cn.png",
+      "width": 632,
+      "height": 628,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_47_zh_cn.png"
+    },
+    "icon_milestone_0028": {
+      "url": "assets/scene/milestone/icon_milestone_0028.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0028.png"
+    },
+    "img_milestone_banner_28": {
+      "url": "assets/scene/milestone/img_milestone_banner_28_zh_cn.png",
+      "width": 632,
+      "height": 640,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_28_zh_cn.png"
+    },
+    "icon_milestone_0043": {
+      "url": "assets/scene/milestone/icon_milestone_0043.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0043.png"
+    },
+    "img_milestone_banner_43": {
+      "url": "assets/scene/milestone/img_milestone_banner_43_zh_cn.png",
+      "width": 632,
+      "height": 596,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_43_zh_cn.png"
+    },
+    "icon_milestone_0046": {
+      "url": "assets/scene/milestone/icon_milestone_0046.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0046.png"
+    },
+    "img_milestone_banner_46": {
+      "url": "assets/scene/milestone/img_milestone_banner_46_zh_cn.png",
+      "width": 632,
+      "height": 584,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_46_zh_cn.png"
+    },
+    "icon_milestone_0045": {
+      "url": "assets/scene/milestone/icon_milestone_0045.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0045.png"
+    },
+    "img_milestone_banner_45": {
+      "url": "assets/scene/milestone/img_milestone_banner_45_zh_cn.png",
+      "width": 632,
+      "height": 612,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_45_zh_cn.png"
+    },
+    "icon_milestone_0048": {
+      "url": "assets/scene/milestone/icon_milestone_0048.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0048.png"
+    },
+    "img_milestone_banner_48": {
+      "url": "assets/scene/milestone/img_milestone_banner_48_zh_cn.png",
+      "width": 632,
+      "height": 600,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_48_zh_cn.png"
+    },
+    "icon_milestone_0033": {
+      "url": "assets/scene/milestone/icon_milestone_0033.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0033.png"
+    },
+    "img_milestone_banner_33": {
+      "url": "assets/scene/milestone/img_milestone_banner_33_zh_cn.png",
+      "width": 632,
+      "height": 616,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_33_zh_cn.png"
+    },
+    "icon_milestone_0036": {
+      "url": "assets/scene/milestone/icon_milestone_0036.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0036.png"
+    },
+    "img_milestone_banner_36": {
+      "url": "assets/scene/milestone/img_milestone_banner_36_zh_cn.png",
+      "width": 632,
+      "height": 624,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_36_zh_cn.png"
+    },
+    "icon_milestone_0029": {
+      "url": "assets/scene/milestone/icon_milestone_0029.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0029.png"
+    },
+    "img_milestone_banner_29": {
+      "url": "assets/scene/milestone/img_milestone_banner_29_zh_cn.png",
+      "width": 632,
+      "height": 636,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_29_zh_cn.png"
+    },
+    "icon_milestone_0037": {
+      "url": "assets/scene/milestone/icon_milestone_0037.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0037.png"
+    },
+    "img_milestone_banner_37": {
+      "url": "assets/scene/milestone/img_milestone_banner_37_zh_cn.png",
+      "width": 632,
+      "height": 608,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_37_zh_cn.png"
+    },
+    "icon_milestone_0038": {
+      "url": "assets/scene/milestone/icon_milestone_0038.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0038.png"
+    },
+    "img_milestone_banner_38": {
+      "url": "assets/scene/milestone/img_milestone_banner_38_zh_cn.png",
+      "width": 632,
+      "height": 648,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_38_zh_cn.png"
+    },
+    "icon_milestone_0049": {
+      "url": "assets/scene/milestone/icon_milestone_0049.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0049.png"
+    },
+    "img_milestone_banner_49": {
+      "url": "assets/scene/milestone/img_milestone_banner_49_zh_cn.png",
+      "width": 632,
+      "height": 584,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_49_zh_cn.png"
+    },
+    "icon_milestone_0050": {
+      "url": "assets/scene/milestone/icon_milestone_0050.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0050.png"
+    },
+    "img_milestone_banner_50": {
+      "url": "assets/scene/milestone/img_milestone_banner_50_zh_cn.png",
+      "width": 632,
+      "height": 612,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_50_zh_cn.png"
+    },
+    "icon_milestone_0051": {
+      "url": "assets/scene/milestone/icon_milestone_0051.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0051.png"
+    },
+    "img_milestone_banner_51": {
+      "url": "assets/scene/milestone/img_milestone_banner_51_zh_cn.png",
+      "width": 632,
+      "height": 592,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_51_zh_cn.png"
+    },
+    "icon_milestone_0053": {
+      "url": "assets/scene/milestone/icon_milestone_0053.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0053.png"
+    },
+    "img_milestone_banner_53": {
+      "url": "assets/scene/milestone/img_milestone_banner_53_zh_cn.png",
+      "width": 632,
+      "height": 572,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_53_zh_cn.png"
+    },
+    "icon_milestone_0054": {
+      "url": "assets/scene/milestone/icon_milestone_0054.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0054.png"
+    },
+    "img_milestone_banner_54": {
+      "url": "assets/scene/milestone/img_milestone_banner_54_zh_cn.png",
+      "width": 632,
+      "height": 600,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_54_zh_cn.png"
+    },
+    "icon_milestone_0021": {
+      "url": "assets/scene/milestone/icon_milestone_0021.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0021.png"
+    },
+    "img_milestone_banner_21": {
+      "url": "assets/scene/milestone/img_milestone_banner_21_zh_cn.png",
+      "width": 632,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_21_zh_cn.png"
+    },
+    "icon_milestone_0019": {
+      "url": "assets/scene/milestone/icon_milestone_0019.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0019.png"
+    },
+    "img_milestone_banner_19": {
+      "url": "assets/scene/milestone/img_milestone_banner_19_zh_cn.png",
+      "width": 672,
+      "height": 552,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_19_zh_cn.png"
+    },
+    "icon_milestone_0010": {
+      "url": "assets/scene/milestone/icon_milestone_0010.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0010.png"
+    },
+    "img_milestone_banner_10": {
+      "url": "assets/scene/milestone/img_milestone_banner_10_zh_cn.png",
+      "width": 632,
+      "height": 584,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_10_zh_cn.png"
+    },
+    "icon_milestone_0017": {
+      "url": "assets/scene/milestone/icon_milestone_0017.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0017.png"
+    },
+    "img_milestone_banner_17": {
+      "url": "assets/scene/milestone/img_milestone_banner_17_zh_cn.png",
+      "width": 632,
+      "height": 552,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_17_zh_cn.png"
+    },
+    "icon_milestone_0022": {
+      "url": "assets/scene/milestone/icon_milestone_0022.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0022.png"
+    },
+    "img_milestone_banner_22": {
+      "url": "assets/scene/milestone/img_milestone_banner_22_zh_cn.png",
+      "width": 632,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_22_zh_cn.png"
+    },
+    "icon_milestone_0018": {
+      "url": "assets/scene/milestone/icon_milestone_0018.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0018.png"
+    },
+    "img_milestone_banner_18": {
+      "url": "assets/scene/milestone/img_milestone_banner_18_zh_cn.png",
+      "width": 632,
+      "height": 552,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_18_zh_cn.png"
+    },
+    "icon_milestone_0012": {
+      "url": "assets/scene/milestone/icon_milestone_0012.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0012.png"
+    },
+    "img_milestone_banner_12": {
+      "url": "assets/scene/milestone/img_milestone_banner_12_zh_cn.png",
+      "width": 632,
+      "height": 572,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_12_zh_cn.png"
+    },
+    "icon_milestone_0062": {
+      "url": "assets/scene/milestone/icon_milestone_0062.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0062.png"
+    },
+    "img_milestone_banner_62": {
+      "url": "assets/scene/milestone/img_milestone_banner_62_zh_cn.png",
+      "width": 632,
+      "height": 628,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_62_zh_cn.png"
+    },
+    "icon_milestone_0057": {
+      "url": "assets/scene/milestone/icon_milestone_0057.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0057.png"
+    },
+    "img_milestone_banner_57": {
+      "url": "assets/scene/milestone/img_milestone_banner_57_zh_cn.png",
+      "width": 632,
+      "height": 620,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_57_zh_cn.png"
+    },
+    "icon_milestone_0066": {
+      "url": "assets/scene/milestone/icon_milestone_0066.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0066.png"
+    },
+    "img_milestone_banner_66": {
+      "url": "assets/scene/milestone/img_milestone_banner_66_zh_cn.png",
+      "width": 632,
+      "height": 628,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_66_zh_cn.png"
+    },
+    "icon_milestone_0056": {
+      "url": "assets/scene/milestone/icon_milestone_0056.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0056.png"
+    },
+    "img_milestone_banner_56": {
+      "url": "assets/scene/milestone/img_milestone_banner_56_zh_cn.png",
+      "width": 632,
+      "height": 624,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_56_zh_cn.png"
+    },
+    "icon_milestone_0052": {
+      "url": "assets/scene/milestone/icon_milestone_0052.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0052.png"
+    },
+    "img_milestone_banner_52": {
+      "url": "assets/scene/milestone/img_milestone_banner_52_zh_cn.png",
+      "width": 632,
+      "height": 596,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_52_zh_cn.png"
+    },
+    "icon_milestone_0070": {
+      "url": "assets/scene/milestone/icon_milestone_0070.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0070.png"
+    },
+    "img_milestone_banner_70": {
+      "url": "assets/scene/milestone/img_milestone_banner_70_zh_cn.png",
+      "width": 632,
+      "height": 592,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_70_zh_cn.png"
+    },
+    "icon_milestone_0025": {
+      "url": "assets/scene/milestone/icon_milestone_0025.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0025.png"
+    },
+    "img_milestone_banner_25": {
+      "url": "assets/scene/milestone/img_milestone_banner_25_zh_cn.png",
+      "width": 632,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_25_zh_cn.png"
+    },
+    "icon_milestone_0068": {
+      "url": "assets/scene/milestone/icon_milestone_0068.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0068.png"
+    },
+    "img_milestone_banner_68": {
+      "url": "assets/scene/milestone/img_milestone_banner_68_zh_cn.png",
+      "width": 632,
+      "height": 660,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_68_zh_cn.png"
+    },
+    "icon_milestone_0003": {
+      "url": "assets/scene/milestone/icon_milestone_0003.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0003.png"
+    },
+    "img_milestone_banner_3": {
+      "url": "assets/scene/milestone/img_milestone_banner_3_zh_cn.png",
+      "width": 632,
+      "height": 602,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_3_zh_cn.png"
+    },
+    "icon_milestone_0069": {
+      "url": "assets/scene/milestone/icon_milestone_0069.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0069.png"
+    },
+    "img_milestone_banner_69": {
+      "url": "assets/scene/milestone/img_milestone_banner_69_zh_cn.png",
+      "width": 632,
+      "height": 636,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_69_zh_cn.png"
+    },
+    "icon_milestone_0005": {
+      "url": "assets/scene/milestone/icon_milestone_0005.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0005.png"
+    },
+    "img_milestone_banner_5": {
+      "url": "assets/scene/milestone/img_milestone_banner_5_zh_cn.png",
+      "width": 632,
+      "height": 548,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_5_zh_cn.png"
+    },
+    "icon_milestone_0065": {
+      "url": "assets/scene/milestone/icon_milestone_0065.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0065.png"
+    },
+    "img_milestone_banner_65": {
+      "url": "assets/scene/milestone/img_milestone_banner_65_zh_cn.png",
+      "width": 632,
+      "height": 584,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_65_zh_cn.png"
+    },
+    "icon_milestone_0060": {
+      "url": "assets/scene/milestone/icon_milestone_0060.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0060.png"
+    },
+    "img_milestone_banner_60": {
+      "url": "assets/scene/milestone/img_milestone_banner_60_zh_cn.png",
+      "width": 632,
+      "height": 616,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_60_zh_cn.png"
+    },
+    "icon_milestone_0011": {
+      "url": "assets/scene/milestone/icon_milestone_0011.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0011.png"
+    },
+    "img_milestone_banner_11": {
+      "url": "assets/scene/milestone/img_milestone_banner_11_zh_cn.png",
+      "width": 632,
+      "height": 560,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_11_zh_cn.png"
+    },
+    "icon_milestone_0009": {
+      "url": "assets/scene/milestone/icon_milestone_0009.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0009.png"
+    },
+    "img_milestone_banner_9": {
+      "url": "assets/scene/milestone/img_milestone_banner_9_zh_cn.png",
+      "width": 632,
+      "height": 576,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_9_zh_cn.png"
+    },
+    "icon_milestone_0020": {
+      "url": "assets/scene/milestone/icon_milestone_0020.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0020.png"
+    },
+    "img_milestone_banner_20": {
+      "url": "assets/scene/milestone/img_milestone_banner_20_zh_cn.png",
+      "width": 632,
+      "height": 572,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_20_zh_cn.png"
+    },
+    "icon_milestone_0006": {
+      "url": "assets/scene/milestone/icon_milestone_0006.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0006.png"
+    },
+    "img_milestone_banner_6": {
+      "url": "assets/scene/milestone/img_milestone_banner_6_zh_cn.png",
+      "width": 632,
+      "height": 632,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_6_zh_cn.png"
+    },
+    "icon_milestone_0023": {
+      "url": "assets/scene/milestone/icon_milestone_0023.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0023.png"
+    },
+    "img_milestone_banner_23": {
+      "url": "assets/scene/milestone/img_milestone_banner_23_zh_cn.png",
+      "width": 632,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_23_zh_cn.png"
+    },
+    "icon_milestone_0063": {
+      "url": "assets/scene/milestone/icon_milestone_0063.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0063.png"
+    },
+    "img_milestone_banner_63": {
+      "url": "assets/scene/milestone/img_milestone_banner_63_zh_cn.png",
+      "width": 632,
+      "height": 648,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_63_zh_cn.png"
+    },
+    "icon_milestone_0013": {
+      "url": "assets/scene/milestone/icon_milestone_0013.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0013.png"
+    },
+    "img_milestone_banner_13": {
+      "url": "assets/scene/milestone/img_milestone_banner_13_zh_cn.png",
+      "width": 632,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_13_zh_cn.png"
+    },
+    "icon_milestone_0059": {
+      "url": "assets/scene/milestone/icon_milestone_0059.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0059.png"
+    },
+    "img_milestone_banner_59": {
+      "url": "assets/scene/milestone/img_milestone_banner_59_zh_cn.png",
+      "width": 632,
+      "height": 632,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_59_zh_cn.png"
+    },
+    "icon_milestone_0064": {
+      "url": "assets/scene/milestone/icon_milestone_0064.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0064.png"
+    },
+    "img_milestone_banner_64": {
+      "url": "assets/scene/milestone/img_milestone_banner_64_zh_cn.png",
+      "width": 632,
+      "height": 628,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_64_zh_cn.png"
+    },
+    "icon_milestone_0015": {
+      "url": "assets/scene/milestone/icon_milestone_0015.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0015.png"
+    },
+    "img_milestone_banner_15": {
+      "url": "assets/scene/milestone/img_milestone_banner_15_zh_cn.png",
+      "width": 632,
+      "height": 592,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_15_zh_cn.png"
+    },
+    "icon_milestone_0058": {
+      "url": "assets/scene/milestone/icon_milestone_0058.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0058.png"
+    },
+    "img_milestone_banner_58": {
+      "url": "assets/scene/milestone/img_milestone_banner_58_zh_cn.png",
+      "width": 632,
+      "height": 592,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_58_zh_cn.png"
+    },
+    "icon_milestone_0026": {
+      "url": "assets/scene/milestone/icon_milestone_0026.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0026.png"
+    },
+    "img_milestone_banner_26": {
+      "url": "assets/scene/milestone/img_milestone_banner_26_zh_cn.png",
+      "width": 632,
+      "height": 548,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_26_zh_cn.png"
+    },
+    "icon_milestone_0004": {
+      "url": "assets/scene/milestone/icon_milestone_0004.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0004.png"
+    },
+    "img_milestone_banner_4": {
+      "url": "assets/scene/milestone/img_milestone_banner_4_zh_cn.png",
+      "width": 632,
+      "height": 570,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_4_zh_cn.png"
+    },
+    "icon_milestone_0016": {
+      "url": "assets/scene/milestone/icon_milestone_0016.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0016.png"
+    },
+    "img_milestone_banner_16": {
+      "url": "assets/scene/milestone/img_milestone_banner_16_zh_cn.png",
+      "width": 632,
+      "height": 572,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_16_zh_cn.png"
+    },
+    "icon_milestone_0001": {
+      "url": "assets/scene/milestone/icon_milestone_0001.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0001.png"
+    },
+    "img_milestone_banner_1": {
+      "url": "assets/scene/milestone/img_milestone_banner_1_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_1_zh_cn.png"
+    },
+    "img_rules_banner_9": {
+      "url": "assets/scene/milestone/img_rules_banner_9_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_9_zh_cn.png"
+    },
+    "img_tournament_banner_9": {
+      "url": "assets/scene/milestone/img_tournament_banner_9.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_9.png"
+    },
+    "img_milestone_title_9": {
+      "url": "assets/scene/milestone/img_milestone_title_9_zh_cn.png",
+      "width": 444,
+      "height": 216,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_9_zh_cn.png"
+    },
+    "img_rules_banner_10": {
+      "url": "assets/scene/milestone/img_rules_banner_10_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_10_zh_cn.png"
+    },
+    "img_milestone_title_10": {
+      "url": "assets/scene/milestone/img_milestone_title_10_zh_cn.png",
+      "width": 448,
+      "height": 184,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_10_zh_cn.png"
+    },
+    "img_tournament_banner_10": {
+      "url": "assets/scene/milestone/img_tournament_banner_10.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_10.png"
+    },
+    "img_rules_banner_11": {
+      "url": "assets/scene/milestone/img_rules_banner_11_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_11_zh_cn.png"
+    },
+    "img_tournament_banner_11": {
+      "url": "assets/scene/milestone/img_tournament_banner_11.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_11.png"
+    },
+    "img_milestone_title_11": {
+      "url": "assets/scene/milestone/img_milestone_title_11_zh_cn.png",
+      "width": 508,
+      "height": 184,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_11_zh_cn.png"
+    },
+    "img_milestone_title_12": {
+      "url": "assets/scene/milestone/img_milestone_title_12_zh_cn.png",
+      "width": 448,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_12_zh_cn.png"
+    },
+    "img_rules_banner_12": {
+      "url": "assets/scene/milestone/img_rules_banner_12_zh_cn.png",
+      "width": 656,
+      "height": 488,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_12_zh_cn.png"
+    },
+    "img_tournament_banner_12": {
+      "url": "assets/scene/milestone/img_tournament_banner_12.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_12.png"
+    },
+    "img_tournament_banner_13": {
+      "url": "assets/scene/milestone/img_tournament_banner_13.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_13.png"
+    },
+    "img_rules_banner_13": {
+      "url": "assets/scene/milestone/img_rules_banner_13_zh_cn.png",
+      "width": 656,
+      "height": 480,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_13_zh_cn.png"
+    },
+    "img_milestone_title_13": {
+      "url": "assets/scene/milestone/img_milestone_title_13_zh_cn.png",
+      "width": 384,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_13_zh_cn.png"
+    },
+    "icon_milestone_0014": {
+      "url": "assets/scene/milestone/icon_milestone_0014.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0014.png"
+    },
+    "img_tournament_banner_14": {
+      "url": "assets/scene/milestone/img_tournament_banner_14.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_14.png"
+    },
+    "img_milestone_title_14": {
+      "url": "assets/scene/milestone/img_milestone_title_14_zh_cn.png",
+      "width": 444,
+      "height": 228,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_14_zh_cn.png"
+    },
+    "img_rules_banner_14": {
+      "url": "assets/scene/milestone/img_rules_banner_14_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_14_zh_cn.png"
+    },
+    "img_tournament_banner_15": {
+      "url": "assets/scene/milestone/img_tournament_banner_15.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_15.png"
+    },
+    "img_rules_banner_15": {
+      "url": "assets/scene/milestone/img_rules_banner_15_zh_cn.png",
+      "width": 656,
+      "height": 500,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_15_zh_cn.png"
+    },
+    "img_milestone_title_15": {
+      "url": "assets/scene/milestone/img_milestone_title_15_zh_cn.png",
+      "width": 452,
+      "height": 240,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_15_zh_cn.png"
+    },
+    "img_milestone_title_17": {
+      "url": "assets/scene/milestone/img_milestone_title_17_zh_cn.png",
+      "width": 376,
+      "height": 160,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_17_zh_cn.png"
+    },
+    "img_tournament_banner_17": {
+      "url": "assets/scene/milestone/img_tournament_banner_17.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_17.png"
+    },
+    "img_rules_banner_17": {
+      "url": "assets/scene/milestone/img_rules_banner_17_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_17_zh_cn.png"
+    },
+    "img_milestone_title_18": {
+      "url": "assets/scene/milestone/img_milestone_title_18_zh_cn.png",
+      "width": 380,
+      "height": 160,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_18_zh_cn.png"
+    },
+    "img_rules_banner_18": {
+      "url": "assets/scene/milestone/img_rules_banner_18_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_18_zh_cn.png"
+    },
+    "img_tournament_banner_18": {
+      "url": "assets/scene/milestone/img_tournament_banner_18.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_18.png"
+    },
+    "img_milestone_title_22": {
+      "url": "assets/scene/milestone/img_milestone_title_22_zh_cn.png",
+      "width": 356,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_22_zh_cn.png"
+    },
+    "img_rules_banner_22": {
+      "url": "assets/scene/milestone/img_rules_banner_22_zh_cn.png",
+      "width": 656,
+      "height": 480,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_22_zh_cn.png"
+    },
+    "img_tournament_banner_22": {
+      "url": "assets/scene/milestone/img_tournament_banner_22.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_22.png"
+    },
+    "img_rules_banner_23": {
+      "url": "assets/scene/milestone/img_rules_banner_23_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_23_zh_cn.png"
+    },
+    "img_tournament_banner_23": {
+      "url": "assets/scene/milestone/img_tournament_banner_23.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_23.png"
+    },
+    "img_milestone_title_23": {
+      "url": "assets/scene/milestone/img_milestone_title_23_zh_cn.png",
+      "width": 352,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_23_zh_cn.png"
+    },
+    "img_tournament_banner_25": {
+      "url": "assets/scene/milestone/img_tournament_banner_25.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_25.png"
+    },
+    "img_rules_banner_25": {
+      "url": "assets/scene/milestone/img_rules_banner_25_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_25_zh_cn.png"
+    },
+    "img_milestone_title_25": {
+      "url": "assets/scene/milestone/img_milestone_title_25_zh_cn.png",
+      "width": 436,
+      "height": 140,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_25_zh_cn.png"
+    },
+    "img_tournament_banner_26": {
+      "url": "assets/scene/milestone/img_tournament_banner_26.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_26.png"
+    },
+    "img_milestone_title_26": {
+      "url": "assets/scene/milestone/img_milestone_title_26_zh_cn.png",
+      "width": 532,
+      "height": 148,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_26_zh_cn.png"
+    },
+    "img_rules_banner_26": {
+      "url": "assets/scene/milestone/img_rules_banner_26_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_26_zh_cn.png"
+    },
+    "img_milestone_title_43": {
+      "url": "assets/scene/milestone/img_milestone_title_43_zh_cn.png",
+      "width": 432,
+      "height": 216,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_43_zh_cn.png"
+    },
+    "img_rules_banner_43": {
+      "url": "assets/scene/milestone/img_rules_banner_43_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_43_zh_cn.png"
+    },
+    "img_tournament_banner_43": {
+      "url": "assets/scene/milestone/img_tournament_banner_43.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_43.png"
+    },
+    "img_milestone_title_45": {
+      "url": "assets/scene/milestone/img_milestone_title_45_zh_cn.png",
+      "width": 408,
+      "height": 192,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_45_zh_cn.png"
+    },
+    "img_tournament_banner_45": {
+      "url": "assets/scene/milestone/img_tournament_banner_45.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_45.png"
+    },
+    "img_rules_banner_45": {
+      "url": "assets/scene/milestone/img_rules_banner_45_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_45_zh_cn.png"
+    },
+    "img_tournament_banner_46": {
+      "url": "assets/scene/milestone/img_tournament_banner_46.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_46.png"
+    },
+    "img_milestone_title_46": {
+      "url": "assets/scene/milestone/img_milestone_title_46_zh_cn.png",
+      "width": 436,
+      "height": 128,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_46_zh_cn.png"
+    },
+    "img_rules_banner_46": {
+      "url": "assets/scene/milestone/img_rules_banner_46_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_46_zh_cn.png"
+    },
+    "img_tournament_banner_47": {
+      "url": "assets/scene/milestone/img_tournament_banner_47.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_47.png"
+    },
+    "img_milestone_title_47": {
+      "url": "assets/scene/milestone/img_milestone_title_47_zh_cn.png",
+      "width": 424,
+      "height": 152,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_47_zh_cn.png"
+    },
+    "img_rules_banner_47": {
+      "url": "assets/scene/milestone/img_rules_banner_47_zh_cn.png",
+      "width": 656,
+      "height": 560,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_47_zh_cn.png"
+    },
+    "img_milestone_title_48": {
+      "url": "assets/scene/milestone/img_milestone_title_48_zh_cn.png",
+      "width": 348,
+      "height": 140,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_48_zh_cn.png"
+    },
+    "img_tournament_banner_48": {
+      "url": "assets/scene/milestone/img_tournament_banner_48.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_48.png"
+    },
+    "img_rules_banner_48": {
+      "url": "assets/scene/milestone/img_rules_banner_48_zh_cn.png",
+      "width": 656,
+      "height": 500,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_48_zh_cn.png"
+    },
+    "img_rules_banner_27": {
+      "url": "assets/scene/milestone/img_rules_banner_27_zh_cn.png",
+      "width": 656,
+      "height": 512,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_27_zh_cn.png"
+    },
+    "img_milestone_title_27": {
+      "url": "assets/scene/milestone/img_milestone_title_27_zh_cn.png",
+      "width": 448,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_27_zh_cn.png"
+    },
+    "img_tournament_banner_27": {
+      "url": "assets/scene/milestone/img_tournament_banner_27.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_27.png"
+    },
+    "img_milestone_title_28": {
+      "url": "assets/scene/milestone/img_milestone_title_28_zh_cn.png",
+      "width": 476,
+      "height": 192,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_28_zh_cn.png"
+    },
+    "img_rules_banner_28": {
+      "url": "assets/scene/milestone/img_rules_banner_28_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_28_zh_cn.png"
+    },
+    "img_tournament_banner_28": {
+      "url": "assets/scene/milestone/img_tournament_banner_28.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_28.png"
+    },
+    "img_milestone_title_29": {
+      "url": "assets/scene/milestone/img_milestone_title_29_zh_cn.png",
+      "width": 352,
+      "height": 184,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_29_zh_cn.png"
+    },
+    "img_rules_banner_29": {
+      "url": "assets/scene/milestone/img_rules_banner_29_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_29_zh_cn.png"
+    },
+    "img_tournament_banner_29": {
+      "url": "assets/scene/milestone/img_tournament_banner_29.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_29.png"
+    },
+    "icon_milestone_0030": {
+      "url": "assets/scene/milestone/icon_milestone_0030.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0030.png"
+    },
+    "img_milestone_title_30": {
+      "url": "assets/scene/milestone/img_milestone_title_30_zh_cn.png",
+      "width": 456,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_30_zh_cn.png"
+    },
+    "img_rules_banner_30": {
+      "url": "assets/scene/milestone/img_rules_banner_30_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_30_zh_cn.png"
+    },
+    "img_tournament_banner_30": {
+      "url": "assets/scene/milestone/img_tournament_banner_30.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_30.png"
+    },
+    "icon_milestone_0031": {
+      "url": "assets/scene/milestone/icon_milestone_0031.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0031.png"
+    },
+    "img_rules_banner_31": {
+      "url": "assets/scene/milestone/img_rules_banner_31_zh_cn.png",
+      "width": 656,
+      "height": 464,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_31_zh_cn.png"
+    },
+    "img_milestone_title_31": {
+      "url": "assets/scene/milestone/img_milestone_title_31_zh_cn.png",
+      "width": 460,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_31_zh_cn.png"
+    },
+    "img_tournament_banner_31": {
+      "url": "assets/scene/milestone/img_tournament_banner_31.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_31.png"
+    },
+    "icon_milestone_0032": {
+      "url": "assets/scene/milestone/icon_milestone_0032.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0032.png"
+    },
+    "img_milestone_title_32": {
+      "url": "assets/scene/milestone/img_milestone_title_32_zh_cn.png",
+      "width": 480,
+      "height": 156,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_32_zh_cn.png"
+    },
+    "img_tournament_banner_32": {
+      "url": "assets/scene/milestone/img_tournament_banner_32.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_32.png"
+    },
+    "img_rules_banner_32": {
+      "url": "assets/scene/milestone/img_rules_banner_32_zh_cn.png",
+      "width": 656,
+      "height": 508,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_32_zh_cn.png"
+    },
+    "img_tournament_banner_19": {
+      "url": "assets/scene/milestone/img_tournament_banner_19.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_19.png"
+    },
+    "img_milestone_title_19": {
+      "url": "assets/scene/milestone/img_milestone_title_19_zh_cn.png",
+      "width": 388,
+      "height": 180,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_19_zh_cn.png"
+    },
+    "img_rules_banner_19": {
+      "url": "assets/scene/milestone/img_rules_banner_19_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_19_zh_cn.png"
+    },
+    "img_tournament_banner_21": {
+      "url": "assets/scene/milestone/img_tournament_banner_21.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_21.png"
+    },
+    "img_rules_banner_21": {
+      "url": "assets/scene/milestone/img_rules_banner_21_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_21_zh_cn.png"
+    },
+    "img_milestone_title_21": {
+      "url": "assets/scene/milestone/img_milestone_title_21_zh_cn.png",
+      "width": 324,
+      "height": 148,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_21_zh_cn.png"
+    },
+    "img_milestone_title_49": {
+      "url": "assets/scene/milestone/img_milestone_title_49_zh_cn.png",
+      "width": 372,
+      "height": 152,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_49_zh_cn.png"
+    },
+    "img_tournament_banner_49": {
+      "url": "assets/scene/milestone/img_tournament_banner_49.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_49.png"
+    },
+    "img_rules_banner_49": {
+      "url": "assets/scene/milestone/img_rules_banner_49_zh_cn.png",
+      "width": 656,
+      "height": 488,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_49_zh_cn.png"
+    },
+    "img_tournament_banner_50": {
+      "url": "assets/scene/milestone/img_tournament_banner_50.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_50.png"
+    },
+    "img_milestone_title_50": {
+      "url": "assets/scene/milestone/img_milestone_title_50_zh_cn.png",
+      "width": 364,
+      "height": 176,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_50_zh_cn.png"
+    },
+    "img_rules_banner_50": {
+      "url": "assets/scene/milestone/img_rules_banner_50_zh_cn.png",
+      "width": 656,
+      "height": 516,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_50_zh_cn.png"
+    },
+    "img_milestone_title_51": {
+      "url": "assets/scene/milestone/img_milestone_title_51_zh_cn.png",
+      "width": 384,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_51_zh_cn.png"
+    },
+    "img_tournament_banner_51": {
+      "url": "assets/scene/milestone/img_tournament_banner_51.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_51.png"
+    },
+    "img_rules_banner_51": {
+      "url": "assets/scene/milestone/img_rules_banner_51_zh_cn.png",
+      "width": 656,
+      "height": 488,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_51_zh_cn.png"
+    },
+    "img_rules_banner_53": {
+      "url": "assets/scene/milestone/img_rules_banner_53_zh_cn.png",
+      "width": 656,
+      "height": 508,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_53_zh_cn.png"
+    },
+    "img_tournament_banner_53": {
+      "url": "assets/scene/milestone/img_tournament_banner_53.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_53.png"
+    },
+    "img_milestone_title_53": {
+      "url": "assets/scene/milestone/img_milestone_title_53_zh_cn.png",
+      "width": 504,
+      "height": 128,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_53_zh_cn.png"
+    },
+    "icon_milestone_0039": {
+      "url": "assets/scene/milestone/icon_milestone_0039.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0039.png"
+    },
+    "img_rules_banner_39": {
+      "url": "assets/scene/milestone/img_rules_banner_39_zh_cn.png",
+      "width": 656,
+      "height": 480,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_39_zh_cn.png"
+    },
+    "img_tournament_banner_39": {
+      "url": "assets/scene/milestone/img_tournament_banner_39.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_39.png"
+    },
+    "img_milestone_title_39": {
+      "url": "assets/scene/milestone/img_milestone_title_39_zh_cn.png",
+      "width": 432,
+      "height": 180,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_39_zh_cn.png"
+    },
+    "icon_milestone_0040": {
+      "url": "assets/scene/milestone/icon_milestone_0040.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0040.png"
+    },
+    "img_rules_banner_40": {
+      "url": "assets/scene/milestone/img_rules_banner_40_zh_cn.png",
+      "width": 656,
+      "height": 512,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_40_zh_cn.png"
+    },
+    "img_tournament_banner_40": {
+      "url": "assets/scene/milestone/img_tournament_banner_40.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_40.png"
+    },
+    "img_milestone_title_40": {
+      "url": "assets/scene/milestone/img_milestone_title_40_zh_cn.png",
+      "width": 412,
+      "height": 208,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_40_zh_cn.png"
+    },
+    "img_milestone_title_54": {
+      "url": "assets/scene/milestone/img_milestone_title_54_zh_cn.png",
+      "width": 516,
+      "height": 168,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_54_zh_cn.png"
+    },
+    "img_rules_banner_54": {
+      "url": "assets/scene/milestone/img_rules_banner_54_zh_cn.png",
+      "width": 656,
+      "height": 516,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_54_zh_cn.png"
+    },
+    "img_tournament_banner_54": {
+      "url": "assets/scene/milestone/img_tournament_banner_54.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_54.png"
+    },
+    "img_milestone_title_5": {
+      "url": "assets/scene/milestone/img_milestone_title_5_zh_cn.png",
+      "width": 500,
+      "height": 220,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_5_zh_cn.png"
+    },
+    "img_rules_banner_5": {
+      "url": "assets/scene/milestone/img_rules_banner_5_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_5_zh_cn.png"
+    },
+    "img_tournament_banner_5": {
+      "url": "assets/scene/milestone/img_tournament_banner_5.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_5.png"
+    },
+    "img_milestone_title_52": {
+      "url": "assets/scene/milestone/img_milestone_title_52_zh_cn.png",
+      "width": 376,
+      "height": 168,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_52_zh_cn.png"
+    },
+    "img_rules_banner_52": {
+      "url": "assets/scene/milestone/img_rules_banner_52_zh_cn.png",
+      "width": 656,
+      "height": 516,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_52_zh_cn.png"
+    },
+    "img_tournament_banner_52": {
+      "url": "assets/scene/milestone/img_tournament_banner_52.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_52.png"
+    },
+    "icon_milestone_0055": {
+      "url": "assets/scene/milestone/icon_milestone_0055.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0055.png"
+    },
+    "img_tournament_banner_55": {
+      "url": "assets/scene/milestone/img_tournament_banner_55.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_55.png"
+    },
+    "img_milestone_title_55": {
+      "url": "assets/scene/milestone/img_milestone_title_55_zh_cn.png",
+      "width": 460,
+      "height": 160,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_55_zh_cn.png"
+    },
+    "img_rules_banner_55": {
+      "url": "assets/scene/milestone/img_rules_banner_55_zh_cn.png",
+      "width": 656,
+      "height": 500,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_55_zh_cn.png"
+    },
+    "icon_milestone_0067": {
+      "url": "assets/scene/milestone/icon_milestone_0067.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0067.png"
+    },
+    "img_rules_banner_67": {
+      "url": "assets/scene/milestone/img_rules_banner_67_zh_cn.png",
+      "width": 656,
+      "height": 524,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_67_zh_cn.png"
+    },
+    "img_milestone_title_67": {
+      "url": "assets/scene/milestone/img_milestone_title_67_zh_cn.png",
+      "width": 476,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_67_zh_cn.png"
+    },
+    "img_tournament_banner_67": {
+      "url": "assets/scene/milestone/img_tournament_banner_67.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_67.png"
+    },
+    "img_rules_banner_58": {
+      "url": "assets/scene/milestone/img_rules_banner_58_zh_cn.png",
+      "width": 656,
+      "height": 480,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_58_zh_cn.png"
+    },
+    "img_tournament_banner_58": {
+      "url": "assets/scene/milestone/img_tournament_banner_58.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_58.png"
+    },
+    "img_milestone_title_58": {
+      "url": "assets/scene/milestone/img_milestone_title_58_zh_cn.png",
+      "width": 404,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_58_zh_cn.png"
+    },
+    "img_rules_banner_63": {
+      "url": "assets/scene/milestone/img_rules_banner_63_zh_cn.png",
+      "width": 656,
+      "height": 472,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_63_zh_cn.png"
+    },
+    "img_tournament_banner_63": {
+      "url": "assets/scene/milestone/img_tournament_banner_63.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_63.png"
+    },
+    "img_milestone_title_63": {
+      "url": "assets/scene/milestone/img_milestone_title_63_zh_cn.png",
+      "width": 508,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_63_zh_cn.png"
+    },
+    "img_tournament_banner_60": {
+      "url": "assets/scene/milestone/img_tournament_banner_60.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_60.png"
+    },
+    "img_rules_banner_60": {
+      "url": "assets/scene/milestone/img_rules_banner_60_zh_cn.png",
+      "width": 656,
+      "height": 512,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_60_zh_cn.png"
+    },
+    "img_milestone_title_60": {
+      "url": "assets/scene/milestone/img_milestone_title_60_zh_cn.png",
+      "width": 464,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_60_zh_cn.png"
+    },
+    "icon_milestone_0061": {
+      "url": "assets/scene/milestone/icon_milestone_0061.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0061.png"
+    },
+    "img_tournament_banner_61": {
+      "url": "assets/scene/milestone/img_tournament_banner_61.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_61.png"
+    },
+    "img_rules_banner_61": {
+      "url": "assets/scene/milestone/img_rules_banner_61_zh_cn.png",
+      "width": 656,
+      "height": 496,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_61_zh_cn.png"
+    },
+    "img_milestone_title_61": {
+      "url": "assets/scene/milestone/img_milestone_title_61_zh_cn.png",
+      "width": 436,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_61_zh_cn.png"
+    },
+    "img_rules_banner_64": {
+      "url": "assets/scene/milestone/img_rules_banner_64_zh_cn.png",
+      "width": 656,
+      "height": 544,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_64_zh_cn.png"
+    },
+    "img_milestone_title_64": {
+      "url": "assets/scene/milestone/img_milestone_title_64_zh_cn.png",
+      "width": 448,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_64_zh_cn.png"
+    },
+    "img_tournament_banner_64": {
+      "url": "assets/scene/milestone/img_tournament_banner_64.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_64.png"
+    },
+    "img_rules_banner_69": {
+      "url": "assets/scene/milestone/img_rules_banner_69_zh_cn.png",
+      "width": 656,
+      "height": 480,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_69_zh_cn.png"
+    },
+    "img_milestone_title_69": {
+      "url": "assets/scene/milestone/img_milestone_title_69_zh_cn.png",
+      "width": 344,
+      "height": 212,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_69_zh_cn.png"
+    },
+    "img_tournament_banner_69": {
+      "url": "assets/scene/milestone/img_tournament_banner_69.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_69.png"
+    },
+    "img_milestone_title_1": {
+      "url": "assets/scene/milestone/img_milestone_title_1_zh_cn.png",
+      "width": 364,
+      "height": 208,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_1_zh_cn.png"
+    },
+    "img_tournament_banner_1": {
+      "url": "assets/scene/milestone/img_tournament_banner_1.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_1.png"
+    },
+    "img_rules_banner_1": {
+      "url": "assets/scene/milestone/img_rules_banner_1_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_1_zh_cn.png"
+    },
+    "img_tournament_banner_65": {
+      "url": "assets/scene/milestone/img_tournament_banner_65.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_65.png"
+    },
+    "img_rules_banner_65": {
+      "url": "assets/scene/milestone/img_rules_banner_65_zh_cn.png",
+      "width": 656,
+      "height": 512,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_65_zh_cn.png"
+    },
+    "img_milestone_title_65": {
+      "url": "assets/scene/milestone/img_milestone_title_65_zh_cn.png",
+      "width": 440,
+      "height": 152,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_65_zh_cn.png"
+    },
+    "icon_milestone_0007": {
+      "url": "assets/scene/milestone/icon_milestone_0007.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0007.png"
+    },
+    "img_tournament_banner_7": {
+      "url": "assets/scene/milestone/img_tournament_banner_7.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_7.png"
+    },
+    "img_milestone_title_7": {
+      "url": "assets/scene/milestone/img_milestone_title_7_zh_cn.png",
+      "width": 528,
+      "height": 228,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_7_zh_cn.png"
+    },
+    "img_rules_banner_7": {
+      "url": "assets/scene/milestone/img_rules_banner_7_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_7_zh_cn.png"
+    },
+    "img_milestone_title_6": {
+      "url": "assets/scene/milestone/img_milestone_title_6_zh_cn.png",
+      "width": 436,
+      "height": 224,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_6_zh_cn.png"
+    },
+    "img_rules_banner_6": {
+      "url": "assets/scene/milestone/img_rules_banner_6_zh_cn.png",
+      "width": 656,
+      "height": 508,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_6_zh_cn.png"
+    },
+    "img_tournament_banner_6": {
+      "url": "assets/scene/milestone/img_tournament_banner_6.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_6.png"
+    },
+    "img_milestone_title_62": {
+      "url": "assets/scene/milestone/img_milestone_title_62_zh_cn.png",
+      "width": 508,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_62_zh_cn.png"
+    },
+    "img_tournament_banner_62": {
+      "url": "assets/scene/milestone/img_tournament_banner_62.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_62.png"
+    },
+    "img_rules_banner_62": {
+      "url": "assets/scene/milestone/img_rules_banner_62_zh_cn.png",
+      "width": 656,
+      "height": 516,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_62_zh_cn.png"
+    },
+    "icon_milestone_0002": {
+      "url": "assets/scene/milestone/icon_milestone_0002.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0002.png"
+    },
+    "img_rules_banner_2": {
+      "url": "assets/scene/milestone/img_rules_banner_2_zh_cn.png",
+      "width": 656,
+      "height": 460,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_2_zh_cn.png"
+    },
+    "img_tournament_banner_2": {
+      "url": "assets/scene/milestone/img_tournament_banner_2.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_2.png"
+    },
+    "img_milestone_title_2": {
+      "url": "assets/scene/milestone/img_milestone_title_2_zh_cn.png",
+      "width": 428,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_2_zh_cn.png"
+    },
+    "icon_milestone_0044": {
+      "url": "assets/scene/milestone/icon_milestone_0044.png",
+      "width": 200,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0044.png"
+    },
+    "img_rules_banner_44": {
+      "url": "assets/scene/milestone/img_rules_banner_44_zh_cn.png",
+      "width": 656,
+      "height": 516,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_44_zh_cn.png"
+    },
+    "img_tournament_banner_44": {
+      "url": "assets/scene/milestone/img_tournament_banner_44.png",
+      "width": 660,
+      "height": 420,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_44.png"
+    },
+    "img_milestone_title_44": {
+      "url": "assets/scene/milestone/img_milestone_title_44_zh_cn.png",
+      "width": 408,
+      "height": 192,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_44_zh_cn.png"
+    },
+    "img_milestone_title_3": {
+      "url": "assets/scene/milestone/img_milestone_title_3_zh_cn.png",
+      "width": 472,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_3_zh_cn.png"
+    },
+    "img_tournament_banner_3": {
+      "url": "assets/scene/milestone/img_tournament_banner_3.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_3.png"
+    },
+    "img_rules_banner_3": {
+      "url": "assets/scene/milestone/img_rules_banner_3_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_3_zh_cn.png"
+    },
+    "img_milestone_title_59": {
+      "url": "assets/scene/milestone/img_milestone_title_59_zh_cn.png",
+      "width": 372,
+      "height": 172,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_59_zh_cn.png"
+    },
+    "img_rules_banner_59": {
+      "url": "assets/scene/milestone/img_rules_banner_59_zh_cn.png",
+      "width": 656,
+      "height": 532,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_59_zh_cn.png"
+    },
+    "img_tournament_banner_59": {
+      "url": "assets/scene/milestone/img_tournament_banner_59.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_59.png"
+    },
+    "img_milestone_title_4": {
+      "url": "assets/scene/milestone/img_milestone_title_4_zh_cn.png",
+      "width": 372,
+      "height": 196,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_4_zh_cn.png"
+    },
+    "img_rules_banner_4": {
+      "url": "assets/scene/milestone/img_rules_banner_4_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_4_zh_cn.png"
+    },
+    "img_tournament_banner_4": {
+      "url": "assets/scene/milestone/img_tournament_banner_4.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_4.png"
+    },
+    "img_milestone_title_68": {
+      "url": "assets/scene/milestone/img_milestone_title_68_zh_cn.png",
+      "width": 452,
+      "height": 232,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_68_zh_cn.png"
+    },
+    "img_rules_banner_68": {
+      "url": "assets/scene/milestone/img_rules_banner_68_zh_cn.png",
+      "width": 656,
+      "height": 540,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_68_zh_cn.png"
+    },
+    "img_tournament_banner_68": {
+      "url": "assets/scene/milestone/img_tournament_banner_68.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_68.png"
+    },
+    "img_rules_banner_56": {
+      "url": "assets/scene/milestone/img_rules_banner_56_zh_cn.png",
+      "width": 656,
+      "height": 552,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_56_zh_cn.png"
+    },
+    "img_tournament_banner_56": {
+      "url": "assets/scene/milestone/img_tournament_banner_56.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_56.png"
+    },
+    "img_milestone_title_56": {
+      "url": "assets/scene/milestone/img_milestone_title_56_zh_cn.png",
+      "width": 472,
+      "height": 212,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_56_zh_cn.png"
+    },
+    "img_tournament_banner_16": {
+      "url": "assets/scene/milestone/img_tournament_banner_16.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_16.png"
+    },
+    "img_milestone_title_16": {
+      "url": "assets/scene/milestone/img_milestone_title_16_zh_cn.png",
+      "width": 456,
+      "height": 196,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_16_zh_cn.png"
+    },
+    "img_rules_banner_16": {
+      "url": "assets/scene/milestone/img_rules_banner_16_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_16_zh_cn.png"
+    },
+    "img_rules_banner_66": {
+      "url": "assets/scene/milestone/img_rules_banner_66_zh_cn.png",
+      "width": 656,
+      "height": 536,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_66_zh_cn.png"
+    },
+    "img_milestone_title_66": {
+      "url": "assets/scene/milestone/img_milestone_title_66_zh_cn.png",
+      "width": 432,
+      "height": 184,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_66_zh_cn.png"
+    },
+    "img_tournament_banner_66": {
+      "url": "assets/scene/milestone/img_tournament_banner_66.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_66.png"
+    },
+    "img_tournament_banner_70": {
+      "url": "assets/scene/milestone/img_tournament_banner_70.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_70.png"
+    },
+    "img_milestone_title_70": {
+      "url": "assets/scene/milestone/img_milestone_title_70_zh_cn.png",
+      "width": 488,
+      "height": 188,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_70_zh_cn.png"
+    },
+    "img_rules_banner_70": {
+      "url": "assets/scene/milestone/img_rules_banner_70_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_70_zh_cn.png"
+    },
+    "img_rules_banner_20": {
+      "url": "assets/scene/milestone/img_rules_banner_20_zh_cn.png",
+      "width": 656,
+      "height": 452,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_20_zh_cn.png"
+    },
+    "img_tournament_banner_20": {
+      "url": "assets/scene/milestone/img_tournament_banner_20.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_20.png"
+    },
+    "img_milestone_title_20": {
+      "url": "assets/scene/milestone/img_milestone_title_20_zh_cn.png",
+      "width": 452,
+      "height": 228,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_20_zh_cn.png"
+    },
+    "img_milestone_title_57": {
+      "url": "assets/scene/milestone/img_milestone_title_57_zh_cn.png",
+      "width": 400,
+      "height": 200,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_57_zh_cn.png"
+    },
+    "img_rules_banner_57": {
+      "url": "assets/scene/milestone/img_rules_banner_57_zh_cn.png",
+      "width": 656,
+      "height": 524,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_57_zh_cn.png"
+    },
+    "img_tournament_banner_57": {
+      "url": "assets/scene/milestone/img_tournament_banner_57.png",
+      "width": 648,
+      "height": 384,
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_57.png"
     }
   },
   "rewardImages": {

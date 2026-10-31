@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export exactly two CN milestone activities from existing xlsx files, without modifying sources.
+"""Export the CN milestone activity calendar from existing xlsx files, without modifying sources.
 
 Run with the bundled Python (openpyxl is required). The exported JSON is deterministic.
 All dates from the CN schedule are interpreted explicitly as Asia/Shanghai (UTC+08).
@@ -132,7 +132,14 @@ def export(workspace):
     global_rows = tables.load(base + "玩法/global_variables.xlsx")
 
     activities, goal_ids, seq_ids, skin_ids, rank_ids = [], set(), set(), set(), set()
-    for activity_id, kind in ACTIVITY_IDS.items():
+    selected = {}
+    for row in main_rows:
+        ident=integer(row.get('activity_id'))
+        if 7010035 <= ident < 7020000: selected[ident]='noRank'
+        elif 7110077 <= ident < 7120000: selected[ident]='rank'
+    blocked_kinds=set(); schedule_limits={}
+    for activity_id, kind in sorted(selected.items()):
+        if kind in blocked_kinds: continue
         main = one(main_rows, "activity_id", activity_id)
         sub = one([r for r in sub_rows if integer(r.get("sub_index")) == 1], "activity_id", activity_id)
         start_raw, start_iso, start_ms = timestamp(main["open_time_s1"])
@@ -154,7 +161,9 @@ def export(workspace):
             "source": {"main": main["_source"], "sub": sub["_source"]},
         }
         if not (workspace / entry["iconSource"]).is_file():
-            raise FileNotFoundError(entry["iconSource"])
+            blocked_kinds.add(kind)
+            schedule_limits[kind]={'firstUnavailableId':activity_id,'startAt':start_iso,'reason':'原排期后续图标缺失或为 #N/A；不虚构活动资源。'}
+            continue
         activities.append(entry)
         goal_ids.add(entry["goalId"])
         seq_ids.add(entry["seqId"])
@@ -162,8 +171,6 @@ def export(workspace):
         if entry["rankId"]:
             rank_ids.add(entry["rankId"])
     assert rank_ids == {101}
-    assert [(a["id"], a["skinId"], a["goalId"], a["seqId"]) for a in activities] == [
-        (7010035, 24, 2, 7010001), (7110077, 8, 5, 7110001)]
 
     goals, square_groups, group_ids = {}, {}, set()
     for goal_id in sorted(goal_ids):
@@ -314,7 +321,7 @@ def export(workspace):
     assert rank["unlockScore"] == 1
     return {
         "schemaVersion": 1, "channel": "CN", "timezone": "Asia/Shanghai",
-        "activities": activities, "goals": goals, "squareGroups": square_groups,
+        "scheduleLimits": schedule_limits, "activities": activities, "goals": goals, "squareGroups": square_groups,
         "squareGroupSources": {str(g): [r["_source"] for r in square_rows if g in groups(r.get("group"))]
                                for g in sorted(group_ids)},
         "stages": stages, "dropGroups": drop_groups, "rank": rank, "uiSkins": ui_skins,
@@ -326,7 +333,7 @@ def export(workspace):
             "stages": "singleValue为单档增量，threshold/min/max由按index升序累加得到；达到阈值自动奖励，每档只能领取一次。",
             "offlineDrop": "resolvedOfflineRewards使用原spare奖励分支；直接奖励为空时解析原drop_id到main_activity_type=0。不把未知物品替换成骰子或金币。",
             "money": "美金保留原配表基础数量，未乘玩家状态相关通胀；原服务端buildCommonDrop应用inflationService。",
-            "schedule": "固定使用原国服起止时间；到期停止新积分，不在每次加载时重设倒计时。",
+            "schedule": "按原国服排期自动选择当前一期；到期停止旧期积分，各期进度独立，不在加载时重设倒计时。",
             "settlement": "离线仅补发已实际达到且未标记领取的阶段奖励；不得据本机单人成绩发放线上排名结算奖励。",
             "mapUnlock": "mapUnlock来自原activity_main.map_id，NoRank=3、Rank=6；若演示绕过门槛，应明确属于本地演示策略。",
         },

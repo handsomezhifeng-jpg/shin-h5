@@ -1,0 +1,1229 @@
+{
+  "source": "原国服排期与原 Unity 美术",
+  "records": [
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0024.png",
+      "output": "assets/scene/milestone/icon_milestone_0024.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_24_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0027.png",
+      "output": "assets/scene/milestone/icon_milestone_0027.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_27_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_27_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0047.png",
+      "output": "assets/scene/milestone/icon_milestone_0047.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_47_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_47_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0028.png",
+      "output": "assets/scene/milestone/icon_milestone_0028.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_28_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_28_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0043.png",
+      "output": "assets/scene/milestone/icon_milestone_0043.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_43_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_43_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0046.png",
+      "output": "assets/scene/milestone/icon_milestone_0046.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_46_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_46_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0045.png",
+      "output": "assets/scene/milestone/icon_milestone_0045.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_45_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_45_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0048.png",
+      "output": "assets/scene/milestone/icon_milestone_0048.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_48_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_48_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0033.png",
+      "output": "assets/scene/milestone/icon_milestone_0033.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_33_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_33_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0036.png",
+      "output": "assets/scene/milestone/icon_milestone_0036.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_36_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_36_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0029.png",
+      "output": "assets/scene/milestone/icon_milestone_0029.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_29_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_29_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0037.png",
+      "output": "assets/scene/milestone/icon_milestone_0037.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_37_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_37_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0038.png",
+      "output": "assets/scene/milestone/icon_milestone_0038.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_38_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_38_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0049.png",
+      "output": "assets/scene/milestone/icon_milestone_0049.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_49_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_49_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0050.png",
+      "output": "assets/scene/milestone/icon_milestone_0050.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_50_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_50_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0051.png",
+      "output": "assets/scene/milestone/icon_milestone_0051.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_51_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_51_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0053.png",
+      "output": "assets/scene/milestone/icon_milestone_0053.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_53_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_53_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0054.png",
+      "output": "assets/scene/milestone/icon_milestone_0054.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_54_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_54_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0021.png",
+      "output": "assets/scene/milestone/icon_milestone_0021.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_21_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_21_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0019.png",
+      "output": "assets/scene/milestone/icon_milestone_0019.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_19_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_19_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0010.png",
+      "output": "assets/scene/milestone/icon_milestone_0010.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_10_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_10_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0017.png",
+      "output": "assets/scene/milestone/icon_milestone_0017.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_17_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_17_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0022.png",
+      "output": "assets/scene/milestone/icon_milestone_0022.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_22_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_22_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0018.png",
+      "output": "assets/scene/milestone/icon_milestone_0018.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_18_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_18_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0012.png",
+      "output": "assets/scene/milestone/icon_milestone_0012.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_12_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_12_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0062.png",
+      "output": "assets/scene/milestone/icon_milestone_0062.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_62_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_62_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0057.png",
+      "output": "assets/scene/milestone/icon_milestone_0057.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_57_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_57_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0066.png",
+      "output": "assets/scene/milestone/icon_milestone_0066.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_66_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_66_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0056.png",
+      "output": "assets/scene/milestone/icon_milestone_0056.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_56_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_56_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0052.png",
+      "output": "assets/scene/milestone/icon_milestone_0052.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_52_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_52_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0070.png",
+      "output": "assets/scene/milestone/icon_milestone_0070.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_70_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_70_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0025.png",
+      "output": "assets/scene/milestone/icon_milestone_0025.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_25_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_25_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0068.png",
+      "output": "assets/scene/milestone/icon_milestone_0068.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_68_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_68_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0003.png",
+      "output": "assets/scene/milestone/icon_milestone_0003.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_3_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_3_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0069.png",
+      "output": "assets/scene/milestone/icon_milestone_0069.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_69_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_69_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0005.png",
+      "output": "assets/scene/milestone/icon_milestone_0005.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_5_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_5_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0065.png",
+      "output": "assets/scene/milestone/icon_milestone_0065.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_65_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_65_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0060.png",
+      "output": "assets/scene/milestone/icon_milestone_0060.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_60_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_60_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0011.png",
+      "output": "assets/scene/milestone/icon_milestone_0011.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_11_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_11_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0009.png",
+      "output": "assets/scene/milestone/icon_milestone_0009.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_9_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_9_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0020.png",
+      "output": "assets/scene/milestone/icon_milestone_0020.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_20_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_20_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0006.png",
+      "output": "assets/scene/milestone/icon_milestone_0006.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_6_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_6_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0023.png",
+      "output": "assets/scene/milestone/icon_milestone_0023.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_23_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_23_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0063.png",
+      "output": "assets/scene/milestone/icon_milestone_0063.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_63_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_63_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0013.png",
+      "output": "assets/scene/milestone/icon_milestone_0013.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_13_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_13_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0008.png",
+      "output": "assets/scene/milestone/icon_milestone_0008.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_8_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0059.png",
+      "output": "assets/scene/milestone/icon_milestone_0059.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_59_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_59_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0064.png",
+      "output": "assets/scene/milestone/icon_milestone_0064.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_64_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_64_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0015.png",
+      "output": "assets/scene/milestone/icon_milestone_0015.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_15_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_15_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0058.png",
+      "output": "assets/scene/milestone/icon_milestone_0058.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_58_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_58_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0026.png",
+      "output": "assets/scene/milestone/icon_milestone_0026.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_26_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_26_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0004.png",
+      "output": "assets/scene/milestone/icon_milestone_0004.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_4_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_4_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0016.png",
+      "output": "assets/scene/milestone/icon_milestone_0016.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_16_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_16_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0001.png",
+      "output": "assets/scene/milestone/icon_milestone_0001.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_banner_1_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_banner_1_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_8.png",
+      "output": "assets/scene/milestone/img_tournament_banner_8.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_8_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_8_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_8_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_9_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_9_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_9.png",
+      "output": "assets/scene/milestone/img_tournament_banner_9.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_9_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_9_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_10_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_10_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_10_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_10_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_10.png",
+      "output": "assets/scene/milestone/img_tournament_banner_10.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_11_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_11_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_11.png",
+      "output": "assets/scene/milestone/img_tournament_banner_11.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_11_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_11_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_12_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_12_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_12_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_12_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_12.png",
+      "output": "assets/scene/milestone/img_tournament_banner_12.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_13.png",
+      "output": "assets/scene/milestone/img_tournament_banner_13.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_13_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_13_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_13_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_13_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0014.png",
+      "output": "assets/scene/milestone/icon_milestone_0014.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_14.png",
+      "output": "assets/scene/milestone/img_tournament_banner_14.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_14_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_14_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_14_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_14_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_15.png",
+      "output": "assets/scene/milestone/img_tournament_banner_15.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_15_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_15_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_15_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_15_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_17_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_17_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_17.png",
+      "output": "assets/scene/milestone/img_tournament_banner_17.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_17_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_17_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_18_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_18_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_18_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_18_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_18.png",
+      "output": "assets/scene/milestone/img_tournament_banner_18.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_22_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_22_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_22_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_22_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_22.png",
+      "output": "assets/scene/milestone/img_tournament_banner_22.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_23_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_23_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_23.png",
+      "output": "assets/scene/milestone/img_tournament_banner_23.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_23_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_23_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_24_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_24_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_24_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_24.png",
+      "output": "assets/scene/milestone/img_tournament_banner_24.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_25.png",
+      "output": "assets/scene/milestone/img_tournament_banner_25.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_25_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_25_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_25_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_25_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_26.png",
+      "output": "assets/scene/milestone/img_tournament_banner_26.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_26_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_26_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_26_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_26_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_43_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_43_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_43_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_43_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_43.png",
+      "output": "assets/scene/milestone/img_tournament_banner_43.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_45_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_45_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_45.png",
+      "output": "assets/scene/milestone/img_tournament_banner_45.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_45_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_45_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_46.png",
+      "output": "assets/scene/milestone/img_tournament_banner_46.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_46_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_46_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_46_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_46_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_47.png",
+      "output": "assets/scene/milestone/img_tournament_banner_47.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_47_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_47_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_47_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_47_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_48_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_48_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_48.png",
+      "output": "assets/scene/milestone/img_tournament_banner_48.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_48_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_48_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_27_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_27_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_27_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_27_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_27.png",
+      "output": "assets/scene/milestone/img_tournament_banner_27.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_28_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_28_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_28_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_28_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_28.png",
+      "output": "assets/scene/milestone/img_tournament_banner_28.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_29_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_29_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_29_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_29_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_29.png",
+      "output": "assets/scene/milestone/img_tournament_banner_29.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0030.png",
+      "output": "assets/scene/milestone/icon_milestone_0030.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_30_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_30_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_30_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_30_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_30.png",
+      "output": "assets/scene/milestone/img_tournament_banner_30.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0031.png",
+      "output": "assets/scene/milestone/icon_milestone_0031.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_31_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_31_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_31_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_31_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_31.png",
+      "output": "assets/scene/milestone/img_tournament_banner_31.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0032.png",
+      "output": "assets/scene/milestone/icon_milestone_0032.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_32_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_32_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_32.png",
+      "output": "assets/scene/milestone/img_tournament_banner_32.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_32_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_32_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_19.png",
+      "output": "assets/scene/milestone/img_tournament_banner_19.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_19_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_19_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_19_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_19_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_21.png",
+      "output": "assets/scene/milestone/img_tournament_banner_21.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_21_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_21_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_21_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_21_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_49_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_49_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_49.png",
+      "output": "assets/scene/milestone/img_tournament_banner_49.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_49_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_49_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_50.png",
+      "output": "assets/scene/milestone/img_tournament_banner_50.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_50_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_50_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_50_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_50_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_51_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_51_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_51.png",
+      "output": "assets/scene/milestone/img_tournament_banner_51.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_51_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_51_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_53_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_53_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_53.png",
+      "output": "assets/scene/milestone/img_tournament_banner_53.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_53_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_53_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0039.png",
+      "output": "assets/scene/milestone/icon_milestone_0039.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_39_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_39_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_39.png",
+      "output": "assets/scene/milestone/img_tournament_banner_39.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_39_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_39_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0040.png",
+      "output": "assets/scene/milestone/icon_milestone_0040.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_40_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_40_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_40.png",
+      "output": "assets/scene/milestone/img_tournament_banner_40.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_40_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_40_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_54_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_54_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_54_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_54_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_54.png",
+      "output": "assets/scene/milestone/img_tournament_banner_54.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_5_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_5_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_5_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_5_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_5.png",
+      "output": "assets/scene/milestone/img_tournament_banner_5.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_52_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_52_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_52_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_52_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_52.png",
+      "output": "assets/scene/milestone/img_tournament_banner_52.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0055.png",
+      "output": "assets/scene/milestone/icon_milestone_0055.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_55.png",
+      "output": "assets/scene/milestone/img_tournament_banner_55.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_55_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_55_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_55_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_55_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0067.png",
+      "output": "assets/scene/milestone/icon_milestone_0067.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_67_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_67_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_67_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_67_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_67.png",
+      "output": "assets/scene/milestone/img_tournament_banner_67.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_58_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_58_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_58.png",
+      "output": "assets/scene/milestone/img_tournament_banner_58.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_58_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_58_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_63_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_63_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_63.png",
+      "output": "assets/scene/milestone/img_tournament_banner_63.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_63_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_63_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_60.png",
+      "output": "assets/scene/milestone/img_tournament_banner_60.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_60_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_60_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_60_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_60_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0061.png",
+      "output": "assets/scene/milestone/icon_milestone_0061.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_61.png",
+      "output": "assets/scene/milestone/img_tournament_banner_61.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_61_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_61_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_61_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_61_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_64_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_64_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_64_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_64_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_64.png",
+      "output": "assets/scene/milestone/img_tournament_banner_64.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_69_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_69_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_69_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_69_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_69.png",
+      "output": "assets/scene/milestone/img_tournament_banner_69.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_1_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_1_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_1.png",
+      "output": "assets/scene/milestone/img_tournament_banner_1.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_1_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_1_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_65.png",
+      "output": "assets/scene/milestone/img_tournament_banner_65.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_65_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_65_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_65_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_65_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0007.png",
+      "output": "assets/scene/milestone/icon_milestone_0007.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_7.png",
+      "output": "assets/scene/milestone/img_tournament_banner_7.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_7_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_7_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_7_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_7_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_6_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_6_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_6_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_6_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_6.png",
+      "output": "assets/scene/milestone/img_tournament_banner_6.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_62_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_62_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_62.png",
+      "output": "assets/scene/milestone/img_tournament_banner_62.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_62_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_62_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0002.png",
+      "output": "assets/scene/milestone/icon_milestone_0002.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_2_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_2_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_2.png",
+      "output": "assets/scene/milestone/img_tournament_banner_2.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_2_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_2_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/TextureRule/Milestone/icon_milestone_0044.png",
+      "output": "assets/scene/milestone/icon_milestone_0044.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_44_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_44_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_44.png",
+      "output": "assets/scene/milestone/img_tournament_banner_44.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_44_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_44_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_3_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_3_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_3.png",
+      "output": "assets/scene/milestone/img_tournament_banner_3.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_3_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_3_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_59_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_59_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_59_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_59_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_59.png",
+      "output": "assets/scene/milestone/img_tournament_banner_59.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_4_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_4_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_4_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_4_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_4.png",
+      "output": "assets/scene/milestone/img_tournament_banner_4.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_68_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_68_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_68_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_68_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_68.png",
+      "output": "assets/scene/milestone/img_tournament_banner_68.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_56_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_56_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_56.png",
+      "output": "assets/scene/milestone/img_tournament_banner_56.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_56_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_56_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_16.png",
+      "output": "assets/scene/milestone/img_tournament_banner_16.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_16_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_16_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_16_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_16_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_66_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_66_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_66_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_66_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_66.png",
+      "output": "assets/scene/milestone/img_tournament_banner_66.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_70.png",
+      "output": "assets/scene/milestone/img_tournament_banner_70.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_70_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_70_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_70_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_70_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_20_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_20_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_20.png",
+      "output": "assets/scene/milestone/img_tournament_banner_20.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_20_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_20_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_milestone_title_57_zh_cn.png",
+      "output": "assets/scene/milestone/img_milestone_title_57_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/ArtisticFont/zh_cn/img_rules_banner_57_zh_cn.png",
+      "output": "assets/scene/milestone/img_rules_banner_57_zh_cn.png"
+    },
+    {
+      "source": "client/SHIN/Assets/ResourcesAssets/Texture/Block10x10/img_tournament_banner_57.png",
+      "output": "assets/scene/milestone/img_tournament_banner_57.png"
+    }
+  ]
+}

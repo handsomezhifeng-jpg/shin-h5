@@ -1,3 +1,4 @@
+import{BOARD_SKIN,boardTextureURL}from './board-skin.mjs';
 import {OriginalPrisonProp} from './prison-prop.mjs';
 import {OriginalGridProps} from './grid-props.mjs';
 import {OriginalBoardCharacters} from './board-characters.mjs';
@@ -8,10 +9,10 @@ const S=1624/11, PITCH=Math.sin(35*Math.PI/180), UP=Math.cos(35*Math.PI/180), HA
 const loadImage=url=>new Promise((resolve,reject)=>{const image=new Image();image.onload=()=>resolve(image);image.onerror=()=>reject(new Error('图片加载失败：'+url));image.src=url;});
 export const worldPoint=(x,y,z)=>({x:(x+z)*HALF*S*BOARD_SCALE,y:((x-z)*HALF*PITCH-y*UP)*S*BOARD_SCALE});
 export class OriginalScene {
-  constructor(canvas,data,ui,initialBase=1) {this.initialBase=initialBase;this.loadedMaps=new Set();this.mapLoads=new Map();this.canvas=canvas;this.ctx=canvas.getContext('2d',{alpha:false});this.data=data;this.ui=ui;this.camera={x:0,y:0};this.offset={x:375,y:812+(6*UP-10*PITCH)*S};this.zoom=5.5;this.position=0;this.spriteCache=new Map();this.images={};this.map=1;this.now=performance.now()/1000;this.framePending=false;this.moving=false;this.followActive=false;this.cameraWorld={x:0,y:6,z:-10};this.followOffset={x:0,y:9,z:-11};}
+  constructor(canvas,data,ui,initialBase=1) {this.skin=BOARD_SKIN;this.initialBase=initialBase;this.loadedMaps=new Set();this.mapLoads=new Map();this.canvas=canvas;this.ctx=canvas.getContext('2d',{alpha:false});this.data=data;this.ui=ui;this.camera={x:0,y:0};this.offset={x:375,y:812+(6*UP-10*PITCH)*S};this.zoom=5.5;this.position=0;this.spriteCache=new Map();this.images={};this.map=1;this.now=performance.now()/1000;this.framePending=false;this.moving=false;this.followActive=false;this.cameraWorld={x:0,y:6,z:-10};this.followOffset={x:0,y:9,z:-11};}
   async load() {
     const urls={atlas:'assets/scene/grid-atlas.png',goldcoin:'assets/scene/grid-atlas-goldcoin.png',shield:'assets/scene/shield.png',rent0:'assets/scene/avatar-3.png',rent1:'assets/scene/avatar-4.png',rent2:'assets/scene/avatar-6.png'};
-    await Promise.all(Object.entries(urls).map(async([key,url])=>{this.images[key]=this.images[url]=await loadImage(url);}));
+    await Promise.all(Object.entries(urls).map(async([key,url])=>{this.images[key]=this.images[url]=await loadImage(boardTextureURL(url));}));
     this.prefabs=await fetch('assets/scene/grid-prefabs.json').then(r=>r.json()).then(d=>d.prefabs);
     [this.layout,this.bgMesh,this.hooks]=await Promise.all(['maincity-layout.json','city-background-mesh.json','grid-hooks.json'].map(n=>fetch('assets/scene/'+n).then(r=>r.json())));
     await this.ensureMap(this.initialBase);

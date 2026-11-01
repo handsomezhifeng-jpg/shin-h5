@@ -8,3 +8,5 @@
 .coin-world-text{position:absolute;width:0;height:0;transform-origin:0 0;pointer-events:none}.coin-world-text .fg-richtext{gap:0;overflow:visible}
 
 .milestone-tip{pointer-events:auto;z-index:1}.milestone-tip .fg-list{scrollbar-width:none}.fg-list::-webkit-scrollbar{width:5px;height:5px}.fg-list::-webkit-scrollbar-thumb{background:#aa7969;border-radius:5px}
+
+.scene-pan-enabled #board{cursor:grab;touch-action:none}.scene-pan-enabled .world-hit{touch-action:none}.scene-panning,.scene-panning #board,.scene-panning .world-hit{cursor:grabbing}

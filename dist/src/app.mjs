@@ -1,3 +1,4 @@
+import{installScenePan}from './scene-pan.mjs';
 import{BOARD_SKIN}from './board-skin.mjs';
 import{SanguoCast}from './sanguo-cast.mjs';
 import{SanguoUI}from './sanguo-ui.mjs';
@@ -181,6 +182,7 @@ async function init(){
   if(!sanguoCast){const v=scene.pieceProfile.viewport;piece.style.width=(v.width*.0024*1624/11)+'px';piece.style.height=(v.height*.0024*1624/11)+'px';piece.style.transform=`translate(${v.x/v.width*100}%,${-(v.y+v.height)/v.height*100}%)`;$('#spine').style.transformOrigin=`${-v.x/v.width*100}% ${(v.y+v.height)/v.height*100}%`;}
   await new Promise((resolve,reject)=>{const deadline=performance.now()+15000;const ready=()=>{if(player.animationState){player.animationState.timeScale=1.5;player.animationState.data.defaultMix=.2;currentAnimation='idle_'+facing;resolve();}else if(performance.now()>deadline)reject(new Error('小新动画加载超时'));else requestAnimationFrame(ready);};ready();});
   update();$('#loading').hidden=true;if(engine.state.pending)showPending();
+  installScenePan({game,scene,canPan:()=>!busy&&!auto&&!scene.moving&&modal.hidden&&!engine.state.pending,getPosition:()=>engine.state.position});
   window.__SHIN={engine,ui,scene,sanguoCast,dice3d,coinRewards,activities,milestoneWidgets,get player(){return player;},get busy(){return busy;},get auto(){return auto;},showPending,showBuild,handleAction};
   setInterval(()=>{if(engine.restoreDice())update();},30000);
   let relaxTick=performance.now();setInterval(()=>{const now=performance.now(),dt=Math.min(1,(now-relaxTick)/1000);relaxTick=now;if(!currentAnimation.startsWith('idle'))return;relaxRemaining-=dt;if(relaxRemaining>0||busy||!modal.hidden||engine.state.pending)return;relaxRemaining=10+Math.random()*10;const name='relax_'+facing,duration=player.skeleton.data.findAnimation(name).duration/1.5;play('relax',{loop:false,speed:1.5});setTimeout(()=>{if(currentAnimation.startsWith('relax')&&!scene.moving)play('idle');},duration*1000);},100);

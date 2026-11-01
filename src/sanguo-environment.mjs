@@ -1,3 +1,4 @@
+import{SANGUO_LAYOUT_VERSION,SANGUO_PLACEMENTS}from './sanguo-layout.mjs';
 import{multiply,inverse}from './motion.mjs';
 import{loadSpriteAtlas}from './sanguo-cast.mjs';
 const UP=Math.cos(35*Math.PI/180),PITCH=Math.sin(35*Math.PI/180),IDENTITY=[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1];
@@ -7,51 +8,7 @@ export const SANGUO_ENVIRONMENT_ASSETS=[GROUND,BUILDINGS,LANDSCAPE,DISTRICT,MONU
 const load=url=>new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=()=>reject(new Error('三国场景资源加载失败：'+url));i.src=url;});
 const billboard=(x,y,z,w,h)=>[w,0,0,0,0,h*UP,h*PITCH,0,0,-PITCH,UP,0,x,y,z,1];
 export class SanguoEnvironment{
- constructor(scene){this.scene=scene;this.skinVersion='sanguo-v6';this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=[
-  {role:'market',kind:0,position:[-2.95,.02,4.5],size:[2.7,2.2]},
-  {role:'far-shop',kind:2,position:[4.2,.02,5.9],size:[1.75,1.75]},
-  {role:'near-gate',kind:1,position:[-3.65,.02,-4.8],size:[2.05,2]},
-  {role:'warehouse',kind:2,position:[2.6,.02,-4.9],size:[1.6,1.5]},
-  {role:'wall',kind:6,position:[-4.25,.005,4.1],size:[2.6,1.05]},
-  {role:'wall',kind:6,position:[4.6,.005,2.4],size:[-2.3,1]},
-  {role:'wall',kind:6,position:[2.3,.005,-5.8],size:[2.6,1.05]},
-  {role:'green-tree',kind:4,position:[-4.8,.01,1.8],size:[1.7,1.6]},
-  {role:'green-tree',kind:4,position:[-3.7,.01,6.4],size:[1.8,1.6]},
-  {role:'green-tree',kind:4,position:[1.3,.01,6.6],size:[1.8,1.5]},
-  {role:'maple',kind:5,position:[4.8,.01,3.4],size:[1.7,1.55]},
-  {role:'green-tree',kind:4,position:[5.8,.01,-1],size:[1.6,1.5]},
-  {role:'maple',kind:5,position:[-.3,.01,-3.9],size:[1.5,1.4]},
-  {role:'green-tree',kind:4,position:[-1.3,.01,-6],size:[1.7,1.6]},
-  {role:'green-tree',kind:4,position:[-5,.01,-2.4],size:[1.7,1.6]},
-  {role:'banners',kind:7,position:[-3.8,.01,1.8],size:[.9,1.65]},
-  {role:'banners',kind:7,position:[4.7,.01,-1.8],size:[.9,1.5]},
-  {role:'far-house',kind:2,position:[-3.8,.01,10.5],size:[1.8,1.65]},
-  {role:'far-house',kind:2,position:[1.0,.01,12.2],size:[1.9,1.7]},
-  {role:'far-house',kind:0,position:[5.2,.01,10.0],size:[2.2,1.65]},
-  {role:'far-gate',kind:1,position:[-.8,.01,8.8],size:[1.8,1.7]},
-  {role:'far-tree',kind:4,position:[-2.5,.01,9.0],size:[1.8,1.6]},
-  {role:'far-tree',kind:4,position:[3.2,.01,10.3],size:[1.7,1.55]},
-  {role:'far-tree',kind:5,position:[-6.4,.01,7.5],size:[1.7,1.55]},
-  {role:'far-wall',kind:6,position:[-4,.005,8],size:[2.5,1.05]},
-  {role:'far-wall',kind:6,position:[4.1,.005,9],size:[2.6,1.05]},
-  {role:'command-hall',kind:8,position:[-1.1,.01,8.5],size:[2.8,2.15]},
-  {role:'stable',kind:9,position:[-4.25,.01,-6.65],size:[2.2,1.8]},
-  {role:'tea-shop',kind:10,position:[4.35,.01,-.6],size:[2.15,1.75]},
-  {role:'pavilion',kind:11,position:[-5.4,.01,5.7],size:[2.1,1.9]},
-  {role:'courtyard-residence',kind:8,position:[3.25,.01,-6.4],size:[2.5,2]},
-  {role:'outer-stable',kind:9,position:[5.2,.01,7.1],size:[2.05,1.7]},
-  {role:'far-tea-shop',kind:10,position:[-6.5,.01,9.4],size:[2.0,1.65]},
-  {role:'outer-pavilion',kind:11,position:[-7.4,.01,-3.1],size:[2.3,1.95]},
-  {role:'side-wall',kind:6,position:[-5.0,.005,-2.1],size:[-2.4,1.05]},
-  {role:'side-wall',kind:6,position:[6.0,.005,4.7],size:[2.4,1.05]},
-  {role:'market-backdrop-tree',kind:4,position:[-1.4,.01,7.1],size:[1.65,1.55]},
-  {role:'gate-garden',kind:4,position:[-4.7,.01,-3.6],size:[1.45,1.4]},
-  {role:'courtyard-tree',kind:4,position:[-.65,.01,-1.3],size:[1.15,1.1]},
-  {role:'foreground-maple',kind:5,position:[-1.15,.01,-6.8],size:[1.45,1.35]},
-  {role:'golden-dice-monuments',kind:12,position:[-.5,.01,-2.05],size:[1.7,1.4]}
-
-
- ];}
+ constructor(scene){this.scene=scene;this.skinVersion=SANGUO_LAYOUT_VERSION;this.cells=[];this.boardCache=new Map();this.drawn=[];this.removedEars={};this.placements=SANGUO_PLACEMENTS.map(p=>({...p,position:[...p.position],size:[...p.size]}));}
  async load(){const s=this.scene;s.images[GROUND]=await load(GROUND);for(const url of [BUILDINGS,LANDSCAPE,DISTRICT])await this.loadAtlas(url);
  s.images[MONUMENTS]=await load(MONUMENTS);this.cells.push({texture:MONUMENTS,positions:[-.5,-.02,0,.5,-.02,0,.5,.98,0,-.5,.98,0],normals:[0,0,1,0,0,1,0,0,1,0,0,1],uv:[0,0,1,0,1,1,0,1],indices:[0,1,2,0,2,3]});
  const carts=await loadSpriteAtlas(CARTS,2,1);this.cartKinds=carts.map((frame,i)=>{const texture=CARTS+':'+i;s.images[texture]=frame.canvas;const kind=this.cells.length;this.cells.push({texture,positions:[-.5,0,0,.5,0,0,.5,1,0,-.5,1,0],normals:[0,0,1,0,0,1,0,0,1,0,0,1],uv:[0,0,1,0,1,1,0,1],indices:[0,1,2,0,2,3]});return kind;});

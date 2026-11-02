@@ -1,0 +1,113 @@
+id	resourcePath	describe	status
+int	int	int	int
+1	UIAtlas/Common1	棋子图标	1
+2	Arts/Icon/Goods	通用道具	1
+3	Arts/Icon/Role/Npc	NPC	1
+4	UIAtlas/Common3	棋子图标3	1
+5	Spines/BustRolePrefab	角色sipne资源	1
+6	Arts/Textures/BattlePass/@	pass卡入口图	1
+7	Arts/Icon/PlayerHead	头像资源	1
+8	Arts/Textures/GoldRace@	金币竞赛资源	1
+9	Arts/Textures/Cg	Cg图剧情用	1
+10	Arts/Textures/Store	钻石商店资源	1
+11	Arts/Textures/SpecialTask	特殊订单资源	1
+12	Arts/Textures/RoadRace@	公路竞赛资源	1
+13	Arts/Textures/ChainGiftpack	链式礼包	1
+14	Arts/Textures/GradedGiftpack401	等级礼包	1
+15	Arts/Textures/LimitedGiftpack/402001	限时礼包	1
+16	Arts/Textures/BeginnerGiftpack	新手礼包	1
+17	Arts/Textures/BattlePass/10002	第二期pass卡（武林乱斗和连连看也用了，所以先不删）	1
+18	Arts/Textures/VegetableGarden14	菜园捣蛋鬼	1
+19	UIAtlas/VegetableGarden14	菜园捣蛋鬼	1
+20	Arts/Textures/SpecialCollect/120101	三合一	1
+21	Arts/Textures/FeatureCardGift/180101	卡牌必得1	1
+22	Arts/Textures/SuperGift/1001	1+2	1
+23	Arts/Icon/CommonActivityPiece	活动棋子	1
+24	Arts/Textures/BeginnerReward	新人结缘礼	1
+25	UIAtlas/BeginnerReward	新人结缘礼礼包图	1
+26	Arts/Textures/TeahouseRace17	茶楼大赛	1
+27	Arts/Textures/ActivityChess23	基础棋盘活动	1
+28	Arts/Textures/CollectCard/90001	集卡1	1
+29	Arts/Textures/CollectCard/90002	集卡2	1
+30	Arts/Textures/CollectCard	集卡总资源路径	1
+31	Spines/FXPrefab	Spine特效预制体路径	1
+32	Arts/Textures/ActivityBubbles32	泡泡折扣	1
+33	Arts/Textures/CollectFlowers39	提篮问芳活动	1
+34	UIAtlas/MainIcon	活动主界面入口资源	1
+35	Arts/Textures/LimitActivity/2201	限时任务图片	1
+36	Arts/Icon/Buff	buff图标	1
+37	Arts/Textures/ActivityTopic/4001	龙宫活动皮肤	1
+38	Arts/Textures/Chessboard	主棋盘界面资源	1
+39	Arts/Textures/Feeling	好感度资源	1
+41	Arts/Icon/PaintPut	捏面人活动资源1	1
+42	Arts/Textures/PaintPut	捏面人活动资源2	1
+43	UIAtlas/ActivityKirin/3001	麒麟摘星梦资源	1
+45	Arts/Textures/ActivityTopic/4002	集市活动皮肤	1
+46	UIAtlas/ActivityExploreChess/490001	探险棋盘第一期资源	1
+47	UIAtlas/Haggle/560001	砍价礼包第一期资源	1
+48	Arts/Textures/ActivityTopic/4003	七夕地块皮肤	1
+51	Arts/Textures/ActivityTopic/4004	中秋地皮	1
+52	UIAtlas/HouseDecoration	自宅装修UI图集	1
+54	Arts/Textures/ActivityTopic/4005	丰收地块	1
+55	Arts/Icon/HouseDecoration/Furniture	自宅家具图标	1
+56	Arts/Icon/HouseDecoration/Room	自宅房型图标	1
+57	Arts/Textures/ActivityTopic/4006	浮空岛	1
+58	Arts/Textures/DialogueBg	BG图剧情用	1
+59	Arts/Textures/PassFlower	击鼓传花资源	1
+60	Arts/Textures/ActivityTopic/4007	温泉地块	1
+61	UIAtlas/HouseDecorationNewsuit/@	自宅新品预告UI图集	1
+62	Arts/Textures/Roulette	转盘图标	1
+63	Arts/Textures/ActivityTopic/4008	冰山地块	1
+64	Arts/Textures/ActivityTopic/4009	过年地块	1
+65	Arts/Textures/SevenTask	七日任务	1
+66	Arts/Textures/SevenTask/4801	七日任务麒麟	1
+67	Arts/Textures/ActivityTopic/4010	钰环地块	1
+68	Arts/Textures/ActivityFarmChess/530005	530005农场元宵主题路径	1
+69	Arts/Icon/HouseDecoration/Suit	家具图鉴	1
+70	Arts/Textures/Script	剧本杀资源	1
+71	Arts/Textures/ActivityExploreChess/490004	490004探险挖矿主题路径	1
+72	Arts/Textures/LimitSupply/900001	锦鲤第一期资源	1
+73	UIAtlas/LimitRush/@order	限时闯关	1
+74	Arts/Textures/ActivityTopic/4011	秦良玉地块	1
+75	Arts/Textures/ActivityFarmChess/530006	530006农场元宵主题路径	1
+76	Arts/Textures/ActivityExploreChess/490005	490005探险挖矿主题路径	1
+77	Arts/Textures/ActivityTopic/4012	春耕地块	1
+78	UIAtlas/MainIcon2	活动主界面入口资源	1
+79	Arts/Textures/ActivityTopic/4014		1
+80	Arts/Textures/MiniGameJigsolitaire	拼图资源	1
+81	Arts/Textures/ActivityFarmChess/530007	530007农场元宵主题路径	1
+82	Arts/Textures/ActivityTopic/4015	梦华录地块	1
+83	Arts/Textures/LimitShare	限时分享-梦华录	1
+84	Arts/Icon/HouseDecoration/DressUp	换装资源	1
+85	UIAtlas/ActivityMapChess/@/normal	走地图道具资源(支线+主线道具)	1
+86	Arts/Textures/ActivityFarmChess/530008	530008农场元宵主题路径	1
+87	UIAtlas/ActivityMapChess/@/order	走地图道具资源(棋盘入口)	1
+88	Arts/Textures/ActivityTopic/4016	粉色海岛地块	1
+89	Arts/Icon/CommonActivityPiece	棋子图标4	1
+90	Arts/Textures/MiniGameMove	滑动合成资源1	1
+91	UIAtlas/MiniGameMove	滑动合成资源2	1
+92	Spines/UI/ActivityMapChess/@	走地图动画资源	1
+93	Arts/Textures/ActivityExploreChess/490007	490007探险挖矿主题路径	1
+94	Arts/Textures/ActivityTopic/4017	七夕地块	1
+95	Arts/Textures/ActivityMedal	勋章	1
+96	Arts/Textures/MonsterChess	打怪棋盘资源	1
+97	Arts/Textures/ActivityFarmChess/530009	530009农场	1
+98	Arts/Textures/ActivityTopic/4018	中秋周年庆地块	1
+99	Video/ActivityMapChess/@	走地图视频资源	1
+100	UIAtlas/ActivityMapChess/@/scene	走地图道具资源(障碍物)	1
+101	Arts/Textures/ActivityExploreChess/490008	490008探险路径	1
+102	Arts/Textures/ActivityMapChess/@	走地图积分道具	1
+105	UIAtlas/BattlePassiteration/@order	新pass卡资源(棋盘入口)	1
+106	Arts/Textures/BattlePassiteration/@	新pass卡入口图	1
+107	UIAtlas/MainIcon3	活动主界面入口资源	1
+108	Arts/Textures/ActivityTopic/4019		1
+109	Arts/Textures/ActivityTopic/4020		1
+110	Arts/Textures/ActivityTopic/4021		1
+111	Arts/Textures/ActivityTopic/4022		1
+112	Arts/Textures/ActivityTopic/4023		1
+113	Arts/Textures/ActivityTopic/4024		1
+114	Arts/Textures/ActivityTopic/4025		1
+115	Arts/Textures/ActivityTopic/4026		1
+116	Arts/Textures/ActivityTopic/4027		1
+117	Arts/Textures/ActivityTopic/4028		1
+118	UIAtlas/MainIcon3	活动主界面入口资源	1

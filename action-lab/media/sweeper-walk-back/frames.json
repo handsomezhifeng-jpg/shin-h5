@@ -1,0 +1,52 @@
+{
+  "id": "sweeper-walk-back",
+  "version": "draft-v1",
+  "generator": "Seedance 2.5",
+  "count": 145,
+  "fps": 24,
+  "width": 320,
+  "height": 480,
+  "columns": 8,
+  "rows": 4,
+  "framesPerSheet": 32,
+  "sheets": [
+    "atlas-00.webp",
+    "atlas-01.webp",
+    "atlas-02.webp",
+    "atlas-03.webp",
+    "atlas-04.webp"
+  ],
+  "cropBounds": [
+    80,
+    80,
+    374,
+    639
+  ],
+  "sourceDecodeResolution": [
+    432,
+    768
+  ],
+  "framePattern": "frames/{index:04d}.png",
+  "sourceSha256": "c4b0ee4624e47608cd316bd25c660a7ba152ecfb7cf8b16ed8d012f2a1233864",
+  "qa": {
+    "status": "needs-attention",
+    "warnings": [
+      "候选片的头身比、发型或服装细节与角色参考存在差异，请对照审核。"
+    ],
+    "durationSeconds": 6.08,
+    "sourceResolution": [
+      720,
+      1280
+    ],
+    "sourceFPS": "24/1",
+    "sourceCodec": "h264",
+    "sourceAudioTracks": 1,
+    "reviewAudioTracks": 0,
+    "decodedFrames": 145,
+    "extractedFPS": 24,
+    "minimumTransparentBackground": 0.7910367235725309,
+    "horizontalDriftPixels": 17.0,
+    "loopSeamMeanDifference": 1.3529850260416667,
+    "notes": "Matte and timing metrics are automatic checks, not approval of motion quality."
+  }
+}

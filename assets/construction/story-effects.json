@@ -1,0 +1,649 @@
+{
+  "source": "Original APK and its matching 1.4.93.1 public resource catalog: CG/BG/audio/Spine, globalgamemanagers ColorOverlayFeature and Custom/ColorOverlay GLES shader",
+  "cg": {
+    "1": {
+      "cgPath": "9:img1",
+      "available": false,
+      "sourceWarning": "Original referenced image is absent from the indexed APK/download bundles. Native RawImageAlterable waits for OnFinish; load failure does not invoke that callback, so preflight must block before charging."
+    },
+    "2": {
+      "cgPath": "9:img2",
+      "available": false,
+      "sourceWarning": "Original referenced image is absent from the indexed APK/download bundles. Native RawImageAlterable waits for OnFinish; load failure does not invoke that callback, so preflight must block before charging."
+    },
+    "3": {
+      "cgPath": "9:story_img_1001021",
+      "available": true,
+      "url": "images-story-effects/story_img_1001021.png",
+      "width": 484,
+      "height": 592,
+      "sha256": "ddc9835528f706a8f0d180d7b4a108a0b029130492e9c67bb6153255b4868ca8",
+      "source": "apk:assets/Bundles/Android/Base/5eb463951a5b56530b1e913060a2ed14.bytes",
+      "sourceObject": "CAB-281709140162adbcab7f738682f0fecb:7911094699172544968",
+      "sourceSha256": "82b19f9df66b72d814cff74a7d7016ea6d2696022e8a26f2755cccb39c5c4919"
+    },
+    "4": {
+      "cgPath": "9:story_img_1002031",
+      "available": true,
+      "url": "images-story-effects/story_img_1002031.png",
+      "width": 588,
+      "height": 804,
+      "sha256": "371b8777767c4b1fb26984e3dd4dc0a2e3b9968f5fceb4013d77bc0a8e07f914",
+      "source": "apk:assets/Bundles/Android/Base/7aff104452178116739f5972c9dcb3f3.bytes",
+      "sourceObject": "CAB-0a301ca98e27b4697a5f5bc083065383:-3166834821059087924",
+      "sourceSha256": "d0a969ab59f7f53a1f3fe2700813ce1bdb64dba9a0336948bce498328f7b5fd0"
+    },
+    "5": {
+      "cgPath": "9:story_img_1003031",
+      "available": true,
+      "url": "images-story-effects/story_img_1003031.png",
+      "width": 384,
+      "height": 280,
+      "sha256": "d633f00338e0ce8472778de119dd8b9677769a429d6b3e6bb5ac4f5096d33c62",
+      "source": "apk:assets/Bundles/Android/Base/f048c7deaefcf3b19f2ddca950ca099a.bytes",
+      "sourceObject": "CAB-3713d871f4942c9062c8457f2e66af69:5916277974210489784",
+      "sourceSha256": "22681b3cdc79cbce04af679fd40d7111a64d9c6217a5e7fefe3064fff1650575"
+    },
+    "6": {
+      "cgPath": "9:story_img_1003051",
+      "available": true,
+      "url": "images-story-effects/story_img_1003051.png",
+      "width": 228,
+      "height": 304,
+      "sha256": "da1af28b1045e6530fa311a1b5cd65b98814e02e8bbe8d85b54bf5d7c357faee",
+      "source": "apk:assets/Bundles/Android/Base/b8dad765612322824ce2368ab36a54b7.bytes",
+      "sourceObject": "CAB-c9681d9eb7878da2425acb49a4acf28e:1785970504557421638",
+      "sourceSha256": "8835dba0ba48d3d1360792fb29818532cf1b92592cce125adecb95245325ffa3"
+    },
+    "7": {
+      "cgPath": "9:story_img_1003061",
+      "available": true,
+      "url": "images-story-effects/story_img_1003061.png",
+      "width": 544,
+      "height": 804,
+      "sha256": "67182449d69d30ff053dcafb960db564529daf50331877b71cf945cfb1c1ffa2",
+      "source": "apk:assets/Bundles/Android/Base/d893850b438697afff17ad663c9db670.bytes",
+      "sourceObject": "CAB-a6c907198d1745d6bbcd5c80cc455180:3495822805107644316",
+      "sourceSha256": "41fd78d5248b1149edbfedaddab1b10080ebd81bc2cc422ef02fb7daff860f8f"
+    },
+    "8": {
+      "cgPath": "9:story_img_1005041",
+      "available": true,
+      "url": "images-story-effects/story_img_1005041.png",
+      "width": 212,
+      "height": 380,
+      "sha256": "a8c11353c826cc255881f255c497ae279184e0ef4fb6a8398fc26823b15eec38",
+      "source": "apk:assets/Bundles/Android/Base/78e6f4b5ae5d677e96e568762a2d4f78.bytes",
+      "sourceObject": "CAB-f0c24abf80a2cdfb8fce148b58213f90:780531476382640990",
+      "sourceSha256": "3cc754348f427b0bd59223938fffa5396011f5cd96d870fb8245facce6ac45ed"
+    },
+    "9": {
+      "cgPath": "9:story_img_1006021",
+      "available": true,
+      "url": "images-story-effects/story_img_1006021.png",
+      "width": 572,
+      "height": 632,
+      "sha256": "dd3480e3fe468bdbd3780ad66ef6b66cdb29ea8eb4a60e629d658baeca0c39f3",
+      "source": "apk:assets/Bundles/Android/Base/ceadc920579eb780d796f0863a6aef24.bytes",
+      "sourceObject": "CAB-d6311b784811add10a78491c66f751bf:8547116013135807428",
+      "sourceSha256": "c9c2bf25baef86f47095c1a39102e581fdedb3deeb124f9f6d102f38c14625ba"
+    },
+    "10": {
+      "cgPath": "9:story_img_1006061",
+      "available": true,
+      "url": "images-story-effects/story_img_1006061.png",
+      "width": 540,
+      "height": 780,
+      "sha256": "cee480024facdcfac2760e88516acc21a1615624a3e61950d0f304c8f32408c8",
+      "source": "apk:assets/Bundles/Android/Base/d7fa757df5456592406b1c4767624ee0.bytes",
+      "sourceObject": "CAB-b3523222fc4988c6f2f8130ee65f740b:-5945707139260289754",
+      "sourceSha256": "184000b921f4c2f133d143b2059218e3b523e840cc3f0174a41a1c5505d00794"
+    },
+    "11": {
+      "cgPath": "9:story_img_1009031",
+      "available": true,
+      "url": "images-story-effects/story_img_1009031.png",
+      "width": 560,
+      "height": 560,
+      "sha256": "ea4da109bd97282d9ee768f1b1e26f3760fc7535b2c4c7dfc9842a50162da253",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\e4\\e4367df952dec3f3930c18cbe8825869\\__data",
+      "sourceObject": "CAB-184d2dc5892a22a2588fed143bf62803:-7403615614899947586",
+      "sourceSha256": "fe23bb5c2b31a7718a3c3424a15400308f9da7a13660faa9b3a154bb7cbe187f"
+    },
+    "12": {
+      "cgPath": "9:story_img_1013011",
+      "available": true,
+      "url": "images-story-effects/story_img_1013011.png",
+      "width": 272,
+      "height": 300,
+      "sha256": "a0f2cda6169b67be3eaae80557679640dc60a21d716d533ff91b36afffe8ee7c",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\fa\\fa46a872626d0ecd26e7876361d22dac\\__data",
+      "sourceObject": "CAB-f4ad5b8b0a4eb71b95c3044b082c0ac3:-945810872338655906",
+      "sourceSha256": "0af4aa79bedb53a9bab6f25ea174b9441fc4c8c779c33a7b10979f45525dc237"
+    },
+    "13": {
+      "cgPath": "9:story_img_1013031",
+      "available": true,
+      "url": "images-story-effects/story_img_1013031.png",
+      "width": 312,
+      "height": 320,
+      "sha256": "d4455881c80a4704d107b197743628ced4061d165078530b2f29d2160cccca88",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\00\\004fc59ef7d263542e1b9b7dc051c719\\__data",
+      "sourceObject": "CAB-41945c810bec3843c8490d241d5d5b17:7248318986531869284",
+      "sourceSha256": "2c4a119289f707a9510511aae524ead100303081489a342dba1195ebc84e53de"
+    },
+    "14": {
+      "cgPath": "9:story_img_1015091",
+      "available": true,
+      "url": "images-story-effects/story_img_1015091.png",
+      "width": 588,
+      "height": 848,
+      "sha256": "7281f58e3171a31a0f128228108f61ca0626eb0b608ce2a737599736a1c31f64",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\95\\95b6c64d40be49ba01494e3dc8efbdc0\\__data",
+      "sourceObject": "CAB-38a972bc3a997a222a5abe08c806b8a1:4644101479605727551",
+      "sourceSha256": "1005f2bf9f7c0bed86bcfdc7b115857b066581ffbcda46fc441540ed3e6d5d79"
+    },
+    "15": {
+      "cgPath": "9:story_img_1024071",
+      "available": true,
+      "url": "images-story-effects/story_img_1024071.png",
+      "width": 552,
+      "height": 784,
+      "sha256": "359e6ab841778061270e6a9d7ad790fc6935f04955b8f3066106c36ac7bdf0fe",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\3e\\3e5098910d1377115637799b57ea4ad0\\__data",
+      "sourceObject": "CAB-71b1c8b233b8c9de621ea05fce13d442:5069722965601393645",
+      "sourceSha256": "d856e6274796675fb33863c74e28ff7de57043a6ea6f73833533b55378bb5118"
+    },
+    "16": {
+      "cgPath": "9:story_img_1025081",
+      "available": true,
+      "url": "images-story-effects/story_img_1025081.png",
+      "width": 552,
+      "height": 504,
+      "sha256": "421f047c136abf679e8e42166f71d24801c9615fa2e148c38a54d208783259b5",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\57\\572940693109bf6a72d582c6785742ff\\__data",
+      "sourceObject": "CAB-d40c423976a680d9ee8dda715cea28c1:-5877766871620463441",
+      "sourceSha256": "6edab6e7ba74b52c8fa3455416909b24516bbffb0581a87479f0b2797dd78e8c"
+    },
+    "17": {
+      "cgPath": "9:story_img_1016101",
+      "available": true,
+      "url": "images-story-effects/story_img_1016101.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "525c143b2a3164b03a53349f9d1d253900f2702f63767be1511fea5c2e635ee2",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\48\\48ab97780d39962e9e7f1e9ec3fbd30a\\__data",
+      "sourceObject": "CAB-aa20fcdf6aa8a14887baeeea86836a8e:-4984633965984077120",
+      "sourceSha256": "8cf6d95c6149edfdd4ed79a68aa64783e9d619c2a6d777336be125291fcf410a"
+    },
+    "18": {
+      "cgPath": "9:story_img_1017051",
+      "available": true,
+      "url": "images-story-effects/story_img_1017051.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "beafee971547a54f2d65848214d5ee3c126c9d879e0ed83d80e83ee4be32bc37",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\e9\\e98c69373a09aa1d42fc0025814b24c8\\__data",
+      "sourceObject": "CAB-0fe1693499e6b71aa7bd697354c846a7:-8537920932120185473",
+      "sourceSha256": "5ed016b0112ed5eb5e8d21adefacac2d27964a9d44bbe117095a3d0b8a26bbf6"
+    },
+    "19": {
+      "cgPath": "9:story_img_1018031",
+      "available": true,
+      "url": "images-story-effects/story_img_1018031.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "da99a4e5ef447c8bb2e2d46fe261848abb13c1352c42cbff7552699b4155c76c",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\47\\47d07e9c1407dc53f81ec78bb12318d9\\__data",
+      "sourceObject": "CAB-689eef917c154c3b8372b77dea9c7b25:8304397296237882803",
+      "sourceSha256": "93c45c0ba0ff373de942b4d3dfee7fc549a45bcd9bef81400b3f1715c57ea0c4"
+    },
+    "20": {
+      "cgPath": "9:story_img_1039031",
+      "available": true,
+      "url": "images-story-effects/story_img_1039031.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "03f0b73af58292c43e5eab562842c6562b767eec81720ff4943e6a866f4d5945",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\7c\\7c3bc3052e3fbc0fa4578b233d7d7695\\__data",
+      "sourceObject": "CAB-60ccef08f44a3d328471fd1a5b251230:-5243914540834901745",
+      "sourceSha256": "5c4573860e8943b51dfffdedf6f8ee08922bfe99ef831c87ad5c7c743e9c9520"
+    },
+    "21": {
+      "cgPath": "9:story_img_1043101",
+      "available": true,
+      "url": "images-story-effects/story_img_1043101.png",
+      "width": 552,
+      "height": 504,
+      "sha256": "fc0598e6d2c251cb7df7b6952cb3c60a0ae5483508821936d80822b17db19b84",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\bd\\bdc726061b1b16e10a763814158b0c47\\__data",
+      "sourceObject": "CAB-fd0c0293770a6d9d756cb587c08e44c5:-8746904236942775263",
+      "sourceSha256": "0d9cf3321dc2ed38350b8e36227aa43ae837046ac6b098070802a26b49f2262e"
+    },
+    "22": {
+      "cgPath": "9:story_img_10104021",
+      "available": true,
+      "url": "images-story-effects/story_img_10104021.png",
+      "width": 1368,
+      "height": 2048,
+      "sha256": "85883948a7d97fddcb5709d4891183c8c667a53c245a110da1266b313ff92522",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\5b\\5bf53a8dedd2be7386d0279ac9d5d153\\__data",
+      "sourceObject": "CAB-5e2d6d6408886db38b862c422e84e33c:-4783162841115594521",
+      "sourceSha256": "605e55da9b697669bbe6dd49b058888edd5a19be8a3ba15db25a10df28e0d410"
+    },
+    "23": {
+      "cgPath": "9:story_img_10106121",
+      "available": true,
+      "url": "images-story-effects/story_img_10106121.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "e61b3bb3318b0bce0cafb46957e61886c9228d077cdb9d8e1f862a5218469848",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\71\\7187aaf6a4e1526a028c2ac6a8946013\\__data",
+      "sourceObject": "CAB-a47b403fb6152b45a58c609fe74f3bc3:-3090162035302070388",
+      "sourceSha256": "fb6f1de85b3f06a5667bdb2a9ad3f410436e56589e2258d0a1c592eb85625dcc"
+    },
+    "24": {
+      "cgPath": "9:story_img_10111031",
+      "available": true,
+      "url": "images-story-effects/story_img_10111031.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "ba3b3ac0183ee8ab286b72abf8a71faf3f3d1be901fa12091ea721ca37b0cb54",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\ef\\efde4a2099ee53449faf987ec7aa9e2c\\__data",
+      "sourceObject": "CAB-e1ef7a8974f30f06f05854369d1abffc:-1310093577176819077",
+      "sourceSha256": "0cbbfffed40c5f9d3ee6034be5b0b47fefcb5a38f27ba8251eeff19822924450"
+    },
+    "25": {
+      "cgPath": "9:story_img_10112141",
+      "available": true,
+      "url": "images-story-effects/story_img_10112141.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "3e4a16ae533679897d7ff3fe00018035c3b1bf78b0a0daaa73658b269151d9e5",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\14\\14983a74ed252a80e718f384562f2c78\\__data",
+      "sourceObject": "CAB-a18ec371ee960166a3fca38a3232535d:4916173112030132267",
+      "sourceSha256": "a421b071b4685dea3061915175904f8af5d685f36219d31f082dd326d8be0d00"
+    },
+    "26": {
+      "cgPath": "9:story_img_10112142",
+      "available": true,
+      "url": "images-story-effects/story_img_10112142.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "702caab393756a543058077740c196d9403899172db0ef61f4bfd2abdec09620",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\55\\55387d405c9e0161a6f085ccbcaeac85\\__data",
+      "sourceObject": "CAB-f74af719d7e27745679154e816f47109:-1358288347021675004",
+      "sourceSha256": "4d421a87aab38f4af5ae30ac4f94752dc6e5592b9fff22d68e6f30093cfed027"
+    },
+    "27": {
+      "cgPath": "9:story_img_10112143",
+      "available": true,
+      "url": "images-story-effects/story_img_10112143.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "1a15bd20cf717ab95b51dd5e26ed6186c0d3836b6cc703a1c96a5dbd1df0f34f",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\66\\669fa89d72ab0ba9a2e44b1045d80f5b\\__data",
+      "sourceObject": "CAB-cd74b6b158fc740ce82b5a73e876af76:-3976729508050219224",
+      "sourceSha256": "bff3cf75c48fe3eef37002a410ae9f9f3907e92525ab622c1c84ae54308cecaa"
+    },
+    "28": {
+      "cgPath": "9:event_img_1090101",
+      "available": true,
+      "url": "images-story-effects/event_img_1090101.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "67478f06913e27f969e0f837e411ef2a1d263924f1614d812c8479bcab4e3f7e",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\d3\\d3ca0ccc5e6ef52c8a97a098fe41b0e5\\__data",
+      "sourceObject": "CAB-668a7b455932dd260b1e1c740e7b3ac6:4658026530473593976",
+      "sourceSha256": "d41dc1642692ab04497bc0c04dad3d54ee85d843b189ae1d44544379c2e3e950"
+    },
+    "29": {
+      "cgPath": "9:story_img_10171111",
+      "available": true,
+      "url": "images-story-effects/story_img_10171111.png",
+      "width": 528,
+      "height": 748,
+      "sha256": "2587736af55162aabf78b1d495130bb56c7cc8f5e636ff1d8ccf04747bda0433",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\69\\69316ca4cae5df759a62fdb2b522e6a9\\__data",
+      "sourceObject": "CAB-177b38b044eccf4c019f66c917f18340:-5222995932289140794",
+      "sourceSha256": "e4136ef8f5b730cebc0aeb8a433ad5e6456ca4afa0fef198a19611705b5bb7e6"
+    }
+  },
+  "bg": {
+    "1": {
+      "bgPath": "58:story_bg_9900001",
+      "available": true,
+      "url": "images-story-effects/story_bg_9900001.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "3703cd64619c857d5f2b80de1a4584500a3e8a1f3126394822e2448a346a3192",
+      "source": "apk:assets/Bundles/Android/Base/049816691c92bd391e103720e8c8056a.bytes",
+      "sourceObject": "CAB-aa0533d61211b3e995105eb86a6740fb:5538740748309128045",
+      "sourceSha256": "38790e2ffe2c0e629ec2407b219a5b5529e114d84ef7a26a22fdf928a44c8fd5"
+    }
+  },
+  "sounds": {
+    "1": {
+      "id": 1,
+      "soundPath": "Sound/Bgm/bgm_background.mp3",
+      "soundType": 2,
+      "available": true,
+      "url": "audio-story/bgm_background.flac",
+      "duration": 104.75102233886719,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "fc093567695e41e4eb71bb60f02a39cb2f2499c5d5f6cd7ff5e27b9367f4c6be",
+      "decodedWavSha256": "dede6135f487fbabc378492bc7cc1ff486e033909f905ecbda6206d556e8b89d",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/a36cb70fba812aee6b9b3bb3c63bc23f.bytes",
+      "sourceSha256": "3fe27379b1be38e308961267b2dd622b225dded888f1b43677da4055e0dbf626"
+    },
+    "20": {
+      "id": 20,
+      "soundPath": "Sound/SfxExp.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/SfxExp.flac",
+      "duration": 1.4870975017547607,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "064347cade6cb5b52ce5db782d89c3b8adb385f73fb05f8a8ae44362102ff7d1",
+      "decodedWavSha256": "6404501e3e20f6fe7092b96fbd3bc3d0199a6a0bcffdf7695f2cdbdd10db0366",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/a9f2f82ba1bb52a11530ef8ca13e1327.bytes",
+      "sourceSha256": "fb5dbbb7e0dbdc6f886659cc0043a8f4d92ccb0d18ce75a18d5355aa9c1805af"
+    },
+    "21": {
+      "id": 21,
+      "soundPath": "Sound/SfxDecoration.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/SfxDecoration.flac",
+      "duration": 1.6608163118362427,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "34683e20502f0d3a8c33cacd1094fe09495fd5bf840ce00415c9de88f6c77c85",
+      "decodedWavSha256": "28caeaa038b01ba86ffea71e86381df7528a3dda7f9dff2b24b8cede8e389441",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/b240de3f0d47bbbf905b3e058ffb7c40.bytes",
+      "sourceSha256": "beb1a9614d7d0af87ec4e38fddb3c4d66a0400f447bcc2f721be88287590c7ac"
+    },
+    "22": {
+      "id": 22,
+      "soundPath": "Sound/SfxStar.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/SfxStar.flac",
+      "duration": 2.3581178188323975,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "bebfff545b04cb331d58e2d96f6bbc2cef6e0b5a16d5f7f20faaaab142cf72ef",
+      "decodedWavSha256": "6d58d197b30488662602cd1aeb351cfb8438d05e1b9452b8d79b18453c7468c8",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/f9f985259625f4002d9a0250076cd9ef.bytes",
+      "sourceSha256": "b87ec1f231f4404be30cf6e3c9d31936c4ab6e0fb01b25e7a529fe4e1dcc66df"
+    },
+    "27": {
+      "id": 27,
+      "soundPath": "Sound/SfxClean.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/SfxClean.flac",
+      "duration": 2.1367573738098145,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "b2b4529c70f98abfe587c783203f549843a2c52c4e80b51dc9fc4105bf35ec7b",
+      "decodedWavSha256": "d682b1d9dcf2b7fe424ab9791fbba001d662c23e934872760dab066b4c739deb",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/479b3bed602dd587b85d2e4648ba1cb2.bytes",
+      "sourceSha256": "96baa51ba39d6e3477cf7337879cbacf291b3fddeffc6f154022b44d9bdeb7e9"
+    },
+    "74": {
+      "id": 74,
+      "soundPath": "Sound/Bgm/bgm_suspense.mp3",
+      "soundType": 2,
+      "available": true,
+      "url": "audio-story/bgm_suspense.flac",
+      "duration": 26.23200035095215,
+      "channels": 1,
+      "frequency": 48000,
+      "sha256": "8b2865af4769c93f3a1b4c724a1e07d5f57c65eb7697027093c950a6baf555cc",
+      "decodedWavSha256": "b0f88374d00617176cf79d0c3c6c3efeb8e22fc4c82dd05f41bd446277d5b023",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/64c3cb5cb12b7cf7bf4e33f8e2c687a4.bytes",
+      "sourceSha256": "e976a044c5c53111b07208a61ef42faefc83596c2e7b133a88be99696ca18bf7"
+    },
+    "75": {
+      "id": 75,
+      "soundPath": "Sound/sfx_fire_clean.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/sfx_fire_clean.flac",
+      "duration": 1.869070291519165,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "66aaf8a7d30baeb4b2ed17ced697dbdda9f4e2ab59d180b856c28e0f4a6b40ac",
+      "decodedWavSha256": "7d3bca450e6baf2a7942d70a46425386992f37415d513e0f955652289855992b",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/4d2c99c331d8be4fc35f3df749d77576.bytes",
+      "sourceSha256": "20f0a744c22bf9626c2214e7af3a895468cbb7b31db707dd1cd6ddc6a5f0193e"
+    },
+    "76": {
+      "id": 76,
+      "soundPath": "Sound/sfx_wind_clean.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/sfx_wind_clean.flac",
+      "duration": 2.492086172103882,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "7aace1f8162be6c3487768d3dc76ac8416a2793dd669faaabb003fd122ecf6c0",
+      "decodedWavSha256": "7d65941f60a63e1222a08d77c83fa36abc39f4afabd8f5923596ced530238472",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/ff13d364074b723f8f2772ddd1f6b937.bytes",
+      "sourceSha256": "95dca1b1af3051bc2e562573dff15e4ec27836c0f17c4d59756ef235fc18404c"
+    },
+    "77": {
+      "id": 77,
+      "soundPath": "Sound/sfx_star_clean.wav",
+      "soundType": 1,
+      "available": true,
+      "url": "audio-story/sfx_star_clean.flac",
+      "duration": 1.815691590309143,
+      "channels": 1,
+      "frequency": 44100,
+      "sha256": "83409f2b2e2ef923b89e26ad034f92f0bf2ccbbd14334554d5ebaa9d35047698",
+      "decodedWavSha256": "66c794b4d2f9847634412bb3ec2744668dace2832069f0fbc4674c4e5d5c6d31",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/c878c74c380bd8f5f6998479a02c9594.bytes",
+      "sourceSha256": "0019132f25017ce1567c4b7aa7ff4edf60358e876589f128cd409d6459547efb"
+    },
+    "110": {
+      "id": 110,
+      "soundPath": "Sound/Bgm/sfxGrief_bgm.wav",
+      "soundType": 2,
+      "available": true,
+      "url": "audio-story/sfxGrief_bgm.flac",
+      "duration": 16.326520919799805,
+      "channels": 1,
+      "frequency": 48000,
+      "sha256": "056246fa01772660d028eec5808da736eeb9cb48419c8cd3b420ea022f9903a8",
+      "decodedWavSha256": "fda4ab018d84f3d699ab7ef30d4001f015b93333a4046e8ec1818935373eae47",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/dfe5357fce89ce11214b283a09e8d00f.bytes",
+      "sourceSha256": "19409493139a12b782828a82c32980417430c80ed78bc7399cb6fbede5b17241"
+    },
+    "111": {
+      "id": 111,
+      "soundPath": "Sound/Bgm/sfxJoy_bgm.wav",
+      "soundType": 2,
+      "available": true,
+      "url": "audio-story/sfxJoy_bgm.flac",
+      "duration": 28.551834106445312,
+      "channels": 1,
+      "frequency": 48000,
+      "sha256": "1ed97ffeb32b30be04e81e6c617cb0d0e91fcd5fc5a7aa0c56535d721d7934da",
+      "decodedWavSha256": "1351dd589956efb0c1429f0f3557e16f2c4be581bbfa1eec17596115aa0071fc",
+      "encoding": "lossless FLAC of original decoded Unity AudioClip PCM",
+      "source": "apk:assets/Bundles/Android/Base/f5afcc37e492ba78109e9709d8a426da.bytes",
+      "sourceSha256": "1a247778f261e482579f4ae399e926923ba7e67d48449cc0c3ebf6e0933d0c6b"
+    }
+  },
+  "fx": {
+    "1": {
+      "id": 1,
+      "desc": "耳光",
+      "fxPath": "31:slap",
+      "fxDuration": 0.5,
+      "fxType": 2,
+      "status": 1,
+      "available": true,
+      "searchedBundles": 14559,
+      "skeletonData": {
+        "scale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224
+      },
+      "binaryUrl": "story-fx/hit.skel",
+      "atlasUrl": "story-fx/hit.atlas",
+      "animation": "animation",
+      "loop": false,
+      "timeScale": 1,
+      "background": {
+        "color": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "fadeIn": 0.1,
+        "fadeOutDelay": 0.3,
+        "fadeOut": 0.1,
+        "easing": "linear"
+      },
+      "sourcePath": "Spines/FXPrefab/slap.prefab",
+      "sources": [
+        "apk:assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+        "apk:assets/Bundles/Android/Base/ea6d1964f474bb442b27d6d5506f9748.bytes",
+        "apk:assets/Bundles/Android/Base/bc98ef89894b0e61f74e96dd0844eebc.bytes",
+        "apk:assets/Bundles/Android/Base/73012984a669febc9e8ed95421d8114f.bytes",
+        "C:\\dev\\mhxcz-analysis\\downloaded\\4c\\4c63b226b3a29473be718952e5208489\\__data",
+        "C:\\dev\\mhxcz-analysis\\downloaded\\fc\\fc0ef2d9f95e209e9ef925f40cd0a32f\\__data",
+        "C:\\dev\\mhxcz-analysis\\downloaded\\f1\\f18c4e02f3fc72d9feed00fd8dd01d3e\\__data"
+      ],
+      "files": {
+        "hit.skel": "048eef8a65b22d9ca1858ced5662e6ea796ee9bd3d4ebc4edb6659183606092e",
+        "hit.atlas": "5008475771eb2b6e6a31a01f52146872cf1f573ced1116940867eb494d74b5a3",
+        "hit.png": "4baa5003d9851aa5ef98aebc060692ba1dcfe9628a54114d14cc78384b6610e8"
+      },
+      "profile": {
+        "duration": 0.30000001192092896,
+        "viewport": {
+          "x": -937.2355104127848,
+          "y": -164.06824204604072,
+          "width": 1854.953677786202,
+          "height": 523.2442721780188,
+          "padLeft": 0,
+          "padRight": 0,
+          "padTop": 0,
+          "padBottom": 0
+        }
+      }
+    }
+  },
+  "memory": {
+    "shaderSourceObject": "globalgamemanagers.assets:15",
+    "shaderUrl": "shaders-story/ColorOverlay.glsl",
+    "shaderSha256": "415956a1bc1dc32d8d54f93c6c2c0e2258fc385351e9edbcf00017c7f66995e6",
+    "platform": 9,
+    "overlayColor": [
+      0.9607843160629272,
+      0.886274516582489,
+      0.7568627595901489,
+      1.0
+    ],
+    "intensity": 1.0,
+    "desaturation": 1.0,
+    "luminance": [
+      0.298999995,
+      0.587000012,
+      0.114
+    ],
+    "sourceObject": "globalgamemanagers.assets:3187",
+    "serializedBytesSha256": "e8cf15edb726427737e3f3242106982afc4000e735b1b79337a54a232fd30354",
+    "serializedOffsets": {
+      "active": 52,
+      "overlayColor": 56,
+      "intensity": 72,
+      "desaturation": 76
+    },
+    "formula": "gray=dot(rgb,luminance); desaturated=mix(rgb,gray,desaturation); out=mix(desaturated,desaturated*overlayColor.rgb,intensity); alpha unchanged",
+    "cameraEvidence": "ColorOverlayFeature.AddRenderPasses requires the rendering camera ColorOverlaySettings.enableColorOverlay; PlotDialogue.PlotUICamera carries it",
+    "browserColorSpace": "sRGB DOM framebuffer; exact recovered shader coefficients; Unity render-target transfer is not independently reproduced"
+  },
+  "sources": [
+    {
+      "source": [
+        "assets/bin/Data/globalgamemanagers.assets.split0",
+        "assets/bin/Data/globalgamemanagers.assets.split1"
+      ],
+      "sha256": "142d8d8bbcc06d31c1dca9eeb0ecc86e0ce38418cc0e605a1eba62824a23be4d"
+    }
+  ],
+  "catalog": {
+    "version": "1.4.93.1",
+    "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+    "source": "Original public endpoints read from APK UpdateSetting; files verified against the APK-matched catalog MD5 and size; no URLs or credentials serialized"
+  },
+  "luaEvidence": [
+    {
+      "module": "Game/Plot/Effect/Scripts/CG.lua",
+      "sha256": "a12025c1b83ecad3a5c75ecb5cd2fc1c4ef9c71e38bc5ca176d0ac74d2661b2c"
+    },
+    {
+      "module": "Game/Plot/Effect/Scripts/Memory.lua",
+      "sha256": "d7a11dbc1f16901f20a9af9e769d7f3a072e901a226c4252a9d1d109cf9a1985"
+    },
+    {
+      "module": "Game/Plot/Effect/Scripts/SpineFx.lua",
+      "sha256": "b7e5c601c2b8ab552a97860f5e87b5771429cd6dcda71019eb8b90fb3af3f2f1"
+    },
+    {
+      "module": "Game/Plot/Effect/Scripts/BlackFadeOut.lua",
+      "sha256": "ea36bbe087d4ed20be12e7dbbb98310844cc47f6eb594383b5a7f7cf186fd0c5"
+    },
+    {
+      "module": "Game/Plot/Effect/Scripts/BlackFadeIn.lua",
+      "sha256": "bcc2abca0300656b65a6a44e83dc92c2759a8a3bafbabbfe2635a7194c580e6b"
+    },
+    {
+      "module": "Game/Res/ResUtil.lua",
+      "sha256": "8e5f8d9a889a487b5b8cef839d963ca21cd73fc1a5fbe16e6fe9240a75576202"
+    }
+  ],
+  "cgRules": {
+    "openFadeSeconds": 0.5,
+    "openWaitSeconds": 1,
+    "closeFadeSeconds": 0.5,
+    "closeWaitSeconds": 0.5,
+    "nativeSize": true,
+    "sourceScale": [
+      2,
+      2
+    ],
+    "sourcePosition": [
+      0,
+      195
+    ]
+  },
+  "bgmRules": {
+    "fadeOutSeconds": 1,
+    "fadeInSeconds": 1,
+    "targetVolume": 1,
+    "defaultBgmId": 1,
+    "source": "GameUtils.CrossFadeBgMusic and PlayBgMusicWithFadeIn/Out; same refId is not restarted"
+  },
+  "failureEvidence": {
+    "image": "ResourceExtComponent.OnLoadAssetFailure 0x319ba74 only removes the request and logs; RawImageAlterable OnFinish is not invoked. CG/BG source waits on that callback.",
+    "prefab": "ResUtil.AsyncLoadGameObject returns when missing; SpineFx still waits fxDuration."
+  }
+}

@@ -1,0 +1,8 @@
+id	suitId	sort	icon	Img	status	name	name_zh_CN
+int	int	int	int	int	int	int	int
+1	1	1	69:build_img_suit_s_1	69:build_img_suit_l_1	1	竹风茶韵	竹风茶韵
+2	2	2	69:build_img_suit_s_3	69:build_img_suit_l_3	1	绿蔓闲庭	绿蔓闲庭
+3	3	3	69:build_img_suit_s_2	69:build_img_suit_l_2	1	鹤鸣云阁	鹤鸣云阁
+4	4	4	69:build_img_suit_s_4	69:build_img_suit_l_4	1	枫染秋轩	枫染秋轩
+5	5	5	69:build_img_suit_s_5	69:build_img_suit_l_5	1	藤花小筑	藤花小筑
+6	6	6	69:build_img_suit_s_6	69:build_img_suit_l_6	1	永安雅居	永安雅居

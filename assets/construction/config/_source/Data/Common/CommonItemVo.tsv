@@ -1,0 +1,4 @@
+id	type	photoId	photoIdSmall	status	name	name_zh_CN	desc	desc_zh_CN
+int	int	int	int	int	int	int	int	int
+131	4	2:goods_icon_131	2:goods_icon_131_s	1	装饰券	装饰券	获取途径：1111	获取途径：1111
+132	4	2:goods_icon_132		1	抖极金币	抖极金币	获取途径：1111	获取途径：1111

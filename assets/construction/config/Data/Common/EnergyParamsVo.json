@@ -1,0 +1,68 @@
+{
+  "source": "assets/SettingV2/Data/Common/EnergyParamsVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "num",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 10,
+  "tsvSha256": "4bb3eb3a881bca75d29fc3f94e1b319c841227a215b8337c3104b4951c4b4581",
+  "rows": [
+    {
+      "id": 1,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "num": 100,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "num": 1000000,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "num": 120,
+      "status": 1
+    },
+    {
+      "id": 5,
+      "num": 100,
+      "status": 1
+    },
+    {
+      "id": 6,
+      "num": 103,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "num": "10;20;40;80;160;160",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "num": 15,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "num": 100,
+      "status": 1
+    }
+  ]
+}

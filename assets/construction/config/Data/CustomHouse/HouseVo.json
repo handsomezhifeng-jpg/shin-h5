@@ -1,0 +1,68 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "icon",
+    "camRange",
+    "unlockType",
+    "unlockNum",
+    "status",
+    "name",
+    "name_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 4,
+  "tsvSha256": "a3b9e081862df0242a80224945f8b399b211dd139636105de5e91646c00f89e1",
+  "rows": [
+    {
+      "id": 6101001,
+      "icon": "56:build_room_img_type_6101001",
+      "camRange": "-10,-10;10,10",
+      "unlockType": "",
+      "unlockNum": "",
+      "status": 1,
+      "name": "朴素小屋",
+      "name_zh_CN": "朴素小屋"
+    },
+    {
+      "id": 6101002,
+      "icon": "56:build_room_img_type_6101002",
+      "camRange": "-10,-10;10,10",
+      "unlockType": 9,
+      "unlockNum": 100,
+      "status": 1,
+      "name": "温馨小屋",
+      "name_zh_CN": "温馨小屋"
+    },
+    {
+      "id": 6101003,
+      "icon": "56:build_room_img_type_6101003",
+      "camRange": "-10,-10;10,10",
+      "unlockType": 9,
+      "unlockNum": 240,
+      "status": 1,
+      "name": "田园雅居",
+      "name_zh_CN": "田园雅居"
+    },
+    {
+      "id": 6101004,
+      "icon": "56:build_room_img_type_6101004",
+      "camRange": "-10,-12;10,10",
+      "unlockType": 9,
+      "unlockNum": 280,
+      "status": 1,
+      "name": "清宁小楼",
+      "name_zh_CN": "清宁小楼"
+    }
+  ]
+}

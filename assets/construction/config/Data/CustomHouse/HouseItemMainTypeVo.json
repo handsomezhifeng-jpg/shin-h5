@@ -1,0 +1,56 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseItemMainTypeVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "index",
+    "icon",
+    "status",
+    "name",
+    "name_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 4,
+  "tsvSha256": "f40215f0dafac8ba002dc12b8a6cf61b9eb7b8af625026f18021aaea80058ae7",
+  "rows": [
+    {
+      "id": 1,
+      "index": 1,
+      "icon": "52:build_icon_first_tab_1",
+      "status": 1,
+      "name": "家具",
+      "name_zh_CN": "家具"
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "icon": "52:build_icon_first_tab_2",
+      "status": 1,
+      "name": "墙面",
+      "name_zh_CN": "墙面"
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "icon": "52:build_icon_first_tab_3",
+      "status": 1,
+      "name": "地面",
+      "name_zh_CN": "地面"
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "icon": "52:build_icon_first_tab_4",
+      "status": 1,
+      "name": "装修",
+      "name_zh_CN": "装修"
+    }
+  ]
+}

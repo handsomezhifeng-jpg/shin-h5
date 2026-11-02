@@ -1,0 +1,14 @@
+// MapInputMgr0.2s gesture gate; UIUnitLongTapNode1.5s fill then direct SwitchUnit.
+import{ConstructionUnityUI}from './construction-unity-ui.mjs';
+const ROOT=new URL('../assets/construction/',import.meta.url).href;
+export async function loadConstructionLongTapUI({ui}={}){
+ const r=await fetch(ROOT+'story-ui.json');if(!r.ok)throw Error('原长按装修进度圈读取失败');const source=await r.json(),base=ui?.data||ui||{},data={...source,sprites:structuredClone({...base.sprites,...source.sprites})};for(const s of Object.values(data.sprites))if(!/^(?:https?:|data:|blob:)/.test(s.url))s.url=new URL('../'+s.url,import.meta.url).href;const renderer=new ConstructionUnityUI(data),handles=new Set();
+ function mountLongTap(layer,{unitId,x,y,pixelsPerUnit=100,onDecorate,signal,unitScale=750/1440}={}){
+  if(!Number.isFinite(x)||!Number.isFinite(y))throw Error('原装修进度圈需要屏幕触点坐标');const view=renderer.create('TransitionDecorationConfirm',{width:270,height:240});view.el.style.transform=`scale(${unitScale})`;view.el.style.left=(x-135*unitScale)+'px';view.el.style.top=(y-.5*pixelsPerUnit-120*unitScale)+'px';view.el.style.zIndex='55';view.el.dataset.nativeLongtap=String(unitId);view.show('Root/Choose',false);view.show('Root/Progress',true);view.el.style.pointerEvents='none';layer.append(view.el);const fill=view.find('Root/Progress/Slider/ImgFill'),graphic=fill.querySelector(':scope > .construction-unity-image'),fields=fill.source.components.find(c=>c.script==='Image').fields,start=performance.now(),origin=({0:180,1:90,2:0,3:270})[fields.m_FillOrigin],duration=1.5;let done=false,raf=0,resolve;const promise=new Promise(r=>resolve=r);
+  function finish(completed){if(done)return;done=true;cancelAnimationFrame(raf);view.el.remove();handles.delete(handle);signal?.removeEventListener('abort',release);resolve({completed,unitId,duration,cancelled:!completed});if(completed)onDecorate?.(unitId);}
+  function release(){finish(false);}
+  const handle={el:view.el,view,promise,release,dispose:release};handles.add(handle);signal?.addEventListener('abort',release,{once:true});if(signal?.aborted){release();return handle;}
+  function tick(now){if(done)return;const fraction=Math.max(0,Math.min(1,(now-start)/1000/duration));graphic.style.maskImage=`conic-gradient(from ${origin}deg,black 0deg ${fraction*360}deg,transparent ${fraction*360}deg 360deg)`;view.el.dataset.progress=fraction;if(fraction<1)raf=requestAnimationFrame(tick);else finish(true);}raf=requestAnimationFrame(tick);return handle;
+ }
+ return{gestureStartSeconds:.2,fillSeconds:1.5,stationaryTolerancePixels:15,mountLongTap,dispose(){for(const h of [...handles])h.dispose();},source:{lua:'Game/UI/HeadTop/Unit/Node/UIUnitLongTapNode.lua:44',follow:'Game/UI/HeadTop/Unit/UIUnitRoot.lua:76',offsetWorldY:.5,unusedPrefabBranch:'Root/Choose is not used by this Lua class.'}};
+}

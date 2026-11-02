@@ -1,0 +1,24 @@
+{
+  "role": "npc_1016",
+  "animation": "normal",
+  "sourceDuration": 3.3333334922790527,
+  "runtime": "bundled spine40; original skeleton/atlas/animation interpolation",
+  "checks": {
+    "elapsedWallMs": 350,
+    "trackAdvanceMs": 342.00000762939453,
+    "poseAt0Vs1_5Different": true,
+    "repeatedMountSamePlayer": true,
+    "activePortraitPlayers": 1,
+    "removedParentHandles": 0,
+    "removedParentRAF": 0,
+    "originalPlayerDisposed": true,
+    "browserErrors": []
+  },
+  "offlineAudit": {
+    "samples": 100,
+    "uniqueDecodedFrames": 100,
+    "fpsSampling": 30,
+    "runtimeDependency": false
+  },
+  "sceneNPCPlacement": "unresolved: original role-to-point binding and root scale are not recovered"
+}

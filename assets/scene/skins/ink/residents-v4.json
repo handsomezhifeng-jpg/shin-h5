@@ -1,0 +1,624 @@
+{
+  "version": 4,
+  "generator": "built-in image_gen",
+  "reference": "source-master.png",
+  "atlases": {
+    "sweeper": {
+      "url": "residents-sweeper-v4.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "columns": 4,
+      "rows": 2,
+      "frames": [
+        {
+          "crop": [
+            38,
+            50,
+            311,
+            413
+          ],
+          "anchor": [
+            155.0,
+            409
+          ],
+          "bodyHeight": 406,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "crop": [
+            479,
+            37,
+            220,
+            438
+          ],
+          "anchor": [
+            109.0,
+            435
+          ],
+          "bodyHeight": 432,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "crop": [
+            826,
+            49,
+            310,
+            407
+          ],
+          "anchor": [
+            160.0,
+            404
+          ],
+          "bodyHeight": 401,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "crop": [
+            1246,
+            37,
+            232,
+            439
+          ],
+          "anchor": [
+            115.5,
+            435
+          ],
+          "bodyHeight": 432,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "crop": [
+            107,
+            549,
+            248,
+            421
+          ],
+          "anchor": [
+            95.5,
+            418
+          ],
+          "bodyHeight": 415,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "crop": [
+            472,
+            550,
+            241,
+            420
+          ],
+          "anchor": [
+            130.5,
+            417
+          ],
+          "bodyHeight": 414,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "crop": [
+            835,
+            534,
+            248,
+            436
+          ],
+          "anchor": [
+            148.0,
+            433
+          ],
+          "bodyHeight": 430,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "crop": [
+            1229,
+            531,
+            251,
+            443
+          ],
+          "anchor": [
+            98.5,
+            440
+          ],
+          "bodyHeight": 437,
+          "row": 1,
+          "column": 3
+        }
+      ],
+      "sha256": "136293a58bb5249d7570a31320298ea60f09ec0d5e5ea9495db86573075a8dca",
+      "sourceGeneration": "exec-f839fe94-7e27-4dda-b3de-468db89ea883.png",
+      "sourceSha256": "c0742ac50e683e79f7aafa90b128e4c6c7ab7969c326eac7541c18d766ef40b8",
+      "transparentFraction": 0.653906504313151
+    },
+    "customers": {
+      "url": "residents-customers-v4.webp",
+      "size": [
+        1774,
+        887
+      ],
+      "columns": 6,
+      "rows": 3,
+      "frames": [
+        {
+          "crop": [
+            78,
+            34,
+            143,
+            264
+          ],
+          "anchor": [
+            77.0,
+            261
+          ],
+          "bodyHeight": 258,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "crop": [
+            377,
+            33,
+            151,
+            265
+          ],
+          "anchor": [
+            84.5,
+            262
+          ],
+          "bodyHeight": 259,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "crop": [
+            676,
+            34,
+            156,
+            264
+          ],
+          "anchor": [
+            64.5,
+            261
+          ],
+          "bodyHeight": 258,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "crop": [
+            954,
+            36,
+            194,
+            263
+          ],
+          "anchor": [
+            76.0,
+            260
+          ],
+          "bodyHeight": 257,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "crop": [
+            1253,
+            34,
+            170,
+            268
+          ],
+          "anchor": [
+            77.5,
+            265
+          ],
+          "bodyHeight": 262,
+          "row": 0,
+          "column": 4
+        },
+        {
+          "crop": [
+            1573,
+            32,
+            152,
+            271
+          ],
+          "anchor": [
+            72.5,
+            268
+          ],
+          "bodyHeight": 265,
+          "row": 0,
+          "column": 5
+        },
+        {
+          "crop": [
+            78,
+            314,
+            145,
+            263
+          ],
+          "anchor": [
+            77.0,
+            260
+          ],
+          "bodyHeight": 257,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "crop": [
+            377,
+            312,
+            154,
+            265
+          ],
+          "anchor": [
+            86.0,
+            262
+          ],
+          "bodyHeight": 259,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "crop": [
+            666,
+            313,
+            163,
+            264
+          ],
+          "anchor": [
+            66.5,
+            261
+          ],
+          "bodyHeight": 258,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "crop": [
+            954,
+            316,
+            193,
+            262
+          ],
+          "anchor": [
+            76.5,
+            259
+          ],
+          "bodyHeight": 256,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "crop": [
+            1254,
+            312,
+            170,
+            270
+          ],
+          "anchor": [
+            79.0,
+            267
+          ],
+          "bodyHeight": 264,
+          "row": 1,
+          "column": 4
+        },
+        {
+          "crop": [
+            1568,
+            313,
+            156,
+            270
+          ],
+          "anchor": [
+            75.5,
+            267
+          ],
+          "bodyHeight": 264,
+          "row": 1,
+          "column": 5
+        },
+        {
+          "crop": [
+            78,
+            589,
+            144,
+            266
+          ],
+          "anchor": [
+            77.0,
+            263
+          ],
+          "bodyHeight": 260,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "crop": [
+            376,
+            589,
+            156,
+            267
+          ],
+          "anchor": [
+            87.0,
+            263
+          ],
+          "bodyHeight": 260,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "crop": [
+            671,
+            590,
+            160,
+            265
+          ],
+          "anchor": [
+            66.5,
+            262
+          ],
+          "bodyHeight": 259,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "crop": [
+            953,
+            592,
+            195,
+            265
+          ],
+          "anchor": [
+            78.0,
+            261
+          ],
+          "bodyHeight": 258,
+          "row": 2,
+          "column": 3
+        },
+        {
+          "crop": [
+            1252,
+            588,
+            175,
+            272
+          ],
+          "anchor": [
+            81.5,
+            269
+          ],
+          "bodyHeight": 266,
+          "row": 2,
+          "column": 4
+        },
+        {
+          "crop": [
+            1562,
+            590,
+            162,
+            271
+          ],
+          "anchor": [
+            79.5,
+            268
+          ],
+          "bodyHeight": 265,
+          "row": 2,
+          "column": 5
+        }
+      ],
+      "sha256": "c402117381f93577863f26c4cbd1ba558049dc1b82f0bbc9c2d2f350bce13393",
+      "sourceGeneration": "exec-356ab6dc-32b8-4144-8e86-d3e1505f3195.png",
+      "sourceSha256": "cb1bcb4da664c080e9739cc76fbd3683849811d5d707daae00b5a7327f2312d9",
+      "transparentFraction": 0.6510659418457005
+    },
+    "vendors": {
+      "url": "residents-vendors-v4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "columns": 3,
+      "rows": 4,
+      "frames": [
+        {
+          "crop": [
+            70,
+            47,
+            228,
+            361
+          ],
+          "anchor": [
+            127.0,
+            358
+          ],
+          "bodyHeight": 355,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "crop": [
+            404,
+            44,
+            224,
+            364
+          ],
+          "anchor": [
+            110.5,
+            361
+          ],
+          "bodyHeight": 358,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "crop": [
+            708,
+            47,
+            271,
+            361
+          ],
+          "anchor": [
+            118.5,
+            358
+          ],
+          "bodyHeight": 355,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "crop": [
+            66,
+            436,
+            236,
+            335
+          ],
+          "anchor": [
+            131.0,
+            332
+          ],
+          "bodyHeight": 329,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "crop": [
+            403,
+            439,
+            231,
+            333
+          ],
+          "anchor": [
+            115.0,
+            330
+          ],
+          "bodyHeight": 327,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "crop": [
+            701,
+            438,
+            283,
+            330
+          ],
+          "anchor": [
+            149.5,
+            327
+          ],
+          "bodyHeight": 324,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "crop": [
+            44,
+            800,
+            258,
+            328
+          ],
+          "anchor": [
+            157.5,
+            325
+          ],
+          "bodyHeight": 322,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "crop": [
+            404,
+            797,
+            267,
+            332
+          ],
+          "anchor": [
+            114.5,
+            328
+          ],
+          "bodyHeight": 325,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "crop": [
+            702,
+            799,
+            306,
+            327
+          ],
+          "anchor": [
+            142.5,
+            324
+          ],
+          "bodyHeight": 321,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "crop": [
+            13,
+            1146,
+            324,
+            333
+          ],
+          "anchor": [
+            178.5,
+            329
+          ],
+          "bodyHeight": 326,
+          "row": 3,
+          "column": 0
+        },
+        {
+          "crop": [
+            345,
+            1148,
+            336,
+            332
+          ],
+          "anchor": [
+            180.5,
+            329
+          ],
+          "bodyHeight": 326,
+          "row": 3,
+          "column": 1
+        },
+        {
+          "crop": [
+            691,
+            1151,
+            322,
+            328
+          ],
+          "anchor": [
+            146.5,
+            325
+          ],
+          "bodyHeight": 322,
+          "row": 3,
+          "column": 2
+        }
+      ],
+      "sha256": "f62f26c1f909f87feaa96405c839a56a4163a9609ebe38fe7c87d207714da30c",
+      "sourceGeneration": "exec-3ad505f6-7359-4785-8881-2bb0ad1f8629.png",
+      "sourceSha256": "e8976fd79f6f4f58ea2100a5400f0c84e365a6f316bd4adefed31e38d1beed3d",
+      "transparentFraction": 0.5036818186442057
+    }
+  },
+  "animation": "src/ink-resident-rules.mjs",
+  "notes": "RGBA pixels retained exactly. Connected regions supply atlas coordinates only; no generated pixels repainted or removed."
+}

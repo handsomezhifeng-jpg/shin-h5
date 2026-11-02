@@ -1,0 +1,3090 @@
+{
+  "packs": [
+    {
+      "pack": "hammer.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\82\\827a4d8d32d44f74850011598613d3cd\\__data",
+      "sourceSha256": "adf2c93bfd9a62349078dd865ba2391eb4a867bcd7d413df1bbf0e6ab33ee042",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_hammer.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "share_assets_bundleresources_uianimation_map.bytes",
+            "md5": "a3b236a5266f5b8dbad10f4f9e5f9d34",
+            "size": 20647
+          },
+          {
+            "name": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bytes",
+            "md5": "8369ed4d5258984bec5cf982eb214401",
+            "size": 3470
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_hammer.bytes",
+            "md5": "827a4d8d32d44f74850011598613d3cd",
+            "size": 34243
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\82\\827a4d8d32d44f74850011598613d3cd\\__data",
+          "sha256": "adf2c93bfd9a62349078dd865ba2391eb4a867bcd7d413df1bbf0e6ab33ee042",
+          "md5": "827a4d8d32d44f74850011598613d3cd",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\a3\\a3b236a5266f5b8dbad10f4f9e5f9d34\\__data",
+          "sha256": "6c7ea4c7a5ef9c431ddc7eebb6c00725432f8ab74fa3a9d3363467c8e1d2b824",
+          "md5": "a3b236a5266f5b8dbad10f4f9e5f9d34",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/8369ed4d5258984bec5cf982eb214401.bytes",
+          "sha256": "650a82e5fb48081c8d5bebba60bdb297678ac7eef0abf2e831f260c3c12f5812",
+          "md5": "8369ed4d5258984bec5cf982eb214401",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 18,
+      "spriteRendererCount": 3,
+      "shaderNames": [
+        [
+          "Universal Render Pipeline/2D/Sprite-Unlit-Default",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4053925350041733874"
+        ],
+        [
+          "FTUI/UI_blend",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4580885078274345151"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_TextureSheet_Smoke_02-328fb06cd162.png",
+          "sha256": "f94d327c1740d79a911c8d501810cbc8d475b72f66a3895194246a0bedfce820"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_004-2c70b8e708ab.png",
+          "sha256": "c1d8cf7dbfc7730240aceae51f1544df6a53c59770f44d5a27ccebabd06647fe"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/Universal Render Pipeline-2D-Sprite-Unlit-Default-a89ed0cf842a-9-1.glsl",
+          "sha256": "6536101384b9c5e02fb1623644060e8e1fb1be0589ba4f940ff03cfe5019e0fb"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/Universal Render Pipeline-2D-Sprite-Unlit-Default-a89ed0cf842a-9-3.glsl",
+          "sha256": "654f3fbb53708773618401e15c259e0093c325f39239310241ef87cbb9492918"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-2.glsl",
+          "sha256": "e4780248bcfab3bbdf6182975d29306d139135d6463bfbacdefd584a1e9f8940"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-18.glsl",
+          "sha256": "6e8d452c3a37cf38d4bc1cfd44f352a746d62eae96e37d15051163fd8b7ee565"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-19.glsl",
+          "sha256": "ec69bf9f75c39a5b08fe3b88bd5e224c4911b24686f04a6ca7d216ddc5907a57"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-20.glsl",
+          "sha256": "2ace5c5d4911cb56a5db714610776c98a1547404d414037773051f3edb984100"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-22.glsl",
+          "sha256": "5e63414b425b40a3e21f0ce5433ecad9593f36cb5a4da4713257806c0e59e92c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-23.glsl",
+          "sha256": "e8a9995d762dcd94d9fc1ae1c965cebb1087145184ba79e8683c44d87b0c30ab"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-24.glsl",
+          "sha256": "4d3baf028b3f5072ae2585b426056eae983fafbe077de44279cc9d186a165fd8"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-26.glsl",
+          "sha256": "bd827d6299a276ded40463de37904987074141e97df554da99bb5180b8579297"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-27.glsl",
+          "sha256": "593dd48eef3eec51ac903fd7e9d640d7a4de9eb3a4de3c6f051d3fda3b5e4639"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-28.glsl",
+          "sha256": "ebffc2d35474c639ea87e2c51ce8423d7f7158e811bd97edd37448fa989a8524"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-30.glsl",
+          "sha256": "239bcb35bd07b235d17426af8f072bc5f383f0efde3cca6b1babba0fe66d9814"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-31.glsl",
+          "sha256": "42e391403a273e9e63263b7daff682152ad9431f9828708b97f4b826518ee3ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-32.glsl",
+          "sha256": "dde2745ab3dae318f12806d6fb990fb4ae7f907050ae24cf8bf17dcaaf2852d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-34.glsl",
+          "sha256": "4618e6b907c1364cf2525deadad02aaa8b077dafd53a3e044a5f13ee32a0ef35"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-35.glsl",
+          "sha256": "f133e4c2aed992d19c82f2e036c0ed4ba32a7ab78c03dec45c758c7912a8552c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-36.glsl",
+          "sha256": "7eb92d59a628df43a13b4a22452b6196726d6b3fb9bb68f5c02c43f64b57d06b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-38.glsl",
+          "sha256": "ea55f6b83db42574a2725ed4876bea2bb1cc41e5f4c75b0983951e477fbb48da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-39.glsl",
+          "sha256": "ba42234b2a9af5336cce5796e3aa9c9874643c00428a768e7df143a09d72ae6e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-40.glsl",
+          "sha256": "d58151b6a66672c6b473f12be61d34f2b4dde326f1376e8dde7ddbdade657ec3"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-42.glsl",
+          "sha256": "c47cac2442d37d71a3f3ee283dbe4365950866c816043cc822baa9d7768e13da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-43.glsl",
+          "sha256": "dd5a32d55c04f8ef5a79ec485ca70b65fc75697403d89280283fa2d69d47d057"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-44.glsl",
+          "sha256": "edc0ca07c8ae2528089a2be6c683df90ae9759417ab50e889c81c7b6a76587c6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-46.glsl",
+          "sha256": "66371450a98274ee24b3548bffae1318bf7fe06229f612c46a4c153ada5b3a33"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-47.glsl",
+          "sha256": "81cfca170cf35af1227f287a986a0feba4e57ead20fb8139c374551c17f93759"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    },
+    {
+      "pack": "newlook.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\00\\00f069d611047ecdf928e1f4aeda0f59\\__data",
+      "sourceSha256": "c4ddff572cfa513cb16245af00753c231c6af6ec8f88328cc35c4a6d89bd200d",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_newlook.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_newlook.bytes",
+            "md5": "00f069d611047ecdf928e1f4aeda0f59",
+            "size": 29758
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\00\\00f069d611047ecdf928e1f4aeda0f59\\__data",
+          "sha256": "c4ddff572cfa513cb16245af00753c231c6af6ec8f88328cc35c4a6d89bd200d",
+          "md5": "00f069d611047ecdf928e1f4aeda0f59",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 7,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_Universal _Additive",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:-5922528805807089069"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_017-a8fe7e83dbeb.png",
+          "sha256": "bf69ed46307379fe754c5f93ecd71c6e37595bab764275b14133f45cf59d7eda"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_006-ec80ec05ad7d.png",
+          "sha256": "85dc66f5373555a8524871458b8bb5f8e96b14332e8f665d4a3f8f1ad10b5d8e"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_007-1e9587e11654.png",
+          "sha256": "5618524621bc1d87a34b2749474c4792f132777990e2d28c0f4e59ea8bba42fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_002-729deda1a907.png",
+          "sha256": "e9f4c9987876bf3e199393d2412c5735be79835c99b23fa7af108fb64b137962"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_004-2c70b8e708ab.png",
+          "sha256": "c1d8cf7dbfc7730240aceae51f1544df6a53c59770f44d5a27ccebabd06647fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_006-463cd4dd23ef.png",
+          "sha256": "46dc7d907db046c1487204755d529255ea980a441d1780a8f93761df45ee853d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_Map_circle-3bee3ed0d666.png",
+          "sha256": "1691f549838896c82dafe6ec04aed2bdf1e33bf1cfd2369f4817acf0c4ebfec5"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_014-864df3532ab7.png",
+          "sha256": "4115f964ed09827e4fc89dbd019cb5f9d2995f1578506680ae9de38ae71e47c5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-0.glsl",
+          "sha256": "1bc20b81d2ca13da3161f6b603fdb392925fd9711fa3c2f79a0b5afb5f5f7de7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-1.glsl",
+          "sha256": "bf37d6bcf604fa89098359416fec5ca456f0f955ce248bb6ad4880a898b9dd7f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    },
+    {
+      "pack": "goods-boom.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\f0\\f0e09d8d999c86fd2825e30746bea19f\\__data",
+      "sourceSha256": "2f55c358114d10fb9148ad47988548b6202169a0ed067420938ce897b4825707",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/UIEffect/UIFX_Goods_Boom2.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "monoscripts_base.bytes",
+            "md5": "73012984a669febc9e8ed95421d8114f",
+            "size": 9794
+          },
+          {
+            "name": "assets_bundleresources_uieffect_uifx_goods_boom2.bytes",
+            "md5": "f0e09d8d999c86fd2825e30746bea19f",
+            "size": 30724
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\f0\\f0e09d8d999c86fd2825e30746bea19f\\__data",
+          "sha256": "2f55c358114d10fb9148ad47988548b6202169a0ed067420938ce897b4825707",
+          "md5": "f0e09d8d999c86fd2825e30746bea19f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/73012984a669febc9e8ed95421d8114f.bytes",
+          "sha256": "157e3aa65a36ff66713c05ede936bb1b13004678a4a73910f119ca1b7fc7180a",
+          "md5": "73012984a669febc9e8ed95421d8114f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 3,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_004-2c70b8e708ab.png",
+          "sha256": "c1d8cf7dbfc7730240aceae51f1544df6a53c59770f44d5a27ccebabd06647fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_009-37698a64c50c.png",
+          "sha256": "6dcff207fe880dac22f368bd33a9c16e6eccf0c5fffd1d072bfbfc8f18e771b6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    },
+    {
+      "pack": "icon-boom.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\95\\953e46968669a297865350ad89f3d35f\\__data",
+      "sourceSha256": "4a04ae5380599e4224a72a7f5e74e68fc414e548905ed95069169e46a37e09c9",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/UIEffect/UIFX_IconMoveEnd_Boom.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "monoscripts_base.bytes",
+            "md5": "73012984a669febc9e8ed95421d8114f",
+            "size": 9794
+          },
+          {
+            "name": "assets_bundleresources_uieffect_uifx_iconmoveend_boom.bytes",
+            "md5": "953e46968669a297865350ad89f3d35f",
+            "size": 30449
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\95\\953e46968669a297865350ad89f3d35f\\__data",
+          "sha256": "4a04ae5380599e4224a72a7f5e74e68fc414e548905ed95069169e46a37e09c9",
+          "md5": "953e46968669a297865350ad89f3d35f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/73012984a669febc9e8ed95421d8114f.bytes",
+          "sha256": "157e3aa65a36ff66713c05ede936bb1b13004678a4a73910f119ca1b7fc7180a",
+          "md5": "73012984a669febc9e8ed95421d8114f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 5,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_Universal _Additive",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:-5922528805807089069"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_4-bddfe753ad3c.png",
+          "sha256": "88f27f4d4db9854a52741b1784f7fffc43e28087929e1a611ec4e2cbe9e210f0"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_007-1e9587e11654.png",
+          "sha256": "5618524621bc1d87a34b2749474c4792f132777990e2d28c0f4e59ea8bba42fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Ring_003-23113473bfbb.png",
+          "sha256": "91b4d1109bce28287ca4581101e9a5ea62be5adeadc82d76ff1e6a5bd39f6260"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-0.glsl",
+          "sha256": "1bc20b81d2ca13da3161f6b603fdb392925fd9711fa3c2f79a0b5afb5f5f7de7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-1.glsl",
+          "sha256": "bf37d6bcf604fa89098359416fec5ca456f0f955ce248bb6ad4880a898b9dd7f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-dust-clean.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\7a\\7a5ac25706e46d01c18f126f5e63937b\\__data",
+      "sourceSha256": "bad538ffdc04c365dff53f272365e7fe7f0f4cbe2c47462ad48127f8b86163b4",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_dust_clean.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "share_assets_bundleresources_uianimation_map.bytes",
+            "md5": "a3b236a5266f5b8dbad10f4f9e5f9d34",
+            "size": 20647
+          },
+          {
+            "name": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bytes",
+            "md5": "8369ed4d5258984bec5cf982eb214401",
+            "size": 3470
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_dust_clean.bytes",
+            "md5": "7a5ac25706e46d01c18f126f5e63937b",
+            "size": 30729
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\7a\\7a5ac25706e46d01c18f126f5e63937b\\__data",
+          "sha256": "bad538ffdc04c365dff53f272365e7fe7f0f4cbe2c47462ad48127f8b86163b4",
+          "md5": "7a5ac25706e46d01c18f126f5e63937b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/8369ed4d5258984bec5cf982eb214401.bytes",
+          "sha256": "650a82e5fb48081c8d5bebba60bdb297678ac7eef0abf2e831f260c3c12f5812",
+          "md5": "8369ed4d5258984bec5cf982eb214401",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\a3\\a3b236a5266f5b8dbad10f4f9e5f9d34\\__data",
+          "sha256": "6c7ea4c7a5ef9c431ddc7eebb6c00725432f8ab74fa3a9d3363467c8e1d2b824",
+          "md5": "a3b236a5266f5b8dbad10f4f9e5f9d34",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 5,
+      "spriteRendererCount": 2,
+      "shaderNames": [
+        [
+          "Universal Render Pipeline/2D/Sprite-Unlit-Default",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4053925350041733874"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ],
+        [
+          "FTUI/UI_add_mask",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:945887448257445792"
+        ],
+        [
+          "FTUI/UI_blend",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4580885078274345151"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_004-2c70b8e708ab.png",
+          "sha256": "c1d8cf7dbfc7730240aceae51f1544df6a53c59770f44d5a27ccebabd06647fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Trail_007-629e424679a8.png",
+          "sha256": "a788c4fa52dddd8e781b0819e087bdd616ee81e700b074d35132bd9f969de1cd"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Mask_018-278242f2ed7a.png",
+          "sha256": "ac5f5ab45956ebad9d6526de1cf04f07cf547fe4fea0a914b8a203f975339fc7"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_animation_dust_clean_Smoke-97ae73508e23.png",
+          "sha256": "ed3d2acabcff150adabe391a505eb954a9d207e571ae405ad5a3c3424f09830f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/Universal Render Pipeline-2D-Sprite-Unlit-Default-a89ed0cf842a-9-1.glsl",
+          "sha256": "6536101384b9c5e02fb1623644060e8e1fb1be0589ba4f940ff03cfe5019e0fb"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/Universal Render Pipeline-2D-Sprite-Unlit-Default-a89ed0cf842a-9-3.glsl",
+          "sha256": "654f3fbb53708773618401e15c259e0093c325f39239310241ef87cbb9492918"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-5.glsl",
+          "sha256": "28cc5cbbde3108e5cbd6489f9a26b795811b10bff4bb21181128046357234725"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-11.glsl",
+          "sha256": "1afc84e2b83713c475b00edba8d106770f585c0a9143021810f500e176f4c481"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-12.glsl",
+          "sha256": "02786ffe9ce282f5f7f7a1453b28a3a70783058ae5401f6dca9d61878ba51f34"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-14.glsl",
+          "sha256": "665da6adf08f00bacabb7179ad7ee63a97fb1373f8a77b8b6b5adc70ff0b511d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-16.glsl",
+          "sha256": "33aa55f2295cc4c92779efa807c57f2eca8f0da92906fbe8ee0da02aae63a4ed"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-18.glsl",
+          "sha256": "588c03f2b2445a873e2f993c90a7ff6670cdec5315dd8b78a9b796c8b3832394"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-20.glsl",
+          "sha256": "fb1dddc11f7caac698393203778623f75f484687a41481593a61c04378aecae4"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add_mask-6859c7f5a94d-9-22.glsl",
+          "sha256": "b6129510289a5aba69f3a08388fe0e0eadaec71e8e008e1d6d2a6273a10690b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-2.glsl",
+          "sha256": "e4780248bcfab3bbdf6182975d29306d139135d6463bfbacdefd584a1e9f8940"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-18.glsl",
+          "sha256": "6e8d452c3a37cf38d4bc1cfd44f352a746d62eae96e37d15051163fd8b7ee565"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-19.glsl",
+          "sha256": "ec69bf9f75c39a5b08fe3b88bd5e224c4911b24686f04a6ca7d216ddc5907a57"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-20.glsl",
+          "sha256": "2ace5c5d4911cb56a5db714610776c98a1547404d414037773051f3edb984100"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-22.glsl",
+          "sha256": "5e63414b425b40a3e21f0ce5433ecad9593f36cb5a4da4713257806c0e59e92c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-23.glsl",
+          "sha256": "e8a9995d762dcd94d9fc1ae1c965cebb1087145184ba79e8683c44d87b0c30ab"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-24.glsl",
+          "sha256": "4d3baf028b3f5072ae2585b426056eae983fafbe077de44279cc9d186a165fd8"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-26.glsl",
+          "sha256": "bd827d6299a276ded40463de37904987074141e97df554da99bb5180b8579297"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-27.glsl",
+          "sha256": "593dd48eef3eec51ac903fd7e9d640d7a4de9eb3a4de3c6f051d3fda3b5e4639"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-28.glsl",
+          "sha256": "ebffc2d35474c639ea87e2c51ce8423d7f7158e811bd97edd37448fa989a8524"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-30.glsl",
+          "sha256": "239bcb35bd07b235d17426af8f072bc5f383f0efde3cca6b1babba0fe66d9814"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-31.glsl",
+          "sha256": "42e391403a273e9e63263b7daff682152ad9431f9828708b97f4b826518ee3ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-32.glsl",
+          "sha256": "dde2745ab3dae318f12806d6fb990fb4ae7f907050ae24cf8bf17dcaaf2852d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-34.glsl",
+          "sha256": "4618e6b907c1364cf2525deadad02aaa8b077dafd53a3e044a5f13ee32a0ef35"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-35.glsl",
+          "sha256": "f133e4c2aed992d19c82f2e036c0ed4ba32a7ab78c03dec45c758c7912a8552c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-36.glsl",
+          "sha256": "7eb92d59a628df43a13b4a22452b6196726d6b3fb9bb68f5c02c43f64b57d06b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-38.glsl",
+          "sha256": "ea55f6b83db42574a2725ed4876bea2bb1cc41e5f4c75b0983951e477fbb48da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-39.glsl",
+          "sha256": "ba42234b2a9af5336cce5796e3aa9c9874643c00428a768e7df143a09d72ae6e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-40.glsl",
+          "sha256": "d58151b6a66672c6b473f12be61d34f2b4dde326f1376e8dde7ddbdade657ec3"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-42.glsl",
+          "sha256": "c47cac2442d37d71a3f3ee283dbe4365950866c816043cc822baa9d7768e13da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-43.glsl",
+          "sha256": "dd5a32d55c04f8ef5a79ec485ca70b65fc75697403d89280283fa2d69d47d057"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-44.glsl",
+          "sha256": "edc0ca07c8ae2528089a2be6c683df90ae9759417ab50e889c81c7b6a76587c6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-46.glsl",
+          "sha256": "66371450a98274ee24b3548bffae1318bf7fe06229f612c46a4c153ada5b3a33"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-47.glsl",
+          "sha256": "81cfca170cf35af1227f287a986a0feba4e57ead20fb8139c374551c17f93759"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-dust.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\50\\504d2bf0ed486c685239bb2074efbc8d\\__data",
+      "sourceSha256": "1583d3f8acc134036f55fcf47e2b2fe0891413e463a8a139c06bf5c596eba14a",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_dust.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_dust.bytes",
+            "md5": "504d2bf0ed486c685239bb2074efbc8d",
+            "size": 28498
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\50\\504d2bf0ed486c685239bb2074efbc8d\\__data",
+          "sha256": "1583d3f8acc134036f55fcf47e2b2fe0891413e463a8a139c06bf5c596eba14a",
+          "md5": "504d2bf0ed486c685239bb2074efbc8d",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 2,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_blend",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4580885078274345151"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_018-c1e0b765b52a.png",
+          "sha256": "56c0da416502d1b21aff2036c4735779cec26b065e89d47430bd1984104b0a82"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Splash-f0ade7694a5d.png",
+          "sha256": "cef65a31fcf54831cad29784df5d9e219bb4f36a82515ca364924aabafff4ce6"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_TextureSheet_Smoke_01-e4f50766b1d9.png",
+          "sha256": "23d272346b18a9ef16f54724656975af9c7f0d2098a4dcb6af5d7e9e5a931e93"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-2.glsl",
+          "sha256": "e4780248bcfab3bbdf6182975d29306d139135d6463bfbacdefd584a1e9f8940"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-18.glsl",
+          "sha256": "6e8d452c3a37cf38d4bc1cfd44f352a746d62eae96e37d15051163fd8b7ee565"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-19.glsl",
+          "sha256": "ec69bf9f75c39a5b08fe3b88bd5e224c4911b24686f04a6ca7d216ddc5907a57"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-20.glsl",
+          "sha256": "2ace5c5d4911cb56a5db714610776c98a1547404d414037773051f3edb984100"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-22.glsl",
+          "sha256": "5e63414b425b40a3e21f0ce5433ecad9593f36cb5a4da4713257806c0e59e92c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-23.glsl",
+          "sha256": "e8a9995d762dcd94d9fc1ae1c965cebb1087145184ba79e8683c44d87b0c30ab"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-24.glsl",
+          "sha256": "4d3baf028b3f5072ae2585b426056eae983fafbe077de44279cc9d186a165fd8"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-26.glsl",
+          "sha256": "bd827d6299a276ded40463de37904987074141e97df554da99bb5180b8579297"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-27.glsl",
+          "sha256": "593dd48eef3eec51ac903fd7e9d640d7a4de9eb3a4de3c6f051d3fda3b5e4639"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-28.glsl",
+          "sha256": "ebffc2d35474c639ea87e2c51ce8423d7f7158e811bd97edd37448fa989a8524"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-30.glsl",
+          "sha256": "239bcb35bd07b235d17426af8f072bc5f383f0efde3cca6b1babba0fe66d9814"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-31.glsl",
+          "sha256": "42e391403a273e9e63263b7daff682152ad9431f9828708b97f4b826518ee3ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-32.glsl",
+          "sha256": "dde2745ab3dae318f12806d6fb990fb4ae7f907050ae24cf8bf17dcaaf2852d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-34.glsl",
+          "sha256": "4618e6b907c1364cf2525deadad02aaa8b077dafd53a3e044a5f13ee32a0ef35"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-35.glsl",
+          "sha256": "f133e4c2aed992d19c82f2e036c0ed4ba32a7ab78c03dec45c758c7912a8552c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-36.glsl",
+          "sha256": "7eb92d59a628df43a13b4a22452b6196726d6b3fb9bb68f5c02c43f64b57d06b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-38.glsl",
+          "sha256": "ea55f6b83db42574a2725ed4876bea2bb1cc41e5f4c75b0983951e477fbb48da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-39.glsl",
+          "sha256": "ba42234b2a9af5336cce5796e3aa9c9874643c00428a768e7df143a09d72ae6e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-40.glsl",
+          "sha256": "d58151b6a66672c6b473f12be61d34f2b4dde326f1376e8dde7ddbdade657ec3"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-42.glsl",
+          "sha256": "c47cac2442d37d71a3f3ee283dbe4365950866c816043cc822baa9d7768e13da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-43.glsl",
+          "sha256": "dd5a32d55c04f8ef5a79ec485ca70b65fc75697403d89280283fa2d69d47d057"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-44.glsl",
+          "sha256": "edc0ca07c8ae2528089a2be6c683df90ae9759417ab50e889c81c7b6a76587c6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-46.glsl",
+          "sha256": "66371450a98274ee24b3548bffae1318bf7fe06229f612c46a4c153ada5b3a33"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-47.glsl",
+          "sha256": "81cfca170cf35af1227f287a986a0feba4e57ead20fb8139c374551c17f93759"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-fire-clean.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\43\\43a7034a003a37b6da68408313618f1c\\__data",
+      "sourceSha256": "3988d92aa11583888370da84fbf6d3bbcc33d6957ce6ae203cca63a107af381d",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_fire_clean.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_fire_clean.bytes",
+            "md5": "43a7034a003a37b6da68408313618f1c",
+            "size": 29165
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\43\\43a7034a003a37b6da68408313618f1c\\__data",
+          "sha256": "3988d92aa11583888370da84fbf6d3bbcc33d6957ce6ae203cca63a107af381d",
+          "md5": "43a7034a003a37b6da68408313618f1c",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 4,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_blend",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4580885078274345151"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ],
+        [
+          "FTUI/UI_Universal _Alpha",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:1619097466085046804"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/TextureSheet_101-21857f829a28.png",
+          "sha256": "07352d67123de93e11eff370b9031d48731d098b74b88fa7fe4f8985627c9ff2"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_animation_fire_clean_fire01-c66211d4cb6d.png",
+          "sha256": "d5b821271499c770e83a7403f4e7867a92726ac7b21ee6320ab54eae617c9451"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_004-2c70b8e708ab.png",
+          "sha256": "c1d8cf7dbfc7730240aceae51f1544df6a53c59770f44d5a27ccebabd06647fe"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_026-92cdde8cab32.png",
+          "sha256": "9bfb228e1dad82b6720a20101d0dfcfd08d64d8f29f80d72ce0dec3928d098dc"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_animation_wind_clean_Wind01-42deda3d66ac.png",
+          "sha256": "1cfda8fa3b589c2ee46236a8f0b9183430185669943dd77b051f71f361d6122c"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Mask_036-9da510a81be4.png",
+          "sha256": "edb60fd47a2bb5f1dcdf908fd82bcc406db42f5f1c4c4b64a66bab257818c493"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_003-d85fabca8ee4.png",
+          "sha256": "0ff3102ae8f75d2fc3eeaa8708741cca8f1dbc56fa98bc51ef06f3a0c7cf66f0"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-2.glsl",
+          "sha256": "e4780248bcfab3bbdf6182975d29306d139135d6463bfbacdefd584a1e9f8940"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-18.glsl",
+          "sha256": "6e8d452c3a37cf38d4bc1cfd44f352a746d62eae96e37d15051163fd8b7ee565"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-19.glsl",
+          "sha256": "ec69bf9f75c39a5b08fe3b88bd5e224c4911b24686f04a6ca7d216ddc5907a57"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-20.glsl",
+          "sha256": "2ace5c5d4911cb56a5db714610776c98a1547404d414037773051f3edb984100"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-22.glsl",
+          "sha256": "5e63414b425b40a3e21f0ce5433ecad9593f36cb5a4da4713257806c0e59e92c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-23.glsl",
+          "sha256": "e8a9995d762dcd94d9fc1ae1c965cebb1087145184ba79e8683c44d87b0c30ab"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-24.glsl",
+          "sha256": "4d3baf028b3f5072ae2585b426056eae983fafbe077de44279cc9d186a165fd8"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-26.glsl",
+          "sha256": "bd827d6299a276ded40463de37904987074141e97df554da99bb5180b8579297"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-27.glsl",
+          "sha256": "593dd48eef3eec51ac903fd7e9d640d7a4de9eb3a4de3c6f051d3fda3b5e4639"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-28.glsl",
+          "sha256": "ebffc2d35474c639ea87e2c51ce8423d7f7158e811bd97edd37448fa989a8524"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-30.glsl",
+          "sha256": "239bcb35bd07b235d17426af8f072bc5f383f0efde3cca6b1babba0fe66d9814"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-31.glsl",
+          "sha256": "42e391403a273e9e63263b7daff682152ad9431f9828708b97f4b826518ee3ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-32.glsl",
+          "sha256": "dde2745ab3dae318f12806d6fb990fb4ae7f907050ae24cf8bf17dcaaf2852d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-34.glsl",
+          "sha256": "4618e6b907c1364cf2525deadad02aaa8b077dafd53a3e044a5f13ee32a0ef35"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-35.glsl",
+          "sha256": "f133e4c2aed992d19c82f2e036c0ed4ba32a7ab78c03dec45c758c7912a8552c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-36.glsl",
+          "sha256": "7eb92d59a628df43a13b4a22452b6196726d6b3fb9bb68f5c02c43f64b57d06b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-38.glsl",
+          "sha256": "ea55f6b83db42574a2725ed4876bea2bb1cc41e5f4c75b0983951e477fbb48da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-39.glsl",
+          "sha256": "ba42234b2a9af5336cce5796e3aa9c9874643c00428a768e7df143a09d72ae6e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-40.glsl",
+          "sha256": "d58151b6a66672c6b473f12be61d34f2b4dde326f1376e8dde7ddbdade657ec3"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-42.glsl",
+          "sha256": "c47cac2442d37d71a3f3ee283dbe4365950866c816043cc822baa9d7768e13da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-43.glsl",
+          "sha256": "dd5a32d55c04f8ef5a79ec485ca70b65fc75697403d89280283fa2d69d47d057"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-44.glsl",
+          "sha256": "edc0ca07c8ae2528089a2be6c683df90ae9759417ab50e889c81c7b6a76587c6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-46.glsl",
+          "sha256": "66371450a98274ee24b3548bffae1318bf7fe06229f612c46a4c153ada5b3a33"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-47.glsl",
+          "sha256": "81cfca170cf35af1227f287a986a0feba4e57ead20fb8139c374551c17f93759"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-0.glsl",
+          "sha256": "5ab27f9a58e79f25a5be678161838bd62c2ac31874de9036113d66e7a8a9e08a"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-1.glsl",
+          "sha256": "bb351c88bedbb098c199dbe27f6ee1d8a46625e63e3a4674dd1944c45ba321ae"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-star-clean.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\5f\\5f43a069fb3f87b4bc4cb386007a331a\\__data",
+      "sourceSha256": "2f63ac3ae85e3afba7621f42d764f481a68c7e13e5129fb4c24fe8c68ed4bafe",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_star_clean.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_star_clean.bytes",
+            "md5": "5f43a069fb3f87b4bc4cb386007a331a",
+            "size": 29723
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\5f\\5f43a069fb3f87b4bc4cb386007a331a\\__data",
+          "sha256": "2f63ac3ae85e3afba7621f42d764f481a68c7e13e5129fb4c24fe8c68ed4bafe",
+          "md5": "5f43a069fb3f87b4bc4cb386007a331a",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 6,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_Universal _Alpha",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:1619097466085046804"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_025-2676d41aa9a5.png",
+          "sha256": "f24810f23c7517173cf45c6955d73627f6a43f4d4dc34a2e4cf100d4d815b421"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Mask_034-b31bc3fa01d4.png",
+          "sha256": "fd27816c80edcdfe96a318d7f63e5ebbca9105a6af1e2d3d32913c117dd06a41"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_001-261c191c04ea.png",
+          "sha256": "aa1ca26a7e06f94163fbf0eb7b59bfafd446a60080fe71042a1e43e3ed4efce3"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_024-d27ccc03c5f0.png",
+          "sha256": "db0c9a8668046cbd9fc5a2c9f83dd64f4dc276e0e21f0f2aff0d4bfded768785"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Mask_028-326548437f74.png",
+          "sha256": "48dadcebcac71473f51a2bcdd2aa7cfc6eb5b1dff6d3e926fd155e3668918d7e"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_016-fff051e44250.png",
+          "sha256": "138bf5132579354300b2842297d7463ad1e3a1ef0dabb2d963652a6cf64da12b"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_019-8af753cf0178.png",
+          "sha256": "2a9cba5a686d54fe2fb7a477b3a4d1b36ee1fd5636524e223f4f0539d7ec39b1"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_021-d141f169dc0d.png",
+          "sha256": "051b7eff1406635424d7f47e2876e76c7a964afe416f2930510fa6881cbdaa0c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-0.glsl",
+          "sha256": "5ab27f9a58e79f25a5be678161838bd62c2ac31874de9036113d66e7a8a9e08a"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-1.glsl",
+          "sha256": "bb351c88bedbb098c199dbe27f6ee1d8a46625e63e3a4674dd1944c45ba321ae"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-star.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\ab\\ab11b0078d95f0ddb5f5a18a519c4460\\__data",
+      "sourceSha256": "2ebeef09ab63c63e44d9175b026e0baf735ecf56890363a1f935118a3ec7ff70",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_star.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_star.bytes",
+            "md5": "ab11b0078d95f0ddb5f5a18a519c4460",
+            "size": 28668
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\ab\\ab11b0078d95f0ddb5f5a18a519c4460\\__data",
+          "sha256": "2ebeef09ab63c63e44d9175b026e0baf735ecf56890363a1f935118a3ec7ff70",
+          "md5": "ab11b0078d95f0ddb5f5a18a519c4460",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 1,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Star_007-1e9587e11654.png",
+          "sha256": "5618524621bc1d87a34b2749474c4792f132777990e2d28c0f4e59ea8bba42fe"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    },
+    {
+      "pack": "unitfx-wind-clean.json",
+      "source": "C:\\dev\\mhxcz-analysis\\downloaded\\93\\93d245597cbb682bc82852f23793c376\\__data",
+      "sourceSha256": "3c728cf1559fe4f5978e55baf6a01183e255596e91d426b2771d129a5925292e",
+      "originalCatalog": {
+        "version": "1.4.93.1",
+        "sha256": "37ef8886b6d0cbdc2d860d16f00158e52cab9e7e06a6be5eb55bc75811d8f3d6",
+        "assetPath": "Assets/BundleResources/MapGame/Prefab/Fx/animation_wind_clean.prefab",
+        "bundles": [
+          {
+            "name": "assets_bundleresources_arts_icon_goods_goods_icon_101.bytes",
+            "md5": "f3cf086834065d0fb03d3269530f7545",
+            "size": 11169
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_1_common.bytes",
+            "md5": "4966ff276889db85c41a4f466b2e2e52",
+            "size": 32358
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_10_noise.bytes",
+            "md5": "e7791f3525d1575dc48753fbb6345b7b",
+            "size": 699122
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_2_glow.bytes",
+            "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+            "size": 433651
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_3_star.bytes",
+            "md5": "af569522d2c10d4494099e2ac169f8a9",
+            "size": 139661
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_4_ring.bytes",
+            "md5": "59459512c04200b424df25c3bc04d204",
+            "size": 44493
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_5_mask.bytes",
+            "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+            "size": 197082
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_8_texturesheet.bytes",
+            "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+            "size": 961910
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxtexture_tex_9_customization.bytes",
+            "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+            "size": 1107903
+          },
+          {
+            "name": "unityshaders.bytes",
+            "md5": "affabc2ac4671b92417e7479b931d3c0",
+            "size": 597222
+          },
+          {
+            "name": "share_assets_bundleresources_effect_uifx_uifxmaterials.bytes",
+            "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+            "size": 39149
+          },
+          {
+            "name": "assets_bundleresources_mapgame_prefab_fx_animation_wind_clean.bytes",
+            "md5": "93d245597cbb682bc82852f23793c376",
+            "size": 29377
+          }
+        ]
+      },
+      "verifiedSourceBundles": [
+        {
+          "source": "C:\\dev\\mhxcz-analysis\\downloaded\\93\\93d245597cbb682bc82852f23793c376\\__data",
+          "sha256": "3c728cf1559fe4f5978e55baf6a01183e255596e91d426b2771d129a5925292e",
+          "md5": "93d245597cbb682bc82852f23793c376",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/6e359a0273d3c6e5fa9bc5985a55958f.bytes",
+          "sha256": "fc6126479d6ec67985ee994cf93b9c8fc361a8af1677c800b3ae4341cfb5ef7a",
+          "md5": "6e359a0273d3c6e5fa9bc5985a55958f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/affabc2ac4671b92417e7479b931d3c0.bytes",
+          "sha256": "271b61357ee23e8d77fdd55c39e2d059f540be3eb84c575b4f17dabe3c0baf38",
+          "md5": "affabc2ac4671b92417e7479b931d3c0",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/717d03fe291d5f52dcf9a78e72f5740e.bytes",
+          "sha256": "30382158d54795dbffa1ea01fbe72c68e2d9b60512ca21a1dfd7bc579eabb18b",
+          "md5": "717d03fe291d5f52dcf9a78e72f5740e",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/cbca0d8a62b7ff565b65feb3992fb469.bytes",
+          "sha256": "2e755a7928a777be05709b71121e9c204ed253114d25ec7a130c5efef39c6435",
+          "md5": "cbca0d8a62b7ff565b65feb3992fb469",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/e7791f3525d1575dc48753fbb6345b7b.bytes",
+          "sha256": "08204ad69781fa66e3e7e6c71ca891295600eb97aa3616bc8e890cd19f0ff0c8",
+          "md5": "e7791f3525d1575dc48753fbb6345b7b",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/af569522d2c10d4494099e2ac169f8a9.bytes",
+          "sha256": "09624fe1214c43a3c9f059c63f6b7da7f6b94b5c337fb9708b26684b8c105b44",
+          "md5": "af569522d2c10d4494099e2ac169f8a9",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/2a373462b3002d7d8dba5fbd2bd8e3fc.bytes",
+          "sha256": "627863ee78c9db3382715df44443835ea87a192dc5957cb4fe974aa60337c34a",
+          "md5": "2a373462b3002d7d8dba5fbd2bd8e3fc",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/9cd666bd943bf2035dbb2e6065459e1f.bytes",
+          "sha256": "8aae361bc32de56088a355d93354a91139832e2e51c553a1b9bd3c3630a2e502",
+          "md5": "9cd666bd943bf2035dbb2e6065459e1f",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/4966ff276889db85c41a4f466b2e2e52.bytes",
+          "sha256": "2b7840843a967ee6e89241a3b5e46b9c1be46a8175f7f515afbd228c7d5398dd",
+          "md5": "4966ff276889db85c41a4f466b2e2e52",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/59459512c04200b424df25c3bc04d204.bytes",
+          "sha256": "83960c75567081609cbef14edca1c8fd05738fcb9458a4d787a0948124a01153",
+          "md5": "59459512c04200b424df25c3bc04d204",
+          "originalCatalogVersion": "1.4.93.1"
+        },
+        {
+          "source": "assets/Bundles/Android/Base/f3cf086834065d0fb03d3269530f7545.bytes",
+          "sha256": "fa7e0e484cc893e72ddedaf125987e6297417c087ca8555e6d08622b1ee2b0f1",
+          "md5": "f3cf086834065d0fb03d3269530f7545",
+          "originalCatalogVersion": "1.4.93.1"
+        }
+      ],
+      "systemCount": 6,
+      "spriteRendererCount": 0,
+      "shaderNames": [
+        [
+          "FTUI/UI_Universal _Additive",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:-5922528805807089069"
+        ],
+        [
+          "FTUI/UI_Universal _Alpha",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:1619097466085046804"
+        ],
+        [
+          "FTUI/UI_blend",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:4580885078274345151"
+        ],
+        [
+          "FTUI/UI_add",
+          "CAB-c3299c12bcf29bc77175a0b8b7ee2206:168013597554465973"
+        ]
+      ],
+      "files": [
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_animation_wind_clean_Wind01-42deda3d66ac.png",
+          "sha256": "1cfda8fa3b589c2ee46236a8f0b9183430185669943dd77b051f71f361d6122c"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Glow_003-5ced95524550.png",
+          "sha256": "ca66fa936bf31393218a67418da4afc1921aaa4515106e51d8244b0b7584ce1d"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/animation_wind_clean_noise-cf95dfd752e3.png",
+          "sha256": "6feec030b3169cc9dc598ccafa63af0862884d446e264d416b6381567013c798"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Mask_018-278242f2ed7a.png",
+          "sha256": "ac5f5ab45956ebad9d6526de1cf04f07cf547fe4fea0a914b8a203f975339fc7"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/em_yun_01-44c4f33332e5.png",
+          "sha256": "749cea6bd0f68f68a9bc9c81eda3b3911480a72aa31055bfd81965cbe1db9d58"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/Noise_003-d85fabca8ee4.png",
+          "sha256": "0ff3102ae8f75d2fc3eeaa8708741cca8f1dbc56fa98bc51ef06f3a0c7cf66f0"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/VegetableGardenMainDialog_Leaf-3f7322d8d6e8.png",
+          "sha256": "ccca7aec9c90bd8f73eb9d5789924f4a54757f322ad4a0f6b5b791eea28dcde6"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/TextureSheet_011-6a624819cb1d.png",
+          "sha256": "dcc1864624463f0376605d7f30fc3ac2e888295cefc9d12c8ba96319be291364"
+        },
+        {
+          "kind": "texture",
+          "url": "assets/construction/images-hammer/UIFX_PaintPutMainDialog_Color-88557f057fe1.png",
+          "sha256": "4a480c325e215025324d8e8a5262841cac5bdda66f1c86d244dc5afa95e7d5f2"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-0.glsl",
+          "sha256": "1bc20b81d2ca13da3161f6b603fdb392925fd9711fa3c2f79a0b5afb5f5f7de7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-1.glsl",
+          "sha256": "bf37d6bcf604fa89098359416fec5ca456f0f955ce248bb6ad4880a898b9dd7f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Additive-1d971e430290-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-0.glsl",
+          "sha256": "5ab27f9a58e79f25a5be678161838bd62c2ac31874de9036113d66e7a8a9e08a"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-1.glsl",
+          "sha256": "bb351c88bedbb098c199dbe27f6ee1d8a46625e63e3a4674dd1944c45ba321ae"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-5.glsl",
+          "sha256": "5d12c8a6245af69718eaea9fd86f0273043d9dbd53c801a00c2a91de9de9edf7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_Universal _Alpha-484f3a8eae62-9-7.glsl",
+          "sha256": "04cb7e33563176b39f2e1042c7222eb94ee627aad64ef16bd8adb11ad96af651"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-2.glsl",
+          "sha256": "e4780248bcfab3bbdf6182975d29306d139135d6463bfbacdefd584a1e9f8940"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-18.glsl",
+          "sha256": "6e8d452c3a37cf38d4bc1cfd44f352a746d62eae96e37d15051163fd8b7ee565"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-19.glsl",
+          "sha256": "ec69bf9f75c39a5b08fe3b88bd5e224c4911b24686f04a6ca7d216ddc5907a57"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-20.glsl",
+          "sha256": "2ace5c5d4911cb56a5db714610776c98a1547404d414037773051f3edb984100"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-22.glsl",
+          "sha256": "5e63414b425b40a3e21f0ce5433ecad9593f36cb5a4da4713257806c0e59e92c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-23.glsl",
+          "sha256": "e8a9995d762dcd94d9fc1ae1c965cebb1087145184ba79e8683c44d87b0c30ab"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-24.glsl",
+          "sha256": "4d3baf028b3f5072ae2585b426056eae983fafbe077de44279cc9d186a165fd8"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-26.glsl",
+          "sha256": "bd827d6299a276ded40463de37904987074141e97df554da99bb5180b8579297"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-27.glsl",
+          "sha256": "593dd48eef3eec51ac903fd7e9d640d7a4de9eb3a4de3c6f051d3fda3b5e4639"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-28.glsl",
+          "sha256": "ebffc2d35474c639ea87e2c51ce8423d7f7158e811bd97edd37448fa989a8524"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-30.glsl",
+          "sha256": "239bcb35bd07b235d17426af8f072bc5f383f0efde3cca6b1babba0fe66d9814"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-31.glsl",
+          "sha256": "42e391403a273e9e63263b7daff682152ad9431f9828708b97f4b826518ee3ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-32.glsl",
+          "sha256": "dde2745ab3dae318f12806d6fb990fb4ae7f907050ae24cf8bf17dcaaf2852d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-34.glsl",
+          "sha256": "4618e6b907c1364cf2525deadad02aaa8b077dafd53a3e044a5f13ee32a0ef35"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-35.glsl",
+          "sha256": "f133e4c2aed992d19c82f2e036c0ed4ba32a7ab78c03dec45c758c7912a8552c"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-36.glsl",
+          "sha256": "7eb92d59a628df43a13b4a22452b6196726d6b3fb9bb68f5c02c43f64b57d06b"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-38.glsl",
+          "sha256": "ea55f6b83db42574a2725ed4876bea2bb1cc41e5f4c75b0983951e477fbb48da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-39.glsl",
+          "sha256": "ba42234b2a9af5336cce5796e3aa9c9874643c00428a768e7df143a09d72ae6e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-40.glsl",
+          "sha256": "d58151b6a66672c6b473f12be61d34f2b4dde326f1376e8dde7ddbdade657ec3"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-42.glsl",
+          "sha256": "c47cac2442d37d71a3f3ee283dbe4365950866c816043cc822baa9d7768e13da"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-43.glsl",
+          "sha256": "dd5a32d55c04f8ef5a79ec485ca70b65fc75697403d89280283fa2d69d47d057"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-44.glsl",
+          "sha256": "edc0ca07c8ae2528089a2be6c683df90ae9759417ab50e889c81c7b6a76587c6"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-46.glsl",
+          "sha256": "66371450a98274ee24b3548bffae1318bf7fe06229f612c46a4c153ada5b3a33"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_blend-21310856bf18-9-47.glsl",
+          "sha256": "81cfca170cf35af1227f287a986a0feba4e57ead20fb8139c374551c17f93759"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-2.glsl",
+          "sha256": "ee0a1dcf10ca52803a5c64aaab46eb05b421b122aec8cd3b1a601ebb0796f22d"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-10.glsl",
+          "sha256": "23307b75dd5fbde0eb278ceab373d86d6d5f156e27d3fd400e90bec1774d687f"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-11.glsl",
+          "sha256": "d0babc6dc977f312a4f001c6ebe3a1840b4c57e0a6d65035d6a9060b535e35ba"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-12.glsl",
+          "sha256": "cc4f7cf21ba1a22d033641803cb685f9c8169464ebf03192890755004a69b6d5"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-14.glsl",
+          "sha256": "e962c484f740a1605f59727e82757d438c4b01e4d7d7fc834d564d02513ec0b7"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-16.glsl",
+          "sha256": "a7922e2218bac619fb9740d5bf02f1cbd7e740cb94d9db12b6a20ba1851eb730"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-18.glsl",
+          "sha256": "ca126c99f5053b4e5fcad69b000b5ef1b26f5843f8c68a4a66a5383fec32166e"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-20.glsl",
+          "sha256": "afeab5a1985a7756537349e871075a8e5a9d016da3e4541f553bdaac9500a920"
+        },
+        {
+          "kind": "shader",
+          "url": "assets/construction/shaders-hammer/FTUI-UI_add-86fe967f84c2-9-22.glsl",
+          "sha256": "ba2a2b67359f6fdd0af086e84a39630fb60d02c7dfddcd11c435ca0032c1eb4b"
+        }
+      ]
+    }
+  ],
+  "uniqueFiles": 89,
+  "checks": [
+    "Each JSON texture and GLSL SHA256 matches the file bytes.",
+    "A repeated path across packs has the same SHA256; shaders use the original CAB:PathID hash in the filename.",
+    "All six non-Hammer unlock packs use the same original1.4.93.1 catalog, with exact original bundle MD5/size validation."
+  ],
+  "remainingDifferences": [
+    "Unity native RNG, cone/sphere/donut/mesh sampling distributions, drag/noise/orbital integration and billboard/trail tessellation are not bit-identical to H5 numerical implementations.",
+    "The original GLES fragment bodies, original texture pixels and source material uniforms/blend are used. Native camera/depth/color-space and global shader phase are not fully reproduced.",
+    "MeshFilter references are null in the package SRP batches; the exact original Sprite triangles are used through the original SRPBatchingSpriteRenderer mapping. The native runtime mesh generator is not decompiled.",
+    "Source assets and deterministic H5 snapshots validate the static reconstruction; they do not establish pixel-perfect parity with an unavailable native capture at the same random seed."
+  ]
+}

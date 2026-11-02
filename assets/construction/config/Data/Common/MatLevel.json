@@ -1,0 +1,38 @@
+{
+  "source": "assets/SettingV2/Data/Common/MatLevel.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "level",
+    "name",
+    "lod",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 3,
+  "tsvSha256": "71c139c4ded61552496c993b374ce2822ad74f35cd573c5334d625708a7fc0c9",
+  "rows": [
+    {
+      "level": 0,
+      "name": "低",
+      "lod": 100,
+      "status": 1
+    },
+    {
+      "level": 1,
+      "name": "中",
+      "lod": 200,
+      "status": 1
+    },
+    {
+      "level": 2,
+      "name": "高",
+      "lod": 300,
+      "status": 1
+    }
+  ]
+}

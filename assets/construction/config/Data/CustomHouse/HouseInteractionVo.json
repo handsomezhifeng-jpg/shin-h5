@@ -1,0 +1,48 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseInteractionVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "role1Enabled",
+    "role1Order",
+    "role1Anim",
+    "role2Enabled",
+    "role2Order",
+    "role2Anim",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 2,
+  "tsvSha256": "e6c36498f930ae971df37da52392db76ef78658d3ec5d53b718498f4c8e9a1e7",
+  "rows": [
+    {
+      "id": 6001004,
+      "role1Enabled": 1,
+      "role1Order": 1,
+      "role1Anim": "sit",
+      "role2Enabled": 0,
+      "role2Order": "",
+      "role2Anim": "",
+      "status": 1
+    },
+    {
+      "id": 6001009,
+      "role1Enabled": 1,
+      "role1Order": 2,
+      "role1Anim": "sit",
+      "role2Enabled": 1,
+      "role2Order": 1,
+      "role2Anim": "idle",
+      "status": 1
+    }
+  ]
+}

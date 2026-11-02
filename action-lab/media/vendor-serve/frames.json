@@ -1,0 +1,53 @@
+{
+  "id": "vendor-serve",
+  "version": "draft-v1",
+  "generator": "Seedance 2.5",
+  "count": 145,
+  "fps": 24,
+  "width": 320,
+  "height": 480,
+  "columns": 8,
+  "rows": 4,
+  "framesPerSheet": 32,
+  "sheets": [
+    "atlas-00.webp",
+    "atlas-01.webp",
+    "atlas-02.webp",
+    "atlas-03.webp",
+    "atlas-04.webp"
+  ],
+  "cropBounds": [
+    54,
+    63,
+    398,
+    768
+  ],
+  "sourceDecodeResolution": [
+    432,
+    768
+  ],
+  "framePattern": "frames/{index:04d}.png",
+  "sourceSha256": "b5a7b224089ca26ba8d87c05ee861f8a083af9e002e419d0ed35b5f3a55d433a",
+  "qa": {
+    "status": "needs-attention",
+    "warnings": [
+      "部分轮廓接近视频边界，需检查是否裁切。",
+      "候选片的头身比、发型或服装细节与角色参考存在差异，请对照审核。"
+    ],
+    "durationSeconds": 6.08,
+    "sourceResolution": [
+      720,
+      1280
+    ],
+    "sourceFPS": "24/1",
+    "sourceCodec": "h264",
+    "sourceAudioTracks": 1,
+    "reviewAudioTracks": 0,
+    "decodedFrames": 145,
+    "extractedFPS": 24,
+    "minimumTransparentBackground": 0.5245798369984568,
+    "horizontalDriftPixels": 20.0,
+    "loopSeamMeanDifference": 3.584192708333333,
+    "notes": "Matte and timing metrics are automatic checks, not approval of motion quality."
+  }
+}

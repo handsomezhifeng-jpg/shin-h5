@@ -1,0 +1,102 @@
+{
+  "id": "original-sweep-20",
+  "version": "draft-v2",
+  "generator": "Seedance 2.5",
+  "count": 20,
+  "fps": 10.0,
+  "width": 320,
+  "height": 480,
+  "columns": 5,
+  "rows": 4,
+  "framesPerSheet": 20,
+  "sheets": [
+    "atlas-00.webp"
+  ],
+  "cropBounds": [
+    101,
+    72,
+    314,
+    383
+  ],
+  "sourceDecodeResolution": [
+    432,
+    432
+  ],
+  "framePattern": "frames/{index:04d}.png",
+  "sourceSha256": "2c00817ad3dcc3d8f813c9ba8817ebaf518ba21e4d1c198daf07793e9d7f591b",
+  "qa": {
+    "status": "awaiting-human-review",
+    "warnings": [],
+    "durationSeconds": 6.08,
+    "sequenceDuration": 2.0,
+    "sourceResolution": [
+      960,
+      960
+    ],
+    "sourceFPS": "24/1",
+    "sourceCodec": "h264",
+    "sourceAudioTracks": 1,
+    "reviewAudioTracks": 0,
+    "decodedFrames": 20,
+    "sourceDecodedFrames": 145,
+    "extractedFPS": 10.0,
+    "frameLimit": 20,
+    "minimumTransparentBackground": 0.8123446073388203,
+    "horizontalDriftPixels": 16.5,
+    "loopSeamMeanDifference": 5.704554036458333,
+    "notes": "Matte and timing metrics are automatic checks, not approval of motion quality."
+  },
+  "frameLimit": 20,
+  "sourceFrameIndices": [
+    59,
+    61,
+    64,
+    66,
+    69,
+    71,
+    73,
+    76,
+    78,
+    81,
+    83,
+    85,
+    88,
+    90,
+    93,
+    95,
+    97,
+    100,
+    102,
+    105
+  ],
+  "sourceTimes": [
+    2.4583333333333335,
+    2.5416666666666665,
+    2.6666666666666665,
+    2.75,
+    2.875,
+    2.9583333333333335,
+    3.0416666666666665,
+    3.1666666666666665,
+    3.25,
+    3.375,
+    3.4583333333333335,
+    3.5416666666666665,
+    3.6666666666666665,
+    3.75,
+    3.875,
+    3.9583333333333335,
+    4.041666666666667,
+    4.166666666666667,
+    4.25,
+    4.375
+  ],
+  "cycleSelection": {
+    "startSourceFrame": 59,
+    "endSourceFrameExclusive": 107,
+    "sourceDuration": 2.0,
+    "motionAmplitude": 0.01181003451347351,
+    "sourceSeamDifference": 1.531839370727539e-05,
+    "selection": "Closest matching active-cycle endpoints; evenly sampled without duplicated source frames."
+  }
+}

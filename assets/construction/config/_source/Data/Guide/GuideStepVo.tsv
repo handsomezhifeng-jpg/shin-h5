@@ -1,0 +1,63 @@
+id	group	step	status	keyStep	triggerMode	triggerPanel	condition	eventId	stepBehaviour	maskType	action_NodeType	action_CustomType	action_ListType	action_ChildIndex	action_ExtraPath	action_NodeInfo	action_IsMoveList	action_CellIndex	action_Path	event_IsFull	event_EventBehavior	event_CustomType	event_ChildIndex	event_ExtraPath	event_NodeType	event_ListType	event_IsMoveList	event_CellIndex	event_Path	regionPiece	orderId	buildingPress	fingerAnim	fingerUseEvent	fingerAnchor	fingerOffset	talk_Id	talk_Direction	talk_Position	stepEndCondition
+int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int
+1001	1	1	1		1	22			1		1							-1	Root/Container/DownRightBtnGroup/BtnCook		1				1			-1	Root/Container/DownRightBtnGroup/BtnCook			0;0;0;0;0;0	5				1		0;-434;0	
+1002	1	2	1	1	1	20			2	1								-1										-1		2;0;2;10101;0;2;10101;1		0;0;0;0;0;0	3				2		0;563;0	3;1;2;10102;1
+1003	1	3	1	1	1	20			2	1								-1										-1		2;0;2;10102;0;2;10102;1		0;0;0;0;0;0	3				3		0;563;0	3;1;2;10103;1
+1004	1	4	1	1	1	20			2	3								-1										-1		2;0;2;10103;0;2;10103;1		0;0;0;0;0;0	3							3;1;2;10104;1
+1005	1	5	1	1	1	20			2	1								-1										-1		3;0;2;10104;0;0;0;2		0;0;0;0;0;0	5				4		0;563;0	3;1;3;20101;3
+1006	1	6	1	1	1	20			2	1								-1										-1		2;0;3;20101;0;3;20101;1		0;0;0;0;0;0	3							3;1;3;20102;1
+1007	1	7	1	1	1	20			2	1								-1										-1		2;0;3;20102;0;3;20102;1		0;0;0;0;0;0	3							3;1;3;20103;1
+1008	1	8	1	1	1	20			1		1							-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/RoleTaskCellGroup/RoleTaskCell (Prefab)/Animation		1				1	3		-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/RoleTaskCellGroup/RoleTaskCell (Prefab)/Animation/FontStyleButton			0;0;0;0;0;0	5	1			5		0;563;0	
+2001	2	1	1		1	20			1		1							-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/MainPlotCell/BtnMainPlot		1				1			-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/MainPlotCell/BtnMainPlot				5				6		0;221;0	
+3001	3	1	1	1	3	20	(12;0;0)		1	1	1							-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/MainPlotCell/BtnStack		1				1			-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/MainPlotCell/BtnStack				5				7		0;563;0	
+3002	3	2	1	1	1	20			2	1								-1										-1		2;0;2;10104;0;2;10104;1			3				8		0;-354;0	3;1;2;10105;1
+3003	3	3	1	1	1	20			2	1								-1										-1		1;0;2;10105;0;0;0;2			5				9		0;-354;0	3;1;3;20201;1
+4001	4	1	1		1	20			2	1								-1										-1		1;0;2;31101;0;0;0;2			5				14		0;-371;0	6;0;0
+4002	4	2	1		1	20			1		1							-1	Root/InformationGroup/Panel/NormalNode	1	1				1			-1	Root/InformationGroup/Panel/NormalNode/Content/BtnGroupNode1/BtnCountDown				5	1			15		0;-371;0	
+5001	5	1	1		1	22			1		1							-1	Root/Container/UpRightGroup/BtnStore		1				1			-1	Root/Container/UpRightGroup/BtnStore			0;0;0;0;0;0	5				10		0;917;0	
+5002	5	2	1		1	33			1	1	1							-1	Container/ContentDialog/StorePropsDialog/ScrollView/Viewport/Content/PropDisplayNode(Clone)/CardGroup1/StorePropsCardNode3/BtnFree		1				1			-1	Container/ContentDialog/StorePropsDialog/ScrollView/Viewport/Content/PropDisplayNode(Clone)/CardGroup1/StorePropsCardNode3/BtnFree			0;0;0;0;0;0	5				11		0;-139;0	
+6001	6	1	1		3	20	(3;1;2;10204;1)		2	1								-1										-1		1;0;2;10204;0;0;0;2			5				12		0;-354;0	6;0;0
+6002	6	2	1		1	20			1	1	1							-1	Root/InformationGroup/Panel/NormalNode/ImgTitle/BtnDetail		1				1			-1	Root/InformationGroup/Panel/NormalNode/ImgTitle/BtnDetail				5				13		0;-394;0	
+7001	7	1	1		1	20			2	1								-1										-1		1;2;0;0;0;0;0;2			5				17		0;-470;0	6;0;0
+7002	7	2	1		1	20			1	1	1							-1	Root/InformationGroup/Panel/NormalNode/Content/BtnGroupNode1/BtnGoods		1				1			-1	Root/InformationGroup/Panel/NormalNode/Content/BtnGroupNode1/BtnGoods								18		0;-371;0	
+7003	7	3	1		1	23			1	1	1							-1	Root/Content/ButtonGroup/FontStyleWithIconButton3		1				1			-1	Root/Content/ButtonGroup/FontStyleWithIconButton3											
+8001	8	1	1		1	20			3		1							-1	Animation	1	1				1			-1	Animation/LayoutGroup/BtnItem		14	0;0;0;0;0;0					19		0;500;0	
+8002	8	2	1		1	20			3		1							-1	Animation/LayoutGroup		2				1			-1	Animation/LayoutGroup/BtnItem		14	0;0;0;0;0;0	5				20		0;500;0	
+8003	8	3	1		1	24			1	1	1	2		1	BtnNode/ImgBg			-1	Root/Container/CommonBoardNode/BgNode/Layout_2	1	1				1			-1	Root/Container/CommonBoardNode/BgNode/Layout_2			0;0;0;0;0;0					23		0;-400;0	
+9001	9	1	1		1	20			1	1	3							-1	UIRoot/UIRootCanvas/UITitleBar/TopLeftNav/LayoutCurrency/101		1				3			-1	UIRoot/UIRootCanvas/UITitleBar/TopLeftNav/LayoutCurrency/101			0;0;0;0;0;0	5		3		21		0;650;0	
+10001	10	1	1		1	20			1	1	1							-1	Root/UpRightGroup/BtnEnergy		1				1			-1	Root/UpRightGroup/BtnEnergy				5				22		0;550;0	
+11001	11	1	1		1	143			1	1	1							-1	Root/CommonBoardTitle/ButtonInfo		1				1			-1	Root/CommonBoardTitle/ButtonInfo				5				24		0;200;0	
+15001	15	1	1		1	20			1	3	1							-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/RoleTaskCellGroup/RoleTaskCell (Prefab)/Animation/FontStyleButton	1	1				1			-1	Root/TaskUpGroup/LoopListCell/Viewport/Content/RoleTaskCellGroup/RoleTaskCell (Prefab)/Animation/FontStyleButton			0;0;0;0;0;0	5							
+16001	16	1	1		1	242			5	1								-1										-1				0;0;0;0;0;0					28		0;150;0	
+17001	17	1	1		1	242			1	1	1							-1	Root/PaintLayout/PaintNode_1	1	1				1			-1	Root/PaintLayout/PaintNode_1			0;0;0;0;0;0					27			
+18001	18	1	1		1	257			1	1	1							-1	BtnBuild		1				1			-1	BtnBuild			0;0;0;0;0;0	5				29			
+18002	18	2	1		1	258			1	1	2		2				1		Root/Panel/Root/ScrollView		1				2	2	1		Root/Panel/Root/ScrollView			0;0;0;0;0;0	2		3		30		0;100;0	
+19001	19	1	1		1	275			1	1	1							-1	Root/Content/ChessboardGroup/ChessboardLayout/PFArrowGroupNode1(Clone)/PFBtnArrow1	1	1				1			-1	Root/Content/ChessboardGroup/ChessboardLayout/PFArrowGroupNode1(Clone)/PFBtnArrow1			0;0;0;0;0;0					32		0;350;0	
+19002	19	2	1		1				1	1	1							-1	Root/Content/StateGroup/ImgBg1	1	2				1			-1	Root/Content/StateGroup/ImgBg1			0;0;0;0;0;0					33		0;400;0	
+21001	21	1	1		1	143			1	1	1							-1	Root/CommonBoardTitle/BtnClose		1				1			-1	Root/CommonBoardTitle/BtnClose			0;0;0;0;0;0	5				34			
+21002	21	2	1		1	22			4	1								-1										-1				2;30_17;-250.4568;873.6838;154;154	6				35			13;131;0
+21003	21	3	1		1	131			6	1								-1										-1				0;0;0;0;0;0	5				36			
+21004	21	4	1		1	131			1	1	1							-1	Root/FontStyleButton		1				1			-1	Root/FontStyleButton				2							
+22001	22	1	1		1	324			1	1	1							-1	Root/Content/PlateGroupMiddle2/FontStyleButton		1				1			-1	Root/Content/PlateGroupMiddle2/FontStyleButton				2							
+23001	23	1	1						1	1	1							-1	Root/UpRightGroup/BtnHighOpinion		1				1			-1	Root/UpRightGroup/BtnHighOpinion				5				37		100;700;0	
+23002	23	2	1		1	89			1	1	1							-1	Root/Container/FontStyleButton		1				1			-1	Root/Container/FontStyleButton				2				38		0;-400;0	
+24001	24	1	1		1	414			1		1							-1	TipsRoot		2				1			-1	TipsRoot/ActivityMapChessIconNumTips(Clone)				2				39		0;-100;0	
+24002	24	2	1		1	414			1		1							-1	Root/UpGroup/SliderGroup/BtnTask		1				1			-1	Root/UpGroup/SliderGroup/BtnTask				2				40		0;600;0	
+24003	24	3	1		1	415			1		2		3				1		Root/ScrollView;BtnPoint		1				2	3	1		Root/ScrollView;BtnPoint				2			435.11;-154.3	41	1	-500;100;0	
+25001	25	1	1		1	20			1		1							-1	Root/InformationGroup/BtnWarehouse		1				1			-1	Root/InformationGroup/BtnWarehouse				2	1			44		0;-500;0	
+25002	25	2	1		1	21			1		1							-1	Root/Container/Content/Tab/BtnRight		1				1			-1	Root/Container/Content/Tab/BtnRight				2				45			
+25003	25	3	1		1	21			1		1							-1	Root/Container/MasterPieceGroup/CraftPanel		1				1			-1	Root/Container/MasterPieceGroup/CraftPanel								46		0;-100;0	
+26001	26	1	1	1	1	20			7	1								-1										-1					5				42		0;-800;0	20;0;0
+26002	26	2	1		1	20			1		1							-1	Root/InformationGroup/BtnWarehouse		1				1			-1	Root/InformationGroup/BtnWarehouse				2				43		0;-400;0	
+26003	26	3	1		1	21			1		1							-1	Root/Container/Content/Tab/BtnRight		1				1			-1	Root/Container/Content/Tab/BtnRight				5				44			
+27001	27	1	1	1	1	1405			8	1								-1		1								-1		1;0;5;83501;0;0;0;2			5				47		0;563;0	
+27002	27	2	1	1	1	1405			8	1								-1										-1		2;0;5;83501;0;0;0;1			3				48		0;563;0	22;83501;0
+28001	28	1	1	1	1	1405			8	1								-1		1								-1		1;0;5;83601;0;0;0;2			5				49		0;563;0	
+28002	28	2	1	1	1	1405			8	1								-1										-1		1;0;5;83601;0;0;0;2			2				50		0;563;0	22;83601;0
+29001	29	1	1	1	1	1405			1	1	1							-1	Root/CommonBoardNode/MonsterBossGroup	1	1				1			-1	Root/CommonBoardNode/MonsterBossGroup				5				56		0;263;0	6;0;0
+29002	29	2	1	1	1	1405			1	3	1							-1	Root	1	2				1			-1	Root/CommonBoardTitle/TextDesc				2				57			
+30001	30	1	1		1	1405			1	1	1	1				();();(-319.29;168.5);(328.31;501.1);(4.51;334.8;0);();(1.7;1.7;1.7)		-1	Root/CommonBoardNode	1	2	1			1			-1									51			
+30002	30	2	1		1	1405			1	1	1	1				();();(-438.2;162.345);(-252.6;455.055);(-345.4;308.7;0);();(1.7;1.7;1.7)		-1	Root/CommonBoardNode	1	2	1			1			-1	Root/CommonBoardNode/MonsterNormalGroup1								52			
+30003	30	3	1	1	1	1405			8	1								-1										-1		2;0;5;0;0;0;0;1			3				53		0;563;0	23;0;0
+30004	30	4	1		1	1405			1	1	1	1				();();(-499.85;78.79999);(-182.15;534);(-341;306.4;0);();()		-1	Root/CommonBoardNode	1	2				1			-1	Root/CommonBoardNode								54			
+30005	30	5	1		1	1405			1	1	1							-1	Root/Content/PropConsumGroup	1	2				1			-1	Root/Content/PropConsumGroup								55		0;-400;0	

@@ -1,0 +1,22 @@
+import fs from 'node:fs/promises';import path from 'node:path';import assert from 'node:assert/strict';import{createRequire}from'node:module';
+const root=path.resolve(import.meta.dirname,'..'),out=path.join(root,'outputs/jiangdong-c-check'),{chromium}=createRequire(import.meta.url)('C:/Users/zhfzhang/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'}),ctx=await browser.newContext({viewport:{width:375,height:812}}),page=await ctx.newPage(),errors=[],missing=[],checks=[];
+page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400&&!r.url().endsWith('favicon.ico'))missing.push(r.url());});
+async function open(){await page.waitForFunction(()=>window.__SHIN);await page.evaluate(()=>__SHIN.showBuild());await page.waitForSelector('.construction-screen',{timeout:90000});await page.evaluate(()=>__SHIN.construction.ready);}
+async function drive(choice=false){const deadline=Date.now()+150000;while(Date.now()<deadline){const s=await page.evaluate(choice=>{const c=__SHIN.construction;if(c.lastError)return{error:{message:c.lastError.message,context:c.lastError.context}};if(choice&&c.resolveChoice)return{choice:true};if(!c.busy)return{done:true};if(c.resolveChoice&&!c.confirming){void c.action('construction:skin:1');void c.action('construction:confirm');}else{const h=c.story.active?.host;if(h){const b=h.querySelector('[aria-label="跳过剧情"]');if(b){b.click();b.click();}else{const claim=h.querySelector('[data-story-action="claim-level"]');if(claim)claim.click();else if(c.story.active?.name==='CommonRewardPopWinDialog')h.click();}}}return{};},choice);if(s.error)throw Error(JSON.stringify(s.error));if(s.choice||s.done)return s;await page.waitForTimeout(100);}throw Error('Construction plot timed out');}
+try{
+ await page.goto('http://127.0.0.1:3577/',{waitUntil:'networkidle'});await open();assert.equal(await page.evaluate(()=>__SHIN.construction.scene.data.artSkin),'jiangdong-c');
+ for(let id=1;id<=10;id++){
+  await page.evaluate(()=>__SHIN.construction.action('construction:task'));await page.evaluate(()=>__SHIN.construction.taskContentReady);await page.waitForFunction(()=>document.querySelector('[data-unity="TaskDailog"]')?.dataset.originalUIMotion==='complete');
+  const before=await page.evaluate(()=>{const c=__SHIN.construction;return{quest:c.progress.questId,cost:c.progress.cost,coins:c.engine.state.coins};});assert.equal(before.quest,id);
+  await page.locator('[data-action="construction:select"]').click();
+  if(id===1){assert((await drive(true)).choice);const charged=await page.evaluate(()=>__SHIN.engine.state.coins);assert.equal(charged,before.coins-before.cost);
+   for(const style of[1,2,3]){await page.locator('[data-action="construction:skin:'+style+'"]').click();assert.equal(await page.evaluate(()=>__SHIN.engine.state.coins),charged);}
+   await page.reload({waitUntil:'networkidle'});await open();assert((await drive(true)).choice);assert.equal(await page.evaluate(()=>__SHIN.engine.state.coins),charged);
+  }
+  await drive();const after=await page.evaluate(()=>{const c=__SHIN.construction;return{quest:c.progress.questId,view:c.progress.state.viewQuestId,pending:c.progress.pending,coins:c.engine.state.coins,exp:c.progress.state.mainExp,skins:c.progress.state.skins};});assert.equal(after.quest,id+1);assert.equal(after.view,id+1);assert(!after.pending);assert.equal(after.coins,before.coins-before.cost);checks.push({id,cost:before.cost,...after});console.log('C版实际施工 '+id+' / 10');
+ }
+ await page.reload({waitUntil:'networkidle'});await open();assert.equal(await page.evaluate(()=>__SHIN.construction.progress.questId),11);await page.evaluate(()=>__SHIN.construction.scene.readyImages());await page.screenshot({path:path.join(out,'real-flow-ten.png')});
+ await page.goto('http://127.0.0.1:3577/?constructionSkin=original',{waitUntil:'networkidle'});await open();assert.equal(await page.evaluate(()=>__SHIN.construction.scene.data.artSkin),undefined);assert.equal(await page.evaluate(()=>__SHIN.construction.progress.questId),11);assert.deepEqual(errors,[]);assert.deepEqual(missing,[]);
+ await fs.writeFile(path.join(out,'flow-verification.json'),JSON.stringify({status:'passed',checks,resumeWithoutDoubleCharge:true,defaultSkin:true,originalFallback:true,errors,missing,userSave:'independent browser context; no live save mutation'},null,2));console.log('实际十步施工、刷新续接及原版切换通过');
+}finally{await browser.close();}

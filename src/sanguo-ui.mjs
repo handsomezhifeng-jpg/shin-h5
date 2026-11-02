@@ -4,7 +4,7 @@ const ROOT='assets/scene/skins/sanguo/';
 export const SANGUO_UI_ASSETS=['ui-icons-v6.png','ui-panel-v6.png','notification-bell-v8.png','build-courtyard-v9.png','milestone-banner-v9.png','parchment-panel-v9.png','treasure-cabinet-v10.png','chance-scenes-v10.png'].map(name=>ROOT+name);
 // A skin only: original FGUI hit areas, controllers and live game values remain authoritative.
 export class SanguoUI {
- static async load(){const skin=new SanguoUI(),frames=await loadSpriteAtlas(ROOT+'ui-icons-v6.png',4,4);skin.icons=frames.map(f=>f.canvas.toDataURL());skin.sceneShield=frames[5].canvas;skin.windows=await SanguoWindows.load(skin.icons);return skin;}
+ static async load(){const skin=new SanguoUI(),frames=await loadSpriteAtlas(ROOT+'ui-icons-v6.png',4,4);skin.icons=frames.map(f=>f.canvas.toDataURL());skin.sceneShield=frames[2].canvas;skin.windows=await SanguoWindows.load(skin.icons);return skin;}
  install(ui){this.ui=ui;this.windows.install(ui);const set=ui.setImage.bind(ui);ui.setImage=(el,url,res,contain=true)=>{let icon=-1;const name=el?.dataset.name;
   if(el?.closest('[data-name="topMoeny"]')&&['icon','icon_money','n6'].includes(name))icon=0;
   if(el?.closest('[data-name="topKbMini"]')&&['icon','icon_money','n6'].includes(name))icon=1;
@@ -14,7 +14,7 @@ export class SanguoUI {
   return set(el,icon<0?url:this.icons[icon],icon<0?res:null,icon<0?contain:true);
  };}
  image(index){const img=document.createElement('img');img.src=this.icons[index];img.alt='';img.className='sanguo-ui-icon';return img;}
- mount(main){main.classList.add('sanguo-ui');const ui=this.ui;
+ mount(main){main.classList.add('sanguo-ui','ink-ui');const ui=this.ui;
   const fill=document.createElement('div');fill.className='sanguo-bottom-fill';main.fgContent.prepend(fill);
   const plate=document.createElement('img');plate.src=ROOT+'ui-panel-v6.png';plate.className='sanguo-bottom-plate';plate.alt='';fill.after(plate);
   for(const [path,index]of [['btn_guild',3],['btn_build',4],['btn_draw',5],['btn_friend',6]]){const n=ui.find(main,path);n.classList.add('sanguo-icon-button');n.append(this.image(index));}

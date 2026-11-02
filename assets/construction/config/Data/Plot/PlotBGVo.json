@@ -1,0 +1,23 @@
+{
+  "source": "assets/SettingV2/Data/Plot/PlotBGVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "bgPath",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 1,
+  "tsvSha256": "d2c8564f5a496f2cf5d8edaccf146152c914fd24d8cabdbac54a37711d33024c",
+  "rows": [
+    {
+      "id": 1,
+      "bgPath": "58:story_bg_9900001",
+      "status": 1
+    }
+  ]
+}

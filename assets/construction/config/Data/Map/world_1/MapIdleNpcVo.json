@@ -1,0 +1,128 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/MapIdleNpcVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "unitId",
+    "npcIds",
+    "actionNames",
+    "type",
+    "pointId",
+    "pointNum",
+    "unlockType",
+    "unlockNum",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 8,
+  "tsvSha256": "36475592eae0d39aae73580e879f29a63aa48f061cba5ec04b229e22b3025529",
+  "rows": [
+    {
+      "id": 1,
+      "unitId": "0_11754",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 1,
+      "unlockType": 4,
+      "unlockNum": 9,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "unitId": "0_11753",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 1,
+      "unlockType": 4,
+      "unlockNum": 9,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "unitId": "0_11749",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 2,
+      "unlockType": 4,
+      "unlockNum": 9,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "unitId": "0_13010",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 2,
+      "unlockType": 4,
+      "unlockNum": 9,
+      "status": 1
+    },
+    {
+      "id": 5,
+      "unitId": "1_11776",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 1,
+      "unlockType": 4,
+      "unlockNum": 31,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "unitId": "4_13013",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 2,
+      "unlockType": 4,
+      "unlockNum": 31,
+      "status": 1
+    },
+    {
+      "id": 8,
+      "unitId": "2_11515",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 1,
+      "unlockType": 4,
+      "unlockNum": 15,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "unitId": "2_10492",
+      "npcIds": "1028;1029;1030",
+      "actionNames": "snack,tea;snack,tea;snack,tea",
+      "type": 1,
+      "pointId": "",
+      "pointNum": 1,
+      "unlockType": 4,
+      "unlockNum": 16,
+      "status": 1
+    }
+  ]
+}

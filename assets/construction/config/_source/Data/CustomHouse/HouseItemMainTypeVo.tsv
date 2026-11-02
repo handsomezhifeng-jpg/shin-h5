@@ -1,0 +1,6 @@
+id	index	icon	status	name	name_zh_CN
+int	int	int	int	int	int
+1	1	52:build_icon_first_tab_1	1	家具	家具
+2	2	52:build_icon_first_tab_2	1	墙面	墙面
+3	3	52:build_icon_first_tab_3	1	地面	地面
+4	4	52:build_icon_first_tab_4	1	装修	装修

@@ -1,0 +1,64 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/UnitInteractVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "unitId",
+    "skinId",
+    "clickEventType",
+    "clickEventParams",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 5,
+  "tsvSha256": "f63a37ea124edddd63ff0079cfaa3725690ec7b8d3eb14028e78021da3f46eb6",
+  "rows": [
+    {
+      "id": 1,
+      "unitId": "0_13218",
+      "skinId": 1,
+      "clickEventType": 1,
+      "clickEventParams": "",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "unitId": "10_9",
+      "skinId": 10,
+      "clickEventType": 1,
+      "clickEventParams": "",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "unitId": "0_12265",
+      "skinId": 1,
+      "clickEventType": 1,
+      "clickEventParams": "",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "unitId": "55_20",
+      "skinId": 1,
+      "clickEventType": 1,
+      "clickEventParams": "",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "unitId": "10_9",
+      "skinId": 11,
+      "clickEventType": 1,
+      "clickEventParams": "",
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "source": "assets/SettingV2/Data/Plot/DialogueFxVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "desc",
+    "fxPath",
+    "fxDuration",
+    "fxType",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 1,
+  "tsvSha256": "fb26128cc7585ab9714409c83315ab85c0bcb67cb5cd0e34f3ce7156e5a5551b",
+  "rows": [
+    {
+      "id": 1,
+      "desc": "耳光",
+      "fxPath": "31:slap",
+      "fxDuration": 0.5,
+      "fxType": 2,
+      "status": 1
+    }
+  ]
+}

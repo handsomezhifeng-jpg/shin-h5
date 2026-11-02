@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "tool": "built-in image_gen",
+  "reference": "经验/知识库/美术方案/三国棋盘/定版/市井中央地块入版-2026-11-02/选定参考.png",
+  "prompt": "market-ground-v1.prompt.txt",
+  "original": "market-ground-v1.png",
+  "runtime": "market-ground-v1.webp",
+  "size": [
+    1254,
+    1254
+  ],
+  "sha256": {
+    "market-ground-v1.png": "135e19924eda9e31fcfee04e38eecaf1186e4e43f5fa5413558f5ce700e0577c",
+    "market-ground-v1.webp": "0406029ebedba34fcfcaf16fabe1fbf143ea9de894e91f58a457e9f7941b066f"
+  },
+  "losslessPixelMatch": true,
+  "implementation": {
+    "plane": "world XZ at y=-0.002, board rotation 45 degrees, scale 0.9",
+    "edge": "opacity feather underneath outer tile row",
+    "tileThickness": "native thickness restored from 0.42 compression; top surfaces unchanged",
+    "shadows": "soft tile footprint contact shadows, batched into one draw call",
+    "centralFund": "central graphic and hit target hidden; existing sidebar collection retained"
+  }
+}

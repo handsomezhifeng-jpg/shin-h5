@@ -1,0 +1,118 @@
+{
+  "source": "assets/SettingV2/Goods/Currency.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "type",
+    "photoId",
+    "photoIdSmall",
+    "status",
+    "name",
+    "name_zh_CN",
+    "desc",
+    "desc_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 8,
+  "tsvSha256": "8e94857461eb28d3290f456aec7c73afa0944a130d5415e9151f197c7c672276",
+  "rows": [
+    {
+      "id": 101,
+      "type": 4,
+      "photoId": "2:goods_icon_101",
+      "photoIdSmall": "2:goods_icon_101_s",
+      "status": 1,
+      "name": "体力",
+      "name_zh_CN": "体力",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 102,
+      "type": 4,
+      "photoId": "2:goods_icon_102",
+      "photoIdSmall": "2:goods_icon_102_s",
+      "status": 1,
+      "name": "铜钱",
+      "name_zh_CN": "铜钱",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 103,
+      "type": 4,
+      "photoId": "2:goods_icon_103",
+      "photoIdSmall": "2:goods_icon_103_s",
+      "status": 1,
+      "name": "红宝石",
+      "name_zh_CN": "红宝石",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 104,
+      "type": 4,
+      "photoId": "2:goods_icon_104",
+      "photoIdSmall": "2:goods_icon_104_s",
+      "status": 1,
+      "name": "pas卡经验值",
+      "name_zh_CN": "pas卡经验值",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 105,
+      "type": 4,
+      "photoId": "2:goods_icon_105",
+      "photoIdSmall": "2:goods_icon_105_s",
+      "status": 1,
+      "name": "好评点",
+      "name_zh_CN": "好评点",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 106,
+      "type": 4,
+      "photoId": "2:goods_icon_106",
+      "photoIdSmall": "2:goods_icon_106_s",
+      "status": 1,
+      "name": "抖音音符",
+      "name_zh_CN": "抖音音符",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 107,
+      "type": 4,
+      "photoId": "2:goods_icon_107",
+      "photoIdSmall": "2:goods_icon_107_s",
+      "status": 1,
+      "name": "装修券",
+      "name_zh_CN": "装修券",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 108,
+      "type": 4,
+      "photoId": "2:goods_icon_108",
+      "photoIdSmall": "2:goods_icon_108_s",
+      "status": 1,
+      "name": "超级好评点",
+      "name_zh_CN": "超级好评点",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    }
+  ]
+}

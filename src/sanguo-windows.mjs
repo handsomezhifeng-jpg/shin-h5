@@ -13,7 +13,7 @@ export class SanguoWindows{
   const action=ui.action.bind(ui);ui.action=(root,path,code,label)=>action(root,path,code,label===undefined?label:this.text(label));
   const component=ui.component.bind(ui);ui.component=(pkg,id,options,depth)=>{const v=component(pkg,id,options,depth),name=ui.resource(pkg,id)?.name||'';v.classList.add('sanguo-window-skin');if(/PlayerInfoWindow/.test(name))v.classList.add('sanguo-profile-window');return v;};
  }
- text(value){let text=String(value);for(const[from,to]of [['欢迎来到春日部','蜀地新城'],['春日部','蜀地'],['防卫队','军团'],['小新（本机）','主公（本机）'],['小新','主公'],['幼儿园巴士格','驿站格'],['幼儿园','书院'],['动感超人','武将'],['巧克比','军粮'],['埼玉红蝎队','巡城军'],['松坂老师','先生'],['阿呆','友人'],['广志','老将'],['蜡笔森林','山林'],['小白','灵犬'],['电视节目','集市演出'],['秋田','故乡'],['扭蛋','宝匣'],['美金','铜钱']])text=text.replaceAll(from,to);return text;}
+ text(value){let text=String(value);for(const[from,to]of [['欢迎来到春日部','蜀地新城'],['春日部','蜀地'],['防卫队','军团'],['小新（本机）','张宁（本机）'],['小新','张宁'],['幼儿园巴士格','驿站格'],['幼儿园','书院'],['动感超人','武将'],['巧克比','军粮'],['埼玉红蝎队','巡城军'],['松坂老师','先生'],['阿呆','友人'],['广志','老将'],['蜡笔森林','山林'],['小白','灵犬'],['电视节目','集市演出'],['秋田','故乡'],['扭蛋','宝匣'],['美金','铜钱']])text=text.replaceAll(from,to);return text;}
  image(name,url,el){const icon=i=>this.icons[i],panel=()=>{el?.classList.add('sanguo-panel-image');return ROOT+'parchment-panel-v9.png';};
   const title=text=>{if(el){el.dataset.sanguoTitle=text;el.classList.add('sanguo-event-title');}return CLEAR;};
   if(String(url).includes('/scene/chance/')){if(name==='title.png')return title('机缘');const card=(window.GAME_DATA?.chances||[]).find(c=>String(url).endsWith(c.pic+'_01.png'));const frame=card?(card.type===2?1:[5,6].includes(card.type)?2:[3,4].includes(card.type)?3:0):0;return this.chance[frame];}

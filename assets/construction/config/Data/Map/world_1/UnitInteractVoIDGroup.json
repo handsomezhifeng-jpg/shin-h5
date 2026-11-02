@@ -1,0 +1,43 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/UnitInteractVoIDGroup.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "ids",
+    "status"
+  ],
+  "declaredTypes": [
+    "string",
+    "string",
+    "int"
+  ],
+  "rowCount": 5,
+  "tsvSha256": "152d07a421f026e004050adf72c4e32790c27de09ded326ef30631d108fda8c6",
+  "rows": [
+    {
+      "id": "0_13218_1",
+      "ids": 1,
+      "status": 1
+    },
+    {
+      "id": "10_9_10",
+      "ids": 2,
+      "status": 1
+    },
+    {
+      "id": "0_12265_1",
+      "ids": 3,
+      "status": 1
+    },
+    {
+      "id": "55_20_1",
+      "ids": 4,
+      "status": 1
+    },
+    {
+      "id": "10_9_11",
+      "ids": 5,
+      "status": 1
+    }
+  ]
+}

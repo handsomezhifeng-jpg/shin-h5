@@ -1,0 +1,6604 @@
+{
+  "stageId": 38,
+  "plans": [
+    {
+      "questId": 1584,
+      "stageId": 38,
+      "plotId": 101584,
+      "name": "注意事项",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 1,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330100,
+          "performParams": "",
+          "rowIds": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "stepId": 2,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133011,
+          "performParams": "",
+          "rowIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "stepId": 3,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330101,
+          "performParams": "",
+          "rowIds": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "stepId": 4,
+          "subId": 4,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2205,2206",
+          "unlockIndexes": [
+            2205,
+            2206
+          ],
+          "unitIds": [
+            "44_16",
+            "44_17"
+          ]
+        },
+        {
+          "stepId": 5,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330102,
+          "performParams": "",
+          "rowIds": [
+            10
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1585,
+      "stageId": 38,
+      "plotId": 101585,
+      "name": "新的开始",
+      "chapter": 133,
+      "coinConsume": 360,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 6,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330200,
+          "performParams": "",
+          "rowIds": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "stepId": 7,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133021,
+          "performParams": "",
+          "rowIds": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "stepId": 8,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330201,
+          "performParams": "",
+          "rowIds": [
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "stepId": 9,
+          "subId": 4,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2207",
+          "unlockIndexes": [
+            2207
+          ],
+          "unitIds": [
+            "44_20"
+          ]
+        },
+        {
+          "stepId": 10,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330202,
+          "performParams": "",
+          "rowIds": [
+            20
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1586,
+      "stageId": 38,
+      "plotId": 101586,
+      "name": "百家灯火",
+      "chapter": 133,
+      "coinConsume": 360,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 15,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330300,
+          "performParams": "",
+          "rowIds": [
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "stepId": 16,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133031,
+          "performParams": "",
+          "rowIds": [
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "stepId": 17,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330301,
+          "performParams": "",
+          "rowIds": [
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "stepId": 18,
+          "subId": 4,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2208,2209",
+          "unlockIndexes": [
+            2208,
+            2209
+          ],
+          "unitIds": [
+            "44_18",
+            "44_19"
+          ]
+        },
+        {
+          "stepId": 19,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330302,
+          "performParams": "",
+          "rowIds": [
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "stepId": 20,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133032,
+          "performParams": "",
+          "rowIds": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "stepId": 21,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330303,
+          "performParams": "",
+          "rowIds": [
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "stepId": 22,
+          "subId": 8,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133033,
+          "performParams": "",
+          "rowIds": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "stepId": 23,
+          "subId": 9,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330304,
+          "performParams": "",
+          "rowIds": [
+            169,
+            170
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1587,
+      "stageId": 38,
+      "plotId": 101587,
+      "name": "云开见天",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 11,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330400,
+          "performParams": "",
+          "rowIds": [
+            21,
+            22,
+            23,
+            47
+          ]
+        },
+        {
+          "stepId": 12,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133041,
+          "performParams": "",
+          "rowIds": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ]
+        },
+        {
+          "stepId": 13,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330401,
+          "performParams": "",
+          "rowIds": [
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "stepId": 14,
+          "subId": 4,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2210",
+          "unlockIndexes": [
+            2210
+          ],
+          "unitIds": [
+            "44_11"
+          ]
+        },
+        {
+          "stepId": 24,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330402,
+          "performParams": "",
+          "rowIds": [
+            51
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1588,
+      "stageId": 38,
+      "plotId": 101588,
+      "name": "善报因果",
+      "chapter": 133,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 25,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330500,
+          "performParams": "",
+          "rowIds": [
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "stepId": 26,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133051,
+          "performParams": "",
+          "rowIds": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ]
+        },
+        {
+          "stepId": 27,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330501,
+          "performParams": "",
+          "rowIds": [
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "stepId": 28,
+          "subId": 4,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2211",
+          "unlockIndexes": [
+            2211
+          ],
+          "unitIds": [
+            "44_14"
+          ]
+        },
+        {
+          "stepId": 29,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330502,
+          "performParams": "",
+          "rowIds": [
+            59
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1589,
+      "stageId": 38,
+      "plotId": 101589,
+      "name": "心之道",
+      "chapter": 133,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 30,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330600,
+          "performParams": "",
+          "rowIds": [
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "stepId": 31,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133061,
+          "performParams": "",
+          "rowIds": [
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ]
+        },
+        {
+          "stepId": 32,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330601,
+          "performParams": "",
+          "rowIds": [
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "stepId": 33,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133062,
+          "performParams": "",
+          "rowIds": [
+            102,
+            103,
+            104,
+            105
+          ]
+        },
+        {
+          "stepId": 34,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330602,
+          "performParams": "",
+          "rowIds": [
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "stepId": 35,
+          "subId": 6,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2212",
+          "unlockIndexes": [
+            2212
+          ],
+          "unitIds": [
+            "44_21"
+          ]
+        },
+        {
+          "stepId": 36,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330603,
+          "performParams": "",
+          "rowIds": [
+            70
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1590,
+      "stageId": 38,
+      "plotId": 101590,
+      "name": "山神乍现",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 37,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330700,
+          "performParams": "",
+          "rowIds": [
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "stepId": 38,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133071,
+          "performParams": "",
+          "rowIds": [
+            106,
+            107
+          ]
+        },
+        {
+          "stepId": 39,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330701,
+          "performParams": "",
+          "rowIds": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "stepId": 40,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133072,
+          "performParams": "",
+          "rowIds": [
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        },
+        {
+          "stepId": 41,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330702,
+          "performParams": "",
+          "rowIds": [
+            83,
+            171
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1591,
+      "stageId": 38,
+      "plotId": 101591,
+      "name": "万物化醇",
+      "chapter": 133,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 42,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330800,
+          "performParams": "",
+          "rowIds": [
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "stepId": 43,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133081,
+          "performParams": "",
+          "rowIds": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "stepId": 44,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330801,
+          "performParams": "",
+          "rowIds": [
+            87,
+            88,
+            89
+          ]
+        },
+        {
+          "stepId": 45,
+          "subId": 4,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2213",
+          "unlockIndexes": [
+            2213
+          ],
+          "unitIds": [
+            "44_22"
+          ]
+        },
+        {
+          "stepId": 46,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330802,
+          "performParams": "",
+          "rowIds": [
+            90,
+            91
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1592,
+      "stageId": 38,
+      "plotId": 101592,
+      "name": "不期而然",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 47,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330900,
+          "performParams": "",
+          "rowIds": [
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "stepId": 48,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133091,
+          "performParams": "",
+          "rowIds": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151
+          ]
+        },
+        {
+          "stepId": 49,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330901,
+          "performParams": "",
+          "rowIds": [
+            95,
+            96
+          ]
+        },
+        {
+          "stepId": 50,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330902,
+          "performParams": "",
+          "rowIds": [
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "stepId": 51,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2214",
+          "unlockIndexes": [
+            2214
+          ],
+          "unitIds": [
+            "44_23"
+          ]
+        },
+        {
+          "stepId": 52,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1330903,
+          "performParams": "",
+          "rowIds": [
+            100,
+            101
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1593,
+      "stageId": 38,
+      "plotId": 101593,
+      "name": "护身气运",
+      "chapter": 133,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 53,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331000,
+          "performParams": "",
+          "rowIds": [
+            102,
+            103,
+            104
+          ]
+        },
+        {
+          "stepId": 54,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133101,
+          "performParams": "",
+          "rowIds": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ]
+        },
+        {
+          "stepId": 55,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331001,
+          "performParams": "",
+          "rowIds": [
+            105,
+            106
+          ]
+        },
+        {
+          "stepId": 56,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331002,
+          "performParams": "",
+          "rowIds": [
+            107,
+            108,
+            109
+          ]
+        },
+        {
+          "stepId": 57,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2215",
+          "unlockIndexes": [
+            2215
+          ],
+          "unitIds": [
+            "44_24"
+          ]
+        },
+        {
+          "stepId": 58,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331003,
+          "performParams": "",
+          "rowIds": [
+            110,
+            111
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1594,
+      "stageId": 38,
+      "plotId": 101594,
+      "name": "如有神助",
+      "chapter": 133,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 59,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331100,
+          "performParams": "",
+          "rowIds": [
+            112,
+            113,
+            114,
+            115
+          ]
+        },
+        {
+          "stepId": 60,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133111,
+          "performParams": "",
+          "rowIds": [
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+          ]
+        },
+        {
+          "stepId": 61,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331101,
+          "performParams": "",
+          "rowIds": [
+            116,
+            117
+          ]
+        },
+        {
+          "stepId": 62,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331102,
+          "performParams": "",
+          "rowIds": [
+            118
+          ]
+        },
+        {
+          "stepId": 63,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2216",
+          "unlockIndexes": [
+            2216
+          ],
+          "unitIds": [
+            "44_25"
+          ]
+        },
+        {
+          "stepId": 64,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331103,
+          "performParams": "",
+          "rowIds": [
+            119
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1595,
+      "stageId": 38,
+      "plotId": 101595,
+      "name": "虚招与实招",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 65,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331200,
+          "performParams": "",
+          "rowIds": [
+            120,
+            121,
+            122,
+            123
+          ]
+        },
+        {
+          "stepId": 66,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133121,
+          "performParams": "",
+          "rowIds": [
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+          ]
+        },
+        {
+          "stepId": 67,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331201,
+          "performParams": "",
+          "rowIds": [
+            124,
+            125
+          ]
+        },
+        {
+          "stepId": 68,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331202,
+          "performParams": "",
+          "rowIds": [
+            126
+          ]
+        },
+        {
+          "stepId": 69,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2217",
+          "unlockIndexes": [
+            2217
+          ],
+          "unitIds": [
+            "44_26"
+          ]
+        },
+        {
+          "stepId": 70,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331203,
+          "performParams": "",
+          "rowIds": [
+            127
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1596,
+      "stageId": 38,
+      "plotId": 101596,
+      "name": "鱼龙混杂",
+      "chapter": 133,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 71,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331300,
+          "performParams": "",
+          "rowIds": [
+            128,
+            129,
+            130,
+            131
+          ]
+        },
+        {
+          "stepId": 72,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133131,
+          "performParams": "",
+          "rowIds": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215
+          ]
+        },
+        {
+          "stepId": 73,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331301,
+          "performParams": "",
+          "rowIds": [
+            132,
+            133
+          ]
+        },
+        {
+          "stepId": 74,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331302,
+          "performParams": "",
+          "rowIds": [
+            134
+          ]
+        },
+        {
+          "stepId": 75,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2218",
+          "unlockIndexes": [
+            2218
+          ],
+          "unitIds": [
+            "44_27"
+          ]
+        },
+        {
+          "stepId": 76,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331303,
+          "performParams": "",
+          "rowIds": [
+            135
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1597,
+      "stageId": 38,
+      "plotId": 101597,
+      "name": "反其道而行",
+      "chapter": 133,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 77,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331400,
+          "performParams": "",
+          "rowIds": [
+            136,
+            137,
+            138,
+            139
+          ]
+        },
+        {
+          "stepId": 78,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133141,
+          "performParams": "",
+          "rowIds": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229
+          ]
+        },
+        {
+          "stepId": 79,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331401,
+          "performParams": "",
+          "rowIds": [
+            140,
+            141
+          ]
+        },
+        {
+          "stepId": 80,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331402,
+          "performParams": "",
+          "rowIds": [
+            142,
+            143,
+            144
+          ]
+        },
+        {
+          "stepId": 81,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2219",
+          "unlockIndexes": [
+            2219
+          ],
+          "unitIds": [
+            "44_28"
+          ]
+        },
+        {
+          "stepId": 82,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331403,
+          "performParams": "",
+          "rowIds": [
+            145,
+            146
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1598,
+      "stageId": 38,
+      "plotId": 101598,
+      "name": "好戏待幕",
+      "chapter": 133,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 83,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331500,
+          "performParams": "",
+          "rowIds": [
+            147,
+            148,
+            149,
+            150
+          ]
+        },
+        {
+          "stepId": 84,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133151,
+          "performParams": "",
+          "rowIds": [
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245
+          ]
+        },
+        {
+          "stepId": 85,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331501,
+          "performParams": "",
+          "rowIds": [
+            151,
+            152
+          ]
+        },
+        {
+          "stepId": 86,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331502,
+          "performParams": "",
+          "rowIds": [
+            153,
+            154,
+            155
+          ]
+        },
+        {
+          "stepId": 87,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2220",
+          "unlockIndexes": [
+            2220
+          ],
+          "unitIds": [
+            "44_29"
+          ]
+        },
+        {
+          "stepId": 88,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331503,
+          "performParams": "",
+          "rowIds": [
+            156,
+            157
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1599,
+      "stageId": 38,
+      "plotId": 101599,
+      "name": "证明演技",
+      "chapter": 133,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 89,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331600,
+          "performParams": "",
+          "rowIds": [
+            158,
+            159,
+            160,
+            161
+          ]
+        },
+        {
+          "stepId": 90,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10133161,
+          "performParams": "",
+          "rowIds": [
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ]
+        },
+        {
+          "stepId": 91,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331601,
+          "performParams": "",
+          "rowIds": [
+            162,
+            163
+          ]
+        },
+        {
+          "stepId": 92,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331602,
+          "performParams": "",
+          "rowIds": [
+            164,
+            165,
+            166
+          ]
+        },
+        {
+          "stepId": 93,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2221",
+          "unlockIndexes": [
+            2221
+          ],
+          "unitIds": [
+            "44_30"
+          ]
+        },
+        {
+          "stepId": 94,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1331603,
+          "performParams": "",
+          "rowIds": [
+            167,
+            168
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1600,
+      "stageId": 38,
+      "plotId": 101600,
+      "name": "明亮赤诚",
+      "chapter": 134,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 95,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340100,
+          "performParams": "",
+          "rowIds": [
+            172,
+            173,
+            174,
+            175
+          ]
+        },
+        {
+          "stepId": 96,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134011,
+          "performParams": "",
+          "rowIds": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ]
+        },
+        {
+          "stepId": 97,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340101,
+          "performParams": "",
+          "rowIds": [
+            176,
+            177,
+            178
+          ]
+        },
+        {
+          "stepId": 98,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340102,
+          "performParams": "",
+          "rowIds": [
+            179
+          ]
+        },
+        {
+          "stepId": 99,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2222",
+          "unlockIndexes": [
+            2222
+          ],
+          "unitIds": [
+            "44_31"
+          ]
+        },
+        {
+          "stepId": 100,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340103,
+          "performParams": "",
+          "rowIds": [
+            180
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1601,
+      "stageId": 38,
+      "plotId": 101601,
+      "name": "细心准备",
+      "chapter": 134,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 101,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340200,
+          "performParams": "",
+          "rowIds": [
+            181,
+            182,
+            183
+          ]
+        },
+        {
+          "stepId": 102,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134021,
+          "performParams": "",
+          "rowIds": [
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298
+          ]
+        },
+        {
+          "stepId": 103,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340201,
+          "performParams": "",
+          "rowIds": [
+            184
+          ]
+        },
+        {
+          "stepId": 104,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340202,
+          "performParams": "",
+          "rowIds": [
+            185
+          ]
+        },
+        {
+          "stepId": 105,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2223",
+          "unlockIndexes": [
+            2223
+          ],
+          "unitIds": [
+            "44_32"
+          ]
+        },
+        {
+          "stepId": 106,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340203,
+          "performParams": "",
+          "rowIds": [
+            186
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1602,
+      "stageId": 38,
+      "plotId": 101602,
+      "name": "万事从慎",
+      "chapter": 134,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 107,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340300,
+          "performParams": "",
+          "rowIds": [
+            187,
+            188
+          ]
+        },
+        {
+          "stepId": 108,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134031,
+          "performParams": "",
+          "rowIds": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314
+          ]
+        },
+        {
+          "stepId": 109,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340301,
+          "performParams": "",
+          "rowIds": [
+            189
+          ]
+        },
+        {
+          "stepId": 110,
+          "subId": 4,
+          "type": 12,
+          "kind": "bgm",
+          "performId": 1,
+          "performParams": ""
+        },
+        {
+          "stepId": 111,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340302,
+          "performParams": "",
+          "rowIds": [
+            190
+          ]
+        },
+        {
+          "stepId": 184,
+          "subId": 6,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2224",
+          "unlockIndexes": [
+            2224
+          ],
+          "unitIds": [
+            "44_33"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1603,
+      "stageId": 38,
+      "plotId": 101603,
+      "name": "女子不易",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 112,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340400,
+          "performParams": "",
+          "rowIds": [
+            191,
+            192
+          ]
+        },
+        {
+          "stepId": 113,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134041,
+          "performParams": "",
+          "rowIds": [
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ]
+        },
+        {
+          "stepId": 114,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340401,
+          "performParams": "",
+          "rowIds": [
+            193
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1604,
+      "stageId": 38,
+      "plotId": 101604,
+      "name": "改观",
+      "chapter": 134,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 115,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340500,
+          "performParams": "",
+          "rowIds": [
+            194,
+            195,
+            196
+          ]
+        },
+        {
+          "stepId": 116,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134051,
+          "performParams": "",
+          "rowIds": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350
+          ]
+        },
+        {
+          "stepId": 117,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340501,
+          "performParams": "",
+          "rowIds": [
+            197
+          ]
+        },
+        {
+          "stepId": 118,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340502,
+          "performParams": "",
+          "rowIds": [
+            198,
+            199
+          ]
+        },
+        {
+          "stepId": 119,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2225",
+          "unlockIndexes": [
+            2225
+          ],
+          "unitIds": [
+            "44_34"
+          ]
+        },
+        {
+          "stepId": 120,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340503,
+          "performParams": "",
+          "rowIds": [
+            200
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1605,
+      "stageId": 38,
+      "plotId": 101605,
+      "name": "坚毅之志",
+      "chapter": 134,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 121,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340600,
+          "performParams": "",
+          "rowIds": [
+            201,
+            202,
+            203
+          ]
+        },
+        {
+          "stepId": 122,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134061,
+          "performParams": "",
+          "rowIds": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367
+          ]
+        },
+        {
+          "stepId": 123,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340601,
+          "performParams": "",
+          "rowIds": [
+            204
+          ]
+        },
+        {
+          "stepId": 124,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340602,
+          "performParams": "",
+          "rowIds": [
+            205
+          ]
+        },
+        {
+          "stepId": 125,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2226",
+          "unlockIndexes": [
+            2226
+          ],
+          "unitIds": [
+            "44_35"
+          ]
+        },
+        {
+          "stepId": 126,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340603,
+          "performParams": "",
+          "rowIds": [
+            206
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1606,
+      "stageId": 38,
+      "plotId": 101606,
+      "name": "散沙无形",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 127,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340700,
+          "performParams": "",
+          "rowIds": [
+            207,
+            208,
+            209
+          ]
+        },
+        {
+          "stepId": 128,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134071,
+          "performParams": "",
+          "rowIds": [
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393
+          ]
+        },
+        {
+          "stepId": 129,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340701,
+          "performParams": "",
+          "rowIds": [
+            210
+          ]
+        },
+        {
+          "stepId": 130,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340702,
+          "performParams": "",
+          "rowIds": [
+            211
+          ]
+        },
+        {
+          "stepId": 131,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2227",
+          "unlockIndexes": [
+            2227
+          ],
+          "unitIds": [
+            "44_36"
+          ]
+        },
+        {
+          "stepId": 132,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340703,
+          "performParams": "",
+          "rowIds": [
+            212
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1607,
+      "stageId": 38,
+      "plotId": 101607,
+      "name": "害群之马",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 133,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340800,
+          "performParams": "",
+          "rowIds": [
+            213,
+            214,
+            215
+          ]
+        },
+        {
+          "stepId": 134,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134081,
+          "performParams": "",
+          "rowIds": [
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417
+          ]
+        },
+        {
+          "stepId": 135,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340801,
+          "performParams": "",
+          "rowIds": [
+            216
+          ]
+        },
+        {
+          "stepId": 136,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340802,
+          "performParams": "",
+          "rowIds": [
+            217,
+            218
+          ]
+        },
+        {
+          "stepId": 137,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2228",
+          "unlockIndexes": [
+            2228
+          ],
+          "unitIds": [
+            "44_37"
+          ]
+        },
+        {
+          "stepId": 138,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340803,
+          "performParams": "",
+          "rowIds": [
+            219
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1608,
+      "stageId": 38,
+      "plotId": 101608,
+      "name": "投名状",
+      "chapter": 134,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 139,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340900,
+          "performParams": "",
+          "rowIds": [
+            220,
+            221,
+            222
+          ]
+        },
+        {
+          "stepId": 140,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134091,
+          "performParams": "",
+          "rowIds": [
+            418,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437
+          ]
+        },
+        {
+          "stepId": 141,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340901,
+          "performParams": "",
+          "rowIds": [
+            223
+          ]
+        },
+        {
+          "stepId": 142,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340902,
+          "performParams": "",
+          "rowIds": [
+            224,
+            225
+          ]
+        },
+        {
+          "stepId": 143,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2229",
+          "unlockIndexes": [
+            2229
+          ],
+          "unitIds": [
+            "44_38"
+          ]
+        },
+        {
+          "stepId": 144,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1340903,
+          "performParams": "",
+          "rowIds": [
+            226
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1609,
+      "stageId": 38,
+      "plotId": 101609,
+      "name": "无所收获",
+      "chapter": 134,
+      "coinConsume": 360,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 145,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341000,
+          "performParams": "",
+          "rowIds": [
+            227,
+            228,
+            229
+          ]
+        },
+        {
+          "stepId": 146,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134101,
+          "performParams": "",
+          "rowIds": [
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452
+          ]
+        },
+        {
+          "stepId": 147,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341001,
+          "performParams": "",
+          "rowIds": [
+            230,
+            231
+          ]
+        },
+        {
+          "stepId": 148,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341002,
+          "performParams": "",
+          "rowIds": [
+            232,
+            233
+          ]
+        },
+        {
+          "stepId": 149,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2230,2231",
+          "unlockIndexes": [
+            2230,
+            2231
+          ],
+          "unitIds": [
+            "44_39",
+            "44_40"
+          ]
+        },
+        {
+          "stepId": 150,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341003,
+          "performParams": "",
+          "rowIds": [
+            234
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1610,
+      "stageId": 38,
+      "plotId": 101610,
+      "name": "正式开工",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 151,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341100,
+          "performParams": "",
+          "rowIds": [
+            235,
+            236,
+            237
+          ]
+        },
+        {
+          "stepId": 152,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134111,
+          "performParams": "",
+          "rowIds": [
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460
+          ]
+        },
+        {
+          "stepId": 153,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341101,
+          "performParams": "",
+          "rowIds": [
+            238,
+            239,
+            240,
+            241
+          ]
+        },
+        {
+          "stepId": 154,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134112,
+          "performParams": "",
+          "rowIds": [
+            461,
+            462
+          ]
+        },
+        {
+          "stepId": 155,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341102,
+          "performParams": "",
+          "rowIds": [
+            242,
+            243,
+            244
+          ]
+        },
+        {
+          "stepId": 156,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134113,
+          "performParams": "",
+          "rowIds": [
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472
+          ]
+        },
+        {
+          "stepId": 157,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341103,
+          "performParams": "",
+          "rowIds": [
+            245
+          ]
+        },
+        {
+          "stepId": 158,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341104,
+          "performParams": "",
+          "rowIds": [
+            246
+          ]
+        },
+        {
+          "stepId": 159,
+          "subId": 9,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2232",
+          "unlockIndexes": [
+            2232
+          ],
+          "unitIds": [
+            "44_41"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1611,
+      "stageId": 38,
+      "plotId": 101611,
+      "name": "各有所长",
+      "chapter": 134,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 160,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341200,
+          "performParams": "",
+          "rowIds": [
+            247,
+            248,
+            249,
+            250,
+            251
+          ]
+        },
+        {
+          "stepId": 161,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134121,
+          "performParams": "",
+          "rowIds": [
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479,
+            480,
+            481,
+            482,
+            483,
+            484,
+            485,
+            486,
+            487
+          ]
+        },
+        {
+          "stepId": 162,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341201,
+          "performParams": "",
+          "rowIds": [
+            252,
+            253
+          ]
+        },
+        {
+          "stepId": 163,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341202,
+          "performParams": "",
+          "rowIds": [
+            254,
+            255
+          ]
+        },
+        {
+          "stepId": 164,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2233,2234",
+          "unlockIndexes": [
+            2233,
+            2234
+          ],
+          "unitIds": [
+            "44_42",
+            "44_43"
+          ]
+        },
+        {
+          "stepId": 165,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341203,
+          "performParams": "",
+          "rowIds": [
+            256
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1612,
+      "stageId": 38,
+      "plotId": 101612,
+      "name": "自由选择",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 166,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341300,
+          "performParams": "",
+          "rowIds": [
+            257,
+            258,
+            259,
+            260,
+            261
+          ]
+        },
+        {
+          "stepId": 167,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134131,
+          "performParams": "",
+          "rowIds": [
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508
+          ]
+        },
+        {
+          "stepId": 168,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341301,
+          "performParams": "",
+          "rowIds": [
+            262,
+            263
+          ]
+        },
+        {
+          "stepId": 169,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341302,
+          "performParams": "",
+          "rowIds": [
+            264,
+            265
+          ]
+        },
+        {
+          "stepId": 170,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2235,2236",
+          "unlockIndexes": [
+            2235,
+            2236
+          ],
+          "unitIds": [
+            "44_44",
+            "44_45"
+          ]
+        },
+        {
+          "stepId": 171,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341303,
+          "performParams": "",
+          "rowIds": [
+            266
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1613,
+      "stageId": 38,
+      "plotId": 101613,
+      "name": "粗莽出头鸟",
+      "chapter": 134,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 172,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341400,
+          "performParams": "",
+          "rowIds": [
+            267,
+            268,
+            269,
+            270,
+            271
+          ]
+        },
+        {
+          "stepId": 173,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134141,
+          "performParams": "",
+          "rowIds": [
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527
+          ]
+        },
+        {
+          "stepId": 174,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341401,
+          "performParams": "",
+          "rowIds": [
+            272
+          ]
+        },
+        {
+          "stepId": 175,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341402,
+          "performParams": "",
+          "rowIds": [
+            273,
+            274
+          ]
+        },
+        {
+          "stepId": 176,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2237",
+          "unlockIndexes": [
+            2237
+          ],
+          "unitIds": [
+            "44_12"
+          ]
+        },
+        {
+          "stepId": 177,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341403,
+          "performParams": "",
+          "rowIds": [
+            275
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1614,
+      "stageId": 38,
+      "plotId": 101614,
+      "name": "震慑威压",
+      "chapter": 134,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 178,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341500,
+          "performParams": "",
+          "rowIds": [
+            276,
+            277,
+            278,
+            279,
+            280
+          ]
+        },
+        {
+          "stepId": 179,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10134151,
+          "performParams": "",
+          "rowIds": [
+            528,
+            529,
+            530,
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537,
+            538,
+            539,
+            540,
+            541,
+            542,
+            543,
+            544,
+            545,
+            546,
+            547
+          ]
+        },
+        {
+          "stepId": 180,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341501,
+          "performParams": "",
+          "rowIds": [
+            281
+          ]
+        },
+        {
+          "stepId": 181,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341502,
+          "performParams": "",
+          "rowIds": [
+            282,
+            283
+          ]
+        },
+        {
+          "stepId": 182,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2238",
+          "unlockIndexes": [
+            2238
+          ],
+          "unitIds": [
+            "44_15"
+          ]
+        },
+        {
+          "stepId": 183,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1341503,
+          "performParams": "",
+          "rowIds": [
+            284
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1615,
+      "stageId": 38,
+      "plotId": 101615,
+      "name": "拿人七寸",
+      "chapter": 135,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 185,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350100,
+          "performParams": "",
+          "rowIds": [
+            285,
+            286,
+            287,
+            288,
+            289
+          ]
+        },
+        {
+          "stepId": 186,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135011,
+          "performParams": "",
+          "rowIds": [
+            548,
+            549,
+            550,
+            551,
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563
+          ]
+        },
+        {
+          "stepId": 187,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350101,
+          "performParams": "",
+          "rowIds": [
+            290
+          ]
+        },
+        {
+          "stepId": 188,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350102,
+          "performParams": "",
+          "rowIds": [
+            291,
+            292
+          ]
+        },
+        {
+          "stepId": 189,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2239",
+          "unlockIndexes": [
+            2239
+          ],
+          "unitIds": [
+            "44_46"
+          ]
+        },
+        {
+          "stepId": 190,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350103,
+          "performParams": "",
+          "rowIds": [
+            293
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1616,
+      "stageId": 38,
+      "plotId": 101616,
+      "name": "未雨绸缪",
+      "chapter": 135,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 191,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350200,
+          "performParams": "",
+          "rowIds": [
+            294,
+            295,
+            296,
+            297,
+            298
+          ]
+        },
+        {
+          "stepId": 192,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135021,
+          "performParams": "",
+          "rowIds": [
+            564,
+            565
+          ]
+        },
+        {
+          "stepId": 193,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350201,
+          "performParams": "",
+          "rowIds": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304
+          ]
+        },
+        {
+          "stepId": 194,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135022,
+          "performParams": "",
+          "rowIds": [
+            566,
+            567,
+            568,
+            569,
+            570,
+            571,
+            572,
+            573,
+            574,
+            575,
+            576,
+            577,
+            578,
+            579,
+            580,
+            581,
+            582,
+            583,
+            584,
+            585
+          ]
+        },
+        {
+          "stepId": 195,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350202,
+          "performParams": "",
+          "rowIds": [
+            305,
+            306,
+            307
+          ]
+        },
+        {
+          "stepId": 196,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350203,
+          "performParams": "",
+          "rowIds": [
+            308,
+            309
+          ]
+        },
+        {
+          "stepId": 197,
+          "subId": 7,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2240",
+          "unlockIndexes": [
+            2240
+          ],
+          "unitIds": [
+            "44_47"
+          ]
+        },
+        {
+          "stepId": 198,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350204,
+          "performParams": "",
+          "rowIds": [
+            434
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1617,
+      "stageId": 38,
+      "plotId": 101617,
+      "name": "福祸相依",
+      "chapter": 135,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 199,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350300,
+          "performParams": "",
+          "rowIds": [
+            310,
+            311,
+            312,
+            313
+          ]
+        },
+        {
+          "stepId": 200,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135031,
+          "performParams": "",
+          "rowIds": [
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            594,
+            595,
+            596,
+            597,
+            598,
+            599
+          ]
+        },
+        {
+          "stepId": 201,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350301,
+          "performParams": "",
+          "rowIds": [
+            314,
+            315
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1618,
+      "stageId": 38,
+      "plotId": 101618,
+      "name": "巧设圈套",
+      "chapter": 135,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 202,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350400,
+          "performParams": "",
+          "rowIds": [
+            316,
+            317,
+            318,
+            319
+          ]
+        },
+        {
+          "stepId": 203,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135041,
+          "performParams": "",
+          "rowIds": [
+            600,
+            601,
+            602,
+            603,
+            604,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610,
+            611,
+            612,
+            613,
+            614
+          ]
+        },
+        {
+          "stepId": 204,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350401,
+          "performParams": "",
+          "rowIds": [
+            320,
+            321
+          ]
+        },
+        {
+          "stepId": 205,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350402,
+          "performParams": "",
+          "rowIds": [
+            322,
+            323
+          ]
+        },
+        {
+          "stepId": 206,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2241",
+          "unlockIndexes": [
+            2241
+          ],
+          "unitIds": [
+            "44_48"
+          ]
+        },
+        {
+          "stepId": 207,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350403,
+          "performParams": "",
+          "rowIds": [
+            324
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1619,
+      "stageId": 38,
+      "plotId": 101619,
+      "name": "魇心瘴气",
+      "chapter": 135,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 208,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350500,
+          "performParams": "",
+          "rowIds": [
+            325,
+            326,
+            327,
+            328
+          ]
+        },
+        {
+          "stepId": 209,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135051,
+          "performParams": "",
+          "rowIds": [
+            615,
+            616,
+            617,
+            618,
+            619,
+            620,
+            621,
+            622,
+            623,
+            624,
+            625,
+            626,
+            627,
+            628,
+            629,
+            630,
+            631,
+            632
+          ]
+        },
+        {
+          "stepId": 210,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350501,
+          "performParams": "",
+          "rowIds": [
+            329,
+            330
+          ]
+        },
+        {
+          "stepId": 211,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350502,
+          "performParams": "",
+          "rowIds": [
+            331,
+            332
+          ]
+        },
+        {
+          "stepId": 212,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2242",
+          "unlockIndexes": [
+            2242
+          ],
+          "unitIds": [
+            "44_49"
+          ]
+        },
+        {
+          "stepId": 213,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350503,
+          "performParams": "",
+          "rowIds": [
+            333
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1620,
+      "stageId": 38,
+      "plotId": 101620,
+      "name": "算无遗策",
+      "chapter": 135,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 214,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350600,
+          "performParams": "",
+          "rowIds": [
+            334,
+            335,
+            336,
+            337
+          ]
+        },
+        {
+          "stepId": 215,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135061,
+          "performParams": "",
+          "rowIds": [
+            633,
+            634,
+            635,
+            636,
+            637,
+            638,
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650
+          ]
+        },
+        {
+          "stepId": 216,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350601,
+          "performParams": "",
+          "rowIds": [
+            338,
+            339
+          ]
+        },
+        {
+          "stepId": 217,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350602,
+          "performParams": "",
+          "rowIds": [
+            340,
+            341
+          ]
+        },
+        {
+          "stepId": 218,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2243",
+          "unlockIndexes": [
+            2243
+          ],
+          "unitIds": [
+            "44_50"
+          ]
+        },
+        {
+          "stepId": 219,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350603,
+          "performParams": "",
+          "rowIds": [
+            342
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1621,
+      "stageId": 38,
+      "plotId": 101621,
+      "name": "铭记旧怨",
+      "chapter": 135,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 220,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350700,
+          "performParams": "",
+          "rowIds": [
+            343,
+            344,
+            345,
+            346
+          ]
+        },
+        {
+          "stepId": 221,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135071,
+          "performParams": "",
+          "rowIds": [
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            657,
+            658,
+            659,
+            660,
+            661,
+            662,
+            663,
+            664,
+            665,
+            666,
+            667,
+            668,
+            669
+          ]
+        },
+        {
+          "stepId": 222,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350701,
+          "performParams": "",
+          "rowIds": [
+            347,
+            348
+          ]
+        },
+        {
+          "stepId": 223,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350702,
+          "performParams": "",
+          "rowIds": [
+            349,
+            350
+          ]
+        },
+        {
+          "stepId": 224,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2244",
+          "unlockIndexes": [
+            2244
+          ],
+          "unitIds": [
+            "44_51"
+          ]
+        },
+        {
+          "stepId": 225,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350703,
+          "performParams": "",
+          "rowIds": [
+            351
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1622,
+      "stageId": 38,
+      "plotId": 101622,
+      "name": "底气不足",
+      "chapter": 135,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 226,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350800,
+          "performParams": "",
+          "rowIds": [
+            352,
+            353,
+            354,
+            355
+          ]
+        },
+        {
+          "stepId": 227,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135081,
+          "performParams": "",
+          "rowIds": [
+            670,
+            671,
+            672,
+            673,
+            674,
+            675,
+            676,
+            677,
+            678,
+            679,
+            680,
+            681,
+            682,
+            683,
+            684,
+            685,
+            686,
+            687
+          ]
+        },
+        {
+          "stepId": 228,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350801,
+          "performParams": "",
+          "rowIds": [
+            356,
+            357
+          ]
+        },
+        {
+          "stepId": 229,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350802,
+          "performParams": "",
+          "rowIds": [
+            358,
+            359
+          ]
+        },
+        {
+          "stepId": 230,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2245",
+          "unlockIndexes": [
+            2245
+          ],
+          "unitIds": [
+            "44_52"
+          ]
+        },
+        {
+          "stepId": 231,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350803,
+          "performParams": "",
+          "rowIds": [
+            360
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1623,
+      "stageId": 38,
+      "plotId": 101623,
+      "name": "血亲孽缘",
+      "chapter": 135,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 232,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350900,
+          "performParams": "",
+          "rowIds": [
+            361,
+            362,
+            363,
+            364
+          ]
+        },
+        {
+          "stepId": 233,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135091,
+          "performParams": "",
+          "rowIds": [
+            688,
+            689,
+            690,
+            691,
+            692,
+            693,
+            694,
+            695,
+            696,
+            697,
+            698,
+            699,
+            700,
+            701,
+            702,
+            703,
+            704,
+            705,
+            706,
+            707
+          ]
+        },
+        {
+          "stepId": 234,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350901,
+          "performParams": "",
+          "rowIds": [
+            365,
+            366
+          ]
+        },
+        {
+          "stepId": 235,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350902,
+          "performParams": "",
+          "rowIds": [
+            367,
+            368
+          ]
+        },
+        {
+          "stepId": 236,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2246",
+          "unlockIndexes": [
+            2246
+          ],
+          "unitIds": [
+            "44_53"
+          ]
+        },
+        {
+          "stepId": 237,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1350903,
+          "performParams": "",
+          "rowIds": [
+            369
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1624,
+      "stageId": 38,
+      "plotId": 101624,
+      "name": "如日初升",
+      "chapter": 135,
+      "coinConsume": 360,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 271,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351000,
+          "performParams": "",
+          "rowIds": [
+            435,
+            436,
+            437,
+            438
+          ]
+        },
+        {
+          "stepId": 272,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135101,
+          "performParams": "",
+          "rowIds": [
+            708,
+            709,
+            710,
+            711
+          ]
+        },
+        {
+          "stepId": 273,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351001,
+          "performParams": "",
+          "rowIds": [
+            439,
+            440,
+            441,
+            442,
+            443
+          ]
+        },
+        {
+          "stepId": 274,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135102,
+          "performParams": "",
+          "rowIds": [
+            712,
+            713,
+            714,
+            715,
+            716,
+            717,
+            718,
+            719
+          ]
+        },
+        {
+          "stepId": 275,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351002,
+          "performParams": "",
+          "rowIds": [
+            444,
+            446,
+            445,
+            447,
+            448
+          ]
+        },
+        {
+          "stepId": 276,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135103,
+          "performParams": "",
+          "rowIds": [
+            720,
+            721,
+            722,
+            723,
+            724
+          ]
+        },
+        {
+          "stepId": 277,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351003,
+          "performParams": "",
+          "rowIds": [
+            449,
+            450
+          ]
+        },
+        {
+          "stepId": 278,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351004,
+          "performParams": "",
+          "rowIds": [
+            451,
+            452
+          ]
+        },
+        {
+          "stepId": 279,
+          "subId": 9,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2247",
+          "unlockIndexes": [
+            2247
+          ],
+          "unitIds": [
+            "44_54"
+          ]
+        },
+        {
+          "stepId": 280,
+          "subId": 10,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351005,
+          "performParams": "",
+          "rowIds": [
+            453
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1625,
+      "stageId": 38,
+      "plotId": 101625,
+      "name": "灵根渐显",
+      "chapter": 135,
+      "coinConsume": 360,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 238,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351100,
+          "performParams": "",
+          "rowIds": [
+            370,
+            371,
+            372,
+            373
+          ]
+        },
+        {
+          "stepId": 239,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135111,
+          "performParams": "",
+          "rowIds": [
+            725,
+            726,
+            727,
+            728,
+            729,
+            730,
+            731,
+            732,
+            733,
+            734,
+            735,
+            736,
+            737,
+            738,
+            739,
+            740
+          ]
+        },
+        {
+          "stepId": 240,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351101,
+          "performParams": "",
+          "rowIds": [
+            374,
+            375
+          ]
+        },
+        {
+          "stepId": 241,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351102,
+          "performParams": "",
+          "rowIds": [
+            376,
+            377
+          ]
+        },
+        {
+          "stepId": 242,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2248",
+          "unlockIndexes": [
+            2248
+          ],
+          "unitIds": [
+            "44_55"
+          ]
+        },
+        {
+          "stepId": 243,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351103,
+          "performParams": "",
+          "rowIds": [
+            378
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1626,
+      "stageId": 38,
+      "plotId": 101626,
+      "name": "谁人不识君",
+      "chapter": 135,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 244,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351200,
+          "performParams": "",
+          "rowIds": [
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385
+          ]
+        },
+        {
+          "stepId": 245,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135121,
+          "performParams": "",
+          "rowIds": [
+            741,
+            742,
+            743,
+            744,
+            745,
+            746,
+            747,
+            748,
+            749,
+            750,
+            751,
+            752,
+            753,
+            754,
+            755,
+            756,
+            757
+          ]
+        },
+        {
+          "stepId": 246,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351201,
+          "performParams": "",
+          "rowIds": [
+            386
+          ]
+        },
+        {
+          "stepId": 247,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351202,
+          "performParams": "",
+          "rowIds": [
+            387,
+            388
+          ]
+        },
+        {
+          "stepId": 248,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2249",
+          "unlockIndexes": [
+            2249
+          ],
+          "unitIds": [
+            "44_56"
+          ]
+        },
+        {
+          "stepId": 249,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351203,
+          "performParams": "",
+          "rowIds": [
+            389
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1627,
+      "stageId": 38,
+      "plotId": 101627,
+      "name": "深得人心",
+      "chapter": 135,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 250,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351300,
+          "performParams": "",
+          "rowIds": [
+            390,
+            391,
+            392,
+            393,
+            394
+          ]
+        },
+        {
+          "stepId": 251,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135131,
+          "performParams": "",
+          "rowIds": [
+            758,
+            759,
+            760,
+            761,
+            762,
+            763,
+            764,
+            765,
+            766,
+            767,
+            768,
+            769,
+            770,
+            771,
+            772
+          ]
+        },
+        {
+          "stepId": 252,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351301,
+          "performParams": "",
+          "rowIds": [
+            395,
+            396,
+            397
+          ]
+        },
+        {
+          "stepId": 253,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351302,
+          "performParams": "",
+          "rowIds": [
+            398,
+            399
+          ]
+        },
+        {
+          "stepId": 254,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2250,2251",
+          "unlockIndexes": [
+            2250,
+            2251
+          ],
+          "unitIds": [
+            "44_57",
+            "44_58"
+          ]
+        },
+        {
+          "stepId": 255,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351303,
+          "performParams": "",
+          "rowIds": [
+            400
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1628,
+      "stageId": 38,
+      "plotId": 101628,
+      "name": "恩旨忽临",
+      "chapter": 135,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 256,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351400,
+          "performParams": "",
+          "rowIds": [
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407
+          ]
+        },
+        {
+          "stepId": 257,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135141,
+          "performParams": "",
+          "rowIds": [
+            773,
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780,
+            781,
+            782,
+            783,
+            784,
+            785
+          ]
+        },
+        {
+          "stepId": 258,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351401,
+          "performParams": "",
+          "rowIds": [
+            408,
+            409
+          ]
+        },
+        {
+          "stepId": 259,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351402,
+          "performParams": "",
+          "rowIds": [
+            410,
+            411
+          ]
+        },
+        {
+          "stepId": 260,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2252,2253",
+          "unlockIndexes": [
+            2252,
+            2253
+          ],
+          "unitIds": [
+            "44_59",
+            "44_60"
+          ]
+        },
+        {
+          "stepId": 261,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351403,
+          "performParams": "",
+          "rowIds": [
+            412
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1629,
+      "stageId": 38,
+      "plotId": 101629,
+      "name": "皇恩难违",
+      "chapter": 135,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 262,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351500,
+          "performParams": "",
+          "rowIds": [
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419
+          ]
+        },
+        {
+          "stepId": 263,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10135151,
+          "performParams": "",
+          "rowIds": [
+            786,
+            787,
+            788,
+            789,
+            790,
+            791,
+            792,
+            793,
+            794,
+            795,
+            796,
+            797,
+            798,
+            799,
+            800,
+            801,
+            802
+          ]
+        },
+        {
+          "stepId": 264,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351501,
+          "performParams": "",
+          "rowIds": [
+            420,
+            421
+          ]
+        },
+        {
+          "stepId": 265,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351502,
+          "performParams": "",
+          "rowIds": [
+            422
+          ]
+        },
+        {
+          "stepId": 266,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2254,2255",
+          "unlockIndexes": [
+            2254,
+            2255
+          ],
+          "unitIds": [
+            "44_61",
+            "44_62"
+          ]
+        },
+        {
+          "stepId": 267,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1351503,
+          "performParams": "",
+          "rowIds": [
+            423,
+            424,
+            425
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1630,
+      "stageId": 38,
+      "plotId": 101630,
+      "name": "包藏祸心",
+      "chapter": 136,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 268,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360100,
+          "performParams": "",
+          "rowIds": [
+            426,
+            427,
+            428,
+            429,
+            430,
+            431,
+            432
+          ]
+        },
+        {
+          "stepId": 269,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136011,
+          "performParams": "",
+          "rowIds": [
+            803,
+            804,
+            805,
+            806,
+            807,
+            808,
+            809,
+            810,
+            811,
+            812,
+            813,
+            814,
+            815,
+            816,
+            817,
+            818
+          ]
+        },
+        {
+          "stepId": 270,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360101,
+          "performParams": "",
+          "rowIds": [
+            433
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1631,
+      "stageId": 38,
+      "plotId": 101631,
+      "name": "登堂入室",
+      "chapter": 136,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 281,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360200,
+          "performParams": "",
+          "rowIds": [
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460
+          ]
+        },
+        {
+          "stepId": 282,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136021,
+          "performParams": "",
+          "rowIds": [
+            819,
+            820,
+            821,
+            822,
+            823,
+            824,
+            825,
+            826,
+            827,
+            828,
+            829,
+            830,
+            831,
+            832,
+            833,
+            834
+          ]
+        },
+        {
+          "stepId": 283,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360201,
+          "performParams": "",
+          "rowIds": [
+            461
+          ]
+        },
+        {
+          "stepId": 284,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360202,
+          "performParams": "",
+          "rowIds": [
+            462
+          ]
+        },
+        {
+          "stepId": 285,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2256",
+          "unlockIndexes": [
+            2256
+          ],
+          "unitIds": [
+            "44_63"
+          ]
+        },
+        {
+          "stepId": 286,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360203,
+          "performParams": "",
+          "rowIds": [
+            463,
+            464,
+            465
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1632,
+      "stageId": 38,
+      "plotId": 101632,
+      "name": "逆流而行",
+      "chapter": 136,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 287,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360300,
+          "performParams": "",
+          "rowIds": [
+            466,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472
+          ]
+        },
+        {
+          "stepId": 288,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136031,
+          "performParams": "",
+          "rowIds": [
+            835,
+            836,
+            837,
+            838,
+            839,
+            840,
+            841,
+            842,
+            843,
+            844,
+            845,
+            846,
+            847,
+            848,
+            849,
+            850
+          ]
+        },
+        {
+          "stepId": 289,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360301,
+          "performParams": "",
+          "rowIds": [
+            473
+          ]
+        },
+        {
+          "stepId": 290,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136032,
+          "performParams": "",
+          "rowIds": [
+            851,
+            852
+          ]
+        },
+        {
+          "stepId": 291,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360302,
+          "performParams": "",
+          "rowIds": [
+            474
+          ]
+        },
+        {
+          "stepId": 292,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360303,
+          "performParams": "",
+          "rowIds": [
+            475
+          ]
+        },
+        {
+          "stepId": 293,
+          "subId": 7,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2257",
+          "unlockIndexes": [
+            2257
+          ],
+          "unitIds": [
+            "44_64"
+          ]
+        },
+        {
+          "stepId": 294,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360304,
+          "performParams": "",
+          "rowIds": [
+            476,
+            477,
+            478
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1633,
+      "stageId": 38,
+      "plotId": 101633,
+      "name": "明若观火",
+      "chapter": 136,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 295,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360400,
+          "performParams": "",
+          "rowIds": [
+            479,
+            480,
+            481,
+            482,
+            483,
+            484,
+            485
+          ]
+        },
+        {
+          "stepId": 296,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136041,
+          "performParams": "",
+          "rowIds": [
+            853,
+            854,
+            855,
+            856,
+            857,
+            858,
+            859,
+            860,
+            861,
+            862,
+            863,
+            864,
+            865,
+            866,
+            867,
+            868
+          ]
+        },
+        {
+          "stepId": 297,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360401,
+          "performParams": "",
+          "rowIds": [
+            486
+          ]
+        },
+        {
+          "stepId": 298,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136042,
+          "performParams": "",
+          "rowIds": [
+            869,
+            870,
+            871,
+            872,
+            873,
+            874
+          ]
+        },
+        {
+          "stepId": 299,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360402,
+          "performParams": "",
+          "rowIds": [
+            487
+          ]
+        },
+        {
+          "stepId": 300,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360403,
+          "performParams": "",
+          "rowIds": [
+            488
+          ]
+        },
+        {
+          "stepId": 301,
+          "subId": 7,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2258,2259",
+          "unlockIndexes": [
+            2258,
+            2259
+          ],
+          "unitIds": [
+            "44_65",
+            "44_66"
+          ]
+        },
+        {
+          "stepId": 302,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360404,
+          "performParams": "",
+          "rowIds": [
+            489,
+            490,
+            491
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1634,
+      "stageId": 38,
+      "plotId": 101634,
+      "name": "小施忧虑",
+      "chapter": 136,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 303,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360500,
+          "performParams": "",
+          "rowIds": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497
+          ]
+        },
+        {
+          "stepId": 304,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136051,
+          "performParams": "",
+          "rowIds": [
+            875,
+            876,
+            877,
+            878,
+            879,
+            880,
+            881,
+            882,
+            883,
+            884,
+            885,
+            886,
+            887,
+            888,
+            889,
+            890,
+            891,
+            892,
+            893
+          ]
+        },
+        {
+          "stepId": 305,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360501,
+          "performParams": "",
+          "rowIds": [
+            498,
+            499,
+            500,
+            501,
+            502
+          ]
+        },
+        {
+          "stepId": 306,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136052,
+          "performParams": "",
+          "rowIds": [
+            894,
+            895
+          ]
+        },
+        {
+          "stepId": 307,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360502,
+          "performParams": "",
+          "rowIds": [
+            503,
+            504
+          ]
+        },
+        {
+          "stepId": 308,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360503,
+          "performParams": "",
+          "rowIds": [
+            505
+          ]
+        },
+        {
+          "stepId": 309,
+          "subId": 7,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2260",
+          "unlockIndexes": [
+            2260
+          ],
+          "unitIds": [
+            "44_67"
+          ]
+        },
+        {
+          "stepId": 310,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360504,
+          "performParams": "",
+          "rowIds": [
+            506,
+            507,
+            508
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1635,
+      "stageId": 38,
+      "plotId": 101635,
+      "name": "专人专制",
+      "chapter": 136,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 311,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360600,
+          "performParams": "",
+          "rowIds": [
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            515
+          ]
+        },
+        {
+          "stepId": 312,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136061,
+          "performParams": "",
+          "rowIds": [
+            896,
+            897,
+            898,
+            899,
+            900,
+            901,
+            902,
+            903,
+            904,
+            905,
+            906,
+            907,
+            908,
+            909,
+            910,
+            911,
+            912,
+            913
+          ]
+        },
+        {
+          "stepId": 313,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360601,
+          "performParams": "",
+          "rowIds": [
+            516,
+            517
+          ]
+        },
+        {
+          "stepId": 314,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360602,
+          "performParams": "",
+          "rowIds": [
+            518
+          ]
+        },
+        {
+          "stepId": 315,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2261",
+          "unlockIndexes": [
+            2261
+          ],
+          "unitIds": [
+            "44_68"
+          ]
+        },
+        {
+          "stepId": 316,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360603,
+          "performParams": "",
+          "rowIds": [
+            519,
+            520,
+            521
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1636,
+      "stageId": 38,
+      "plotId": 101636,
+      "name": "突发状况",
+      "chapter": 136,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 317,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360700,
+          "performParams": "",
+          "rowIds": [
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528
+          ]
+        },
+        {
+          "stepId": 318,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136071,
+          "performParams": "",
+          "rowIds": [
+            914,
+            915,
+            916,
+            917
+          ]
+        },
+        {
+          "stepId": 319,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360701,
+          "performParams": "",
+          "rowIds": [
+            529,
+            530,
+            531,
+            532
+          ]
+        },
+        {
+          "stepId": 320,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136072,
+          "performParams": "",
+          "rowIds": [
+            918,
+            919,
+            920,
+            921,
+            922,
+            923,
+            924,
+            925,
+            926,
+            927
+          ]
+        },
+        {
+          "stepId": 321,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360702,
+          "performParams": "",
+          "rowIds": [
+            533,
+            534
+          ]
+        },
+        {
+          "stepId": 322,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360703,
+          "performParams": "",
+          "rowIds": [
+            535
+          ]
+        },
+        {
+          "stepId": 323,
+          "subId": 7,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2262",
+          "unlockIndexes": [
+            2262
+          ],
+          "unitIds": [
+            "44_69"
+          ]
+        },
+        {
+          "stepId": 324,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360704,
+          "performParams": "",
+          "rowIds": [
+            536,
+            537,
+            538
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1637,
+      "stageId": 38,
+      "plotId": 101637,
+      "name": "缜密布防",
+      "chapter": 136,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 325,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360800,
+          "performParams": "",
+          "rowIds": [
+            539,
+            540,
+            541,
+            542,
+            543,
+            544
+          ]
+        },
+        {
+          "stepId": 326,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136081,
+          "performParams": "",
+          "rowIds": [
+            928,
+            929,
+            930,
+            931,
+            932,
+            933,
+            934,
+            935,
+            936,
+            937,
+            938,
+            939,
+            940,
+            941,
+            942,
+            943,
+            944,
+            945,
+            946
+          ]
+        },
+        {
+          "stepId": 327,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360801,
+          "performParams": "",
+          "rowIds": [
+            545,
+            546
+          ]
+        },
+        {
+          "stepId": 328,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360802,
+          "performParams": "",
+          "rowIds": [
+            547
+          ]
+        },
+        {
+          "stepId": 329,
+          "subId": 5,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2263",
+          "unlockIndexes": [
+            2263
+          ],
+          "unitIds": [
+            "44_70"
+          ]
+        },
+        {
+          "stepId": 330,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360803,
+          "performParams": "",
+          "rowIds": [
+            548,
+            549,
+            550
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1638,
+      "stageId": 38,
+      "plotId": 101638,
+      "name": "来日打算",
+      "chapter": 136,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 331,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360900,
+          "performParams": "",
+          "rowIds": [
+            551,
+            552,
+            553,
+            554,
+            555,
+            556
+          ]
+        },
+        {
+          "stepId": 332,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136091,
+          "performParams": "",
+          "rowIds": [
+            947,
+            948,
+            949,
+            950,
+            951,
+            952,
+            953,
+            954,
+            955,
+            956,
+            957,
+            958,
+            959,
+            960,
+            961,
+            962,
+            963,
+            964,
+            965
+          ]
+        },
+        {
+          "stepId": 333,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360901,
+          "performParams": "",
+          "rowIds": [
+            557,
+            558
+          ]
+        },
+        {
+          "stepId": 334,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360902,
+          "performParams": "",
+          "rowIds": [
+            559,
+            560
+          ]
+        },
+        {
+          "stepId": 335,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2264",
+          "unlockIndexes": [
+            2264
+          ],
+          "unitIds": [
+            "44_71"
+          ]
+        },
+        {
+          "stepId": 336,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1360903,
+          "performParams": "",
+          "rowIds": [
+            561,
+            562,
+            563
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1639,
+      "stageId": 38,
+      "plotId": 101639,
+      "name": "一箭双雕",
+      "chapter": 136,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 337,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361000,
+          "performParams": "",
+          "rowIds": [
+            564,
+            565,
+            566,
+            567,
+            568,
+            569
+          ]
+        },
+        {
+          "stepId": 338,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136101,
+          "performParams": "",
+          "rowIds": [
+            966,
+            967,
+            968,
+            969,
+            970,
+            971,
+            972,
+            973,
+            974,
+            975,
+            976,
+            977,
+            978,
+            979,
+            980,
+            981,
+            982
+          ]
+        },
+        {
+          "stepId": 339,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361001,
+          "performParams": "",
+          "rowIds": [
+            570,
+            571
+          ]
+        },
+        {
+          "stepId": 340,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361002,
+          "performParams": "",
+          "rowIds": [
+            572,
+            573
+          ]
+        },
+        {
+          "stepId": 341,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2265",
+          "unlockIndexes": [
+            2265
+          ],
+          "unitIds": [
+            "44_72"
+          ]
+        },
+        {
+          "stepId": 342,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361003,
+          "performParams": "",
+          "rowIds": [
+            574,
+            575,
+            576
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1640,
+      "stageId": 38,
+      "plotId": 101640,
+      "name": "万千生机",
+      "chapter": 136,
+      "coinConsume": 410,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 343,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361100,
+          "performParams": "",
+          "rowIds": [
+            577,
+            578,
+            579,
+            580,
+            581,
+            582
+          ]
+        },
+        {
+          "stepId": 344,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136111,
+          "performParams": "",
+          "rowIds": [
+            983,
+            984,
+            985,
+            986,
+            987,
+            988
+          ]
+        },
+        {
+          "stepId": 345,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361101,
+          "performParams": "",
+          "rowIds": [
+            583,
+            584,
+            585
+          ]
+        },
+        {
+          "stepId": 346,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136112,
+          "performParams": "",
+          "rowIds": [
+            989,
+            990,
+            991
+          ]
+        },
+        {
+          "stepId": 347,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361102,
+          "performParams": "",
+          "rowIds": [
+            586,
+            587,
+            588
+          ]
+        },
+        {
+          "stepId": 348,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136113,
+          "performParams": "",
+          "rowIds": [
+            992,
+            993,
+            994,
+            995,
+            996,
+            997,
+            998,
+            999,
+            1000,
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008,
+            1009,
+            1010
+          ]
+        },
+        {
+          "stepId": 349,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361103,
+          "performParams": "",
+          "rowIds": [
+            589,
+            590,
+            591
+          ]
+        },
+        {
+          "stepId": 350,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361104,
+          "performParams": "",
+          "rowIds": [
+            592,
+            593
+          ]
+        },
+        {
+          "stepId": 351,
+          "subId": 9,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2266",
+          "unlockIndexes": [
+            2266
+          ],
+          "unitIds": [
+            "44_73"
+          ]
+        },
+        {
+          "stepId": 352,
+          "subId": 10,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361105,
+          "performParams": "",
+          "rowIds": [
+            594,
+            595,
+            596
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1641,
+      "stageId": 38,
+      "plotId": 101641,
+      "name": "为民看诊",
+      "chapter": 136,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 353,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361200,
+          "performParams": "",
+          "rowIds": [
+            597,
+            598,
+            599,
+            600,
+            601,
+            602,
+            603,
+            604,
+            605,
+            606
+          ]
+        },
+        {
+          "stepId": 354,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136121,
+          "performParams": "",
+          "rowIds": [
+            1011,
+            1012,
+            1013,
+            1014,
+            1015,
+            1016,
+            1017,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022,
+            1023,
+            1024,
+            1025
+          ]
+        },
+        {
+          "stepId": 355,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361201,
+          "performParams": "",
+          "rowIds": [
+            607,
+            608,
+            609
+          ]
+        },
+        {
+          "stepId": 356,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136122,
+          "performParams": "",
+          "rowIds": [
+            1026,
+            1027,
+            1028,
+            1029,
+            1030,
+            1031
+          ]
+        },
+        {
+          "stepId": 357,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361202,
+          "performParams": "",
+          "rowIds": [
+            610
+          ]
+        },
+        {
+          "stepId": 358,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361203,
+          "performParams": "",
+          "rowIds": [
+            611,
+            612
+          ]
+        },
+        {
+          "stepId": 359,
+          "subId": 7,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2267",
+          "unlockIndexes": [
+            2267
+          ],
+          "unitIds": [
+            "44_74"
+          ]
+        },
+        {
+          "stepId": 360,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361204,
+          "performParams": "",
+          "rowIds": [
+            613,
+            614,
+            615
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1642,
+      "stageId": 38,
+      "plotId": 101642,
+      "name": "好用的刀",
+      "chapter": 136,
+      "coinConsume": 335,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 361,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361300,
+          "performParams": "",
+          "rowIds": [
+            616,
+            617,
+            618,
+            619,
+            620,
+            621,
+            622,
+            623,
+            624,
+            625
+          ]
+        },
+        {
+          "stepId": 362,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136131,
+          "performParams": "",
+          "rowIds": [
+            1032,
+            1033,
+            1034,
+            1035,
+            1036,
+            1037,
+            1038,
+            1039,
+            1040,
+            1041,
+            1042,
+            1043,
+            1044
+          ]
+        },
+        {
+          "stepId": 363,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361301,
+          "performParams": "",
+          "rowIds": [
+            626,
+            627,
+            628,
+            629
+          ]
+        },
+        {
+          "stepId": 364,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136132,
+          "performParams": "",
+          "rowIds": [
+            1045,
+            1046,
+            1047,
+            1048,
+            1049,
+            1050,
+            1051,
+            1052,
+            1053,
+            1054,
+            1055,
+            1056
+          ]
+        },
+        {
+          "stepId": 365,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361302,
+          "performParams": "",
+          "rowIds": [
+            630,
+            631,
+            632,
+            633,
+            634,
+            635
+          ]
+        },
+        {
+          "stepId": 366,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361303,
+          "performParams": "",
+          "rowIds": [
+            636,
+            637
+          ]
+        },
+        {
+          "stepId": 367,
+          "subId": 7,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2268",
+          "unlockIndexes": [
+            2268
+          ],
+          "unitIds": [
+            "44_75"
+          ]
+        },
+        {
+          "stepId": 368,
+          "subId": 8,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361304,
+          "performParams": "",
+          "rowIds": [
+            638,
+            639,
+            640
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1643,
+      "stageId": 38,
+      "plotId": 101643,
+      "name": "煽动情绪",
+      "chapter": 136,
+      "coinConsume": 455,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 369,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361400,
+          "performParams": "",
+          "rowIds": [
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650
+          ]
+        },
+        {
+          "stepId": 370,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136141,
+          "performParams": "",
+          "rowIds": [
+            1057,
+            1058,
+            1059,
+            1060,
+            1061,
+            1062,
+            1063,
+            1064,
+            1065,
+            1066,
+            1067,
+            1068,
+            1069,
+            1070,
+            1071,
+            1072,
+            1073,
+            1074,
+            1075,
+            1076,
+            1077
+          ]
+        },
+        {
+          "stepId": 371,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361401,
+          "performParams": "",
+          "rowIds": [
+            651,
+            652
+          ]
+        },
+        {
+          "stepId": 372,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361402,
+          "performParams": "",
+          "rowIds": [
+            653,
+            654
+          ]
+        },
+        {
+          "stepId": 373,
+          "subId": 5,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "2269",
+          "unlockIndexes": [
+            2269
+          ],
+          "unitIds": [
+            "44_76"
+          ]
+        },
+        {
+          "stepId": 374,
+          "subId": 6,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361403,
+          "performParams": "",
+          "rowIds": [
+            655,
+            656,
+            657
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 1644,
+      "stageId": 38,
+      "plotId": 101644,
+      "name": "以儆效尤",
+      "chapter": 136,
+      "coinConsume": 480,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 375,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361500,
+          "performParams": "",
+          "rowIds": [
+            658,
+            659,
+            660,
+            661,
+            662,
+            663,
+            664
+          ]
+        },
+        {
+          "stepId": 376,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 10136151,
+          "performParams": "",
+          "rowIds": [
+            1078,
+            1079,
+            1080,
+            1081,
+            1082,
+            1083,
+            1084,
+            1085,
+            1086,
+            1087,
+            1088,
+            1089,
+            1090,
+            1091,
+            1092,
+            1093,
+            1094,
+            1095,
+            1096,
+            1097,
+            1098,
+            1099,
+            1100
+          ]
+        },
+        {
+          "stepId": 377,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361501,
+          "performParams": "",
+          "rowIds": [
+            665
+          ]
+        },
+        {
+          "stepId": 378,
+          "subId": 4,
+          "type": 2,
+          "kind": "animation",
+          "performId": 1361502,
+          "performParams": "",
+          "rowIds": [
+            666
+          ]
+        },
+        {
+          "stepId": 379,
+          "subId": 5,
+          "type": 10,
+          "kind": "chapter-popup",
+          "performId": "",
+          "performParams": "",
+          "popupId": "TransitionNewAreaUnlockPopup",
+          "showSeconds": 2.5,
+          "afterSeconds": 0.5
+        },
+        {
+          "stepId": 380,
+          "subId": 6,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "2270",
+          "unlockIndexes": [
+            2270
+          ],
+          "unitIds": [
+            "45_17"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

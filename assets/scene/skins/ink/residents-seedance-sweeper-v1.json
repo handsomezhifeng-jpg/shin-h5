@@ -1,0 +1,769 @@
+{
+  "version": 1,
+  "generator": "Seedance 2.5",
+  "atlases": {
+    "sweeperSweep": {
+      "url": "residents-original-sweep-20-v1.webp",
+      "size": [
+        1600,
+        1920
+      ],
+      "frames": [
+        {
+          "crop": [
+            0,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 0,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            320,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 1,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            640,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 2,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            960,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 3,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            1280,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 4,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            0,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 0,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            320,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 1,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            640,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 2,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            960,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 3,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            1280,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 4,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            0,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 0,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            320,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 1,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            640,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 2,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            960,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 3,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            1280,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 4,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            0,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 0,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            320,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 1,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            640,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 2,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            960,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 3,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        },
+        {
+          "crop": [
+            1280,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 4,
+          "anchor": [
+            223.0,
+            386.0
+          ],
+          "bodyHeight": 314.5
+        }
+      ],
+      "count": 20,
+      "fps": 9.230769,
+      "faceRight": false,
+      "columns": 5,
+      "rows": 4,
+      "sha256": "402f3e284ae603908f11e3dd0ab24c11f958f3c353fe9381fe470f3684a200a2",
+      "reviewClip": "original-sweep-20",
+      "reviewVersion": "draft-v3",
+      "reviewFrames": "action-lab/media/original-sweep-20-draft-v3/frames.json",
+      "sourceSha256": "8f68bc75f7360457907f5c29285d9782dff091082bb51e59b9ac11cea2cc8dbb",
+      "sourceFrameIndices": [
+        71,
+        74,
+        76,
+        79,
+        81,
+        84,
+        87,
+        89,
+        92,
+        94,
+        97,
+        100,
+        102,
+        105,
+        107,
+        110,
+        113,
+        115,
+        118,
+        120
+      ],
+      "registration": {
+        "anchor": [
+          223.0,
+          386.0
+        ],
+        "bodyHeight": 314.5,
+        "method": "Fixed median shoe contact and head-to-shoe height across the complete clip."
+      }
+    },
+    "sweeperWalk": {
+      "url": "residents-original-sweeper-walk-24-v1.webp",
+      "size": [
+        1920,
+        1920
+      ],
+      "frames": [
+        {
+          "crop": [
+            0,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 0,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            320,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 1,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            640,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 2,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            960,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 3,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1280,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 4,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1600,
+            0,
+            320,
+            480
+          ],
+          "row": 0,
+          "column": 5,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            0,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 0,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            320,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 1,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            640,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 2,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            960,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 3,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1280,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 4,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1600,
+            480,
+            320,
+            480
+          ],
+          "row": 1,
+          "column": 5,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            0,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 0,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            320,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 1,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            640,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 2,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            960,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 3,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1280,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 4,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1600,
+            960,
+            320,
+            480
+          ],
+          "row": 2,
+          "column": 5,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            0,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 0,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            320,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 1,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            640,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 2,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            960,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 3,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1280,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 4,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        },
+        {
+          "crop": [
+            1600,
+            1440,
+            320,
+            480
+          ],
+          "row": 3,
+          "column": 5,
+          "anchor": [
+            202.5,
+            430.5
+          ],
+          "bodyHeight": 312.0
+        }
+      ],
+      "count": 24,
+      "fps": 21.333333,
+      "faceRight": false,
+      "columns": 6,
+      "rows": 4,
+      "sha256": "d7f1056f42fd36b96ada2647c8f4368b9e84da53f5c209d5059213afec318e7c",
+      "reviewClip": "original-sweeper-walk-24",
+      "reviewVersion": "draft-v3",
+      "reviewFrames": "action-lab/media/original-sweeper-walk-24-draft-v3/frames.json",
+      "sourceSha256": "9c7b73e3a771649f58b5b7d7d3cc4824202ce4ff911c4b6e33dc3f01111ac3ef",
+      "sourceFrameIndices": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        98,
+        99,
+        100
+      ],
+      "registration": {
+        "anchor": [
+          202.5,
+          430.5
+        ],
+        "bodyHeight": 312.0,
+        "method": "Fixed median shoe contact and head-to-shoe height across the complete clip."
+      }
+    }
+  },
+  "notes": "User requested integration of the original sweeper. Atlas pixels and sequence timing are identical to the action simulator; fixed shoe anchors retain authored motion."
+}

@@ -1,9 +1,0 @@
-{
-  "tool": "image_gen",
-  "reference": ".dream-loop/target.png",
-  "assets": [
-    {
-      "file": "dice-monuments-v7.png"
-    }
-  ]
-}

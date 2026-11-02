@@ -1,0 +1,53 @@
+taskContentId	giveType	icon	status	desc	desc_zh_CN
+int	int	int	int	int	int
+1		2:goods_icon_102	1	赚取_target_num_铜钱	赚取_target_num_铜钱
+2			1	服务_target_num_个顾客	服务_target_num_个顾客
+3		2:goods_icon_101	1	消耗_target_num_体力	消耗_target_num_体力
+4		2:goods_icon_103	1	消耗_target_num_红宝石	消耗_target_num_红宝石
+5			1	合成_target_num_次	合成_target_num_次
+6			1	获得_target_id_共_target_num_个	获得_target_id_共_target_num_个
+7			1	获得_target_num_点_target_id_活动积分	获得_target_num_点_target_id_活动积分
+8			1	加入游戏圈	加入游戏圈
+9			1	点赞_target_num_次	点赞_target_num_次
+10			1	发布_target_num_个帖子	发布_target_num_个帖子
+11			1	评论_target_num_次	评论_target_num_次
+12			1	邀请_target_num_位好友进入游戏并达到_target_id_级	邀请_target_num_位好友进入游戏并达到_target_id_级
+13			1	解锁该棋子	解锁该棋子
+3000001			1	使用_target_num_个工具	使用_target_num_个工具
+3000002			1	使用_target_num_个工具	使用_target_num_个工具
+3000004			1	使用_target_num_个道具	使用_target_num_个道具
+14			1	获取_target_num_个猫猫头	获取_target_num_个猫猫头
+15			1	获取_target_num_张百戏牌	获取_target_num_张百戏牌
+16			1	游戏圈浏览_target_num_秒	游戏圈浏览_target_num_秒
+17			1	收集_target_num_个_target_name_	收集_target_num_个_target_name_
+18			1	使用_target_num_个_target_name_	使用_target_num_个_target_name_
+19			1	获得_target_num_张_target_star_星百戏牌	获得_target_num_张_target_star_星百戏牌
+20			1	登录_target_num_天	登录_target_num_天
+21			1	进行_target_num_次游戏内充值付费	进行_target_num_次游戏内充值付费
+22			1	获得_target_num_活动代币	获得_target_num_活动代币
+23			1	使用_target_num_个道具	使用_target_num_个道具
+24			1	完成_target_num_个主线任务	完成_target_num_个主线任务
+25			1	看_target_num_个广告	看_target_num_个广告
+26			1	消耗_target_num_张装饰券	消耗_target_num_张装饰券
+27			1	消除_target_num_个_target_id_	消除_target_num_个_target_id_
+28			1	集齐_target_id_收藏品	集齐_target_id_收藏品
+29			1	集齐_target_num_个棋子图鉴	集齐_target_num_个棋子图鉴
+30			1	在_target_name_活动中晋级到第_target_num_级	在_target_name_活动中晋级到第_target_num_级
+31			1	在灶神显灵活动中激活_target_id_状态_target_num_次	在灶神显灵活动中激活_target_id_状态_target_num_次
+32			1	茶楼大赛活动完成_target_num_关	茶楼大赛活动完成_target_num_关
+33			1	金币竞赛活动完成_target_num_关	金币竞赛活动完成_target_num_关
+34			1	盛世大富商活动完成_target_num_关	盛世大富商活动完成_target_num_关
+35			1	在装扮活动_target_id_排期中获得_target_num_个装饰数量	在装扮活动_target_id_排期中获得_target_num_个装饰数量
+36			1	在77活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子	在77活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子
+37			1	在53活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子	在53活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子
+38			1	在49活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子	在49活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子
+39			1	在55活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子	在55活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子
+40			1	在地图棋盘_target_id_排期中完成_target_num_个主线任务	在地图棋盘_target_id_排期中完成_target_num_个主线任务
+41			1	获得_target_num_个家具	获得_target_num_个家具
+42			1	在pass卡_target_id_排期中达到_target_num_级	在pass卡_target_id_排期中达到_target_num_级
+43			1	在地图棋盘_target_id_排期中完成_target_num_个支线任务	在地图棋盘_target_id_排期中完成_target_num_个支线任务
+44			1	在77活动棋盘_target_id_排期中点亮target_num_个图鉴	在77活动棋盘_target_id_排期中点亮target_num_个图鉴
+45			1	在53活动棋盘_target_id_排期中点亮target_num_个图鉴	在53活动棋盘_target_id_排期中点亮target_num_个图鉴
+46			1	在49活动棋盘_target_id_排期中点亮target_num_个图鉴	在49活动棋盘_target_id_排期中点亮target_num_个图鉴
+47			1	在55活动棋盘_target_id_排期中点亮target_num_个图鉴	在55活动棋盘_target_id_排期中点亮target_num_个图鉴
+48			1	在十二转运盘_target_id_排期中消耗target_num_个道具	在十二转运盘_target_id_排期中消耗target_num_个道具

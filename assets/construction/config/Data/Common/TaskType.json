@@ -1,0 +1,432 @@
+{
+  "source": "assets/SettingV2/Data/Common/TaskType.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "taskContentId",
+    "giveType",
+    "icon",
+    "status",
+    "desc",
+    "desc_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 51,
+  "tsvSha256": "449d83672c491767d305f316779b71f7be42cdf30c7d34f0a889407151f472cd",
+  "rows": [
+    {
+      "taskContentId": 1,
+      "giveType": "",
+      "icon": "2:goods_icon_102",
+      "status": 1,
+      "desc": "赚取_target_num_铜钱",
+      "desc_zh_CN": "赚取_target_num_铜钱"
+    },
+    {
+      "taskContentId": 2,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "服务_target_num_个顾客",
+      "desc_zh_CN": "服务_target_num_个顾客"
+    },
+    {
+      "taskContentId": 3,
+      "giveType": "",
+      "icon": "2:goods_icon_101",
+      "status": 1,
+      "desc": "消耗_target_num_体力",
+      "desc_zh_CN": "消耗_target_num_体力"
+    },
+    {
+      "taskContentId": 4,
+      "giveType": "",
+      "icon": "2:goods_icon_103",
+      "status": 1,
+      "desc": "消耗_target_num_红宝石",
+      "desc_zh_CN": "消耗_target_num_红宝石"
+    },
+    {
+      "taskContentId": 5,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "合成_target_num_次",
+      "desc_zh_CN": "合成_target_num_次"
+    },
+    {
+      "taskContentId": 6,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获得_target_id_共_target_num_个",
+      "desc_zh_CN": "获得_target_id_共_target_num_个"
+    },
+    {
+      "taskContentId": 7,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获得_target_num_点_target_id_活动积分",
+      "desc_zh_CN": "获得_target_num_点_target_id_活动积分"
+    },
+    {
+      "taskContentId": 8,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "加入游戏圈",
+      "desc_zh_CN": "加入游戏圈"
+    },
+    {
+      "taskContentId": 9,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "点赞_target_num_次",
+      "desc_zh_CN": "点赞_target_num_次"
+    },
+    {
+      "taskContentId": 10,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "发布_target_num_个帖子",
+      "desc_zh_CN": "发布_target_num_个帖子"
+    },
+    {
+      "taskContentId": 11,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "评论_target_num_次",
+      "desc_zh_CN": "评论_target_num_次"
+    },
+    {
+      "taskContentId": 12,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "邀请_target_num_位好友进入游戏并达到_target_id_级",
+      "desc_zh_CN": "邀请_target_num_位好友进入游戏并达到_target_id_级"
+    },
+    {
+      "taskContentId": 13,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "解锁该棋子",
+      "desc_zh_CN": "解锁该棋子"
+    },
+    {
+      "taskContentId": 3000001,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "使用_target_num_个工具",
+      "desc_zh_CN": "使用_target_num_个工具"
+    },
+    {
+      "taskContentId": 3000002,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "使用_target_num_个工具",
+      "desc_zh_CN": "使用_target_num_个工具"
+    },
+    {
+      "taskContentId": 3000004,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "使用_target_num_个道具",
+      "desc_zh_CN": "使用_target_num_个道具"
+    },
+    {
+      "taskContentId": 14,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获取_target_num_个猫猫头",
+      "desc_zh_CN": "获取_target_num_个猫猫头"
+    },
+    {
+      "taskContentId": 15,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获取_target_num_张百戏牌",
+      "desc_zh_CN": "获取_target_num_张百戏牌"
+    },
+    {
+      "taskContentId": 16,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "游戏圈浏览_target_num_秒",
+      "desc_zh_CN": "游戏圈浏览_target_num_秒"
+    },
+    {
+      "taskContentId": 17,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "收集_target_num_个_target_name_",
+      "desc_zh_CN": "收集_target_num_个_target_name_"
+    },
+    {
+      "taskContentId": 18,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "使用_target_num_个_target_name_",
+      "desc_zh_CN": "使用_target_num_个_target_name_"
+    },
+    {
+      "taskContentId": 19,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获得_target_num_张_target_star_星百戏牌",
+      "desc_zh_CN": "获得_target_num_张_target_star_星百戏牌"
+    },
+    {
+      "taskContentId": 20,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "登录_target_num_天",
+      "desc_zh_CN": "登录_target_num_天"
+    },
+    {
+      "taskContentId": 21,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "进行_target_num_次游戏内充值付费",
+      "desc_zh_CN": "进行_target_num_次游戏内充值付费"
+    },
+    {
+      "taskContentId": 22,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获得_target_num_活动代币",
+      "desc_zh_CN": "获得_target_num_活动代币"
+    },
+    {
+      "taskContentId": 23,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "使用_target_num_个道具",
+      "desc_zh_CN": "使用_target_num_个道具"
+    },
+    {
+      "taskContentId": 24,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "完成_target_num_个主线任务",
+      "desc_zh_CN": "完成_target_num_个主线任务"
+    },
+    {
+      "taskContentId": 25,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "看_target_num_个广告",
+      "desc_zh_CN": "看_target_num_个广告"
+    },
+    {
+      "taskContentId": 26,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "消耗_target_num_张装饰券",
+      "desc_zh_CN": "消耗_target_num_张装饰券"
+    },
+    {
+      "taskContentId": 27,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "消除_target_num_个_target_id_",
+      "desc_zh_CN": "消除_target_num_个_target_id_"
+    },
+    {
+      "taskContentId": 28,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "集齐_target_id_收藏品",
+      "desc_zh_CN": "集齐_target_id_收藏品"
+    },
+    {
+      "taskContentId": 29,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "集齐_target_num_个棋子图鉴",
+      "desc_zh_CN": "集齐_target_num_个棋子图鉴"
+    },
+    {
+      "taskContentId": 30,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在_target_name_活动中晋级到第_target_num_级",
+      "desc_zh_CN": "在_target_name_活动中晋级到第_target_num_级"
+    },
+    {
+      "taskContentId": 31,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在灶神显灵活动中激活_target_id_状态_target_num_次",
+      "desc_zh_CN": "在灶神显灵活动中激活_target_id_状态_target_num_次"
+    },
+    {
+      "taskContentId": 32,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "茶楼大赛活动完成_target_num_关",
+      "desc_zh_CN": "茶楼大赛活动完成_target_num_关"
+    },
+    {
+      "taskContentId": 33,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "金币竞赛活动完成_target_num_关",
+      "desc_zh_CN": "金币竞赛活动完成_target_num_关"
+    },
+    {
+      "taskContentId": 34,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "盛世大富商活动完成_target_num_关",
+      "desc_zh_CN": "盛世大富商活动完成_target_num_关"
+    },
+    {
+      "taskContentId": 35,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在装扮活动_target_id_排期中获得_target_num_个装饰数量",
+      "desc_zh_CN": "在装扮活动_target_id_排期中获得_target_num_个装饰数量"
+    },
+    {
+      "taskContentId": 36,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在77活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子",
+      "desc_zh_CN": "在77活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子"
+    },
+    {
+      "taskContentId": 37,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在53活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子",
+      "desc_zh_CN": "在53活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子"
+    },
+    {
+      "taskContentId": 38,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在49活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子",
+      "desc_zh_CN": "在49活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子"
+    },
+    {
+      "taskContentId": 39,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在55活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子",
+      "desc_zh_CN": "在55活动棋盘_target_id_排期中点亮_target_group_的_target_level级棋子"
+    },
+    {
+      "taskContentId": 40,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在地图棋盘_target_id_排期中完成_target_num_个主线任务",
+      "desc_zh_CN": "在地图棋盘_target_id_排期中完成_target_num_个主线任务"
+    },
+    {
+      "taskContentId": 41,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "获得_target_num_个家具",
+      "desc_zh_CN": "获得_target_num_个家具"
+    },
+    {
+      "taskContentId": 42,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在pass卡_target_id_排期中达到_target_num_级",
+      "desc_zh_CN": "在pass卡_target_id_排期中达到_target_num_级"
+    },
+    {
+      "taskContentId": 43,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在地图棋盘_target_id_排期中完成_target_num_个支线任务",
+      "desc_zh_CN": "在地图棋盘_target_id_排期中完成_target_num_个支线任务"
+    },
+    {
+      "taskContentId": 44,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在77活动棋盘_target_id_排期中点亮target_num_个图鉴",
+      "desc_zh_CN": "在77活动棋盘_target_id_排期中点亮target_num_个图鉴"
+    },
+    {
+      "taskContentId": 45,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在53活动棋盘_target_id_排期中点亮target_num_个图鉴",
+      "desc_zh_CN": "在53活动棋盘_target_id_排期中点亮target_num_个图鉴"
+    },
+    {
+      "taskContentId": 46,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在49活动棋盘_target_id_排期中点亮target_num_个图鉴",
+      "desc_zh_CN": "在49活动棋盘_target_id_排期中点亮target_num_个图鉴"
+    },
+    {
+      "taskContentId": 47,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在55活动棋盘_target_id_排期中点亮target_num_个图鉴",
+      "desc_zh_CN": "在55活动棋盘_target_id_排期中点亮target_num_个图鉴"
+    },
+    {
+      "taskContentId": 48,
+      "giveType": "",
+      "icon": "",
+      "status": 1,
+      "desc": "在十二转运盘_target_id_排期中消耗target_num_个道具",
+      "desc_zh_CN": "在十二转运盘_target_id_排期中消耗target_num_个道具"
+    }
+  ]
+}

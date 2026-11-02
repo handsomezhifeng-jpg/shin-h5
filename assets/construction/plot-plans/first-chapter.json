@@ -1,0 +1,843 @@
+{
+  "stageId": 1,
+  "plans": [
+    {
+      "questId": 1,
+      "stageId": 1,
+      "plotId": 100001,
+      "name": "重生",
+      "chapter": 1,
+      "coinConsume": 26,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 2,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10100,
+          "performParams": "",
+          "rowIds": [
+            1533,
+            1534,
+            8917,
+            3,
+            8918
+          ]
+        },
+        {
+          "stepId": 3,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001011,
+          "performParams": "",
+          "rowIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "stepId": 4,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10101,
+          "performParams": "",
+          "rowIds": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "stepId": 5,
+          "subId": 4,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "130",
+          "unlockIndexes": [
+            130
+          ],
+          "unitIds": [
+            "0_11833"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 2,
+      "stageId": 1,
+      "plotId": 100002,
+      "name": "就要打脸！",
+      "chapter": 1,
+      "coinConsume": 16,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 3967,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10200,
+          "performParams": "",
+          "rowIds": [
+            8087,
+            8088,
+            8089
+          ]
+        },
+        {
+          "stepId": 3968,
+          "subId": 2,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            85
+          ],
+          "unitIds": [
+            "0_11749"
+          ]
+        },
+        {
+          "stepId": 3969,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10201,
+          "performParams": "",
+          "rowIds": [
+            8090,
+            8091,
+            8092,
+            8093,
+            8094
+          ]
+        },
+        {
+          "stepId": 3970,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001021,
+          "performParams": "",
+          "rowIds": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "stepId": 3971,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10202,
+          "performParams": "",
+          "rowIds": [
+            8095,
+            8096,
+            8097,
+            8098,
+            8099,
+            8100,
+            8101,
+            8102
+          ]
+        },
+        {
+          "stepId": 3972,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001022,
+          "performParams": "",
+          "rowIds": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "stepId": 3973,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10203,
+          "performParams": "",
+          "rowIds": [
+            8103,
+            8104,
+            8105
+          ]
+        },
+        {
+          "stepId": 3974,
+          "subId": 8,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001023,
+          "performParams": "",
+          "rowIds": [
+            38
+          ]
+        },
+        {
+          "stepId": 3975,
+          "subId": 9,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10204,
+          "performParams": "",
+          "rowIds": [
+            8106,
+            8107
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 3,
+      "stageId": 1,
+      "plotId": 100003,
+      "name": "一出好戏",
+      "chapter": 1,
+      "coinConsume": 24,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 3976,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10300,
+          "performParams": "",
+          "rowIds": [
+            8108,
+            8109,
+            8110,
+            8111
+          ]
+        },
+        {
+          "stepId": 3977,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001031,
+          "performParams": "",
+          "rowIds": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "stepId": 3978,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10301,
+          "performParams": "",
+          "rowIds": [
+            8112,
+            8113,
+            8114,
+            8115
+          ]
+        },
+        {
+          "stepId": 3979,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001032,
+          "performParams": "",
+          "rowIds": [
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "stepId": 3980,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10302,
+          "performParams": "",
+          "rowIds": [
+            8116,
+            8117,
+            8118,
+            8119,
+            8120
+          ]
+        },
+        {
+          "stepId": 3981,
+          "subId": 6,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            86
+          ],
+          "unitIds": [
+            "0_11754"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 4,
+      "stageId": 1,
+      "plotId": 100004,
+      "name": "逆命改局",
+      "chapter": 1,
+      "coinConsume": 46,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 3427,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10400,
+          "performParams": "",
+          "rowIds": [
+            6903,
+            6904,
+            6905
+          ]
+        },
+        {
+          "stepId": 3428,
+          "subId": 2,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            9
+          ],
+          "unitIds": [
+            "0_11753"
+          ]
+        },
+        {
+          "stepId": 3429,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10401,
+          "performParams": "",
+          "rowIds": [
+            6906,
+            6907,
+            6908
+          ]
+        },
+        {
+          "stepId": 3430,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001041,
+          "performParams": "",
+          "rowIds": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+          ]
+        },
+        {
+          "stepId": 3431,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10402,
+          "performParams": "",
+          "rowIds": [
+            6909,
+            6910,
+            6911,
+            6912,
+            6913
+          ]
+        },
+        {
+          "stepId": 3432,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001042,
+          "performParams": "",
+          "rowIds": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "stepId": 3433,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10403,
+          "performParams": "",
+          "rowIds": [
+            6914,
+            6915,
+            6916
+          ]
+        },
+        {
+          "stepId": 3434,
+          "subId": 8,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001043,
+          "performParams": "",
+          "rowIds": [
+            88
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 5,
+      "stageId": 1,
+      "plotId": 100005,
+      "name": "赤霞藤",
+      "chapter": 1,
+      "coinConsume": 25,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 3435,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10500,
+          "performParams": "",
+          "rowIds": [
+            6917,
+            6918
+          ]
+        },
+        {
+          "stepId": 3436,
+          "subId": 2,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            10
+          ],
+          "unitIds": [
+            "0_13010"
+          ]
+        },
+        {
+          "stepId": 3437,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10501,
+          "performParams": "",
+          "rowIds": [
+            6920,
+            6919,
+            6921,
+            6922,
+            6923
+          ]
+        },
+        {
+          "stepId": 3438,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001051,
+          "performParams": "",
+          "rowIds": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+          ]
+        },
+        {
+          "stepId": 3439,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10502,
+          "performParams": "",
+          "rowIds": [
+            6924,
+            6925
+          ]
+        },
+        {
+          "stepId": 3440,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001052,
+          "performParams": "",
+          "rowIds": [
+            112
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 6,
+      "stageId": 1,
+      "plotId": 100006,
+      "name": "春生志",
+      "chapter": 1,
+      "coinConsume": 24,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 3441,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10600,
+          "performParams": "",
+          "rowIds": [
+            6926,
+            6927
+          ]
+        },
+        {
+          "stepId": 3442,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001061,
+          "performParams": "",
+          "rowIds": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "stepId": 3443,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10601,
+          "performParams": "",
+          "rowIds": [
+            6928,
+            6930,
+            6929,
+            6931
+          ]
+        },
+        {
+          "stepId": 3444,
+          "subId": 4,
+          "type": 3,
+          "kind": "choice",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            11
+          ],
+          "unitIds": [
+            "0_13009"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "questId": 7,
+      "stageId": 1,
+      "plotId": 100007,
+      "name": "异香？",
+      "chapter": 1,
+      "coinConsume": 24,
+      "exp": 15,
+      "steps": [
+        {
+          "stepId": 4835,
+          "subId": 1,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10700,
+          "performParams": "",
+          "rowIds": [
+            10003,
+            10004
+          ]
+        },
+        {
+          "stepId": 4836,
+          "subId": 2,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001071,
+          "performParams": "",
+          "rowIds": [
+            136,
+            137
+          ]
+        },
+        {
+          "stepId": 4837,
+          "subId": 3,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10701,
+          "performParams": "",
+          "rowIds": [
+            10005,
+            10006,
+            10007
+          ]
+        },
+        {
+          "stepId": 4838,
+          "subId": 4,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001072,
+          "performParams": "",
+          "rowIds": [
+            138,
+            139,
+            140
+          ]
+        },
+        {
+          "stepId": 4839,
+          "subId": 5,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10702,
+          "performParams": "",
+          "rowIds": [
+            10008,
+            10009,
+            10010,
+            10011,
+            10012
+          ]
+        },
+        {
+          "stepId": 4840,
+          "subId": 6,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001073,
+          "performParams": "",
+          "rowIds": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151
+          ]
+        },
+        {
+          "stepId": 4841,
+          "subId": 7,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10703,
+          "performParams": "",
+          "rowIds": [
+            10013,
+            10014
+          ]
+        },
+        {
+          "stepId": 4842,
+          "subId": 8,
+          "type": 1,
+          "kind": "dialogue",
+          "performId": 1001074,
+          "performParams": "",
+          "rowIds": [
+            152
+          ]
+        },
+        {
+          "stepId": 4843,
+          "subId": 9,
+          "type": 2,
+          "kind": "animation",
+          "performId": 10704,
+          "performParams": "",
+          "rowIds": [
+            10015
+          ]
+        },
+        {
+          "stepId": 4844,
+          "subId": 10,
+          "type": 10,
+          "kind": "chapter-popup",
+          "performId": "",
+          "performParams": "",
+          "popupId": "TransitionNewAreaUnlockPopup",
+          "showSeconds": 2.5,
+          "afterSeconds": 0.5
+        },
+        {
+          "stepId": 4845,
+          "subId": 11,
+          "type": 4,
+          "kind": "unlock",
+          "performId": "",
+          "performParams": "",
+          "unlockIndexes": [
+            184
+          ],
+          "unitIds": [
+            "1_12939"
+          ]
+        }
+      ],
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

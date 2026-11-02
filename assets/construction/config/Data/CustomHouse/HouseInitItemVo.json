@@ -1,0 +1,73 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseInitItemVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "num",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 11,
+  "tsvSha256": "ed47112a24df63b23cc0ded96f3be26b4d5f1c52ad5e318a0a7e672f0e520407",
+  "rows": [
+    {
+      "id": 6011000,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6012000,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6013000,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6004002,
+      "num": 2,
+      "status": 1
+    },
+    {
+      "id": 6002001,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6003001,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6005003,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6010002,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6006004,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 6101001,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 131,
+      "num": 100,
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source": "assets/SettingV2/Data/Common/CommonItemVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "type",
+    "photoId",
+    "photoIdSmall",
+    "status",
+    "name",
+    "name_zh_CN",
+    "desc",
+    "desc_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 2,
+  "tsvSha256": "b07dff81e11dcb0b2845644ba5881f449b5e6a3a3c66f2fe95cc67bbb7e4c12f",
+  "rows": [
+    {
+      "id": 131,
+      "type": 4,
+      "photoId": "2:goods_icon_131",
+      "photoIdSmall": "2:goods_icon_131_s",
+      "status": 1,
+      "name": "装饰券",
+      "name_zh_CN": "装饰券",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    },
+    {
+      "id": 132,
+      "type": 4,
+      "photoId": "2:goods_icon_132",
+      "photoIdSmall": "",
+      "status": 1,
+      "name": "抖极金币",
+      "name_zh_CN": "抖极金币",
+      "desc": "获取途径：1111",
+      "desc_zh_CN": "获取途径：1111"
+    }
+  ]
+}

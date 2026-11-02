@@ -1,0 +1,188 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/UnitSkinGroupVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "skinGroupId",
+    "camPos",
+    "camScale",
+    "isNightSkin",
+    "bgmId",
+    "mapRange",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 18,
+  "tsvSha256": "6ee1a1c981cd28d4c9e10cf6041fd3ceaa59f555f5d4d9abe4d6e3b90994951e",
+  "rows": [
+    {
+      "skinGroupId": 2001,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2002,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2003,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": 1,
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2004,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": 1,
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2005,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2006,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2007,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2008,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2009,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": 78,
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2010,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2011,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2012,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "-30,0,12,8",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2013,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2014,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": 1,
+      "bgmId": 119,
+      "mapRange": "-30,-3,14,15",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2015,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2016,
+      "camPos": "-51.9,-17.97",
+      "camScale": 15,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2017,
+      "camPos": "-23.57,4.20",
+      "camScale": 7,
+      "isNightSkin": 1,
+      "bgmId": "",
+      "mapRange": "-30,-3,14,15",
+      "status": 1
+    },
+    {
+      "skinGroupId": 2018,
+      "camPos": "-6.7,26.3",
+      "camScale": 12,
+      "isNightSkin": "",
+      "bgmId": "",
+      "mapRange": "",
+      "status": 1
+    }
+  ]
+}

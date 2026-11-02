@@ -1,0 +1,1518 @@
+{
+  "source": "assets/SettingV2/Common/PlayerExpIDGroup.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "total",
+    "status"
+  ],
+  "declaredTypes": [
+    "string",
+    "string",
+    "int"
+  ],
+  "rowCount": 300,
+  "tsvSha256": "07c2135d805eb61a66ad73f14bcc2745cb999909c564d4b54434400c30039ccb",
+  "rows": [
+    {
+      "id": 1,
+      "total": 0,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "total": 30,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "total": 75,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "total": 135,
+      "status": 1
+    },
+    {
+      "id": 5,
+      "total": 210,
+      "status": 1
+    },
+    {
+      "id": 6,
+      "total": 285,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "total": 375,
+      "status": 1
+    },
+    {
+      "id": 8,
+      "total": 465,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "total": 570,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "total": 675,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "total": 780,
+      "status": 1
+    },
+    {
+      "id": 12,
+      "total": 900,
+      "status": 1
+    },
+    {
+      "id": 13,
+      "total": 1020,
+      "status": 1
+    },
+    {
+      "id": 14,
+      "total": 1140,
+      "status": 1
+    },
+    {
+      "id": 15,
+      "total": 1275,
+      "status": 1
+    },
+    {
+      "id": 16,
+      "total": 1410,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "total": 1545,
+      "status": 1
+    },
+    {
+      "id": 18,
+      "total": 1695,
+      "status": 1
+    },
+    {
+      "id": 19,
+      "total": 1845,
+      "status": 1
+    },
+    {
+      "id": 20,
+      "total": 1995,
+      "status": 1
+    },
+    {
+      "id": 21,
+      "total": 2145,
+      "status": 1
+    },
+    {
+      "id": 22,
+      "total": 2310,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "total": 2475,
+      "status": 1
+    },
+    {
+      "id": 24,
+      "total": 2640,
+      "status": 1
+    },
+    {
+      "id": 25,
+      "total": 2805,
+      "status": 1
+    },
+    {
+      "id": 26,
+      "total": 2985,
+      "status": 1
+    },
+    {
+      "id": 27,
+      "total": 3165,
+      "status": 1
+    },
+    {
+      "id": 28,
+      "total": 3345,
+      "status": 1
+    },
+    {
+      "id": 29,
+      "total": 3525,
+      "status": 1
+    },
+    {
+      "id": 30,
+      "total": 3720,
+      "status": 1
+    },
+    {
+      "id": 31,
+      "total": 3915,
+      "status": 1
+    },
+    {
+      "id": 32,
+      "total": 4110,
+      "status": 1
+    },
+    {
+      "id": 33,
+      "total": 4305,
+      "status": 1
+    },
+    {
+      "id": 34,
+      "total": 4500,
+      "status": 1
+    },
+    {
+      "id": 35,
+      "total": 4710,
+      "status": 1
+    },
+    {
+      "id": 36,
+      "total": 4920,
+      "status": 1
+    },
+    {
+      "id": 37,
+      "total": 5130,
+      "status": 1
+    },
+    {
+      "id": 38,
+      "total": 5340,
+      "status": 1
+    },
+    {
+      "id": 39,
+      "total": 5565,
+      "status": 1
+    },
+    {
+      "id": 40,
+      "total": 5790,
+      "status": 1
+    },
+    {
+      "id": 41,
+      "total": 6015,
+      "status": 1
+    },
+    {
+      "id": 42,
+      "total": 6240,
+      "status": 1
+    },
+    {
+      "id": 43,
+      "total": 6465,
+      "status": 1
+    },
+    {
+      "id": 44,
+      "total": 6690,
+      "status": 1
+    },
+    {
+      "id": 45,
+      "total": 6915,
+      "status": 1
+    },
+    {
+      "id": 46,
+      "total": 7140,
+      "status": 1
+    },
+    {
+      "id": 47,
+      "total": 7365,
+      "status": 1
+    },
+    {
+      "id": 48,
+      "total": 7590,
+      "status": 1
+    },
+    {
+      "id": 49,
+      "total": 7815,
+      "status": 1
+    },
+    {
+      "id": 50,
+      "total": 8040,
+      "status": 1
+    },
+    {
+      "id": 51,
+      "total": 8280,
+      "status": 1
+    },
+    {
+      "id": 52,
+      "total": 8520,
+      "status": 1
+    },
+    {
+      "id": 53,
+      "total": 8760,
+      "status": 1
+    },
+    {
+      "id": 54,
+      "total": 9000,
+      "status": 1
+    },
+    {
+      "id": 55,
+      "total": 9240,
+      "status": 1
+    },
+    {
+      "id": 56,
+      "total": 9480,
+      "status": 1
+    },
+    {
+      "id": 57,
+      "total": 9720,
+      "status": 1
+    },
+    {
+      "id": 58,
+      "total": 9960,
+      "status": 1
+    },
+    {
+      "id": 59,
+      "total": 10200,
+      "status": 1
+    },
+    {
+      "id": 60,
+      "total": 10440,
+      "status": 1
+    },
+    {
+      "id": 61,
+      "total": 10680,
+      "status": 1
+    },
+    {
+      "id": 62,
+      "total": 10920,
+      "status": 1
+    },
+    {
+      "id": 63,
+      "total": 11160,
+      "status": 1
+    },
+    {
+      "id": 64,
+      "total": 11400,
+      "status": 1
+    },
+    {
+      "id": 65,
+      "total": 11640,
+      "status": 1
+    },
+    {
+      "id": 66,
+      "total": 11880,
+      "status": 1
+    },
+    {
+      "id": 67,
+      "total": 12120,
+      "status": 1
+    },
+    {
+      "id": 68,
+      "total": 12360,
+      "status": 1
+    },
+    {
+      "id": 69,
+      "total": 12600,
+      "status": 1
+    },
+    {
+      "id": 70,
+      "total": 12840,
+      "status": 1
+    },
+    {
+      "id": 71,
+      "total": 13080,
+      "status": 1
+    },
+    {
+      "id": 72,
+      "total": 13320,
+      "status": 1
+    },
+    {
+      "id": 73,
+      "total": 13560,
+      "status": 1
+    },
+    {
+      "id": 74,
+      "total": 13800,
+      "status": 1
+    },
+    {
+      "id": 75,
+      "total": 14055,
+      "status": 1
+    },
+    {
+      "id": 76,
+      "total": 14310,
+      "status": 1
+    },
+    {
+      "id": 77,
+      "total": 14565,
+      "status": 1
+    },
+    {
+      "id": 78,
+      "total": 14820,
+      "status": 1
+    },
+    {
+      "id": 79,
+      "total": 15075,
+      "status": 1
+    },
+    {
+      "id": 80,
+      "total": 15330,
+      "status": 1
+    },
+    {
+      "id": 81,
+      "total": 15585,
+      "status": 1
+    },
+    {
+      "id": 82,
+      "total": 15840,
+      "status": 1
+    },
+    {
+      "id": 83,
+      "total": 16095,
+      "status": 1
+    },
+    {
+      "id": 84,
+      "total": 16350,
+      "status": 1
+    },
+    {
+      "id": 85,
+      "total": 16605,
+      "status": 1
+    },
+    {
+      "id": 86,
+      "total": 16860,
+      "status": 1
+    },
+    {
+      "id": 87,
+      "total": 17115,
+      "status": 1
+    },
+    {
+      "id": 88,
+      "total": 17370,
+      "status": 1
+    },
+    {
+      "id": 89,
+      "total": 17625,
+      "status": 1
+    },
+    {
+      "id": 90,
+      "total": 17880,
+      "status": 1
+    },
+    {
+      "id": 91,
+      "total": 18135,
+      "status": 1
+    },
+    {
+      "id": 92,
+      "total": 18390,
+      "status": 1
+    },
+    {
+      "id": 93,
+      "total": 18645,
+      "status": 1
+    },
+    {
+      "id": 94,
+      "total": 18900,
+      "status": 1
+    },
+    {
+      "id": 95,
+      "total": 19155,
+      "status": 1
+    },
+    {
+      "id": 96,
+      "total": 19410,
+      "status": 1
+    },
+    {
+      "id": 97,
+      "total": 19665,
+      "status": 1
+    },
+    {
+      "id": 98,
+      "total": 19920,
+      "status": 1
+    },
+    {
+      "id": 99,
+      "total": 20175,
+      "status": 1
+    },
+    {
+      "id": 100,
+      "total": 20430,
+      "status": 1
+    },
+    {
+      "id": 101,
+      "total": 20685,
+      "status": 1
+    },
+    {
+      "id": 102,
+      "total": 20940,
+      "status": 1
+    },
+    {
+      "id": 103,
+      "total": 21195,
+      "status": 1
+    },
+    {
+      "id": 104,
+      "total": 21450,
+      "status": 1
+    },
+    {
+      "id": 105,
+      "total": 21705,
+      "status": 1
+    },
+    {
+      "id": 106,
+      "total": 21960,
+      "status": 1
+    },
+    {
+      "id": 107,
+      "total": 22215,
+      "status": 1
+    },
+    {
+      "id": 108,
+      "total": 22470,
+      "status": 1
+    },
+    {
+      "id": 109,
+      "total": 22725,
+      "status": 1
+    },
+    {
+      "id": 110,
+      "total": 22980,
+      "status": 1
+    },
+    {
+      "id": 111,
+      "total": 23235,
+      "status": 1
+    },
+    {
+      "id": 112,
+      "total": 23490,
+      "status": 1
+    },
+    {
+      "id": 113,
+      "total": 23745,
+      "status": 1
+    },
+    {
+      "id": 114,
+      "total": 24000,
+      "status": 1
+    },
+    {
+      "id": 115,
+      "total": 24255,
+      "status": 1
+    },
+    {
+      "id": 116,
+      "total": 24510,
+      "status": 1
+    },
+    {
+      "id": 117,
+      "total": 24765,
+      "status": 1
+    },
+    {
+      "id": 118,
+      "total": 25020,
+      "status": 1
+    },
+    {
+      "id": 119,
+      "total": 25275,
+      "status": 1
+    },
+    {
+      "id": 120,
+      "total": 25530,
+      "status": 1
+    },
+    {
+      "id": 121,
+      "total": 25785,
+      "status": 1
+    },
+    {
+      "id": 122,
+      "total": 26040,
+      "status": 1
+    },
+    {
+      "id": 123,
+      "total": 26295,
+      "status": 1
+    },
+    {
+      "id": 124,
+      "total": 26550,
+      "status": 1
+    },
+    {
+      "id": 125,
+      "total": 26805,
+      "status": 1
+    },
+    {
+      "id": 126,
+      "total": 27060,
+      "status": 1
+    },
+    {
+      "id": 127,
+      "total": 27315,
+      "status": 1
+    },
+    {
+      "id": 128,
+      "total": 27570,
+      "status": 1
+    },
+    {
+      "id": 129,
+      "total": 27825,
+      "status": 1
+    },
+    {
+      "id": 130,
+      "total": 28080,
+      "status": 1
+    },
+    {
+      "id": 131,
+      "total": 28335,
+      "status": 1
+    },
+    {
+      "id": 132,
+      "total": 28590,
+      "status": 1
+    },
+    {
+      "id": 133,
+      "total": 28845,
+      "status": 1
+    },
+    {
+      "id": 134,
+      "total": 29100,
+      "status": 1
+    },
+    {
+      "id": 135,
+      "total": 29355,
+      "status": 1
+    },
+    {
+      "id": 136,
+      "total": 29610,
+      "status": 1
+    },
+    {
+      "id": 137,
+      "total": 29865,
+      "status": 1
+    },
+    {
+      "id": 138,
+      "total": 30120,
+      "status": 1
+    },
+    {
+      "id": 139,
+      "total": 30375,
+      "status": 1
+    },
+    {
+      "id": 140,
+      "total": 30630,
+      "status": 1
+    },
+    {
+      "id": 141,
+      "total": 30885,
+      "status": 1
+    },
+    {
+      "id": 142,
+      "total": 31140,
+      "status": 1
+    },
+    {
+      "id": 143,
+      "total": 31395,
+      "status": 1
+    },
+    {
+      "id": 144,
+      "total": 31650,
+      "status": 1
+    },
+    {
+      "id": 145,
+      "total": 31905,
+      "status": 1
+    },
+    {
+      "id": 146,
+      "total": 32160,
+      "status": 1
+    },
+    {
+      "id": 147,
+      "total": 32415,
+      "status": 1
+    },
+    {
+      "id": 148,
+      "total": 32670,
+      "status": 1
+    },
+    {
+      "id": 149,
+      "total": 32925,
+      "status": 1
+    },
+    {
+      "id": 150,
+      "total": 33180,
+      "status": 1
+    },
+    {
+      "id": 151,
+      "total": 33435,
+      "status": 1
+    },
+    {
+      "id": 152,
+      "total": 33690,
+      "status": 1
+    },
+    {
+      "id": 153,
+      "total": 33945,
+      "status": 1
+    },
+    {
+      "id": 154,
+      "total": 34200,
+      "status": 1
+    },
+    {
+      "id": 155,
+      "total": 34455,
+      "status": 1
+    },
+    {
+      "id": 156,
+      "total": 34710,
+      "status": 1
+    },
+    {
+      "id": 157,
+      "total": 34965,
+      "status": 1
+    },
+    {
+      "id": 158,
+      "total": 35220,
+      "status": 1
+    },
+    {
+      "id": 159,
+      "total": 35475,
+      "status": 1
+    },
+    {
+      "id": 160,
+      "total": 35730,
+      "status": 1
+    },
+    {
+      "id": 161,
+      "total": 35985,
+      "status": 1
+    },
+    {
+      "id": 162,
+      "total": 36240,
+      "status": 1
+    },
+    {
+      "id": 163,
+      "total": 36495,
+      "status": 1
+    },
+    {
+      "id": 164,
+      "total": 36750,
+      "status": 1
+    },
+    {
+      "id": 165,
+      "total": 37005,
+      "status": 1
+    },
+    {
+      "id": 166,
+      "total": 37260,
+      "status": 1
+    },
+    {
+      "id": 167,
+      "total": 37515,
+      "status": 1
+    },
+    {
+      "id": 168,
+      "total": 37770,
+      "status": 1
+    },
+    {
+      "id": 169,
+      "total": 38025,
+      "status": 1
+    },
+    {
+      "id": 170,
+      "total": 38280,
+      "status": 1
+    },
+    {
+      "id": 171,
+      "total": 38535,
+      "status": 1
+    },
+    {
+      "id": 172,
+      "total": 38790,
+      "status": 1
+    },
+    {
+      "id": 173,
+      "total": 39045,
+      "status": 1
+    },
+    {
+      "id": 174,
+      "total": 39300,
+      "status": 1
+    },
+    {
+      "id": 175,
+      "total": 39555,
+      "status": 1
+    },
+    {
+      "id": 176,
+      "total": 39810,
+      "status": 1
+    },
+    {
+      "id": 177,
+      "total": 40065,
+      "status": 1
+    },
+    {
+      "id": 178,
+      "total": 40320,
+      "status": 1
+    },
+    {
+      "id": 179,
+      "total": 40575,
+      "status": 1
+    },
+    {
+      "id": 180,
+      "total": 40830,
+      "status": 1
+    },
+    {
+      "id": 181,
+      "total": 41085,
+      "status": 1
+    },
+    {
+      "id": 182,
+      "total": 41340,
+      "status": 1
+    },
+    {
+      "id": 183,
+      "total": 41595,
+      "status": 1
+    },
+    {
+      "id": 184,
+      "total": 41850,
+      "status": 1
+    },
+    {
+      "id": 185,
+      "total": 42105,
+      "status": 1
+    },
+    {
+      "id": 186,
+      "total": 42360,
+      "status": 1
+    },
+    {
+      "id": 187,
+      "total": 42615,
+      "status": 1
+    },
+    {
+      "id": 188,
+      "total": 42870,
+      "status": 1
+    },
+    {
+      "id": 189,
+      "total": 43125,
+      "status": 1
+    },
+    {
+      "id": 190,
+      "total": 43380,
+      "status": 1
+    },
+    {
+      "id": 191,
+      "total": 43635,
+      "status": 1
+    },
+    {
+      "id": 192,
+      "total": 43890,
+      "status": 1
+    },
+    {
+      "id": 193,
+      "total": 44145,
+      "status": 1
+    },
+    {
+      "id": 194,
+      "total": 44400,
+      "status": 1
+    },
+    {
+      "id": 195,
+      "total": 44655,
+      "status": 1
+    },
+    {
+      "id": 196,
+      "total": 44910,
+      "status": 1
+    },
+    {
+      "id": 197,
+      "total": 45180,
+      "status": 1
+    },
+    {
+      "id": 198,
+      "total": 45450,
+      "status": 1
+    },
+    {
+      "id": 199,
+      "total": 45720,
+      "status": 1
+    },
+    {
+      "id": 200,
+      "total": 45990,
+      "status": 1
+    },
+    {
+      "id": 201,
+      "total": 46260,
+      "status": 1
+    },
+    {
+      "id": 202,
+      "total": 46530,
+      "status": 1
+    },
+    {
+      "id": 203,
+      "total": 46800,
+      "status": 1
+    },
+    {
+      "id": 204,
+      "total": 47070,
+      "status": 1
+    },
+    {
+      "id": 205,
+      "total": 47340,
+      "status": 1
+    },
+    {
+      "id": 206,
+      "total": 47610,
+      "status": 1
+    },
+    {
+      "id": 207,
+      "total": 47895,
+      "status": 1
+    },
+    {
+      "id": 208,
+      "total": 48180,
+      "status": 1
+    },
+    {
+      "id": 209,
+      "total": 48465,
+      "status": 1
+    },
+    {
+      "id": 210,
+      "total": 48750,
+      "status": 1
+    },
+    {
+      "id": 211,
+      "total": 49035,
+      "status": 1
+    },
+    {
+      "id": 212,
+      "total": 49320,
+      "status": 1
+    },
+    {
+      "id": 213,
+      "total": 49605,
+      "status": 1
+    },
+    {
+      "id": 214,
+      "total": 49890,
+      "status": 1
+    },
+    {
+      "id": 215,
+      "total": 50175,
+      "status": 1
+    },
+    {
+      "id": 216,
+      "total": 50460,
+      "status": 1
+    },
+    {
+      "id": 217,
+      "total": 50760,
+      "status": 1
+    },
+    {
+      "id": 218,
+      "total": 51060,
+      "status": 1
+    },
+    {
+      "id": 219,
+      "total": 51360,
+      "status": 1
+    },
+    {
+      "id": 220,
+      "total": 51660,
+      "status": 1
+    },
+    {
+      "id": 221,
+      "total": 51960,
+      "status": 1
+    },
+    {
+      "id": 222,
+      "total": 52260,
+      "status": 1
+    },
+    {
+      "id": 223,
+      "total": 52560,
+      "status": 1
+    },
+    {
+      "id": 224,
+      "total": 52860,
+      "status": 1
+    },
+    {
+      "id": 225,
+      "total": 53160,
+      "status": 1
+    },
+    {
+      "id": 226,
+      "total": 53460,
+      "status": 1
+    },
+    {
+      "id": 227,
+      "total": 53760,
+      "status": 1
+    },
+    {
+      "id": 228,
+      "total": 54060,
+      "status": 1
+    },
+    {
+      "id": 229,
+      "total": 54360,
+      "status": 1
+    },
+    {
+      "id": 230,
+      "total": 54660,
+      "status": 1
+    },
+    {
+      "id": 231,
+      "total": 54960,
+      "status": 1
+    },
+    {
+      "id": 232,
+      "total": 55260,
+      "status": 1
+    },
+    {
+      "id": 233,
+      "total": 55560,
+      "status": 1
+    },
+    {
+      "id": 234,
+      "total": 55860,
+      "status": 1
+    },
+    {
+      "id": 235,
+      "total": 56160,
+      "status": 1
+    },
+    {
+      "id": 236,
+      "total": 56460,
+      "status": 1
+    },
+    {
+      "id": 237,
+      "total": 56760,
+      "status": 1
+    },
+    {
+      "id": 238,
+      "total": 57060,
+      "status": 1
+    },
+    {
+      "id": 239,
+      "total": 57360,
+      "status": 1
+    },
+    {
+      "id": 240,
+      "total": 57660,
+      "status": 1
+    },
+    {
+      "id": 241,
+      "total": 57960,
+      "status": 1
+    },
+    {
+      "id": 242,
+      "total": 58260,
+      "status": 1
+    },
+    {
+      "id": 243,
+      "total": 58560,
+      "status": 1
+    },
+    {
+      "id": 244,
+      "total": 58860,
+      "status": 1
+    },
+    {
+      "id": 245,
+      "total": 59160,
+      "status": 1
+    },
+    {
+      "id": 246,
+      "total": 59460,
+      "status": 1
+    },
+    {
+      "id": 247,
+      "total": 59760,
+      "status": 1
+    },
+    {
+      "id": 248,
+      "total": 60060,
+      "status": 1
+    },
+    {
+      "id": 249,
+      "total": 60360,
+      "status": 1
+    },
+    {
+      "id": 250,
+      "total": 60660,
+      "status": 1
+    },
+    {
+      "id": 251,
+      "total": 60960,
+      "status": 1
+    },
+    {
+      "id": 252,
+      "total": 61260,
+      "status": 1
+    },
+    {
+      "id": 253,
+      "total": 61560,
+      "status": 1
+    },
+    {
+      "id": 254,
+      "total": 61860,
+      "status": 1
+    },
+    {
+      "id": 255,
+      "total": 62160,
+      "status": 1
+    },
+    {
+      "id": 256,
+      "total": 62460,
+      "status": 1
+    },
+    {
+      "id": 257,
+      "total": 62760,
+      "status": 1
+    },
+    {
+      "id": 258,
+      "total": 63060,
+      "status": 1
+    },
+    {
+      "id": 259,
+      "total": 63360,
+      "status": 1
+    },
+    {
+      "id": 260,
+      "total": 63660,
+      "status": 1
+    },
+    {
+      "id": 261,
+      "total": 63960,
+      "status": 1
+    },
+    {
+      "id": 262,
+      "total": 64260,
+      "status": 1
+    },
+    {
+      "id": 263,
+      "total": 64560,
+      "status": 1
+    },
+    {
+      "id": 264,
+      "total": 64860,
+      "status": 1
+    },
+    {
+      "id": 265,
+      "total": 65160,
+      "status": 1
+    },
+    {
+      "id": 266,
+      "total": 65460,
+      "status": 1
+    },
+    {
+      "id": 267,
+      "total": 65760,
+      "status": 1
+    },
+    {
+      "id": 268,
+      "total": 66060,
+      "status": 1
+    },
+    {
+      "id": 269,
+      "total": 66360,
+      "status": 1
+    },
+    {
+      "id": 270,
+      "total": 66660,
+      "status": 1
+    },
+    {
+      "id": 271,
+      "total": 66960,
+      "status": 1
+    },
+    {
+      "id": 272,
+      "total": 67260,
+      "status": 1
+    },
+    {
+      "id": 273,
+      "total": 67560,
+      "status": 1
+    },
+    {
+      "id": 274,
+      "total": 67860,
+      "status": 1
+    },
+    {
+      "id": 275,
+      "total": 68160,
+      "status": 1
+    },
+    {
+      "id": 276,
+      "total": 68460,
+      "status": 1
+    },
+    {
+      "id": 277,
+      "total": 68760,
+      "status": 1
+    },
+    {
+      "id": 278,
+      "total": 69060,
+      "status": 1
+    },
+    {
+      "id": 279,
+      "total": 69360,
+      "status": 1
+    },
+    {
+      "id": 280,
+      "total": 69660,
+      "status": 1
+    },
+    {
+      "id": 281,
+      "total": 69960,
+      "status": 1
+    },
+    {
+      "id": 282,
+      "total": 70260,
+      "status": 1
+    },
+    {
+      "id": 283,
+      "total": 70560,
+      "status": 1
+    },
+    {
+      "id": 284,
+      "total": 70860,
+      "status": 1
+    },
+    {
+      "id": 285,
+      "total": 71160,
+      "status": 1
+    },
+    {
+      "id": 286,
+      "total": 71460,
+      "status": 1
+    },
+    {
+      "id": 287,
+      "total": 71760,
+      "status": 1
+    },
+    {
+      "id": 288,
+      "total": 72060,
+      "status": 1
+    },
+    {
+      "id": 289,
+      "total": 72360,
+      "status": 1
+    },
+    {
+      "id": 290,
+      "total": 72660,
+      "status": 1
+    },
+    {
+      "id": 291,
+      "total": 72960,
+      "status": 1
+    },
+    {
+      "id": 292,
+      "total": 73260,
+      "status": 1
+    },
+    {
+      "id": 293,
+      "total": 73560,
+      "status": 1
+    },
+    {
+      "id": 294,
+      "total": 73860,
+      "status": 1
+    },
+    {
+      "id": 295,
+      "total": 74160,
+      "status": 1
+    },
+    {
+      "id": 296,
+      "total": 74460,
+      "status": 1
+    },
+    {
+      "id": 297,
+      "total": 74760,
+      "status": 1
+    },
+    {
+      "id": 298,
+      "total": 75060,
+      "status": 1
+    },
+    {
+      "id": 299,
+      "total": 75360,
+      "status": 1
+    },
+    {
+      "id": 300,
+      "total": 75660,
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,2558 @@
+{
+  "source": "assets/SettingV2/Data/Plot/PlotSpineTimeVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "npcId",
+    "animationName",
+    "duration"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 423,
+  "tsvSha256": "6fdb1538193e0cb4a17bf876acdf3dc7be6bd8460d3d8e22081404485f1a6c41",
+  "rows": [
+    {
+      "id": 1,
+      "npcId": 1002,
+      "animationName": "anger_begin",
+      "duration": 4
+    },
+    {
+      "id": 2,
+      "npcId": 1002,
+      "animationName": "anger_loop",
+      "duration": 4
+    },
+    {
+      "id": 3,
+      "npcId": 1002,
+      "animationName": "arrange",
+      "duration": 2.666667
+    },
+    {
+      "id": 4,
+      "npcId": 1002,
+      "animationName": "happy_begin",
+      "duration": 2
+    },
+    {
+      "id": 5,
+      "npcId": 1002,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 6,
+      "npcId": 1002,
+      "animationName": "headache",
+      "duration": 4.333333
+    },
+    {
+      "id": 7,
+      "npcId": 1002,
+      "animationName": "hello",
+      "duration": 2.5
+    },
+    {
+      "id": 8,
+      "npcId": 1002,
+      "animationName": "idle00",
+      "duration": 4
+    },
+    {
+      "id": 9,
+      "npcId": 1002,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 10,
+      "npcId": 1002,
+      "animationName": "idle02_begin",
+      "duration": 4
+    },
+    {
+      "id": 11,
+      "npcId": 1002,
+      "animationName": "idle02_loop",
+      "duration": 4.333333
+    },
+    {
+      "id": 12,
+      "npcId": 1002,
+      "animationName": "idle03_begin",
+      "duration": 4
+    },
+    {
+      "id": 13,
+      "npcId": 1002,
+      "animationName": "idle03_loop",
+      "duration": 4.333333
+    },
+    {
+      "id": 14,
+      "npcId": 1002,
+      "animationName": "idle04_loop",
+      "duration": 2.5
+    },
+    {
+      "id": 15,
+      "npcId": 1002,
+      "animationName": "idle05_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 16,
+      "npcId": 1002,
+      "animationName": "proud",
+      "duration": 4
+    },
+    {
+      "id": 17,
+      "npcId": 1002,
+      "animationName": "recall",
+      "duration": 4
+    },
+    {
+      "id": 18,
+      "npcId": 1002,
+      "animationName": "recall02",
+      "duration": 4
+    },
+    {
+      "id": 19,
+      "npcId": 1002,
+      "animationName": "sit",
+      "duration": 2.1
+    },
+    {
+      "id": 20,
+      "npcId": 1002,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 21,
+      "npcId": 1002,
+      "animationName": "surprise",
+      "duration": 2
+    },
+    {
+      "id": 22,
+      "npcId": 1002,
+      "animationName": "thinking_loop",
+      "duration": 4.333333
+    },
+    {
+      "id": 23,
+      "npcId": 1002,
+      "animationName": "walk01",
+      "duration": 2
+    },
+    {
+      "id": 24,
+      "npcId": 1002,
+      "animationName": "walk02",
+      "duration": 2
+    },
+    {
+      "id": 25,
+      "npcId": 1003,
+      "animationName": "arrange",
+      "duration": 2
+    },
+    {
+      "id": 26,
+      "npcId": 1003,
+      "animationName": "happy_begin",
+      "duration": 1.833333
+    },
+    {
+      "id": 27,
+      "npcId": 1003,
+      "animationName": "happy_loop",
+      "duration": 0.6667
+    },
+    {
+      "id": 28,
+      "npcId": 1003,
+      "animationName": "hello",
+      "duration": 1.666667
+    },
+    {
+      "id": 29,
+      "npcId": 1003,
+      "animationName": "idle01",
+      "duration": 2
+    },
+    {
+      "id": 30,
+      "npcId": 1003,
+      "animationName": "idle02",
+      "duration": 1.333333
+    },
+    {
+      "id": 31,
+      "npcId": 1003,
+      "animationName": "idle03_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 32,
+      "npcId": 1003,
+      "animationName": "proud",
+      "duration": 2
+    },
+    {
+      "id": 33,
+      "npcId": 1003,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 34,
+      "npcId": 1003,
+      "animationName": "sorrow_loop",
+      "duration": 1
+    },
+    {
+      "id": 35,
+      "npcId": 1003,
+      "animationName": "surprise_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 36,
+      "npcId": 1003,
+      "animationName": "surprise_loop",
+      "duration": 2
+    },
+    {
+      "id": 37,
+      "npcId": 1003,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 38,
+      "npcId": 1003,
+      "animationName": "thinking_loop",
+      "duration": 1
+    },
+    {
+      "id": 39,
+      "npcId": 1003,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 40,
+      "npcId": 1011,
+      "animationName": "anger_begin",
+      "duration": 2.333333
+    },
+    {
+      "id": 41,
+      "npcId": 1011,
+      "animationName": "anger_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 42,
+      "npcId": 1011,
+      "animationName": "happy_begin",
+      "duration": 2.2
+    },
+    {
+      "id": 43,
+      "npcId": 1011,
+      "animationName": "happy_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 44,
+      "npcId": 1011,
+      "animationName": "hello",
+      "duration": 2.6667
+    },
+    {
+      "id": 45,
+      "npcId": 1011,
+      "animationName": "hurt_begin",
+      "duration": 1.333333
+    },
+    {
+      "id": 46,
+      "npcId": 1011,
+      "animationName": "hurt_loop",
+      "duration": 1
+    },
+    {
+      "id": 47,
+      "npcId": 1011,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 48,
+      "npcId": 1011,
+      "animationName": "idle02",
+      "duration": 5.5
+    },
+    {
+      "id": 49,
+      "npcId": 1011,
+      "animationName": "idle03",
+      "duration": 2.666667
+    },
+    {
+      "id": 50,
+      "npcId": 1011,
+      "animationName": "sorrow_begin",
+      "duration": 3
+    },
+    {
+      "id": 51,
+      "npcId": 1011,
+      "animationName": "sorrow_loop",
+      "duration": 2.333333
+    },
+    {
+      "id": 52,
+      "npcId": 1011,
+      "animationName": "surprise_begin",
+      "duration": 1.333333
+    },
+    {
+      "id": 53,
+      "npcId": 1011,
+      "animationName": "surprise_loop",
+      "duration": 1.033333
+    },
+    {
+      "id": 54,
+      "npcId": 1011,
+      "animationName": "thinking_begin",
+      "duration": 2.333333
+    },
+    {
+      "id": 55,
+      "npcId": 1011,
+      "animationName": "thinking_loop",
+      "duration": 2.333333
+    },
+    {
+      "id": 56,
+      "npcId": 1011,
+      "animationName": "walk",
+      "duration": 1.0667
+    },
+    {
+      "id": 57,
+      "npcId": 1011,
+      "animationName": "walk02",
+      "duration": 1.0667
+    },
+    {
+      "id": 58,
+      "npcId": 1011,
+      "animationName": "walk03",
+      "duration": 1.0667
+    },
+    {
+      "id": 59,
+      "npcId": 1013,
+      "animationName": "anger_begin",
+      "duration": 2.333333
+    },
+    {
+      "id": 60,
+      "npcId": 1013,
+      "animationName": "anger_loop",
+      "duration": 1
+    },
+    {
+      "id": 61,
+      "npcId": 1013,
+      "animationName": "happy_begin",
+      "duration": 2.2
+    },
+    {
+      "id": 62,
+      "npcId": 1013,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 63,
+      "npcId": 1013,
+      "animationName": "hello",
+      "duration": 1.933333
+    },
+    {
+      "id": 64,
+      "npcId": 1013,
+      "animationName": "idle01",
+      "duration": 3.2
+    },
+    {
+      "id": 65,
+      "npcId": 1013,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 66,
+      "npcId": 1013,
+      "animationName": "sorrow_loop",
+      "duration": 1
+    },
+    {
+      "id": 67,
+      "npcId": 1013,
+      "animationName": "thinking_begin",
+      "duration": 2
+    },
+    {
+      "id": 68,
+      "npcId": 1013,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 69,
+      "npcId": 1013,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 70,
+      "npcId": 1016,
+      "animationName": "arrange",
+      "duration": 2
+    },
+    {
+      "id": 71,
+      "npcId": 1016,
+      "animationName": "fivestar_begin",
+      "duration": 4.666667
+    },
+    {
+      "id": 72,
+      "npcId": 1016,
+      "animationName": "fivestar_loop",
+      "duration": 2
+    },
+    {
+      "id": 73,
+      "npcId": 1016,
+      "animationName": "happy_begin",
+      "duration": 1.833333
+    },
+    {
+      "id": 74,
+      "npcId": 1016,
+      "animationName": "happy_loop",
+      "duration": 0.6667
+    },
+    {
+      "id": 75,
+      "npcId": 1016,
+      "animationName": "hello",
+      "duration": 1.666667
+    },
+    {
+      "id": 76,
+      "npcId": 1016,
+      "animationName": "idle01",
+      "duration": 2
+    },
+    {
+      "id": 77,
+      "npcId": 1016,
+      "animationName": "idle02",
+      "duration": 1.333333
+    },
+    {
+      "id": 78,
+      "npcId": 1016,
+      "animationName": "idle03_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 79,
+      "npcId": 1016,
+      "animationName": "idle04",
+      "duration": 1.833333
+    },
+    {
+      "id": 80,
+      "npcId": 1016,
+      "animationName": "proud",
+      "duration": 2
+    },
+    {
+      "id": 81,
+      "npcId": 1016,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 82,
+      "npcId": 1016,
+      "animationName": "sorrow_loop",
+      "duration": 1
+    },
+    {
+      "id": 83,
+      "npcId": 1016,
+      "animationName": "surprise02_begin",
+      "duration": 0.6
+    },
+    {
+      "id": 84,
+      "npcId": 1016,
+      "animationName": "surprise02_loop",
+      "duration": 2
+    },
+    {
+      "id": 85,
+      "npcId": 1016,
+      "animationName": "surprise_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 86,
+      "npcId": 1016,
+      "animationName": "surprise_loop",
+      "duration": 2
+    },
+    {
+      "id": 87,
+      "npcId": 1016,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 88,
+      "npcId": 1016,
+      "animationName": "thinking_loop",
+      "duration": 1
+    },
+    {
+      "id": 89,
+      "npcId": 1016,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 90,
+      "npcId": 1017,
+      "animationName": "anger_begin",
+      "duration": 0.8333334
+    },
+    {
+      "id": 91,
+      "npcId": 1017,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 92,
+      "npcId": 1017,
+      "animationName": "ghost_loop",
+      "duration": 2
+    },
+    {
+      "id": 93,
+      "npcId": 1017,
+      "animationName": "happy_begin",
+      "duration": 1.6
+    },
+    {
+      "id": 94,
+      "npcId": 1017,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 95,
+      "npcId": 1017,
+      "animationName": "hello",
+      "duration": 2.033334
+    },
+    {
+      "id": 96,
+      "npcId": 1017,
+      "animationName": "idle01",
+      "duration": 2
+    },
+    {
+      "id": 97,
+      "npcId": 1017,
+      "animationName": "idle02_begin",
+      "duration": 3.633333
+    },
+    {
+      "id": 98,
+      "npcId": 1017,
+      "animationName": "idle02_loop",
+      "duration": 2
+    },
+    {
+      "id": 99,
+      "npcId": 1017,
+      "animationName": "idle04",
+      "duration": 2.4
+    },
+    {
+      "id": 100,
+      "npcId": 1017,
+      "animationName": "pass_8_chanxue",
+      "duration": 3.666667
+    },
+    {
+      "id": 101,
+      "npcId": 1017,
+      "animationName": "pass_17_jiaren",
+      "duration": 2
+    },
+    {
+      "id": 102,
+      "npcId": 1017,
+      "animationName": "sorrow_begin",
+      "duration": 1.5
+    },
+    {
+      "id": 103,
+      "npcId": 1017,
+      "animationName": "sorrow_loop",
+      "duration": 3
+    },
+    {
+      "id": 104,
+      "npcId": 1017,
+      "animationName": "thinking_begin",
+      "duration": 1.166667
+    },
+    {
+      "id": 105,
+      "npcId": 1017,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 106,
+      "npcId": 1017,
+      "animationName": "tuxiguazi",
+      "duration": 6
+    },
+    {
+      "id": 107,
+      "npcId": 1017,
+      "animationName": "walk_loop",
+      "duration": 0.8333334
+    },
+    {
+      "id": 108,
+      "npcId": 1018,
+      "animationName": "idle01",
+      "duration": 3.333333
+    },
+    {
+      "id": 109,
+      "npcId": 1018,
+      "animationName": "idle02",
+      "duration": 1.333333
+    },
+    {
+      "id": 110,
+      "npcId": 1018,
+      "animationName": "idle04",
+      "duration": 3.9
+    },
+    {
+      "id": 111,
+      "npcId": 1018,
+      "animationName": "lunpan_idle",
+      "duration": 3.333333
+    },
+    {
+      "id": 112,
+      "npcId": 1018,
+      "animationName": "lunpan_jump",
+      "duration": 4.333333
+    },
+    {
+      "id": 113,
+      "npcId": 1018,
+      "animationName": "pass_8_chanxue",
+      "duration": 5
+    },
+    {
+      "id": 114,
+      "npcId": 1018,
+      "animationName": "pass_17_xiaoren",
+      "duration": 3.333333
+    },
+    {
+      "id": 115,
+      "npcId": 1018,
+      "animationName": "walk",
+      "duration": 0.6666667
+    },
+    {
+      "id": 116,
+      "npcId": 1019,
+      "animationName": "anger_begin",
+      "duration": 1.3
+    },
+    {
+      "id": 117,
+      "npcId": 1019,
+      "animationName": "anger_loop",
+      "duration": 1
+    },
+    {
+      "id": 118,
+      "npcId": 1019,
+      "animationName": "happy_begin",
+      "duration": 1.433333
+    },
+    {
+      "id": 119,
+      "npcId": 1019,
+      "animationName": "happy_loop",
+      "duration": 1
+    },
+    {
+      "id": 120,
+      "npcId": 1019,
+      "animationName": "hello",
+      "duration": 2
+    },
+    {
+      "id": 121,
+      "npcId": 1019,
+      "animationName": "idle01",
+      "duration": 3.333333
+    },
+    {
+      "id": 122,
+      "npcId": 1019,
+      "animationName": "idle02",
+      "duration": 5
+    },
+    {
+      "id": 123,
+      "npcId": 1019,
+      "animationName": "sorrow_begin",
+      "duration": 2.766667
+    },
+    {
+      "id": 124,
+      "npcId": 1019,
+      "animationName": "sorrow_loop",
+      "duration": 2.333333
+    },
+    {
+      "id": 125,
+      "npcId": 1019,
+      "animationName": "thinking_begin",
+      "duration": 2.366667
+    },
+    {
+      "id": 126,
+      "npcId": 1019,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 127,
+      "npcId": 1019,
+      "animationName": "walk",
+      "duration": 2
+    },
+    {
+      "id": 128,
+      "npcId": 1020,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 129,
+      "npcId": 1020,
+      "animationName": "anger_loop",
+      "duration": 2.166667
+    },
+    {
+      "id": 130,
+      "npcId": 1020,
+      "animationName": "happy_begin",
+      "duration": 1.8
+    },
+    {
+      "id": 131,
+      "npcId": 1020,
+      "animationName": "happy_loop",
+      "duration": 1
+    },
+    {
+      "id": 132,
+      "npcId": 1020,
+      "animationName": "hello",
+      "duration": 2.333333
+    },
+    {
+      "id": 133,
+      "npcId": 1020,
+      "animationName": "idle01",
+      "duration": 1
+    },
+    {
+      "id": 134,
+      "npcId": 1020,
+      "animationName": "idle02",
+      "duration": 2.333333
+    },
+    {
+      "id": 135,
+      "npcId": 1020,
+      "animationName": "idle03_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 136,
+      "npcId": 1020,
+      "animationName": "idle04",
+      "duration": 1.833333
+    },
+    {
+      "id": 137,
+      "npcId": 1020,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 138,
+      "npcId": 1020,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 139,
+      "npcId": 1020,
+      "animationName": "thinking_begin",
+      "duration": 2.6
+    },
+    {
+      "id": 140,
+      "npcId": 1020,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 141,
+      "npcId": 1020,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 142,
+      "npcId": 1021,
+      "animationName": "anger_begin",
+      "duration": 2
+    },
+    {
+      "id": 143,
+      "npcId": 1021,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 144,
+      "npcId": 1021,
+      "animationName": "happy_begin",
+      "duration": 2
+    },
+    {
+      "id": 145,
+      "npcId": 1021,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 146,
+      "npcId": 1021,
+      "animationName": "hello",
+      "duration": 2
+    },
+    {
+      "id": 147,
+      "npcId": 1021,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 148,
+      "npcId": 1021,
+      "animationName": "idle02",
+      "duration": 4
+    },
+    {
+      "id": 149,
+      "npcId": 1021,
+      "animationName": "sorrow_loop",
+      "duration": 4
+    },
+    {
+      "id": 150,
+      "npcId": 1021,
+      "animationName": "thinking_loop",
+      "duration": 4
+    },
+    {
+      "id": 151,
+      "npcId": 1021,
+      "animationName": "walk",
+      "duration": 2.133333
+    },
+    {
+      "id": 152,
+      "npcId": 1022,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 153,
+      "npcId": 1022,
+      "animationName": "anger_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 154,
+      "npcId": 1022,
+      "animationName": "drink_loop",
+      "duration": 6.933334
+    },
+    {
+      "id": 155,
+      "npcId": 1022,
+      "animationName": "happy_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 156,
+      "npcId": 1022,
+      "animationName": "happy_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 157,
+      "npcId": 1022,
+      "animationName": "hello",
+      "duration": 1.833333
+    },
+    {
+      "id": 158,
+      "npcId": 1022,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 159,
+      "npcId": 1022,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 160,
+      "npcId": 1022,
+      "animationName": "sorrow_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 161,
+      "npcId": 1022,
+      "animationName": "thinking_begin",
+      "duration": 2
+    },
+    {
+      "id": 162,
+      "npcId": 1022,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 163,
+      "npcId": 1022,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 164,
+      "npcId": 1023,
+      "animationName": "anger_begin",
+      "duration": 2.333333
+    },
+    {
+      "id": 165,
+      "npcId": 1023,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 166,
+      "npcId": 1023,
+      "animationName": "happy_begin",
+      "duration": 2.033334
+    },
+    {
+      "id": 167,
+      "npcId": 1023,
+      "animationName": "happy_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 168,
+      "npcId": 1023,
+      "animationName": "hello",
+      "duration": 2.166667
+    },
+    {
+      "id": 169,
+      "npcId": 1023,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 170,
+      "npcId": 1023,
+      "animationName": "laiddown",
+      "duration": 2
+    },
+    {
+      "id": 171,
+      "npcId": 1023,
+      "animationName": "sorrow_begin",
+      "duration": 3
+    },
+    {
+      "id": 172,
+      "npcId": 1023,
+      "animationName": "sorrow_loop",
+      "duration": 2.333333
+    },
+    {
+      "id": 173,
+      "npcId": 1023,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 174,
+      "npcId": 1023,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 175,
+      "npcId": 1023,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 176,
+      "npcId": 1024,
+      "animationName": "anger_begin",
+      "duration": 3
+    },
+    {
+      "id": 177,
+      "npcId": 1024,
+      "animationName": "anger_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 178,
+      "npcId": 1024,
+      "animationName": "happy_begin",
+      "duration": 2.633333
+    },
+    {
+      "id": 179,
+      "npcId": 1024,
+      "animationName": "happy_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 180,
+      "npcId": 1024,
+      "animationName": "hello",
+      "duration": 2.666667
+    },
+    {
+      "id": 181,
+      "npcId": 1024,
+      "animationName": "idle01",
+      "duration": 1.333333
+    },
+    {
+      "id": 182,
+      "npcId": 1024,
+      "animationName": "idle02",
+      "duration": 5.333333
+    },
+    {
+      "id": 183,
+      "npcId": 1024,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 184,
+      "npcId": 1024,
+      "animationName": "sorrow_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 185,
+      "npcId": 1024,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 186,
+      "npcId": 1024,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 187,
+      "npcId": 1024,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 188,
+      "npcId": 1025,
+      "animationName": "anger_begin",
+      "duration": 3
+    },
+    {
+      "id": 189,
+      "npcId": 1025,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 190,
+      "npcId": 1025,
+      "animationName": "happy_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 191,
+      "npcId": 1025,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 192,
+      "npcId": 1025,
+      "animationName": "hello",
+      "duration": 3
+    },
+    {
+      "id": 193,
+      "npcId": 1025,
+      "animationName": "idle01",
+      "duration": 1.333333
+    },
+    {
+      "id": 194,
+      "npcId": 1025,
+      "animationName": "idle02",
+      "duration": 4
+    },
+    {
+      "id": 195,
+      "npcId": 1025,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 196,
+      "npcId": 1025,
+      "animationName": "sorrow_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 197,
+      "npcId": 1025,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 198,
+      "npcId": 1025,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 199,
+      "npcId": 1025,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 200,
+      "npcId": 1028,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 201,
+      "npcId": 1028,
+      "animationName": "anger_loop",
+      "duration": 2.166667
+    },
+    {
+      "id": 202,
+      "npcId": 1028,
+      "animationName": "happy_begin",
+      "duration": 1.8
+    },
+    {
+      "id": 203,
+      "npcId": 1028,
+      "animationName": "happy_loop",
+      "duration": 1
+    },
+    {
+      "id": 204,
+      "npcId": 1028,
+      "animationName": "hello",
+      "duration": 2.333333
+    },
+    {
+      "id": 205,
+      "npcId": 1028,
+      "animationName": "idle01",
+      "duration": 1
+    },
+    {
+      "id": 206,
+      "npcId": 1028,
+      "animationName": "idle02",
+      "duration": 2.333333
+    },
+    {
+      "id": 207,
+      "npcId": 1028,
+      "animationName": "snack",
+      "duration": 6.833333
+    },
+    {
+      "id": 208,
+      "npcId": 1028,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 209,
+      "npcId": 1028,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 210,
+      "npcId": 1028,
+      "animationName": "tea",
+      "duration": 6.333333
+    },
+    {
+      "id": 211,
+      "npcId": 1028,
+      "animationName": "thinking_begin",
+      "duration": 2.6
+    },
+    {
+      "id": 212,
+      "npcId": 1028,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 213,
+      "npcId": 1028,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 214,
+      "npcId": 1029,
+      "animationName": 1,
+      "duration": 0
+    },
+    {
+      "id": 215,
+      "npcId": 1029,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 216,
+      "npcId": 1029,
+      "animationName": "anger_loop",
+      "duration": 2.166667
+    },
+    {
+      "id": 217,
+      "npcId": 1029,
+      "animationName": "happy_begin",
+      "duration": 1.8
+    },
+    {
+      "id": 218,
+      "npcId": 1029,
+      "animationName": "happy_loop",
+      "duration": 1
+    },
+    {
+      "id": 219,
+      "npcId": 1029,
+      "animationName": "hello",
+      "duration": 2.333333
+    },
+    {
+      "id": 220,
+      "npcId": 1029,
+      "animationName": "idle01",
+      "duration": 1
+    },
+    {
+      "id": 221,
+      "npcId": 1029,
+      "animationName": "idle02",
+      "duration": 2.333333
+    },
+    {
+      "id": 222,
+      "npcId": 1029,
+      "animationName": "snack",
+      "duration": 6
+    },
+    {
+      "id": 223,
+      "npcId": 1029,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 224,
+      "npcId": 1029,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 225,
+      "npcId": 1029,
+      "animationName": "tea",
+      "duration": 6.333333
+    },
+    {
+      "id": 226,
+      "npcId": 1029,
+      "animationName": "thinking_begin",
+      "duration": 2.6
+    },
+    {
+      "id": 227,
+      "npcId": 1029,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 228,
+      "npcId": 1029,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 229,
+      "npcId": 1030,
+      "animationName": "anger_begin",
+      "duration": 2.333333
+    },
+    {
+      "id": 230,
+      "npcId": 1030,
+      "animationName": "anger_loop",
+      "duration": 1
+    },
+    {
+      "id": 231,
+      "npcId": 1030,
+      "animationName": "happy_begin",
+      "duration": 2.2
+    },
+    {
+      "id": 232,
+      "npcId": 1030,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 233,
+      "npcId": 1030,
+      "animationName": "hello",
+      "duration": 1.933333
+    },
+    {
+      "id": 234,
+      "npcId": 1030,
+      "animationName": "idle01",
+      "duration": 3.2
+    },
+    {
+      "id": 235,
+      "npcId": 1030,
+      "animationName": "snack",
+      "duration": 7.833334
+    },
+    {
+      "id": 236,
+      "npcId": 1030,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 237,
+      "npcId": 1030,
+      "animationName": "sorrow_loop",
+      "duration": 1
+    },
+    {
+      "id": 238,
+      "npcId": 1030,
+      "animationName": "tea",
+      "duration": 5.166667
+    },
+    {
+      "id": 239,
+      "npcId": 1030,
+      "animationName": "thinking_begin",
+      "duration": 2
+    },
+    {
+      "id": 240,
+      "npcId": 1030,
+      "animationName": "thinking_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 241,
+      "npcId": 1030,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 242,
+      "npcId": 1031,
+      "animationName": "anger_begin",
+      "duration": 2.5
+    },
+    {
+      "id": 243,
+      "npcId": 1031,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 244,
+      "npcId": 1031,
+      "animationName": "happy_begin",
+      "duration": 2.5
+    },
+    {
+      "id": 245,
+      "npcId": 1031,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 246,
+      "npcId": 1031,
+      "animationName": "hello",
+      "duration": 2
+    },
+    {
+      "id": 247,
+      "npcId": 1031,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 248,
+      "npcId": 1031,
+      "animationName": "sorrow",
+      "duration": 4
+    },
+    {
+      "id": 249,
+      "npcId": 1031,
+      "animationName": "surprise_begin",
+      "duration": 2.5
+    },
+    {
+      "id": 250,
+      "npcId": 1031,
+      "animationName": "surprise_loop",
+      "duration": 2
+    },
+    {
+      "id": 251,
+      "npcId": 1031,
+      "animationName": "thinking",
+      "duration": 4
+    },
+    {
+      "id": 252,
+      "npcId": 1031,
+      "animationName": "walk",
+      "duration": 2.133333
+    },
+    {
+      "id": 253,
+      "npcId": 1032,
+      "animationName": "idle01",
+      "duration": 10
+    },
+    {
+      "id": 254,
+      "npcId": 1032,
+      "animationName": "idle02",
+      "duration": 1.333333
+    },
+    {
+      "id": 255,
+      "npcId": 1032,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 256,
+      "npcId": 1033,
+      "animationName": "anger_begin",
+      "duration": 0.8333334
+    },
+    {
+      "id": 257,
+      "npcId": 1033,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 258,
+      "npcId": 1033,
+      "animationName": "happy_begin",
+      "duration": 1.6
+    },
+    {
+      "id": 259,
+      "npcId": 1033,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 260,
+      "npcId": 1033,
+      "animationName": "hello",
+      "duration": 2.033334
+    },
+    {
+      "id": 261,
+      "npcId": 1033,
+      "animationName": "idle01",
+      "duration": 2
+    },
+    {
+      "id": 262,
+      "npcId": 1033,
+      "animationName": "pass_10_paozhu",
+      "duration": 8
+    },
+    {
+      "id": 263,
+      "npcId": 1033,
+      "animationName": "pass_14_maozi",
+      "duration": 2
+    },
+    {
+      "id": 264,
+      "npcId": 1033,
+      "animationName": "sorrow_begin",
+      "duration": 3
+    },
+    {
+      "id": 265,
+      "npcId": 1033,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 266,
+      "npcId": 1033,
+      "animationName": "surprise_begin",
+      "duration": 1.3
+    },
+    {
+      "id": 267,
+      "npcId": 1033,
+      "animationName": "surprise_loop",
+      "duration": 2
+    },
+    {
+      "id": 268,
+      "npcId": 1033,
+      "animationName": "thinking_begin",
+      "duration": 1.166667
+    },
+    {
+      "id": 269,
+      "npcId": 1033,
+      "animationName": "thinking_loop",
+      "duration": 2
+    },
+    {
+      "id": 270,
+      "npcId": 1033,
+      "animationName": "tuxiguazi",
+      "duration": 6
+    },
+    {
+      "id": 271,
+      "npcId": 1033,
+      "animationName": "walk_loop",
+      "duration": 0.8333334
+    },
+    {
+      "id": 272,
+      "npcId": 1034,
+      "animationName": "anger_begin",
+      "duration": 3.1
+    },
+    {
+      "id": 273,
+      "npcId": 1034,
+      "animationName": "anger_loop",
+      "duration": 2
+    },
+    {
+      "id": 274,
+      "npcId": 1034,
+      "animationName": "happy_begin",
+      "duration": 2.733334
+    },
+    {
+      "id": 275,
+      "npcId": 1034,
+      "animationName": "happy_loop",
+      "duration": 2
+    },
+    {
+      "id": 276,
+      "npcId": 1034,
+      "animationName": "hello",
+      "duration": 2
+    },
+    {
+      "id": 277,
+      "npcId": 1034,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 278,
+      "npcId": 1034,
+      "animationName": "idle02_begin",
+      "duration": 4.833333
+    },
+    {
+      "id": 279,
+      "npcId": 1034,
+      "animationName": "idle02_loop",
+      "duration": 4
+    },
+    {
+      "id": 280,
+      "npcId": 1034,
+      "animationName": "sorrow_begin",
+      "duration": 2.6
+    },
+    {
+      "id": 281,
+      "npcId": 1034,
+      "animationName": "sorrow_loop",
+      "duration": 2
+    },
+    {
+      "id": 282,
+      "npcId": 1034,
+      "animationName": "surprise_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 283,
+      "npcId": 1034,
+      "animationName": "surprise_loop",
+      "duration": 4
+    },
+    {
+      "id": 284,
+      "npcId": 1034,
+      "animationName": "thinking_begin",
+      "duration": 2.733334
+    },
+    {
+      "id": 285,
+      "npcId": 1034,
+      "animationName": "thinking_loop",
+      "duration": 4
+    },
+    {
+      "id": 286,
+      "npcId": 1034,
+      "animationName": "walk_loop",
+      "duration": 1.2
+    },
+    {
+      "id": 287,
+      "npcId": 1035,
+      "animationName": "anger",
+      "duration": 8
+    },
+    {
+      "id": 288,
+      "npcId": 1035,
+      "animationName": "happy_begin",
+      "duration": 2.466667
+    },
+    {
+      "id": 289,
+      "npcId": 1035,
+      "animationName": "happy_loop",
+      "duration": 4
+    },
+    {
+      "id": 290,
+      "npcId": 1035,
+      "animationName": "hello",
+      "duration": 1.666667
+    },
+    {
+      "id": 291,
+      "npcId": 1035,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 292,
+      "npcId": 1035,
+      "animationName": "idle02",
+      "duration": 4.166667
+    },
+    {
+      "id": 293,
+      "npcId": 1035,
+      "animationName": "idle03",
+      "duration": 2.666667
+    },
+    {
+      "id": 294,
+      "npcId": 1035,
+      "animationName": "idle04",
+      "duration": 2.666667
+    },
+    {
+      "id": 295,
+      "npcId": 1035,
+      "animationName": "sorrow",
+      "duration": 8
+    },
+    {
+      "id": 296,
+      "npcId": 1035,
+      "animationName": "surprise_begin",
+      "duration": 2.433333
+    },
+    {
+      "id": 297,
+      "npcId": 1035,
+      "animationName": "surprise_loop",
+      "duration": 4
+    },
+    {
+      "id": 298,
+      "npcId": 1035,
+      "animationName": "thinking",
+      "duration": 8
+    },
+    {
+      "id": 299,
+      "npcId": 1035,
+      "animationName": "walk_loop",
+      "duration": 1.066667
+    },
+    {
+      "id": 300,
+      "npcId": 1036,
+      "animationName": "idle01",
+      "duration": 5.333333
+    },
+    {
+      "id": 301,
+      "npcId": 1036,
+      "animationName": "idle02",
+      "duration": 5.333333
+    },
+    {
+      "id": 302,
+      "npcId": 1036,
+      "animationName": "walk",
+      "duration": 2.666667
+    },
+    {
+      "id": 303,
+      "npcId": 1037,
+      "animationName": "idle01",
+      "duration": 4.666667
+    },
+    {
+      "id": 304,
+      "npcId": 1037,
+      "animationName": "walk",
+      "duration": 1.2
+    },
+    {
+      "id": 305,
+      "npcId": 1038,
+      "animationName": "anger_begin",
+      "duration": 0
+    },
+    {
+      "id": 306,
+      "npcId": 1038,
+      "animationName": "anger_loop",
+      "duration": 0
+    },
+    {
+      "id": 307,
+      "npcId": 1038,
+      "animationName": "happy_begin",
+      "duration": 0
+    },
+    {
+      "id": 308,
+      "npcId": 1038,
+      "animationName": "happy_loop",
+      "duration": 0
+    },
+    {
+      "id": 309,
+      "npcId": 1038,
+      "animationName": "hello",
+      "duration": 5.333333
+    },
+    {
+      "id": 310,
+      "npcId": 1038,
+      "animationName": "idle01",
+      "duration": 6
+    },
+    {
+      "id": 311,
+      "npcId": 1038,
+      "animationName": "sorrow_begin",
+      "duration": 0
+    },
+    {
+      "id": 312,
+      "npcId": 1038,
+      "animationName": "sorrow_loop",
+      "duration": 0
+    },
+    {
+      "id": 313,
+      "npcId": 1038,
+      "animationName": "surprise_begin",
+      "duration": 0
+    },
+    {
+      "id": 314,
+      "npcId": 1038,
+      "animationName": "surprise_loop",
+      "duration": 0
+    },
+    {
+      "id": 315,
+      "npcId": 1038,
+      "animationName": "thinking_begin",
+      "duration": 0
+    },
+    {
+      "id": 316,
+      "npcId": 1038,
+      "animationName": "thinking_loop",
+      "duration": 0
+    },
+    {
+      "id": 317,
+      "npcId": 1038,
+      "animationName": "walk_loop",
+      "duration": 5.6
+    },
+    {
+      "id": 318,
+      "npcId": 1039,
+      "animationName": "anger_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 319,
+      "npcId": 1039,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 320,
+      "npcId": 1039,
+      "animationName": "happy_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 321,
+      "npcId": 1039,
+      "animationName": "happy_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 322,
+      "npcId": 1039,
+      "animationName": "idle01",
+      "duration": 5.333333
+    },
+    {
+      "id": 323,
+      "npcId": 1039,
+      "animationName": "sorrow_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 324,
+      "npcId": 1039,
+      "animationName": "sorrow_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 325,
+      "npcId": 1039,
+      "animationName": "thinking_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 326,
+      "npcId": 1039,
+      "animationName": "thinking_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 327,
+      "npcId": 1039,
+      "animationName": "walk",
+      "duration": 1
+    },
+    {
+      "id": 328,
+      "npcId": 1040,
+      "animationName": "anger_begin",
+      "duration": 3.666667
+    },
+    {
+      "id": 329,
+      "npcId": 1040,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 330,
+      "npcId": 1040,
+      "animationName": "happy_begin",
+      "duration": 4
+    },
+    {
+      "id": 331,
+      "npcId": 1040,
+      "animationName": "happy_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 332,
+      "npcId": 1040,
+      "animationName": "idle01",
+      "duration": 10.66667
+    },
+    {
+      "id": 333,
+      "npcId": 1040,
+      "animationName": "sorrow_begin",
+      "duration": 4
+    },
+    {
+      "id": 334,
+      "npcId": 1040,
+      "animationName": "sorrow_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 335,
+      "npcId": 1040,
+      "animationName": "surprise_begin",
+      "duration": 3.366667
+    },
+    {
+      "id": 336,
+      "npcId": 1040,
+      "animationName": "surprise_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 337,
+      "npcId": 1040,
+      "animationName": "thinking_begin",
+      "duration": 6.166667
+    },
+    {
+      "id": 338,
+      "npcId": 1040,
+      "animationName": "thinking_loop",
+      "duration": 8
+    },
+    {
+      "id": 339,
+      "npcId": 1040,
+      "animationName": "walk_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 340,
+      "npcId": 1041,
+      "animationName": "anger_begin",
+      "duration": 1.8
+    },
+    {
+      "id": 341,
+      "npcId": 1041,
+      "animationName": "anger_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 342,
+      "npcId": 1041,
+      "animationName": "happy_begin",
+      "duration": 3.166667
+    },
+    {
+      "id": 343,
+      "npcId": 1041,
+      "animationName": "happy_loop",
+      "duration": 1.333333
+    },
+    {
+      "id": 344,
+      "npcId": 1041,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 345,
+      "npcId": 1041,
+      "animationName": "idle02",
+      "duration": 1.6
+    },
+    {
+      "id": 346,
+      "npcId": 1041,
+      "animationName": "idle04",
+      "duration": 1.866667
+    },
+    {
+      "id": 347,
+      "npcId": 1041,
+      "animationName": "sorrow_begin",
+      "duration": 4.666667
+    },
+    {
+      "id": 348,
+      "npcId": 1041,
+      "animationName": "sorrow_loop",
+      "duration": 1.666667
+    },
+    {
+      "id": 349,
+      "npcId": 1041,
+      "animationName": "surprise_begin",
+      "duration": 4.166667
+    },
+    {
+      "id": 350,
+      "npcId": 1041,
+      "animationName": "surprise_loop",
+      "duration": 3
+    },
+    {
+      "id": 351,
+      "npcId": 1041,
+      "animationName": "thinking",
+      "duration": 2.666667
+    },
+    {
+      "id": 352,
+      "npcId": 1041,
+      "animationName": "walk",
+      "duration": 0.8000001
+    },
+    {
+      "id": 353,
+      "npcId": 1042,
+      "animationName": "anger_begin",
+      "duration": 3.666667
+    },
+    {
+      "id": 354,
+      "npcId": 1042,
+      "animationName": "anger_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 355,
+      "npcId": 1042,
+      "animationName": "happy_begin",
+      "duration": 3.666667
+    },
+    {
+      "id": 356,
+      "npcId": 1042,
+      "animationName": "happy_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 357,
+      "npcId": 1042,
+      "animationName": "hello",
+      "duration": 2.466667
+    },
+    {
+      "id": 358,
+      "npcId": 1042,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 359,
+      "npcId": 1042,
+      "animationName": "idle02",
+      "duration": 5.133334
+    },
+    {
+      "id": 360,
+      "npcId": 1042,
+      "animationName": "sorrow_begin",
+      "duration": 4
+    },
+    {
+      "id": 361,
+      "npcId": 1042,
+      "animationName": "sorrow_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 362,
+      "npcId": 1042,
+      "animationName": "surprise_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 363,
+      "npcId": 1042,
+      "animationName": "surprise_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 364,
+      "npcId": 1042,
+      "animationName": "thinking_begin",
+      "duration": 3.666667
+    },
+    {
+      "id": 365,
+      "npcId": 1042,
+      "animationName": "thinking_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 366,
+      "npcId": 1042,
+      "animationName": "walk_loop",
+      "duration": 1
+    },
+    {
+      "id": 367,
+      "npcId": 1043,
+      "animationName": "happy",
+      "duration": 2.666667
+    },
+    {
+      "id": 368,
+      "npcId": 1043,
+      "animationName": "hello",
+      "duration": 2.833333
+    },
+    {
+      "id": 369,
+      "npcId": 1043,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 370,
+      "npcId": 1043,
+      "animationName": "idle02",
+      "duration": 1.333333
+    },
+    {
+      "id": 371,
+      "npcId": 1043,
+      "animationName": "idle03",
+      "duration": 2.666667
+    },
+    {
+      "id": 372,
+      "npcId": 1043,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 373,
+      "npcId": 1048,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 374,
+      "npcId": 1048,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 375,
+      "npcId": 1048,
+      "animationName": "happy_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 376,
+      "npcId": 1048,
+      "animationName": "happy_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 377,
+      "npcId": 1048,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 378,
+      "npcId": 1048,
+      "animationName": "sorrow_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 379,
+      "npcId": 1048,
+      "animationName": "sorrow_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 380,
+      "npcId": 1048,
+      "animationName": "surprise_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 381,
+      "npcId": 1048,
+      "animationName": "surprise_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 382,
+      "npcId": 1048,
+      "animationName": "thinking_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 383,
+      "npcId": 1048,
+      "animationName": "thinking_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 384,
+      "npcId": 1048,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 385,
+      "npcId": 1049,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 386,
+      "npcId": 1049,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 387,
+      "npcId": 1049,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 388,
+      "npcId": 1049,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 389,
+      "npcId": 1060,
+      "animationName": "idle01",
+      "duration": 4
+    },
+    {
+      "id": 390,
+      "npcId": 1060,
+      "animationName": "walk_loop",
+      "duration": 4
+    },
+    {
+      "id": 391,
+      "npcId": 1061,
+      "animationName": "anger_begin",
+      "duration": 3
+    },
+    {
+      "id": 392,
+      "npcId": 1061,
+      "animationName": "anger_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 393,
+      "npcId": 1061,
+      "animationName": "happy_begin",
+      "duration": 1.866667
+    },
+    {
+      "id": 394,
+      "npcId": 1061,
+      "animationName": "happy_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 395,
+      "npcId": 1061,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 396,
+      "npcId": 1061,
+      "animationName": "sorrow_begin",
+      "duration": 3.833333
+    },
+    {
+      "id": 397,
+      "npcId": 1061,
+      "animationName": "sorrow_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 398,
+      "npcId": 1061,
+      "animationName": "surprise_begin",
+      "duration": 1.4
+    },
+    {
+      "id": 399,
+      "npcId": 1061,
+      "animationName": "surprise_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 400,
+      "npcId": 1061,
+      "animationName": "thinking_begin",
+      "duration": 6
+    },
+    {
+      "id": 401,
+      "npcId": 1061,
+      "animationName": "thinking_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 402,
+      "npcId": 1061,
+      "animationName": "walk",
+      "duration": 2.666667
+    },
+    {
+      "id": 403,
+      "npcId": 1062,
+      "animationName": "anger_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 404,
+      "npcId": 1062,
+      "animationName": "anger_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 405,
+      "npcId": 1062,
+      "animationName": "happy_begin",
+      "duration": 2.666667
+    },
+    {
+      "id": 406,
+      "npcId": 1062,
+      "animationName": "happy_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 407,
+      "npcId": 1062,
+      "animationName": "idle01",
+      "duration": 2.666667
+    },
+    {
+      "id": 408,
+      "npcId": 1062,
+      "animationName": "sorrow_begin",
+      "duration": 5.433333
+    },
+    {
+      "id": 409,
+      "npcId": 1062,
+      "animationName": "sorrow_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 410,
+      "npcId": 1062,
+      "animationName": "surprise_begin",
+      "duration": 2.533334
+    },
+    {
+      "id": 411,
+      "npcId": 1062,
+      "animationName": "surprise_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 412,
+      "npcId": 1062,
+      "animationName": "thinking_begin",
+      "duration": 5.333333
+    },
+    {
+      "id": 413,
+      "npcId": 1062,
+      "animationName": "thinking_loop",
+      "duration": 5.333333
+    },
+    {
+      "id": 414,
+      "npcId": 1062,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 415,
+      "npcId": 1063,
+      "animationName": "happy_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 416,
+      "npcId": 1063,
+      "animationName": "happy_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 417,
+      "npcId": 1063,
+      "animationName": "idle01",
+      "duration": 5.333333
+    },
+    {
+      "id": 418,
+      "npcId": 1063,
+      "animationName": "sorrow_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 419,
+      "npcId": 1063,
+      "animationName": "sorrow_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 420,
+      "npcId": 1063,
+      "animationName": "thinking_begin",
+      "duration": 3.333333
+    },
+    {
+      "id": 421,
+      "npcId": 1063,
+      "animationName": "thinking_loop",
+      "duration": 2.666667
+    },
+    {
+      "id": 422,
+      "npcId": 1063,
+      "animationName": "walk",
+      "duration": 1.066667
+    },
+    {
+      "id": 423,
+      "npcId": 1064,
+      "animationName": "idle01",
+      "duration": 6
+    }
+  ]
+}

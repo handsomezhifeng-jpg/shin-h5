@@ -1,0 +1,4 @@
+id	role1Enabled	role1Order	role1Anim	role2Enabled	role2Order	role2Anim	status
+int	int	int	int	int	int	int	int
+6001004	1	1	sit	0			1
+6001009	1	2	sit	1	1	idle	1

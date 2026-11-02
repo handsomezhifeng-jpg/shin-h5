@@ -1,0 +1,36 @@
+{
+  "source": "assets/SettingV2/Data/Common/Atialas.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "level",
+    "name",
+    "enable",
+    "quality",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 2,
+  "tsvSha256": "295ab808ef5fb46fee6fd9ec97d59fade31d06f99e53ba7425a1c5759a61786a",
+  "rows": [
+    {
+      "level": 0,
+      "name": "关闭",
+      "enable": 0,
+      "quality": 0,
+      "status": 1
+    },
+    {
+      "level": 1,
+      "name": "打开",
+      "enable": 1,
+      "quality": 2,
+      "status": 1
+    }
+  ]
+}

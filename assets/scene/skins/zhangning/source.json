@@ -1,0 +1,9 @@
+{
+  "mode": "built-in image_gen",
+  "sourceEvidence": "经验/知识库/美术方案/三国棋盘/张宁手机角色入版-2026-11-02",
+  "promptFile": "prompts.json",
+  "alphaExtraction": "Largest opaque connected body per cell, plus 2px edge neighborhood; original body RGB retained.",
+  "packing": "Uniformly normalized to 440px body height, shared foot anchor, lossless WebP preserving exact RGBA.",
+  "posesPerVariant": 4,
+  "userSetting": "张角之女张宁，率黄巾余部经营酒楼，积蓄资金重振黄巾。"
+}

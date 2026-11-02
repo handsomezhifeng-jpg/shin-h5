@@ -1,0 +1,215 @@
+{
+  "character": "张宁",
+  "default": "a",
+  "variants": {
+    "a": {
+      "name": "酒楼掌柜",
+      "atlas": "a.webp",
+      "portrait": "a-portrait.png",
+      "frames": [
+        {
+          "crop": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_f"
+        },
+        {
+          "crop": [
+            512,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_b"
+        },
+        {
+          "crop": [
+            0,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_f"
+        },
+        {
+          "crop": [
+            512,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_b"
+        }
+      ],
+      "sourceFlips": [
+        true,
+        false,
+        true,
+        false
+      ]
+    },
+    "b": {
+      "name": "太平少主",
+      "atlas": "b.webp",
+      "portrait": "b-portrait.png",
+      "frames": [
+        {
+          "crop": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_f"
+        },
+        {
+          "crop": [
+            512,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_b"
+        },
+        {
+          "crop": [
+            0,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_f"
+        },
+        {
+          "crop": [
+            512,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_b"
+        }
+      ],
+      "sourceFlips": [
+        false,
+        true,
+        false,
+        true
+      ]
+    },
+    "c": {
+      "name": "黄巾女帅",
+      "atlas": "c.webp",
+      "portrait": "c-portrait.png",
+      "frames": [
+        {
+          "crop": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_f"
+        },
+        {
+          "crop": [
+            512,
+            0,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "idle_b"
+        },
+        {
+          "crop": [
+            0,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_f"
+        },
+        {
+          "crop": [
+            512,
+            512,
+            512,
+            512
+          ],
+          "anchor": [
+            256,
+            480
+          ],
+          "bodyHeight": 440,
+          "pose": "walk_b"
+        }
+      ],
+      "sourceFlips": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  "authoredPoses": 4,
+  "referenceHeight": 133
+}

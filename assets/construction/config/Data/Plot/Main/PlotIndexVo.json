@@ -1,0 +1,253 @@
+{
+  "source": "assets/SettingV2/Data/Plot/Main/PlotIndexVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "toQuestId",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 47,
+  "tsvSha256": "b64a0f94f47aac630bc2f4b96c4a83d2c74ac074191275f54aff86a9aa4830b8",
+  "rows": [
+    {
+      "id": 1,
+      "toQuestId": 137,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "toQuestId": 175,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "toQuestId": 208,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "toQuestId": 239,
+      "status": 1
+    },
+    {
+      "id": 5,
+      "toQuestId": 280,
+      "status": 1
+    },
+    {
+      "id": 6,
+      "toQuestId": 312,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "toQuestId": 343,
+      "status": 1
+    },
+    {
+      "id": 8,
+      "toQuestId": 375,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "toQuestId": 415,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "toQuestId": 446,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "toQuestId": 480,
+      "status": 1
+    },
+    {
+      "id": 12,
+      "toQuestId": 511,
+      "status": 1
+    },
+    {
+      "id": 13,
+      "toQuestId": 545,
+      "status": 1
+    },
+    {
+      "id": 14,
+      "toQuestId": 576,
+      "status": 1
+    },
+    {
+      "id": 15,
+      "toQuestId": 611,
+      "status": 1
+    },
+    {
+      "id": 16,
+      "toQuestId": 661,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "toQuestId": 708,
+      "status": 1
+    },
+    {
+      "id": 18,
+      "toQuestId": 747,
+      "status": 1
+    },
+    {
+      "id": 19,
+      "toQuestId": 784,
+      "status": 1
+    },
+    {
+      "id": 20,
+      "toQuestId": 824,
+      "status": 1
+    },
+    {
+      "id": 21,
+      "toQuestId": 865,
+      "status": 1
+    },
+    {
+      "id": 22,
+      "toQuestId": 894,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "toQuestId": 921,
+      "status": 1
+    },
+    {
+      "id": 24,
+      "toQuestId": 949,
+      "status": 1
+    },
+    {
+      "id": 25,
+      "toQuestId": 975,
+      "status": 1
+    },
+    {
+      "id": 26,
+      "toQuestId": 1007,
+      "status": 1
+    },
+    {
+      "id": 27,
+      "toQuestId": 1088,
+      "status": 1
+    },
+    {
+      "id": 28,
+      "toQuestId": 1115,
+      "status": 1
+    },
+    {
+      "id": 29,
+      "toQuestId": 1234,
+      "status": 1
+    },
+    {
+      "id": 30,
+      "toQuestId": 1285,
+      "status": 1
+    },
+    {
+      "id": 31,
+      "toQuestId": 1344,
+      "status": 1
+    },
+    {
+      "id": 32,
+      "toQuestId": 1371,
+      "status": 1
+    },
+    {
+      "id": 33,
+      "toQuestId": 1399,
+      "status": 1
+    },
+    {
+      "id": 34,
+      "toQuestId": 1440,
+      "status": 1
+    },
+    {
+      "id": 35,
+      "toQuestId": 1480,
+      "status": 1
+    },
+    {
+      "id": 36,
+      "toQuestId": 1553,
+      "status": 1
+    },
+    {
+      "id": 37,
+      "toQuestId": 1583,
+      "status": 1
+    },
+    {
+      "id": 38,
+      "toQuestId": 1644,
+      "status": 1
+    },
+    {
+      "id": 39,
+      "toQuestId": 1693,
+      "status": 1
+    },
+    {
+      "id": 40,
+      "toQuestId": 1709,
+      "status": 1
+    },
+    {
+      "id": 41,
+      "toQuestId": 1772,
+      "status": 1
+    },
+    {
+      "id": 42,
+      "toQuestId": 1802,
+      "status": 1
+    },
+    {
+      "id": 43,
+      "toQuestId": 1894,
+      "status": 1
+    },
+    {
+      "id": 44,
+      "toQuestId": 1959,
+      "status": 1
+    },
+    {
+      "id": 45,
+      "toQuestId": 2059,
+      "status": 1
+    },
+    {
+      "id": 46,
+      "toQuestId": 2195,
+      "status": 1
+    },
+    {
+      "id": 47,
+      "toQuestId": 2366,
+      "status": 1
+    }
+  ]
+}

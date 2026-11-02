@@ -1,0 +1,102 @@
+{
+  "id": "original-sweep-20",
+  "version": "draft-v3",
+  "generator": "Seedance 2.5",
+  "count": 20,
+  "fps": 9.230769,
+  "width": 320,
+  "height": 480,
+  "columns": 5,
+  "rows": 4,
+  "framesPerSheet": 20,
+  "sheets": [
+    "atlas-00.webp"
+  ],
+  "cropBounds": [
+    132,
+    390,
+    292,
+    620
+  ],
+  "sourceDecodeResolution": [
+    432,
+    768
+  ],
+  "framePattern": "frames/{index:04d}.png",
+  "sourceSha256": "8f68bc75f7360457907f5c29285d9782dff091082bb51e59b9ac11cea2cc8dbb",
+  "qa": {
+    "status": "awaiting-human-review",
+    "warnings": [],
+    "durationSeconds": 6.041667,
+    "sequenceDuration": 2.1666667208333346,
+    "sourceResolution": [
+      720,
+      1280
+    ],
+    "sourceFPS": "24/1",
+    "sourceCodec": "h264",
+    "sourceAudioTracks": 0,
+    "reviewAudioTracks": 0,
+    "decodedFrames": 20,
+    "sourceDecodedFrames": 145,
+    "extractedFPS": 9.230769,
+    "frameLimit": 20,
+    "minimumTransparentBackground": 0.9630895543981481,
+    "horizontalDriftPixels": 23.0,
+    "loopSeamMeanDifference": 13.064602864583334,
+    "notes": "Matte and timing metrics are automatic checks, not approval of motion quality."
+  },
+  "frameLimit": 20,
+  "sourceFrameIndices": [
+    71,
+    74,
+    76,
+    79,
+    81,
+    84,
+    87,
+    89,
+    92,
+    94,
+    97,
+    100,
+    102,
+    105,
+    107,
+    110,
+    113,
+    115,
+    118,
+    120
+  ],
+  "sourceTimes": [
+    2.9583333333333335,
+    3.0833333333333335,
+    3.1666666666666665,
+    3.2916666666666665,
+    3.375,
+    3.5,
+    3.625,
+    3.7083333333333335,
+    3.8333333333333335,
+    3.9166666666666665,
+    4.041666666666667,
+    4.166666666666667,
+    4.25,
+    4.375,
+    4.458333333333333,
+    4.583333333333333,
+    4.708333333333333,
+    4.791666666666667,
+    4.916666666666667,
+    5.0
+  ],
+  "cycleSelection": {
+    "startSourceFrame": 71,
+    "endSourceFrameExclusive": 123,
+    "sourceDuration": 2.1666666666666665,
+    "motionAmplitude": 0.09273034334182739,
+    "sourceSeamDifference": 0.0003611743450164795,
+    "selection": "Closest matching active-cycle endpoints; evenly sampled without duplicated source frames."
+  }
+}

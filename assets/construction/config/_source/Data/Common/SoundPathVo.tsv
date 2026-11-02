@@ -1,0 +1,217 @@
+id	soundType	soundPath	status	remark	remark_zh_CN
+int	int	int	int	int	int
+1	2	Sound/Bgm/bgm_background.mp3	1	背景音乐	背景音乐
+2	1	Sound/SfxMergelv2.wav	1	棋子合成音效Lv2	棋子合成音效Lv2
+3	1	Sound/SfxMergelv3.wav	1	棋子合成音效Lv3	棋子合成音效Lv3
+4	1	Sound/SfxMergelv4.wav	1	棋子合成音效Lv4	棋子合成音效Lv4
+5	1	Sound/SfxMergelv5.wav	1	棋子合成音效Lv5	棋子合成音效Lv5
+6	1	Sound/SfxMergelv6.wav	1	棋子合成音效Lv6	棋子合成音效Lv6
+7	1	Sound/SfxMergelv7.wav	1	棋子合成音效Lv7	棋子合成音效Lv7
+8	1	Sound/SfxMergelv8.wav	1	棋子合成音效Lv8	棋子合成音效Lv8
+9	1	Sound/SfxMergeSpawnManual.wav	1	母棋产出音效1	母棋产出音效1
+10	1	Sound/SfxMergeSpawnManual2.wav	1	母棋产出音效2	母棋产出音效2
+11	1	Sound/SfxMergeSpawnManualEnergyBoost.wav	1	母棋产出音效多倍产出时	母棋产出音效多倍产出时
+12	1	Sound/sfxOrderComplete.wav	1	订单可以完成是时触发音效	订单可以完成是时触发音效
+13	1	Sound/sfxOrderServe.wav	1	订单点击完成时触发音效	订单点击完成时触发音效
+14	1	Sound/SfxMergeCollectCoins.wav	1	使用金币棋子时的音效	使用金币棋子时的音效
+15	1	Sound/SfxMergeCollectDiamond.wav	1	使用钻石的音效	使用钻石的音效
+16	1	Sound/SfxMergeCollectEnergy.wav	1	使用体力的音效	使用体力的音效
+17	1	Sound/SfxRewardCrush.wav	1	金币收集音效（单个金币，订单完成时需要多次播放）	金币收集音效（单个金币，订单完成时需要多次播放）
+18	1	Sound/SfxButtonClick.wav	1	常规按钮点击音效	常规按钮点击音效
+19	1	Sound/sfxWindowPop.wav	1	弹窗界面打开音效	弹窗界面打开音效
+20	1	Sound/SfxExp.wav	1	获得账户经验时音效	获得账户经验时音效
+21	1	Sound/SfxDecoration.wav	1	解锁物件使用榔头锤击	解锁物件使用榔头锤击
+22	1	Sound/SfxStar.wav	1	解锁物件使用新物件星星	解锁物件使用新物件星星
+23	1	Sound/SfxUP.wav	1	账户升级	账户升级
+24	1	Sound/SfxRewardCrush.wav	1	体力收集音效	体力收集音效
+25	1	Sound/SfxActivityPoints.wav	1	PASS卡完成任务获得经验时的爆点音效	PASS卡完成任务获得经验时的爆点音效
+26	1	Sound/SfxPointsPromote.wav	1	PASS卡提升等级时的音效	PASS卡提升等级时的音效
+27	1	Sound/SfxClean.wav	1	家具移除的效果	家具移除的效果
+28	1	Sound/SfxOpenCard_1.wav	1	打开卡包	打开卡包
+29	1	Sound/SfxOpenCard_2.wav	1	卡牌飞出屏幕	卡牌飞出屏幕
+30	1	Sound/SfxOpenCard_3.wav	1	卡牌飞入屏幕	卡牌飞入屏幕
+31	1	Sound/SfxOpenCard_4.wav	1	卡牌获得	卡牌获得
+32	1	Sound/SfxCardHarvestSuccess.wav	1	完成单组卡包收集打脸界面	完成单组卡包收集打脸界面
+33	1	Sound/SfxBuy.wav	1	商店购买成功获得界面	商店购买成功获得界面
+34	1	Sound/SfxOpenTreasure.wav	1	打开宝箱时的音效	打开宝箱时的音效
+35	2	Sound/op/bgm_chapter_op.mp3	1	序章背景音乐	序章背景音乐
+36	1	Sound/SfxWarehouse.wav	1	棋子放入仓库时	棋子放入仓库时
+37	1	Sound/SfxOpenCardPack.wav	1	新增打开卡牌礼包音效	新增打开卡牌礼包音效
+38	1	Sound/SfxOpenCardPack_1.wav	1	升级卡牌礼包音效	升级卡牌礼包音效
+39	1	Sound/SfxDoingsWaterCollect.wav	1		
+40	1	Sound/SfxDoingsWaterCollect_1.wav	1		
+41	1	Sound/SfxDoingsIrrigation.wav	1		
+42	1	Sound/SfxDoingsObtain.wav	1		
+43	1	Sound/Sfxesteem_1.wav	1		
+44	1	Sound/Sfxesteem_2.wav	1		
+45	1	Sound/Sfxbagua_1.wav	1		
+46	1	Sound/Sfxbagua_2.wav	1		
+47	1	Sound/SfxLink_main_reward.wav	1		
+48	1	Sound/SfxLink_use_currency.wav	1		
+49	1	Sound/SfxLink_complete.wav	1		
+50	1	Sound/SfxLink_complete_celebrate.wav	1		
+51	1	Sound/SfxLink_complete_end.wav	1		
+52	1	Sound/sfxFavorability_1.wav	1		
+53	1	Sound/sfxFavorability_2.wav	1		
+54	1	Sound/sfxFavorability_3.wav	1		
+55	1	Sound/sfxFavorabilityUP.wav	1		
+56	1	Sound/sfxFavorabilitySlap.wav	1		
+57	1	Sound/sfxDrumming_1.wav	1		
+58	1	Sound/sfxDrumming_2.wav	1		
+59	1	Sound/sfxDrumming_3.wav	1		
+60	1	Sound/sfxDrumming_4.wav	1		
+61	1	Sound/sfxDrummingMove.wav	1		
+62	1	Sound/sfxDrummingMultiple.wav	1		
+63	1	Sound/sfxDrummingRefresh.wav	1		
+64	1	Sound/sfxPuzzle_1.wav	1		
+65	1	Sound/sfxPuzzle_2.wav	1		
+66	1	Sound/sfxPuzzle_3.wav	1		
+67	1	Sound/sfxPuzzle_4.wav	1		
+68	1	Sound/sfxTurntable_1.wav	1		
+69	1	Sound/sfxTurntable_2.wav	1		
+70	1	Sound/sfxTurntable_3.wav	1		
+71	1	Sound/sfxTurntable_4.wav	1		
+72	1	Sound/sfxFireZeal_1.wav	1		
+73	1	Sound/sfxFireZeal_2.wav	1		
+74	2	Sound/Bgm/bgm_suspense.mp3	1		
+75	1	Sound/sfx_fire_clean.wav	1		
+76	1	Sound/sfx_wind_clean.wav	1		
+77	1	Sound/sfx_star_clean.wav	1		
+78	2	Sound/Bgm/bgm_SpringFestival_V2.mp3	1		
+79	1	Sound/sfxMoneyTree.wav	1		
+80	1	Sound/SevenTask/sfxWeeklyTasks_1.wav	1		
+81	1	Sound/SevenTask/sfxWeeklyTasks_2.wav	1		
+82	1	Sound/SevenTask/sfxWeeklyTasks_3.wav	1		
+83	1	Sound/SevenTask/sfxWeeklyTasks_4.wav	1		
+84	1	Sound/SevenTask/sfxWeeklyTasks_5.wav	1		
+85	1	Sound/SevenTask/sfxWeeklyTasks_6.wav	1		
+86	1	Sound/sfxMatching_1.wav	1		
+87	1	Sound/sfxMatching_2.wav	1		
+88	1	Sound/sfxMatching_3.wav	1		
+89	1	Sound/sfxMatching_4.wav	1		
+90	1	Sound/sfxMatching_5.wav	1		
+91	1	Sound/sfxMatching_6.wav	1		
+92	1	Sound/sfxMatching_7.wav	1		
+93	1	Sound/sfxMaterial_1.wav	1		
+94	1	Sound/sfxMaterial_2.wav	1		
+95	1	Sound/sfxMaterial_3.wav	1		
+96	1	Sound/sfxMaterial_4.wav	1		
+97	1	Sound/sfxMaterial_5.wav	1		
+98	1	Sound/sfxMaterial_6.wav	1		
+99	1	Sound/sfxMaterial_7.wav	1		
+100	1	Sound/sfxMaterial_8.wav	1		
+101	1	Sound/sfxMaterial_9.wav	1		
+102	1	Sound/sfxFireZeal_3.wav	1		
+103	1	Sound/sfxKoi_1.wav	1		
+104	1	Sound/sfxKoi_2.wav	1		
+105	1	Sound/sfxKoi_3.wav	1		
+106	1	Sound/sfxMatching_8.wav	1		
+107	1	Sound/sfxMatching_8_fly.wav	1		
+108	1	Sound/sfxMatching_11.wav	1		
+109	1	Sound/sfxDandelioni_1.wav	1		
+110	2	Sound/Bgm/sfxGrief_bgm.wav	1		
+111	2	Sound/Bgm/sfxJoy_bgm.wav	1		
+112	1	Sound/sfxCatTower_1.wav	1		
+113	1	Sound/sfxCatTower_2.wav	1		
+114	1	Sound/sfxCatTower_3.wav	1		
+115	1	Sound/sfxCatTower_4.wav	1		
+116	1	Sound/sfxCatTower_5.wav	1		
+117	1	Sound/sfxCatTowerAward_1.wav	1		
+118	1	Sound/SfxRewardCrush.wav	1		
+119	2	Sound/Bgm/bgm_menghualu.mp3	1		
+120	2	Sound/Bgm/SfxBgm_special_plac.mp3	1		
+121	1	Sound/sfxHappyDuck.wav	1		
+122	1	Sound/sfxHydrangea_1.wav	1		
+123	1	Sound/sfxHydrangea_2.wav	1		
+124	1	Sound/sfxHydrangea_3.wav	1		
+125	1	Sound/SevenTask/sfxWeeklyTasks_7.wav	1		
+126	1	Sound/TreasureMap/SfxTreasureMap_Apple.wav	1		
+127	1	Sound/TreasureMap/SfxTreasureMap_broom_1.wav	1		
+128	1	Sound/TreasureMap/SfxTreasureMap_broom_2.wav	1		
+129	1	Sound/TreasureMap/SfxTreasureMap_chain_01.wav	1		
+130	1	Sound/TreasureMap/SfxTreasureMap_door.wav	1		
+131	1	Sound/TreasureMap/SfxTreasureMap_Gravel.wav	1		
+132	1	Sound/TreasureMap/SfxTreasureMap_Leaves.wav	1		
+133	1	Sound/TreasureMap/SfxTreasureMap_monkey.wav	1		
+134	1	Sound/TreasureMap/SfxTreasureMap_petal.wav	1		
+135	1	Sound/TreasureMap/SfxTreasureMap_pick.wav	1		
+136	1	Sound/TreasureMap/SfxTreasureMap_Prologue.wav	1		
+137	1	Sound/TreasureMap/SfxTreasureMap_Repair.wav	1		
+138	1	Sound/TreasureMap/SfxTreasureMap_Reward.wav	1		
+139	1	Sound/TreasureMap/SfxTreasureMap_Shovel.wav	1		
+140	1	Sound/TreasureMap/SfxTreasureMap_Task_01.wav	1		
+141	1	Sound/TreasureMap/SfxTreasureMap_Task_02.wav	1		
+142	1	Sound/TreasureMap/SfxTreasureMap_Transition.wav	1		
+143	1	Sound/TreasureMap/SfxTreasureMap_prop.wav	1		
+144	1	Sound/TreasureMap/SfxTreasureMap_cave.wav	1		
+145	1	Sound/TreasureMap/SfxTreasureMap_eagle_01.wav	1		
+150	1	Sound/MinigameSound/minigame_dang_1.mp3	1		
+151	1	Sound/MinigameSound/minigame_dang_2.mp3	1		
+152	1	Sound/MinigameSound/minigame_qiuyinong_1.mp3	1		
+153	1	Sound/MinigameSound/minigame_qiuyinong_2.mp3	1		
+154	1	Sound/MinigameSound/minigame_wangqingshui_1.mp3	1		
+155	1	Sound/MinigameSound/minigame_wangqingshui_2.mp3	1		
+156	1	Sound/MinigameSound/minigame_heimaojingzhang_1.mp3	1		
+157	1	Sound/MinigameSound/minigame_heimaojingzhang_2.mp3	1		
+158	1	Sound/MinigameSound/minigame_daxiaojianghu_1.mp3	1		
+159	1	Sound/MinigameSound/minigame_daxiaojianghu_2.mp3	1		
+160	1	Sound/MinigameSound/minigame_huangliniao_1.mp3	1		
+161	1	Sound/MinigameSound/minigame_huangliniao_2.mp3	1		
+162	1	Sound/MinigameSound/minigame_qingshenshen_1.mp3	1		
+163	1	Sound/MinigameSound/minigame_qingshenshen_2.mp3	1		
+164	1	Sound/MinigameSound/minigame_wujiapo_1.mp3	1		
+165	1	Sound/MinigameSound/minigame_wujiapo_2.mp3	1		
+166	1	Sound/MinigameSound/minigame_duqing_1.mp3	1		
+167	1	Sound/MinigameSound/minigame_duqing_2.mp3	1		
+168	1	Sound/MinigameSound/minigame_muqin_1.mp3	1		
+169	1	Sound/MinigameSound/minigame_muqin_2.mp3	1		
+170	1	Sound/MinigameSound/minigame_pipaxing_1.mp3	1		
+171	1	Sound/MinigameSound/minigame_pipaxing_2.mp3	1		
+172	1	Sound/MinigameSound/minigame_qiansixi_1.mp3	1		
+173	1	Sound/MinigameSound/minigame_qiansixi_2.mp3	1		
+174	1	Sound/MinigameSound/minigame_nashiyu_1.mp3	1		
+175	1	Sound/MinigameSound/minigame_nashiyu_2.mp3	1		
+176	1	Sound/MinigameSound/minigame_bohushuo_1.mp3	1		
+177	1	Sound/MinigameSound/minigame_bohushuo_2.mp3	1		
+178	1	Sound/MinigameSound/minigame_mowenguiqi_1.mp3	1		
+179	1	Sound/MinigameSound/minigame_mowenguiqi_2.mp3	1		
+180	1	Sound/MinigameSound/minigame_tanchuang_1.mp3	1		
+181	1	Sound/MinigameSound/minigame_tanchuang_2.mp3	1		
+182	1	Sound/MinigameSound/minigame_xiloubiexu_1.mp3	1		
+183	1	Sound/MinigameSound/minigame_xiloubiexu_2.mp3	1		
+184	1	Sound/MinigameSound/minigame_qingyi_1.mp3	1		
+185	1	Sound/MinigameSound/minigame_qingyi_2.mp3	1		
+186	1	Sound/MinigameSound/minigame_youshanlian_1.mp3	1		
+187	1	Sound/MinigameSound/minigame_youshanlian_2.mp3	1		
+188	1	Sound/MinigameSound/minigame_youjing_1.mp3	1		
+189	1	Sound/MinigameSound/minigame_youjing_2.mp3	1		
+190	1	Sound/sfx_Rising_steadily_01.wav	1		
+191	1	Sound/sfx_Rising_steadily_02.wav	1		
+192	1	Sound/sfxFireworks_1.wav	1		
+193	1	Sound/sfxProgress_1_1.wav	1		
+194	1	Sound/sfxProgress_1_2.wav	1		
+195	1	Sound/sfxProgress_2.wav	1		
+196	1	Sound/sfxProgress_3.wav	1		
+197	1	Sound/sfxProgress_4.wav	1		
+198	1	Sound/sfxProgress_5.wav	1		
+199	1	Sound/sfxProgress_6.wav	1		
+200	1	Sound/sfxWeavingFlash.wav	1		
+201	1	Sound/sfxMonsterBirth.wav	1		
+202	1	Sound/sfxMonsterBossBirth.wav	1		
+203	1	Sound/sfxMonsterBossReward.wav	1		
+204	1	Sound/sfxMonsterBossWin.wav	1		
+205	1	Sound/sfxMonsterHit.wav	1		
+206	1	Sound/sfxMonsterMedal_1.wav	1		
+207	1	Sound/sfxMonsterMedal_2.wav	1		
+208	1	Sound/sfxMonsterMedal_3.wav	1		
+209	1	Sound/sfxMonsterProp.wav	1		
+210	1	Sound/sfxAnniversary.wav	1		
+211	1	Sound/sfxEmail.wav	1		
+212	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_Steamer_1.wav	1		
+213	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_Steamer_2.wav	1		
+214	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_radish_1.wav	1		
+215	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_radish_2.wav	1		
+216	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_drum_1.wav	1		
+217	1	Sound/TreasureMap/SfxTreasureMap_Mainlines_Story_drum_2.wav	1		
+218	1	Sound/TreasureMap/SfxTreasureMap_Secondary_obstacle_1.wav	1		
+219	1	Sound/TreasureMap/SfxTreasureMap_Secondary_obstacle_2.wav	1		

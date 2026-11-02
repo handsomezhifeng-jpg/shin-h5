@@ -1,0 +1,148 @@
+{
+  "source": "assets/SettingV2/Data/Guide/GuideStepVoIDGroup.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "ids",
+    "status"
+  ],
+  "declaredTypes": [
+    "string",
+    "string",
+    "int"
+  ],
+  "rowCount": 26,
+  "tsvSha256": "45c1c15cb443efaf74e04a00ec5eb2779069f3e0b85f50001cc5f388072c5093",
+  "rows": [
+    {
+      "id": 1,
+      "ids": "1001,1002,1003,1004,1005,1006,1007,1008",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "ids": 2001,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "ids": "3001,3002,3003",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "ids": "4001,4002",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "ids": "5001,5002",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "ids": "6001,6002",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "ids": "7001,7002,7003",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "ids": "8001,8002,8003",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "ids": 9001,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "ids": 10001,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "ids": 11001,
+      "status": 1
+    },
+    {
+      "id": 15,
+      "ids": 15001,
+      "status": 1
+    },
+    {
+      "id": 16,
+      "ids": 16001,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "ids": 17001,
+      "status": 1
+    },
+    {
+      "id": 18,
+      "ids": "18001,18002",
+      "status": 1
+    },
+    {
+      "id": 19,
+      "ids": "19001,19002",
+      "status": 1
+    },
+    {
+      "id": 21,
+      "ids": "21001,21002,21003,21004",
+      "status": 1
+    },
+    {
+      "id": 22,
+      "ids": 22001,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "ids": "23001,23002",
+      "status": 1
+    },
+    {
+      "id": 24,
+      "ids": "24001,24002,24003",
+      "status": 1
+    },
+    {
+      "id": 25,
+      "ids": "25001,25002,25003",
+      "status": 1
+    },
+    {
+      "id": 26,
+      "ids": "26001,26002,26003",
+      "status": 1
+    },
+    {
+      "id": 27,
+      "ids": "27001,27002",
+      "status": 1
+    },
+    {
+      "id": 28,
+      "ids": "28001,28002",
+      "status": 1
+    },
+    {
+      "id": 29,
+      "ids": "29001,29002",
+      "status": 1
+    },
+    {
+      "id": 30,
+      "ids": "30001,30002,30003,30004,30005",
+      "status": 1
+    }
+  ]
+}

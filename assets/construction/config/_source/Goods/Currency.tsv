@@ -1,0 +1,10 @@
+id	type	photoId	photoIdSmall	status	name	name_zh_CN	desc	desc_zh_CN
+int	int	int	int	int	int	int	int	int
+101	4	2:goods_icon_101	2:goods_icon_101_s	1	体力	体力	获取途径：1111	获取途径：1111
+102	4	2:goods_icon_102	2:goods_icon_102_s	1	铜钱	铜钱	获取途径：1111	获取途径：1111
+103	4	2:goods_icon_103	2:goods_icon_103_s	1	红宝石	红宝石	获取途径：1111	获取途径：1111
+104	4	2:goods_icon_104	2:goods_icon_104_s	1	pas卡经验值	pas卡经验值	获取途径：1111	获取途径：1111
+105	4	2:goods_icon_105	2:goods_icon_105_s	1	好评点	好评点	获取途径：1111	获取途径：1111
+106	4	2:goods_icon_106	2:goods_icon_106_s	1	抖音音符	抖音音符	获取途径：1111	获取途径：1111
+107	4	2:goods_icon_107	2:goods_icon_107_s	1	装修券	装修券	获取途径：1111	获取途径：1111
+108	4	2:goods_icon_108	2:goods_icon_108_s	1	超级好评点	超级好评点	获取途径：1111	获取途径：1111

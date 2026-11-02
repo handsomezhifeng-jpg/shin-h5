@@ -1,0 +1,163 @@
+{
+  "source": "assets/SettingV2/Data/Plot/PlotCGVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "cgPath",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 29,
+  "tsvSha256": "b9fa31e4acec70a66f40a786205565b5d7b33b22be001abad71302daad44e4d3",
+  "rows": [
+    {
+      "id": 1,
+      "cgPath": "9:img1",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "cgPath": "9:img2",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "cgPath": "9:story_img_1001021",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "cgPath": "9:story_img_1002031",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "cgPath": "9:story_img_1003031",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "cgPath": "9:story_img_1003051",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "cgPath": "9:story_img_1003061",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "cgPath": "9:story_img_1005041",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "cgPath": "9:story_img_1006021",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "cgPath": "9:story_img_1006061",
+      "status": 1
+    },
+    {
+      "id": 11,
+      "cgPath": "9:story_img_1009031",
+      "status": 1
+    },
+    {
+      "id": 12,
+      "cgPath": "9:story_img_1013011",
+      "status": 1
+    },
+    {
+      "id": 13,
+      "cgPath": "9:story_img_1013031",
+      "status": 1
+    },
+    {
+      "id": 14,
+      "cgPath": "9:story_img_1015091",
+      "status": 1
+    },
+    {
+      "id": 15,
+      "cgPath": "9:story_img_1024071",
+      "status": 1
+    },
+    {
+      "id": 16,
+      "cgPath": "9:story_img_1025081",
+      "status": 1
+    },
+    {
+      "id": 17,
+      "cgPath": "9:story_img_1016101",
+      "status": 1
+    },
+    {
+      "id": 18,
+      "cgPath": "9:story_img_1017051",
+      "status": 1
+    },
+    {
+      "id": 19,
+      "cgPath": "9:story_img_1018031",
+      "status": 1
+    },
+    {
+      "id": 20,
+      "cgPath": "9:story_img_1039031",
+      "status": 1
+    },
+    {
+      "id": 21,
+      "cgPath": "9:story_img_1043101",
+      "status": 1
+    },
+    {
+      "id": 22,
+      "cgPath": "9:story_img_10104021",
+      "status": 1
+    },
+    {
+      "id": 23,
+      "cgPath": "9:story_img_10106121",
+      "status": 1
+    },
+    {
+      "id": 24,
+      "cgPath": "9:story_img_10111031",
+      "status": 1
+    },
+    {
+      "id": 25,
+      "cgPath": "9:story_img_10112141",
+      "status": 1
+    },
+    {
+      "id": 26,
+      "cgPath": "9:story_img_10112142",
+      "status": 1
+    },
+    {
+      "id": 27,
+      "cgPath": "9:story_img_10112143",
+      "status": 1
+    },
+    {
+      "id": 28,
+      "cgPath": "9:event_img_1090101",
+      "status": 1
+    },
+    {
+      "id": 29,
+      "cgPath": "9:story_img_10171111",
+      "status": 1
+    }
+  ]
+}

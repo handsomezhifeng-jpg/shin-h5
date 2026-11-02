@@ -1,0 +1,158 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseItemSubTypeVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "mainType",
+    "subIndex",
+    "icon",
+    "canStack",
+    "status",
+    "name",
+    "name_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 13,
+  "tsvSha256": "dc2d9ab0a002989fd10a3dd7b31114d904cd91f630e3409c1cd17b64590bbea1",
+  "rows": [
+    {
+      "id": 1,
+      "mainType": 1,
+      "subIndex": 1,
+      "icon": "52:build_type_icon_1",
+      "canStack": "",
+      "status": 1,
+      "name": "床",
+      "name_zh_CN": "床"
+    },
+    {
+      "id": 2,
+      "mainType": 1,
+      "subIndex": 2,
+      "icon": "52:build_type_icon_2",
+      "canStack": "",
+      "status": 1,
+      "name": "柜子",
+      "name_zh_CN": "柜子"
+    },
+    {
+      "id": 3,
+      "mainType": 1,
+      "subIndex": 3,
+      "icon": "52:build_type_icon_3",
+      "canStack": "",
+      "status": 1,
+      "name": "桌",
+      "name_zh_CN": "桌"
+    },
+    {
+      "id": 4,
+      "mainType": 1,
+      "subIndex": 4,
+      "icon": "52:build_type_icon_4",
+      "canStack": "",
+      "status": 1,
+      "name": "椅",
+      "name_zh_CN": "椅"
+    },
+    {
+      "id": 5,
+      "mainType": 1,
+      "subIndex": 5,
+      "icon": "52:build_type_icon_5",
+      "canStack": "",
+      "status": 1,
+      "name": "装饰",
+      "name_zh_CN": "装饰"
+    },
+    {
+      "id": 6,
+      "mainType": 1,
+      "subIndex": 6,
+      "icon": "52:build_type_icon_6",
+      "canStack": 1,
+      "status": 1,
+      "name": "摆件",
+      "name_zh_CN": "摆件"
+    },
+    {
+      "id": 7,
+      "mainType": 2,
+      "subIndex": 1,
+      "icon": "52:build_type_icon_7",
+      "canStack": "",
+      "status": 1,
+      "name": "门",
+      "name_zh_CN": "门"
+    },
+    {
+      "id": 8,
+      "mainType": 2,
+      "subIndex": 2,
+      "icon": "52:build_type_icon_8",
+      "canStack": "",
+      "status": 1,
+      "name": "窗",
+      "name_zh_CN": "窗"
+    },
+    {
+      "id": 9,
+      "mainType": 2,
+      "subIndex": 3,
+      "icon": "52:build_type_icon_9",
+      "canStack": 1,
+      "status": 1,
+      "name": "墙饰",
+      "name_zh_CN": "墙饰"
+    },
+    {
+      "id": 10,
+      "mainType": 3,
+      "subIndex": 1,
+      "icon": "52:build_type_icon_10",
+      "canStack": "",
+      "status": 1,
+      "name": "地毯",
+      "name_zh_CN": "地毯"
+    },
+    {
+      "id": 11,
+      "mainType": 4,
+      "subIndex": 1,
+      "icon": "52:build_type_icon_11",
+      "canStack": "",
+      "status": 1,
+      "name": "墙纸",
+      "name_zh_CN": "墙纸"
+    },
+    {
+      "id": 12,
+      "mainType": 4,
+      "subIndex": 2,
+      "icon": "52:build_type_icon_12",
+      "canStack": "",
+      "status": 1,
+      "name": "地板",
+      "name_zh_CN": "地板"
+    },
+    {
+      "id": 13,
+      "mainType": 4,
+      "subIndex": 3,
+      "icon": "52:build_type_icon_13",
+      "canStack": "",
+      "status": 1,
+      "name": "屋檐",
+      "name_zh_CN": "屋檐"
+    }
+  ]
+}

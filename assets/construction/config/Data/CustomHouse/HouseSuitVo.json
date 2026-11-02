@@ -1,0 +1,88 @@
+{
+  "source": "assets/SettingV2/Data/CustomHouse/HouseSuitVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "suitId",
+    "sort",
+    "icon",
+    "Img",
+    "status",
+    "name",
+    "name_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 6,
+  "tsvSha256": "6026f80fd387d2a571d423ea3da572b57e0e7df6d8bcbd3a6a252869342e46a6",
+  "rows": [
+    {
+      "id": 1,
+      "suitId": 1,
+      "sort": 1,
+      "icon": "69:build_img_suit_s_1",
+      "Img": "69:build_img_suit_l_1",
+      "status": 1,
+      "name": "竹风茶韵",
+      "name_zh_CN": "竹风茶韵"
+    },
+    {
+      "id": 2,
+      "suitId": 2,
+      "sort": 2,
+      "icon": "69:build_img_suit_s_3",
+      "Img": "69:build_img_suit_l_3",
+      "status": 1,
+      "name": "绿蔓闲庭",
+      "name_zh_CN": "绿蔓闲庭"
+    },
+    {
+      "id": 3,
+      "suitId": 3,
+      "sort": 3,
+      "icon": "69:build_img_suit_s_2",
+      "Img": "69:build_img_suit_l_2",
+      "status": 1,
+      "name": "鹤鸣云阁",
+      "name_zh_CN": "鹤鸣云阁"
+    },
+    {
+      "id": 4,
+      "suitId": 4,
+      "sort": 4,
+      "icon": "69:build_img_suit_s_4",
+      "Img": "69:build_img_suit_l_4",
+      "status": 1,
+      "name": "枫染秋轩",
+      "name_zh_CN": "枫染秋轩"
+    },
+    {
+      "id": 5,
+      "suitId": 5,
+      "sort": 5,
+      "icon": "69:build_img_suit_s_5",
+      "Img": "69:build_img_suit_l_5",
+      "status": 1,
+      "name": "藤花小筑",
+      "name_zh_CN": "藤花小筑"
+    },
+    {
+      "id": 6,
+      "suitId": 6,
+      "sort": 6,
+      "icon": "69:build_img_suit_s_6",
+      "Img": "69:build_img_suit_l_6",
+      "status": 1,
+      "name": "永安雅居",
+      "name_zh_CN": "永安雅居"
+    }
+  ]
+}

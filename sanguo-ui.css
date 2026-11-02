@@ -53,3 +53,32 @@
 
 /* Thin serif strokes hid the white fill; use the shipped bold face without an inward stroke. */
 .sanguo-ui [data-name="text_guild"],.sanguo-ui [data-name="text_build"],.sanguo-ui [data-name="text_draw"],.sanguo-ui [data-name="text_friend"]{font-family:ShinOriginal,"Microsoft YaHei",sans-serif!important;font-weight:700!important;-webkit-text-stroke:0!important;text-shadow:-2px -2px 0 #493522,2px -2px 0 #493522,-2px 2px 0 #493522,2px 2px 0 #493522!important;white-space:nowrap!important}
+/* Selected watercolor courtyard: keep original controls and hit areas live. */
+.ink-ui .sanguo-bottom-plate{filter:sepia(.45) saturate(.35) brightness(1.22);opacity:.92}
+.ink-ui .sanguo-bottom-fill{background:#e8dcc2;border-color:#b69b73;background-image:linear-gradient(110deg,#f4ead4,#e0cfaf);box-shadow:inset 0 3px 12px #fff9e8}
+.ink-ui .sanguo-ui-icon,.ink-ui .sanguo-bell-entry img{filter:saturate(.53) contrast(.94) brightness(1.08)}
+.ink-ui .sanguo-side-entry span{background:#f6edda!important;color:#645443!important;border:1px solid #c9b595;font-family:KaiTi,STKaiti,serif;box-shadow:0 2px 2px #6b513322}
+.ink-ui .sanguo-side-entry{filter:drop-shadow(0 2px 2px #5f4a3222);transform:scale(.86)}
+.ink-ui [data-name="btn_go"]{filter:saturate(.45) sepia(.2) brightness(1.08)}
+.ink-ui [data-name="btn_bet"] .fg-image{filter:saturate(.3) sepia(.5)!important}
+.ink-ui [data-name="text_guild"],.ink-ui [data-name="text_build"],.ink-ui [data-name="text_draw"],.ink-ui [data-name="text_friend"]{color:#5a4835!important;text-shadow:0 1px #fff8e6!important;-webkit-text-stroke:0!important}
+.ink-ui [data-name="com_topBar"] [data-name="bg"]{filter:sepia(.5) saturate(.25) brightness(1.25)!important}
+.ink-ui .sanguo-gift-entry{background:#e5cca0;border-color:#f7ecd5;box-shadow:0 0 0 1px #b4986c}
+
+/* Pass 2: leave room for the painted shops while preserving native actions. */
+.ink-ui .sanguo-side-entry{transform:scale(.72);transform-origin:left center;filter:drop-shadow(0 2px 2px #5f4a3222)}
+.ink-ui .sanguo-side-entry.right{transform-origin:right center}
+.ink-ui .sanguo-side-entry span{border-radius:3px;line-height:27px;background:#f8efdc!important;border-color:#bda989;color:#645443!important}
+.ink-ui .sanguo-bottom-plate{opacity:.35;filter:sepia(.7) saturate(.25) brightness(1.4)}
+.ink-ui .sanguo-bottom-fill{top:1454px;height:170px;border:2px solid #bba480;border-radius:27px 27px 0 0;background:linear-gradient(#f4ebd8ed,#e8dbc2);box-shadow:inset 0 3px 0 #fff9ea,0 -3px 10px #65503916}
+.ink-ui .sanguo-icon-button>.sanguo-ui-icon{width:91px;height:89px;left:5px;top:-4px}
+.ink-ui [data-name="btn_go"]{filter:saturate(.4) sepia(.25) brightness(1.13)}
+.ink-ui .sanguo-ui-icon{image-rendering:auto}
+
+
+/* Pass 3: quiet parchment controls keep the painted square visually continuous. */
+.ink-ui .sanguo-bottom-fill{background-color:#eee3cd;background-image:linear-gradient(#f4ebd8e8,#e8dbc2f5),url("assets/scene/skins/ink/south-market.webp");background-size:auto,750px auto;border-color:#c5b297;box-shadow:inset 0 2px 0 #fff9ea,0 -2px 8px #65503912}
+.ink-ui .sanguo-side-entry span{font-weight:500;letter-spacing:2px;box-shadow:0 1px 2px #6b51331a}
+.ink-ui .sanguo-npc-bubble{filter:saturate(.65);opacity:.93}
+.ink-ui [data-name="btn_go"]{filter:saturate(.32) sepia(.2) brightness(1.16);}
+.ink-ui .sanguo-side-entry:active{filter:brightness(.94)}

@@ -1,0 +1,1556 @@
+{
+  "roles": {
+    "npc_1002": {
+      "roleId": 1002,
+      "role": "npc_1002",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/07186f919521a40eda238bc12f4c36a7.bytes",
+          "sha256": "b5e9e229544ebc193356131f6954b76eedbce205f6634ac897adad4d6bd1a790"
+        },
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/7657f1b1099e348f3f7ef03032356be0.bytes",
+          "sha256": "ec0d715d609ea4a61b863f66f9bea2d2e53d132dba1318bf641a941832512ba8"
+        }
+      ],
+      "material": {
+        "npc_1002_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-0408a2616fc3c1b3eb49598ba18030cd:2777940305912232407"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-0408a2616fc3c1b3eb49598ba18030cd:-7926704954255206752"
+      },
+      "pages": [
+        {
+          "file": "npc_1002.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "6d91f9b68e6e1f2684ba2a09c4a7dee06edc56bd6c07ffca1529a102a46b8717"
+        }
+      ],
+      "binaryUrl": "npc_1002/npc_1002.skel",
+      "atlasUrl": "npc_1002/npc_1002.atlas"
+    },
+    "npc_1003": {
+      "roleId": 1003,
+      "role": "npc_1003",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/3741a0b3351184f7cfa82dcee135f301.bytes",
+          "sha256": "f9a53f64e2bbdadfe6d577ad951e116c6492b976b7db6b4abcccd4070f6539c2"
+        }
+      ],
+      "material": {
+        "npc_1003_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-0f6243e4326e98ee95f1c278d21626f9:2212630900739014741"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-0f6243e4326e98ee95f1c278d21626f9:6899800188631528888"
+      },
+      "pages": [
+        {
+          "file": "npc_1003.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "4dd7dcb66cb14e795b30b40bdeabd825d9dfa059992f101a1044abef5a39b6b1"
+        }
+      ],
+      "binaryUrl": "npc_1003/npc_1003.skel",
+      "atlasUrl": "npc_1003/npc_1003.atlas"
+    },
+    "npc_1011": {
+      "roleId": 1011,
+      "role": "npc_1011",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/ac0ac09e586eb9713c14588acd5dbeb0.bytes",
+          "sha256": "b1af5462aaf7dbb9f43a38e8c1db098aa0a9da8f2cc06650a0dee11f65ef6cb3"
+        }
+      ],
+      "material": {
+        "npc_1011_Material-Multiply": {
+          "floats": {
+            "<noninit>": 0.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-a2dcac20828b8b2de802e97dd1c8e28b:-7703540553999981346"
+        },
+        "npc_1011_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-a2dcac20828b8b2de802e97dd1c8e28b:-3018871415055072717"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-a2dcac20828b8b2de802e97dd1c8e28b:-2037988456160548161"
+      },
+      "pages": [
+        {
+          "file": "npc_1011.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "321f08d5dc3e3a836a92d60cfe8921f522d19f4b0470c1f0576408846cc4a4fb"
+        }
+      ],
+      "binaryUrl": "npc_1011/npc_1011.skel",
+      "atlasUrl": "npc_1011/npc_1011.atlas"
+    },
+    "npc_1013": {
+      "roleId": 1013,
+      "role": "npc_1013",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/8caeb91594702ca5a515180c8bf37aac.bytes",
+          "sha256": "9b1887b6fa5cb01dbf611a1ff81ea58aad7039a9351a3eb850281ebf86440d8e"
+        }
+      ],
+      "material": {
+        "npc_1013_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-1c44a30de9a0d84a3c95900d6e1948a3:1707736386497684999"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-1c44a30de9a0d84a3c95900d6e1948a3:-4109047535374306661"
+      },
+      "pages": [
+        {
+          "file": "npc_1013.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "4827643a3959bb66e027159f7c18f93843f7bceed871e6d5c82c9684de270c15"
+        }
+      ],
+      "binaryUrl": "npc_1013/npc_1013.skel",
+      "atlasUrl": "npc_1013/npc_1013.atlas"
+    },
+    "npc_1016": {
+      "roleId": 1016,
+      "role": "npc_1016",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/f4ee975ceb4be42124783854c0f391d3.bytes",
+          "sha256": "36b1f8fe6791857e9f746514adee1007b047272a3e503c3c42efdff698543906"
+        }
+      ],
+      "material": {
+        "npc_1016_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_AmbientLightInfluence": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-78cd9828451ff0cd50459953b356c166:8702114724319213587"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-78cd9828451ff0cd50459953b356c166:-8171501959251391544"
+      },
+      "pages": [
+        {
+          "file": "npc_1016.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1009,
+            898
+          ],
+          "restoredAtlasSize": true,
+          "sha256": "805b0c6ca15d829d0731588ac07686ff07fb878af29294dc5eb605395d17debb"
+        }
+      ],
+      "binaryUrl": "npc_1016/npc_1016.skel",
+      "atlasUrl": "npc_1016/npc_1016.atlas"
+    },
+    "npc_1017": {
+      "roleId": 1017,
+      "role": "npc_1017",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/ef5bcf41ab9c5cf6b139a3b9c0280808.bytes",
+          "sha256": "95f54631adeaa5dc397cfc8407b8d08d90341e30161d9165e43f278c1c35c3c8"
+        }
+      ],
+      "material": {
+        "npc_1017_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-eb65d392771036c2832100bb9d3f6703:5739309320807072957"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-eb65d392771036c2832100bb9d3f6703:3325367989228790264"
+      },
+      "pages": [
+        {
+          "file": "npc_1017.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "6358c6ea129c76e411665d1d6f01037c362ebc35c09c73085f4cc1ec4055e5b5"
+        }
+      ],
+      "binaryUrl": "npc_1017/npc_1017.skel",
+      "atlasUrl": "npc_1017/npc_1017.atlas"
+    },
+    "npc_1018": {
+      "roleId": 1018,
+      "role": "npc_1018",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/31ab1b7d3f7995a489fdcfcc4bd271b4.bytes",
+          "sha256": "3a17e021ad07846d100a90df5236b223f581ba14f22e0921076e1b25298021f5"
+        }
+      ],
+      "material": {
+        "npc_1018_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-889a53b658c1b7968ad19f3a755d5486:1886340567410380170"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-889a53b658c1b7968ad19f3a755d5486:7351058712244051142"
+      },
+      "pages": [
+        {
+          "file": "npc_1018.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "dd064e8a5a558a4faabe63b029574a623d9875cd612b78927d89d015d3225714"
+        }
+      ],
+      "binaryUrl": "npc_1018/npc_1018.skel",
+      "atlasUrl": "npc_1018/npc_1018.atlas"
+    },
+    "npc_1019": {
+      "roleId": 1019,
+      "role": "npc_1019",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/db87f4a91138172ea938565a26db0b1b.bytes",
+          "sha256": "c2062a6377d1cd976bfd06b84f23e74b37e52010b2d7ba86762699aeee350423"
+        }
+      ],
+      "material": {
+        "npc_1019_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-11f961d059b69c276c1d41733a07b450:7587375046180478761"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-11f961d059b69c276c1d41733a07b450:-5046421991793924465"
+      },
+      "pages": [
+        {
+          "file": "npc_1019.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "8a7c7b19e194787f578abe998230fdac408b292f91c0dd168ed161fffa35b151"
+        }
+      ],
+      "binaryUrl": "npc_1019/npc_1019.skel",
+      "atlasUrl": "npc_1019/npc_1019.atlas"
+    },
+    "npc_1020": {
+      "roleId": 1020,
+      "role": "npc_1020",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/0eb7f746730098fc23a26b36087a7883.bytes",
+          "sha256": "9c35a1c75dc468a7fe3b72230b5375ece0c3f34b31da1f3dd6a7f156a82b0d54"
+        }
+      ],
+      "material": {
+        "npc_1020_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-aebd1be35a2ff2e2145cff201ead3a9c:858259780765856635"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-aebd1be35a2ff2e2145cff201ead3a9c:5241771315099559127"
+      },
+      "pages": [
+        {
+          "file": "npc_1020.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "4de8329b6e3a4f369cde11a82237dedd963813f6a4e74e915f0f998aa4dc57a1"
+        }
+      ],
+      "binaryUrl": "npc_1020/npc_1020.skel",
+      "atlasUrl": "npc_1020/npc_1020.atlas"
+    },
+    "npc_1021": {
+      "roleId": 1021,
+      "role": "npc_1021",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/10e1c2aa6bae4bbd311c124f99e3f471.bytes",
+          "sha256": "c97394b1942b219732b7619558205ff8c1de54702d3d70cea2e0605c3bcc2228"
+        }
+      ],
+      "material": {
+        "npc_1021_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_AmbientLightInfluence": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-874b51cafdbd0a9e34219f30059779ea:-5954330079069006417"
+        },
+        "npc_1021_Material-Additive": {
+          "floats": {
+            "<noninit>": 0.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-874b51cafdbd0a9e34219f30059779ea:3207063093133938690"
+        },
+        "npc_1021_Material-Multiply": {
+          "floats": {
+            "<noninit>": 0.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-874b51cafdbd0a9e34219f30059779ea:8206132592981403474"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-874b51cafdbd0a9e34219f30059779ea:4549326530378162874"
+      },
+      "pages": [
+        {
+          "file": "npc_1021.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "6061b944a193cf094beff06a9c12efe1aad0825934289ffb6ebae47f9bb4ee97"
+        }
+      ],
+      "binaryUrl": "npc_1021/npc_1021.skel",
+      "atlasUrl": "npc_1021/npc_1021.atlas"
+    },
+    "npc_1022": {
+      "roleId": 1022,
+      "role": "npc_1022",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/fe08fbba5e4c2c58e461ba93c634a4d6.bytes",
+          "sha256": "e4900aeef5d738daaab72bc7a877958d038b8203e70421396522dd323d94d58d"
+        }
+      ],
+      "material": {
+        "npc_1022_Material-Multiply": {
+          "floats": {
+            "<noninit>": 0.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-d73ab169ff68bf4d77bd2b7aebc3f130:-8876543013127867519"
+        },
+        "npc_1022_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-d73ab169ff68bf4d77bd2b7aebc3f130:-282222719214708252"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-d73ab169ff68bf4d77bd2b7aebc3f130:5530557073521879805"
+      },
+      "pages": [
+        {
+          "file": "npc_1022.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "7a568f0e80effc96b7718d99039b8a9b9ef7ccb0119798a9563abed657636464"
+        }
+      ],
+      "binaryUrl": "npc_1022/npc_1022.skel",
+      "atlasUrl": "npc_1022/npc_1022.atlas"
+    },
+    "npc_1023": {
+      "roleId": 1023,
+      "role": "npc_1023",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/6b4afed7c84effbb01ae17bdaf881122.bytes",
+          "sha256": "2d1d38210138cd9014dc5acdd61ecfa32f3d5a315405d97b469b492ed2749d36"
+        }
+      ],
+      "material": {
+        "npc_1023_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-6dbc4dcc1238365c78d4bc4d93de5691:4088521007465267028"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.30000001192092896,
+        "sourceObject": "CAB-6dbc4dcc1238365c78d4bc4d93de5691:-1025118712172612464"
+      },
+      "pages": [
+        {
+          "file": "npc_1023.png",
+          "unityTextureSize": [
+            1024,
+            2048
+          ],
+          "authoredAtlasSize": [
+            1024,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "0595d4cb6758f53a6c988827616fd67abc3eda7167cbd8d0162307f5f0c90068"
+        }
+      ],
+      "binaryUrl": "npc_1023/npc_1023.skel",
+      "atlasUrl": "npc_1023/npc_1023.atlas"
+    },
+    "npc_1024": {
+      "roleId": 1024,
+      "role": "npc_1024",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/d73e903fa6db874526dbf3993d442ffb.bytes",
+          "sha256": "ab0fc5e723ac5249949292f365cd5438ca2d2445712f29c8c74fba8f05e4d67d"
+        }
+      ],
+      "material": {
+        "npc_1024_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_AmbientLightInfluence": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-d1ba915c3c82c6d1eed9ca95071cff81:-8854644084425527517"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-d1ba915c3c82c6d1eed9ca95071cff81:-1828838920840706724"
+      },
+      "pages": [
+        {
+          "file": "npc_1024.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "233fffd3da863f8fb0cb8724fe5f752cf3b57d1d756f6d12345ff85e4c334565"
+        }
+      ],
+      "binaryUrl": "npc_1024/npc_1024.skel",
+      "atlasUrl": "npc_1024/npc_1024.atlas"
+    },
+    "npc_1025": {
+      "roleId": 1025,
+      "role": "npc_1025",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/64923308c837b549f421177a096943dd.bytes",
+          "sha256": "adec93c1cf6059315432a6db2f5b02538cd3dede63205826c21e60690603cab2"
+        }
+      ],
+      "material": {
+        "npc_1025_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-7d2e024d52798b1aa9b084135f6a687f:-2821926592314942336"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.30000001192092896,
+        "sourceObject": "CAB-7d2e024d52798b1aa9b084135f6a687f:-8196827484781636959"
+      },
+      "pages": [
+        {
+          "file": "npc_1025.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "86de21ac1b484de2d4252d2edeb163e8fc993e32e5084899cd9fa93b76baaaf5"
+        }
+      ],
+      "binaryUrl": "npc_1025/npc_1025.skel",
+      "atlasUrl": "npc_1025/npc_1025.atlas"
+    },
+    "npc_1031": {
+      "roleId": 1031,
+      "role": "npc_1031",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/a3fb7f326257cfe0f599797ee6c559c9.bytes",
+          "sha256": "88055477cb1c0d84a24bcd94098f7166f72f687fa0e825ab6c1f04a592b9db5d"
+        }
+      ],
+      "material": {
+        "npc_1031_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-72e038c67a0696f1bf23769aaed12c5a:4016260475771807261"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-72e038c67a0696f1bf23769aaed12c5a:-5301333226684395862"
+      },
+      "pages": [
+        {
+          "file": "npc_1031.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "9526e9e6a145f593c4febefc86fdee501a926671e31c34de0f66a8f4a389abd8"
+        }
+      ],
+      "binaryUrl": "npc_1031/npc_1031.skel",
+      "atlasUrl": "npc_1031/npc_1031.atlas"
+    },
+    "npc_1032": {
+      "roleId": 1032,
+      "role": "npc_1032",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/3d67f6896c86de6e74ca968facc00791.bytes",
+          "sha256": "1d96cc03dae1f3db919de7f07d236bfb17b65912ec8b7914e5fea0a4be641f64"
+        }
+      ],
+      "material": {
+        "npc_1032_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-10a4d54ef0df8116d57ba5e7aedf991b:-8149257191883166226"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-10a4d54ef0df8116d57ba5e7aedf991b:5369397000695237529"
+      },
+      "pages": [
+        {
+          "file": "npc_1032.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "3ba82e5b70bd30353ca7ab8206bb1bfd0921be4b0e72614157463b1c9a850b4f"
+        }
+      ],
+      "binaryUrl": "npc_1032/npc_1032.skel",
+      "atlasUrl": "npc_1032/npc_1032.atlas"
+    },
+    "npc_1033": {
+      "roleId": 1033,
+      "role": "npc_1033",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/5869354657312bc84304b751320a8dd1.bytes",
+          "sha256": "1d069064d382b965de726dc43e2ff336668ed98f1111d2288b3f46e3e37bdc13"
+        }
+      ],
+      "material": {
+        "npc_1033_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-9ae875aca06ec6b58cd9f8cb7e26fdc8:-5477113735379156889"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-9ae875aca06ec6b58cd9f8cb7e26fdc8:6003827474247100569"
+      },
+      "pages": [
+        {
+          "file": "npc_1033.png",
+          "unityTextureSize": [
+            1024,
+            1024
+          ],
+          "authoredAtlasSize": [
+            1024,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "7bae12ae3a9c3c1cf4fd6db411de66b85809b774efada32ce1a2ccd463059626"
+        }
+      ],
+      "binaryUrl": "npc_1033/npc_1033.skel",
+      "atlasUrl": "npc_1033/npc_1033.atlas"
+    },
+    "npc_1034": {
+      "roleId": 1034,
+      "role": "npc_1034",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/f11201bde1515ab04eb84cf243ff1983.bytes",
+          "sha256": "f41a50a81fa323e9fcd5ab9bb8a685feedd008cdd13758a9e7c77b7d6a8f777c"
+        }
+      ],
+      "material": {
+        "npc_1034_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-6446cc416160ca5ef2d25191595b105f:1435923610815958936"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-6446cc416160ca5ef2d25191595b105f:-5695329471582635530"
+      },
+      "pages": [
+        {
+          "file": "npc_1034.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "86d334f76e1ee3040972ba4b90175226e34bb5b1f8d86bfc5a489d8c08ab2f42"
+        }
+      ],
+      "binaryUrl": "npc_1034/npc_1034.skel",
+      "atlasUrl": "npc_1034/npc_1034.atlas"
+    },
+    "npc_1035": {
+      "roleId": 1035,
+      "role": "npc_1035",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/bd04a7c395b1c50c39d3549ffc03e219.bytes",
+          "sha256": "24b9cf5ae4bc6a5eee01b233499db793c24c2cc79718289918f2eea1e026e6be"
+        }
+      ],
+      "material": {
+        "npc_1035_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-7944b5c9e63d8fed0d191285f91fc390:5782609627842193341"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-7944b5c9e63d8fed0d191285f91fc390:5673544753548864309"
+      },
+      "pages": [
+        {
+          "file": "npc_1035.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "4cc20de1448b465a3dbb34a75ed1ae70b48df716a2e851f387f48bac47898015"
+        }
+      ],
+      "binaryUrl": "npc_1035/npc_1035.skel",
+      "atlasUrl": "npc_1035/npc_1035.atlas"
+    },
+    "npc_1036": {
+      "roleId": 1036,
+      "role": "npc_1036",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/90ce2b4c68743d608d975cc55cd800af.bytes",
+          "sha256": "c6d130a4a5f4b485959ad5d96f53aace73774c4820740f3b882bbb946ccb037d"
+        }
+      ],
+      "material": {
+        "npc_1036_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-efa41b24c2d472b41a98d63d2fd5438b:-6831441382742210294"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-efa41b24c2d472b41a98d63d2fd5438b:-3075331272091345722"
+      },
+      "pages": [
+        {
+          "file": "npc_1036.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "d44c707904d5f614c2ba790499d9014dda8a2199644608463f39d1d2196e0b30"
+        }
+      ],
+      "binaryUrl": "npc_1036/npc_1036.skel",
+      "atlasUrl": "npc_1036/npc_1036.atlas"
+    },
+    "npc_1037": {
+      "roleId": 1037,
+      "role": "npc_1037",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/0b6d60ccfc9f26f74b78d6d7f430cdf3.bytes",
+          "sha256": "340740229f48c0f2df47a4de2cdafec93dc58a177b00810908be624183050804"
+        }
+      ],
+      "material": {
+        "npc_1037_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-b1af2744dbdbc6fe4bdedefd467842c2:8005498079684532450"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-b1af2744dbdbc6fe4bdedefd467842c2:592618000583831718"
+      },
+      "pages": [
+        {
+          "file": "npc_1037.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "e168b2a66903884b7e1079b406e0368700109cefd07dc528a580f8f58ac79c3b"
+        }
+      ],
+      "binaryUrl": "npc_1037/npc_1037.skel",
+      "atlasUrl": "npc_1037/npc_1037.atlas"
+    },
+    "npc_1038": {
+      "roleId": 1038,
+      "role": "npc_1038",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/267a390b5537a774dcdf7ebe57b3ab15.bytes",
+          "sha256": "47bb34c405ce2274c2718eeb8aac0032e72198c675565d28e4f2653ac3be5bbb"
+        }
+      ],
+      "material": {
+        "npc_1038_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-8696196e9fada41d8c1324806b5e805c:5752872786144317293"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-8696196e9fada41d8c1324806b5e805c:2256695159812065850"
+      },
+      "pages": [
+        {
+          "file": "npc_1038.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "90e77c3b1c5b78f114d769ed4e3956c84ff58fc5d6b7437761617d3156262e33"
+        }
+      ],
+      "binaryUrl": "npc_1038/npc_1038.skel",
+      "atlasUrl": "npc_1038/npc_1038.atlas"
+    },
+    "npc_1039": {
+      "roleId": 1039,
+      "role": "npc_1039",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/c0d1f7ba51f492401152ac3144b5772f.bytes",
+          "sha256": "382e5eb110cdd1210a98f0d25a6d76433fc60a8b40aa99b2f48340b25234e0b1"
+        }
+      ],
+      "material": {
+        "npc_1039_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_AmbientLightInfluence": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-e6ffe7efdbaef2b77fac6979e83e45e9:-711490502142141774"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-e6ffe7efdbaef2b77fac6979e83e45e9:1555993999226240293"
+      },
+      "pages": [
+        {
+          "file": "npc_1039.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "618f2c7a78652c3742fd9b4b4ed9d7ce3b570f0ec811952f013e0ad414cdb8f5"
+        }
+      ],
+      "binaryUrl": "npc_1039/npc_1039.skel",
+      "atlasUrl": "npc_1039/npc_1039.atlas"
+    },
+    "npc_1040": {
+      "roleId": 1040,
+      "role": "npc_1040",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/48d5cfb4e95b6769d1c5c04f133d1291.bytes",
+          "sha256": "1ed3d2d673df84e895270ab48ccf3693815883a8ec3be493fe6fa6c2c2616395"
+        }
+      ],
+      "material": {
+        "npc_1040_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-8c79bbad23ff139c0dd15db273cd96f2:5075199915857165676"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-8c79bbad23ff139c0dd15db273cd96f2:-253206196851307943"
+      },
+      "pages": [
+        {
+          "file": "npc_1040.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "d65c98e02eb302ab033ea9207210cc64bba88b00979bcec3a99e2f9fde3f4e8e"
+        }
+      ],
+      "binaryUrl": "npc_1040/npc_1040.skel",
+      "atlasUrl": "npc_1040/npc_1040.atlas"
+    },
+    "npc_1041": {
+      "roleId": 1041,
+      "role": "npc_1041",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/032c0c4b38487f42f5075a58647b589e.bytes",
+          "sha256": "b802ac98d7850c3b1882f5510da8f7bf4bdb0ffcbf3bb31d9a7885f8f77ebc3c"
+        }
+      ],
+      "material": {
+        "npc_1041_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_AmbientLightInfluence": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-aee568f58c7675166a7f46f463cba13e:-7103652929476904083"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-aee568f58c7675166a7f46f463cba13e:-3728604401394045957"
+      },
+      "pages": [
+        {
+          "file": "npc_1041.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "6aecdf9369de0f906f97818d7608d68503c047c57ccc96b5a959863fc5e76ec2"
+        }
+      ],
+      "binaryUrl": "npc_1041/npc_1041.skel",
+      "atlasUrl": "npc_1041/npc_1041.atlas"
+    },
+    "npc_1042": {
+      "roleId": 1042,
+      "role": "npc_1042",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/e75f7231de631a80192a95ef82fb10e3.bytes",
+          "sha256": "65e3969ee0a721d80cd0962d53b40735de9d84585f75ab000f023b64b482d405"
+        }
+      ],
+      "material": {
+        "npc_1042_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-3d9e41f139f3329d21c16e7e12fd0312:4054907805311745320"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-3d9e41f139f3329d21c16e7e12fd0312:3027511350968688403"
+      },
+      "pages": [
+        {
+          "file": "npc_1042.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "09bd629d3804b5ed5f336cfe3df70b5dd4be3bbf518f631e66d709c7de94a8cd"
+        }
+      ],
+      "binaryUrl": "npc_1042/npc_1042.skel",
+      "atlasUrl": "npc_1042/npc_1042.atlas"
+    },
+    "npc_1043": {
+      "roleId": 1043,
+      "role": "npc_1043",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/a2fe619d6c0436f7d9f72438c37aa84e.bytes",
+          "sha256": "d1611e6fda86eabd5510b3559134825eb921659333f2e7aca995f67a22c11fd2"
+        }
+      ],
+      "material": {
+        "npc_1043_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-68e74de7c670d426cea17beb805866a9:-4465996453171710734"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-68e74de7c670d426cea17beb805866a9:-7585864000894315047"
+      },
+      "pages": [
+        {
+          "file": "npc_1043.png",
+          "unityTextureSize": [
+            2048,
+            2048
+          ],
+          "authoredAtlasSize": [
+            2048,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "5505e16aea7cef9727ab064eec1c540d6c31b16948f652fbc98e4880796f7f96"
+        }
+      ],
+      "binaryUrl": "npc_1043/npc_1043.skel",
+      "atlasUrl": "npc_1043/npc_1043.atlas"
+    },
+    "npc_1048": {
+      "roleId": 1048,
+      "role": "npc_1048",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/92c7dc83142892bfedab8d3d112a579a.bytes",
+          "sha256": "4f3757028d7b9437f08f8982a330a429323ab6dc2c9dc5cf263175e1feb6048d"
+        }
+      ],
+      "material": {
+        "npc_1048_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-7f183a4c732b3e3de9899b205c23c0ff:-2899314169741915190"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-7f183a4c732b3e3de9899b205c23c0ff:3116535574821792428"
+      },
+      "pages": [
+        {
+          "file": "npc_1048.png",
+          "unityTextureSize": [
+            2048,
+            1024
+          ],
+          "authoredAtlasSize": [
+            2048,
+            1024
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "74fc622ea68c7f66ed9e1f90a73c889091c9e1f90881f6ef195926d6c5d366ea"
+        }
+      ],
+      "binaryUrl": "npc_1048/npc_1048.skel",
+      "atlasUrl": "npc_1048/npc_1048.atlas"
+    },
+    "npc_1049": {
+      "roleId": 1049,
+      "role": "npc_1049",
+      "source": [
+        {
+          "bundle": "apk:assets/Bundles/Android/Base/95718982e00d88f62c35ffb50120cad3.bytes",
+          "sha256": "c2b9b5f99cc7e2e7a645e15d68f4d8552dd5da1a903a18b18ef2c75eef8d7fe6"
+        }
+      ],
+      "material": {
+        "npc_1049_Material": {
+          "floats": {
+            "_Alpha": 1.0,
+            "_Brightness": 1.0,
+            "_Cutoff": 0.10000000149011612,
+            "_OutlineMipLevel": 0.0,
+            "_OutlineReferenceTexWidth": 1024.0,
+            "_OutlineSmoothness": 1.0,
+            "_OutlineWidth": 3.0,
+            "_StencilComp": 8.0,
+            "_StencilRef": 1.0,
+            "_StraightAlphaInput": 1.0,
+            "_ThresholdEnd": 0.25,
+            "_Use8Neighbourhood": 1.0
+          },
+          "sourceObject": "CAB-b6a950447f2b5fd99b0f4176fa3b937f:8569763153655880006"
+        }
+      },
+      "scene": {
+        "skeletonDataScale": 0.009999999776482582,
+        "defaultMix": 0.20000000298023224,
+        "sourceObject": "CAB-b6a950447f2b5fd99b0f4176fa3b937f:2067911748749046766"
+      },
+      "pages": [
+        {
+          "file": "npc_1049.png",
+          "unityTextureSize": [
+            1024,
+            2048
+          ],
+          "authoredAtlasSize": [
+            1024,
+            2048
+          ],
+          "restoredAtlasSize": false,
+          "sha256": "f0477664639f6972f8468c0df88dffdbfdc692c538b7272aa890a69649e18c45"
+        }
+      ],
+      "binaryUrl": "npc_1049/npc_1049.skel",
+      "atlasUrl": "npc_1049/npc_1049.atlas"
+    }
+  }
+}

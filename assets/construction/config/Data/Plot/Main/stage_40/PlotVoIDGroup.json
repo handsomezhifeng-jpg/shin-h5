@@ -1,0 +1,98 @@
+{
+  "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotVoIDGroup.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "ids",
+    "status"
+  ],
+  "declaredTypes": [
+    "string",
+    "string",
+    "int"
+  ],
+  "rowCount": 16,
+  "tsvSha256": "0ee62b32329abbe206fa5036ad37e9b626cac6d08eeebfb442b9c12147c2a171",
+  "rows": [
+    {
+      "id": 101694,
+      "ids": "1,2,3,4,5,6",
+      "status": 1
+    },
+    {
+      "id": 101698,
+      "ids": "7,72,73,74,75,76,77,78,79",
+      "status": 1
+    },
+    {
+      "id": 101700,
+      "ids": "8,88,89,90,91,92,93,108",
+      "status": 1
+    },
+    {
+      "id": 101695,
+      "ids": "9,10,11,12,13",
+      "status": 1
+    },
+    {
+      "id": 101696,
+      "ids": "14,15,16,17,18,19",
+      "status": 1
+    },
+    {
+      "id": 101697,
+      "ids": "20,21,22,23,24,25",
+      "status": 1
+    },
+    {
+      "id": 101703,
+      "ids": "26,27,28,29,30,31,32",
+      "status": 1
+    },
+    {
+      "id": 101704,
+      "ids": "33,34,35,36,37,38,109",
+      "status": 1
+    },
+    {
+      "id": 101705,
+      "ids": "39,40,41,42,43,44,45,46,110",
+      "status": 1
+    },
+    {
+      "id": 101706,
+      "ids": "47,48,49,50,51,52,111,112",
+      "status": 1
+    },
+    {
+      "id": 101707,
+      "ids": "53,54,55,56,57,58,59,60,117,118",
+      "status": 1
+    },
+    {
+      "id": 101708,
+      "ids": "61,62,63,64,65,66,115,116",
+      "status": 1
+    },
+    {
+      "id": 101709,
+      "ids": "67,68,69,70,71,113,114,119,120,121,122",
+      "status": 1
+    },
+    {
+      "id": 101699,
+      "ids": "80,81,82,83,84,85,86,87",
+      "status": 1
+    },
+    {
+      "id": 101701,
+      "ids": "94,95,96,97,98,99",
+      "status": 1
+    },
+    {
+      "id": 101702,
+      "ids": "100,101,102,103,104,105,106,107",
+      "status": 1
+    }
+  ]
+}

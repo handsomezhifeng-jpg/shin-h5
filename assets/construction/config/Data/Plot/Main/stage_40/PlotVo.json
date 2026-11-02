@@ -1,0 +1,1124 @@
+{
+  "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "groupId",
+    "subId",
+    "plotType",
+    "performId",
+    "performParams",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 122,
+  "tsvSha256": "4c5c346777b3c9aee4fef35e59f54b89d0ee4130d8ae71b0d09f73d9b9d9f643",
+  "rows": [
+    {
+      "id": 1,
+      "groupId": 101694,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400100,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "groupId": 101694,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140011,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "groupId": 101694,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400101,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "groupId": 101694,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1400102,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "groupId": 101694,
+      "subId": 5,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2321,
+      "status": 1
+    },
+    {
+      "id": 6,
+      "groupId": 101694,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400103,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "groupId": 101698,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400500,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "groupId": 101700,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 74,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "groupId": 101695,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400200,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "groupId": 101695,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140021,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 11,
+      "groupId": 101695,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400201,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 12,
+      "groupId": 101695,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140022,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 13,
+      "groupId": 101695,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1400202,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 14,
+      "groupId": 101696,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400300,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 15,
+      "groupId": 101696,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140031,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 16,
+      "groupId": 101696,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400301,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 17,
+      "groupId": 101696,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1400302,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 18,
+      "groupId": 101696,
+      "subId": 5,
+      "plotType": 4,
+      "performId": "",
+      "performParams": 2322,
+      "status": 1
+    },
+    {
+      "id": 19,
+      "groupId": 101696,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400303,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 20,
+      "groupId": 101697,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400400,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 21,
+      "groupId": 101697,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140041,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 22,
+      "groupId": 101697,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400401,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 23,
+      "groupId": 101697,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1400402,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 24,
+      "groupId": 101697,
+      "subId": 5,
+      "plotType": 4,
+      "performId": "",
+      "performParams": 2323,
+      "status": 1
+    },
+    {
+      "id": 25,
+      "groupId": 101697,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400403,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 26,
+      "groupId": 101703,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1401000,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 27,
+      "groupId": 101703,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140101,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 28,
+      "groupId": 101703,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1401001,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 29,
+      "groupId": 101703,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140102,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 30,
+      "groupId": 101703,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1401002,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 31,
+      "groupId": 101703,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1401003,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 32,
+      "groupId": 101703,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2324,
+      "status": 1
+    },
+    {
+      "id": 33,
+      "groupId": 101704,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 111,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 34,
+      "groupId": 101704,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1401100,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 35,
+      "groupId": 101704,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140111,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 36,
+      "groupId": 101704,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1401101,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 37,
+      "groupId": 101704,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1401102,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 38,
+      "groupId": 101704,
+      "subId": 6,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2325,
+      "status": 1
+    },
+    {
+      "id": 39,
+      "groupId": 101705,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1401200,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 40,
+      "groupId": 101705,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140121,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 41,
+      "groupId": 101705,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1401201,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 42,
+      "groupId": 101705,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140122,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 43,
+      "groupId": 101705,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1401202,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 44,
+      "groupId": 101705,
+      "subId": 6,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 45,
+      "groupId": 101705,
+      "subId": 7,
+      "plotType": 2,
+      "performId": 1401203,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 46,
+      "groupId": 101705,
+      "subId": 8,
+      "plotType": 4,
+      "performId": "",
+      "performParams": 2326,
+      "status": 1
+    },
+    {
+      "id": 47,
+      "groupId": 101706,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 74,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 48,
+      "groupId": 101706,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1401300,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 49,
+      "groupId": 101706,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140131,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 50,
+      "groupId": 101706,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1401301,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 51,
+      "groupId": 101706,
+      "subId": 5,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 52,
+      "groupId": 101706,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1401302,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 53,
+      "groupId": 101707,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 74,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 54,
+      "groupId": 101707,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1401400,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 55,
+      "groupId": 101707,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140141,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 56,
+      "groupId": 101707,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1401401,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 57,
+      "groupId": 101707,
+      "subId": 5,
+      "plotType": 1,
+      "performId": 10140142,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 58,
+      "groupId": 101707,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1401402,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 59,
+      "groupId": 101707,
+      "subId": 7,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 60,
+      "groupId": 101707,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1401403,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 61,
+      "groupId": 101708,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 74,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 62,
+      "groupId": 101708,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1401500,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 63,
+      "groupId": 101708,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140151,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 64,
+      "groupId": 101708,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1401501,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 65,
+      "groupId": 101708,
+      "subId": 5,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 66,
+      "groupId": 101708,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1401502,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 67,
+      "groupId": 101709,
+      "subId": 1,
+      "plotType": 12,
+      "performId": 74,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 68,
+      "groupId": 101709,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1401600,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 69,
+      "groupId": 101709,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140161,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 70,
+      "groupId": 101709,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1401601,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 71,
+      "groupId": 101709,
+      "subId": 5,
+      "plotType": 1,
+      "performId": 10140162,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 72,
+      "groupId": 101698,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140051,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 73,
+      "groupId": 101698,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400501,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 74,
+      "groupId": 101698,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140052,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 75,
+      "groupId": 101698,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1400502,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 76,
+      "groupId": 101698,
+      "subId": 6,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 77,
+      "groupId": 101698,
+      "subId": 7,
+      "plotType": 2,
+      "performId": 1400503,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 78,
+      "groupId": 101698,
+      "subId": 8,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2330,
+      "status": 1
+    },
+    {
+      "id": 79,
+      "groupId": 101698,
+      "subId": 9,
+      "plotType": 2,
+      "performId": 1400504,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 80,
+      "groupId": 101699,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400600,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 81,
+      "groupId": 101699,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140061,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 82,
+      "groupId": 101699,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400601,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 83,
+      "groupId": 101699,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140062,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 84,
+      "groupId": 101699,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1400602,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 85,
+      "groupId": 101699,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400603,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 86,
+      "groupId": 101699,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2331,
+      "status": 1
+    },
+    {
+      "id": 87,
+      "groupId": 101699,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1400604,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 88,
+      "groupId": 101700,
+      "subId": 2,
+      "plotType": 2,
+      "performId": 1400700,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 89,
+      "groupId": 101700,
+      "subId": 3,
+      "plotType": 1,
+      "performId": 10140071,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 90,
+      "groupId": 101700,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1400701,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 91,
+      "groupId": 101700,
+      "subId": 5,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 92,
+      "groupId": 101700,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400702,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 93,
+      "groupId": 101700,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2332,
+      "status": 1
+    },
+    {
+      "id": 94,
+      "groupId": 101701,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400800,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 95,
+      "groupId": 101701,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140081,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 96,
+      "groupId": 101701,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400801,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 97,
+      "groupId": 101701,
+      "subId": 4,
+      "plotType": 2,
+      "performId": 1400802,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 98,
+      "groupId": 101701,
+      "subId": 5,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2333,
+      "status": 1
+    },
+    {
+      "id": 99,
+      "groupId": 101701,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400803,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 100,
+      "groupId": 101702,
+      "subId": 1,
+      "plotType": 2,
+      "performId": 1400900,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 101,
+      "groupId": 101702,
+      "subId": 2,
+      "plotType": 1,
+      "performId": 10140091,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 102,
+      "groupId": 101702,
+      "subId": 3,
+      "plotType": 2,
+      "performId": 1400901,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 103,
+      "groupId": 101702,
+      "subId": 4,
+      "plotType": 1,
+      "performId": 10140092,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 104,
+      "groupId": 101702,
+      "subId": 5,
+      "plotType": 2,
+      "performId": 1400902,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 105,
+      "groupId": 101702,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1400903,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 106,
+      "groupId": 101702,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2334,
+      "status": 1
+    },
+    {
+      "id": 107,
+      "groupId": 101702,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1400904,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 108,
+      "groupId": 101700,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1400703,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 109,
+      "groupId": 101704,
+      "subId": 7,
+      "plotType": 2,
+      "performId": 1401103,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 110,
+      "groupId": 101705,
+      "subId": 9,
+      "plotType": 2,
+      "performId": 1401204,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 111,
+      "groupId": 101706,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2327,
+      "status": 1
+    },
+    {
+      "id": 112,
+      "groupId": 101706,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1401303,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 113,
+      "groupId": 101709,
+      "subId": 6,
+      "plotType": 2,
+      "performId": 1401602,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 114,
+      "groupId": 101709,
+      "subId": 7,
+      "plotType": 12,
+      "performId": 1,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 115,
+      "groupId": 101708,
+      "subId": 7,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2329,
+      "status": 1
+    },
+    {
+      "id": 116,
+      "groupId": 101708,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1401503,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 117,
+      "groupId": 101707,
+      "subId": 9,
+      "plotType": 3,
+      "performId": "",
+      "performParams": 2328,
+      "status": 1
+    },
+    {
+      "id": 118,
+      "groupId": 101707,
+      "subId": 10,
+      "plotType": 2,
+      "performId": 1401404,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 119,
+      "groupId": 101709,
+      "subId": 8,
+      "plotType": 2,
+      "performId": 1401603,
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 120,
+      "groupId": 101709,
+      "subId": 9,
+      "plotType": 10,
+      "performId": "",
+      "performParams": "",
+      "status": 1
+    },
+    {
+      "id": 121,
+      "groupId": 101709,
+      "subId": 10,
+      "plotType": 4,
+      "performId": "",
+      "performParams": 2335,
+      "status": 1
+    },
+    {
+      "id": 122,
+      "groupId": 101709,
+      "subId": 11,
+      "plotType": 2,
+      "performId": 1401604,
+      "performParams": "",
+      "status": 1
+    }
+  ]
+}

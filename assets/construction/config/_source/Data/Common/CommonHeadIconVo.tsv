@@ -1,0 +1,23 @@
+id	type	photoId	headIcon	status	name	name_zh_CN	desc	desc_zh_CN
+int	int	int	int	int	int	int	int	int
+201	1	2:goods_icon_201	7:player_avatar_icon_201	1	头像1	头像1	头像1	头像1
+202	1	2:goods_icon_202	7:player_avatar_icon_202	1	头像2	头像2	头像2	头像2
+203	1	2:goods_icon_203	7:player_avatar_icon_203	1	头像3	头像3	头像3	头像3
+204	1	2:goods_icon_204	7:player_avatar_icon_204	1	头像4	头像4	头像4	头像4
+205	1	2:goods_icon_205	7:player_avatar_icon_205	1	头像5	头像5	头像5	头像5
+206	1	2:goods_icon_206	7:player_avatar_icon_206	1	头像6	头像6	头像6	头像6
+207	1	2:goods_icon_207	7:player_avatar_icon_207	1	头像7	头像7	头像7	头像7
+208	1	2:goods_icon_208	7:player_avatar_icon_208	1	头像8	头像8	头像8	头像8
+209	1	2:goods_icon_209	7:player_avatar_icon_209	1	头像9	头像9	头像9	头像9
+210	1	2:goods_icon_210	7:player_avatar_icon_210	1	头像10	头像10	头像10	头像10
+211	1	2:goods_icon_211	7:player_avatar_icon_211	1	taptap头像	taptap头像	taptap头像	taptap头像
+212	1	2:goods_icon_212	7:player_avatar_icon_212	1	海外专用头像	海外专用头像	海外专用头像	海外专用头像
+213	1	2:goods_icon_213	7:player_avatar_icon_213	1	国服二合新年马头像（渠道用）	国服二合新年马头像（渠道用）	国服二合新年马头像	国服二合新年马头像
+214	1	2:goods_icon_214	7:player_avatar_icon_214	1	苏绣联动：绒绒安睡图头像	苏绣联动：绒绒安睡图头像	苏绣联动：绒绒安睡图头像	苏绣联动：绒绒安睡图头像
+215	1	2:goods_icon_215	7:player_avatar_icon_215	1	国服二合新年绒绒头像（集卡用）	国服二合新年绒绒头像（集卡用）	国服二合新年绒绒头像（集卡用）	国服二合新年绒绒头像（集卡用）
+216	1	2:goods_icon_216	7:player_avatar_icon_216	1	绒绒 · 迪拜巧克力软曲奇	绒绒 · 迪拜巧克力软曲奇	绒绒 · 迪拜巧克力软曲奇	绒绒 · 迪拜巧克力软曲奇
+217	1	2:goods_icon_217	7:player_avatar_icon_217	1	梦华录联动-赵盼儿	梦华录联动-赵盼儿	梦华录联动-赵盼儿	梦华录联动-赵盼儿
+218	1	2:goods_icon_218	7:player_avatar_icon_218	1	梦华录联动-宋引章	梦华录联动-宋引章	梦华录联动-宋引章	梦华录联动-宋引章
+219	1	2:goods_icon_219	7:player_avatar_icon_219	1	梦华录联动-双人	梦华录联动-双人	梦华录联动-双人	梦华录联动-双人
+4000001	2	2:goods_icon_4000001	7:avatar_frame_img_4000001	1	初始头像框	初始头像框	初始头像框	初始头像框
+4000002	2	2:goods_icon_4000002	7:avatar_frame_img_4000002	1	初始头像框	初始头像框	初始头像框	初始头像框

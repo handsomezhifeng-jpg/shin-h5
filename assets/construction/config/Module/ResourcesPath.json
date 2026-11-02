@@ -1,0 +1,686 @@
+{
+  "source": "assets/SettingV2/Module/ResourcesPath.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "resourcePath",
+    "describe",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 111,
+  "tsvSha256": "dceac2f8003dd0916d73fbf16ce5c091875a3e3667f6a48f458fcd259b1dd8ce",
+  "rows": [
+    {
+      "id": 1,
+      "resourcePath": "UIAtlas/Common1",
+      "describe": "棋子图标",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "resourcePath": "Arts/Icon/Goods",
+      "describe": "通用道具",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "resourcePath": "Arts/Icon/Role/Npc",
+      "describe": "NPC",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "resourcePath": "UIAtlas/Common3",
+      "describe": "棋子图标3",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "resourcePath": "Spines/BustRolePrefab",
+      "describe": "角色sipne资源",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "resourcePath": "Arts/Textures/BattlePass/@",
+      "describe": "pass卡入口图",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "resourcePath": "Arts/Icon/PlayerHead",
+      "describe": "头像资源",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "resourcePath": "Arts/Textures/GoldRace@",
+      "describe": "金币竞赛资源",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "resourcePath": "Arts/Textures/Cg",
+      "describe": "Cg图剧情用",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "resourcePath": "Arts/Textures/Store",
+      "describe": "钻石商店资源",
+      "status": 1
+    },
+    {
+      "id": 11,
+      "resourcePath": "Arts/Textures/SpecialTask",
+      "describe": "特殊订单资源",
+      "status": 1
+    },
+    {
+      "id": 12,
+      "resourcePath": "Arts/Textures/RoadRace@",
+      "describe": "公路竞赛资源",
+      "status": 1
+    },
+    {
+      "id": 13,
+      "resourcePath": "Arts/Textures/ChainGiftpack",
+      "describe": "链式礼包",
+      "status": 1
+    },
+    {
+      "id": 14,
+      "resourcePath": "Arts/Textures/GradedGiftpack401",
+      "describe": "等级礼包",
+      "status": 1
+    },
+    {
+      "id": 15,
+      "resourcePath": "Arts/Textures/LimitedGiftpack/402001",
+      "describe": "限时礼包",
+      "status": 1
+    },
+    {
+      "id": 16,
+      "resourcePath": "Arts/Textures/BeginnerGiftpack",
+      "describe": "新手礼包",
+      "status": 1
+    },
+    {
+      "id": 17,
+      "resourcePath": "Arts/Textures/BattlePass/10002",
+      "describe": "第二期pass卡（武林乱斗和连连看也用了，所以先不删）",
+      "status": 1
+    },
+    {
+      "id": 18,
+      "resourcePath": "Arts/Textures/VegetableGarden14",
+      "describe": "菜园捣蛋鬼",
+      "status": 1
+    },
+    {
+      "id": 19,
+      "resourcePath": "UIAtlas/VegetableGarden14",
+      "describe": "菜园捣蛋鬼",
+      "status": 1
+    },
+    {
+      "id": 20,
+      "resourcePath": "Arts/Textures/SpecialCollect/120101",
+      "describe": "三合一",
+      "status": 1
+    },
+    {
+      "id": 21,
+      "resourcePath": "Arts/Textures/FeatureCardGift/180101",
+      "describe": "卡牌必得1",
+      "status": 1
+    },
+    {
+      "id": 22,
+      "resourcePath": "Arts/Textures/SuperGift/1001",
+      "describe": "1+2",
+      "status": 1
+    },
+    {
+      "id": 23,
+      "resourcePath": "Arts/Icon/CommonActivityPiece",
+      "describe": "活动棋子",
+      "status": 1
+    },
+    {
+      "id": 24,
+      "resourcePath": "Arts/Textures/BeginnerReward",
+      "describe": "新人结缘礼",
+      "status": 1
+    },
+    {
+      "id": 25,
+      "resourcePath": "UIAtlas/BeginnerReward",
+      "describe": "新人结缘礼礼包图",
+      "status": 1
+    },
+    {
+      "id": 26,
+      "resourcePath": "Arts/Textures/TeahouseRace17",
+      "describe": "茶楼大赛",
+      "status": 1
+    },
+    {
+      "id": 27,
+      "resourcePath": "Arts/Textures/ActivityChess23",
+      "describe": "基础棋盘活动",
+      "status": 1
+    },
+    {
+      "id": 28,
+      "resourcePath": "Arts/Textures/CollectCard/90001",
+      "describe": "集卡1",
+      "status": 1
+    },
+    {
+      "id": 29,
+      "resourcePath": "Arts/Textures/CollectCard/90002",
+      "describe": "集卡2",
+      "status": 1
+    },
+    {
+      "id": 30,
+      "resourcePath": "Arts/Textures/CollectCard",
+      "describe": "集卡总资源路径",
+      "status": 1
+    },
+    {
+      "id": 31,
+      "resourcePath": "Spines/FXPrefab",
+      "describe": "Spine特效预制体路径",
+      "status": 1
+    },
+    {
+      "id": 32,
+      "resourcePath": "Arts/Textures/ActivityBubbles32",
+      "describe": "泡泡折扣",
+      "status": 1
+    },
+    {
+      "id": 33,
+      "resourcePath": "Arts/Textures/CollectFlowers39",
+      "describe": "提篮问芳活动",
+      "status": 1
+    },
+    {
+      "id": 34,
+      "resourcePath": "UIAtlas/MainIcon",
+      "describe": "活动主界面入口资源",
+      "status": 1
+    },
+    {
+      "id": 35,
+      "resourcePath": "Arts/Textures/LimitActivity/2201",
+      "describe": "限时任务图片",
+      "status": 1
+    },
+    {
+      "id": 36,
+      "resourcePath": "Arts/Icon/Buff",
+      "describe": "buff图标",
+      "status": 1
+    },
+    {
+      "id": 37,
+      "resourcePath": "Arts/Textures/ActivityTopic/4001",
+      "describe": "龙宫活动皮肤",
+      "status": 1
+    },
+    {
+      "id": 38,
+      "resourcePath": "Arts/Textures/Chessboard",
+      "describe": "主棋盘界面资源",
+      "status": 1
+    },
+    {
+      "id": 39,
+      "resourcePath": "Arts/Textures/Feeling",
+      "describe": "好感度资源",
+      "status": 1
+    },
+    {
+      "id": 41,
+      "resourcePath": "Arts/Icon/PaintPut",
+      "describe": "捏面人活动资源1",
+      "status": 1
+    },
+    {
+      "id": 42,
+      "resourcePath": "Arts/Textures/PaintPut",
+      "describe": "捏面人活动资源2",
+      "status": 1
+    },
+    {
+      "id": 43,
+      "resourcePath": "UIAtlas/ActivityKirin/3001",
+      "describe": "麒麟摘星梦资源",
+      "status": 1
+    },
+    {
+      "id": 45,
+      "resourcePath": "Arts/Textures/ActivityTopic/4002",
+      "describe": "集市活动皮肤",
+      "status": 1
+    },
+    {
+      "id": 46,
+      "resourcePath": "UIAtlas/ActivityExploreChess/490001",
+      "describe": "探险棋盘第一期资源",
+      "status": 1
+    },
+    {
+      "id": 47,
+      "resourcePath": "UIAtlas/Haggle/560001",
+      "describe": "砍价礼包第一期资源",
+      "status": 1
+    },
+    {
+      "id": 48,
+      "resourcePath": "Arts/Textures/ActivityTopic/4003",
+      "describe": "七夕地块皮肤",
+      "status": 1
+    },
+    {
+      "id": 51,
+      "resourcePath": "Arts/Textures/ActivityTopic/4004",
+      "describe": "中秋地皮",
+      "status": 1
+    },
+    {
+      "id": 52,
+      "resourcePath": "UIAtlas/HouseDecoration",
+      "describe": "自宅装修UI图集",
+      "status": 1
+    },
+    {
+      "id": 54,
+      "resourcePath": "Arts/Textures/ActivityTopic/4005",
+      "describe": "丰收地块",
+      "status": 1
+    },
+    {
+      "id": 55,
+      "resourcePath": "Arts/Icon/HouseDecoration/Furniture",
+      "describe": "自宅家具图标",
+      "status": 1
+    },
+    {
+      "id": 56,
+      "resourcePath": "Arts/Icon/HouseDecoration/Room",
+      "describe": "自宅房型图标",
+      "status": 1
+    },
+    {
+      "id": 57,
+      "resourcePath": "Arts/Textures/ActivityTopic/4006",
+      "describe": "浮空岛",
+      "status": 1
+    },
+    {
+      "id": 58,
+      "resourcePath": "Arts/Textures/DialogueBg",
+      "describe": "BG图剧情用",
+      "status": 1
+    },
+    {
+      "id": 59,
+      "resourcePath": "Arts/Textures/PassFlower",
+      "describe": "击鼓传花资源",
+      "status": 1
+    },
+    {
+      "id": 60,
+      "resourcePath": "Arts/Textures/ActivityTopic/4007",
+      "describe": "温泉地块",
+      "status": 1
+    },
+    {
+      "id": 61,
+      "resourcePath": "UIAtlas/HouseDecorationNewsuit/@",
+      "describe": "自宅新品预告UI图集",
+      "status": 1
+    },
+    {
+      "id": 62,
+      "resourcePath": "Arts/Textures/Roulette",
+      "describe": "转盘图标",
+      "status": 1
+    },
+    {
+      "id": 63,
+      "resourcePath": "Arts/Textures/ActivityTopic/4008",
+      "describe": "冰山地块",
+      "status": 1
+    },
+    {
+      "id": 64,
+      "resourcePath": "Arts/Textures/ActivityTopic/4009",
+      "describe": "过年地块",
+      "status": 1
+    },
+    {
+      "id": 65,
+      "resourcePath": "Arts/Textures/SevenTask",
+      "describe": "七日任务",
+      "status": 1
+    },
+    {
+      "id": 66,
+      "resourcePath": "Arts/Textures/SevenTask/4801",
+      "describe": "七日任务麒麟",
+      "status": 1
+    },
+    {
+      "id": 67,
+      "resourcePath": "Arts/Textures/ActivityTopic/4010",
+      "describe": "钰环地块",
+      "status": 1
+    },
+    {
+      "id": 68,
+      "resourcePath": "Arts/Textures/ActivityFarmChess/530005",
+      "describe": "530005农场元宵主题路径",
+      "status": 1
+    },
+    {
+      "id": 69,
+      "resourcePath": "Arts/Icon/HouseDecoration/Suit",
+      "describe": "家具图鉴",
+      "status": 1
+    },
+    {
+      "id": 70,
+      "resourcePath": "Arts/Textures/Script",
+      "describe": "剧本杀资源",
+      "status": 1
+    },
+    {
+      "id": 71,
+      "resourcePath": "Arts/Textures/ActivityExploreChess/490004",
+      "describe": "490004探险挖矿主题路径",
+      "status": 1
+    },
+    {
+      "id": 72,
+      "resourcePath": "Arts/Textures/LimitSupply/900001",
+      "describe": "锦鲤第一期资源",
+      "status": 1
+    },
+    {
+      "id": 73,
+      "resourcePath": "UIAtlas/LimitRush/@order",
+      "describe": "限时闯关",
+      "status": 1
+    },
+    {
+      "id": 74,
+      "resourcePath": "Arts/Textures/ActivityTopic/4011",
+      "describe": "秦良玉地块",
+      "status": 1
+    },
+    {
+      "id": 75,
+      "resourcePath": "Arts/Textures/ActivityFarmChess/530006",
+      "describe": "530006农场元宵主题路径",
+      "status": 1
+    },
+    {
+      "id": 76,
+      "resourcePath": "Arts/Textures/ActivityExploreChess/490005",
+      "describe": "490005探险挖矿主题路径",
+      "status": 1
+    },
+    {
+      "id": 77,
+      "resourcePath": "Arts/Textures/ActivityTopic/4012",
+      "describe": "春耕地块",
+      "status": 1
+    },
+    {
+      "id": 78,
+      "resourcePath": "UIAtlas/MainIcon2",
+      "describe": "活动主界面入口资源",
+      "status": 1
+    },
+    {
+      "id": 79,
+      "resourcePath": "Arts/Textures/ActivityTopic/4014",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 80,
+      "resourcePath": "Arts/Textures/MiniGameJigsolitaire",
+      "describe": "拼图资源",
+      "status": 1
+    },
+    {
+      "id": 81,
+      "resourcePath": "Arts/Textures/ActivityFarmChess/530007",
+      "describe": "530007农场元宵主题路径",
+      "status": 1
+    },
+    {
+      "id": 82,
+      "resourcePath": "Arts/Textures/ActivityTopic/4015",
+      "describe": "梦华录地块",
+      "status": 1
+    },
+    {
+      "id": 83,
+      "resourcePath": "Arts/Textures/LimitShare",
+      "describe": "限时分享-梦华录",
+      "status": 1
+    },
+    {
+      "id": 84,
+      "resourcePath": "Arts/Icon/HouseDecoration/DressUp",
+      "describe": "换装资源",
+      "status": 1
+    },
+    {
+      "id": 85,
+      "resourcePath": "UIAtlas/ActivityMapChess/@/normal",
+      "describe": "走地图道具资源(支线+主线道具)",
+      "status": 1
+    },
+    {
+      "id": 86,
+      "resourcePath": "Arts/Textures/ActivityFarmChess/530008",
+      "describe": "530008农场元宵主题路径",
+      "status": 1
+    },
+    {
+      "id": 87,
+      "resourcePath": "UIAtlas/ActivityMapChess/@/order",
+      "describe": "走地图道具资源(棋盘入口)",
+      "status": 1
+    },
+    {
+      "id": 88,
+      "resourcePath": "Arts/Textures/ActivityTopic/4016",
+      "describe": "粉色海岛地块",
+      "status": 1
+    },
+    {
+      "id": 89,
+      "resourcePath": "Arts/Icon/CommonActivityPiece",
+      "describe": "棋子图标4",
+      "status": 1
+    },
+    {
+      "id": 90,
+      "resourcePath": "Arts/Textures/MiniGameMove",
+      "describe": "滑动合成资源1",
+      "status": 1
+    },
+    {
+      "id": 91,
+      "resourcePath": "UIAtlas/MiniGameMove",
+      "describe": "滑动合成资源2",
+      "status": 1
+    },
+    {
+      "id": 92,
+      "resourcePath": "Spines/UI/ActivityMapChess/@",
+      "describe": "走地图动画资源",
+      "status": 1
+    },
+    {
+      "id": 93,
+      "resourcePath": "Arts/Textures/ActivityExploreChess/490007",
+      "describe": "490007探险挖矿主题路径",
+      "status": 1
+    },
+    {
+      "id": 94,
+      "resourcePath": "Arts/Textures/ActivityTopic/4017",
+      "describe": "七夕地块",
+      "status": 1
+    },
+    {
+      "id": 95,
+      "resourcePath": "Arts/Textures/ActivityMedal",
+      "describe": "勋章",
+      "status": 1
+    },
+    {
+      "id": 96,
+      "resourcePath": "Arts/Textures/MonsterChess",
+      "describe": "打怪棋盘资源",
+      "status": 1
+    },
+    {
+      "id": 97,
+      "resourcePath": "Arts/Textures/ActivityFarmChess/530009",
+      "describe": "530009农场",
+      "status": 1
+    },
+    {
+      "id": 98,
+      "resourcePath": "Arts/Textures/ActivityTopic/4018",
+      "describe": "中秋周年庆地块",
+      "status": 1
+    },
+    {
+      "id": 99,
+      "resourcePath": "Video/ActivityMapChess/@",
+      "describe": "走地图视频资源",
+      "status": 1
+    },
+    {
+      "id": 100,
+      "resourcePath": "UIAtlas/ActivityMapChess/@/scene",
+      "describe": "走地图道具资源(障碍物)",
+      "status": 1
+    },
+    {
+      "id": 101,
+      "resourcePath": "Arts/Textures/ActivityExploreChess/490008",
+      "describe": "490008探险路径",
+      "status": 1
+    },
+    {
+      "id": 102,
+      "resourcePath": "Arts/Textures/ActivityMapChess/@",
+      "describe": "走地图积分道具",
+      "status": 1
+    },
+    {
+      "id": 105,
+      "resourcePath": "UIAtlas/BattlePassiteration/@order",
+      "describe": "新pass卡资源(棋盘入口)",
+      "status": 1
+    },
+    {
+      "id": 106,
+      "resourcePath": "Arts/Textures/BattlePassiteration/@",
+      "describe": "新pass卡入口图",
+      "status": 1
+    },
+    {
+      "id": 107,
+      "resourcePath": "UIAtlas/MainIcon3",
+      "describe": "活动主界面入口资源",
+      "status": 1
+    },
+    {
+      "id": 108,
+      "resourcePath": "Arts/Textures/ActivityTopic/4019",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 109,
+      "resourcePath": "Arts/Textures/ActivityTopic/4020",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 110,
+      "resourcePath": "Arts/Textures/ActivityTopic/4021",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 111,
+      "resourcePath": "Arts/Textures/ActivityTopic/4022",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 112,
+      "resourcePath": "Arts/Textures/ActivityTopic/4023",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 113,
+      "resourcePath": "Arts/Textures/ActivityTopic/4024",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 114,
+      "resourcePath": "Arts/Textures/ActivityTopic/4025",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 115,
+      "resourcePath": "Arts/Textures/ActivityTopic/4026",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 116,
+      "resourcePath": "Arts/Textures/ActivityTopic/4027",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 117,
+      "resourcePath": "Arts/Textures/ActivityTopic/4028",
+      "describe": "",
+      "status": 1
+    },
+    {
+      "id": 118,
+      "resourcePath": "UIAtlas/MainIcon3",
+      "describe": "活动主界面入口资源",
+      "status": 1
+    }
+  ]
+}

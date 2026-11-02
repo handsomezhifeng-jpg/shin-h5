@@ -1,0 +1,43 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/UnitSpecialSortVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "unitId",
+    "zValue",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 5,
+  "tsvSha256": "3e930a2df192c1516903e42fac02bd2bf6b9917366fb68ee3036ad0bf32d15f1",
+  "rows": [
+    {
+      "unitId": "10_3",
+      "zValue": -1,
+      "status": 1
+    },
+    {
+      "unitId": "10_5",
+      "zValue": -2,
+      "status": 1
+    },
+    {
+      "unitId": "30_18",
+      "zValue": -3,
+      "status": 1
+    },
+    {
+      "unitId": "30_4",
+      "zValue": -2,
+      "status": 1
+    },
+    {
+      "unitId": "55_3",
+      "zValue": -1,
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+id	icon	camRange	unlockType	unlockNum	status	name	name_zh_CN
+int	int	int	int	int	int	int	int
+6101001	56:build_room_img_type_6101001	-10,-10;10,10			1	朴素小屋	朴素小屋
+6101002	56:build_room_img_type_6101002	-10,-10;10,10	9	100	1	温馨小屋	温馨小屋
+6101003	56:build_room_img_type_6101003	-10,-10;10,10	9	240	1	田园雅居	田园雅居
+6101004	56:build_room_img_type_6101004	-10,-12;10,10	9	280	1	清宁小楼	清宁小楼

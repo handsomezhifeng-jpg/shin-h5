@@ -1,0 +1,10 @@
+id	unitId	npcIds	actionNames	type	pointId	pointNum	unlockType	unlockNum	status
+int	int	int	int	int	int	int	int	int	int
+1	0_11754	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		1	4	9	1
+2	0_11753	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		1	4	9	1
+3	0_11749	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		2	4	9	1
+4	0_13010	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		2	4	9	1
+5	1_11776	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		1	4	31	1
+7	4_13013	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		2	4	31	1
+8	2_11515	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		1	4	15	1
+9	2_10492	1028;1029;1030	snack,tea;snack,tea;snack,tea	1		1	4	16	1

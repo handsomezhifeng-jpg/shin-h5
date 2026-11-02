@@ -1,0 +1,3170 @@
+{
+  "apkSha256": "089e36860ad51f2ec8e155d9ce56382dcb9d4843f2d5aa62ecfa26f14483e193",
+  "nativeFunction": "libxlua.so!xlua_seal_apply(kind=3,encrypt=0)",
+  "loaderEvidence": {
+    "function": "SettingModule.AESCustomLoadSetting",
+    "logicalAddress": "0x3543de8",
+    "wrapperBytesRemoved": [
+      4,
+      4
+    ],
+    "decompress": "zlib"
+  },
+  "tables": [
+    {
+      "source": "assets/SettingV2/Common/PlayerExp.bytes",
+      "json": "Common/PlayerExp.json",
+      "tsv": "_source/Common/PlayerExp.tsv",
+      "rows": 300,
+      "wrappedSha256": "beba0cc28db137f274b550b524eed408256c8d521914ef9b5a2ddf76dc46d2f0",
+      "decodedSha256": "7d13ad3bffc4375bdc57a2c32ca61c2effb6bf4044c8fc44bea1d411c3491516"
+    },
+    {
+      "source": "assets/SettingV2/Common/PlayerExpIDGroup.bytes",
+      "json": "Common/PlayerExpIDGroup.json",
+      "tsv": "_source/Common/PlayerExpIDGroup.tsv",
+      "rows": 300,
+      "wrappedSha256": "03ebc164318de61848aeb95b3fe5da4116a20a39c7ca00b6c26392d74206ce23",
+      "decodedSha256": "07c2135d805eb61a66ad73f14bcc2745cb999909c564d4b54434400c30039ccb"
+    },
+    {
+      "source": "assets/SettingV2/Common/ProgressItemVo.bytes",
+      "json": "Common/ProgressItemVo.json",
+      "tsv": "_source/Common/ProgressItemVo.tsv",
+      "rows": 26,
+      "wrappedSha256": "adaa485703fbdda668255ffcf9488b2f59d811d81e88f77e7b6c9d5a17505faf",
+      "decodedSha256": "5a819c65e9fd4e5f1f53b4a6ec478a04134e47a8f06a565057b06407b8019b88"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/Atialas.bytes",
+      "json": "Data/Common/Atialas.json",
+      "tsv": "_source/Data/Common/Atialas.tsv",
+      "rows": 2,
+      "wrappedSha256": "7418fc1ac2b77c4bd0d4489dea11c9565d7c4cd73b3f6fea01a185d29d550820",
+      "decodedSha256": "295ab808ef5fb46fee6fd9ec97d59fade31d06f99e53ba7425a1c5759a61786a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/AvatarVo.bytes",
+      "json": "Data/Common/AvatarVo.json",
+      "tsv": "_source/Data/Common/AvatarVo.tsv",
+      "rows": 146,
+      "wrappedSha256": "1e7a9fb822babde066170a1ae39022215e9589f056e08f8d38717f7e00d6f089",
+      "decodedSha256": "49c664b75e1f8c8d09e05809faa0c364cb65fee1a6266698d3aac69a956cd06f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/BaseParamsVo.bytes",
+      "json": "Data/Common/BaseParamsVo.json",
+      "tsv": "_source/Data/Common/BaseParamsVo.tsv",
+      "rows": 30,
+      "wrappedSha256": "ceafbe6d44561e06a8531c06a6e5aec6a3625ca78c29cd67bf3d28f9bfc3e466",
+      "decodedSha256": "e03be5df6bddaf68fd449de537b520587dfe7d149b945c5c553f8e15c1df9525"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/CommonFurnitureVo.bytes",
+      "json": "Data/Common/CommonFurnitureVo.json",
+      "tsv": "_source/Data/Common/CommonFurnitureVo.tsv",
+      "rows": 390,
+      "wrappedSha256": "0f5c0d244be72b4bdbb34631c1c80db2dc4794f4737ad5ac2bcd21634f4bf87d",
+      "decodedSha256": "db448ac27bd99ed2a4bd4b406418f423ae227d0663f16b8270eabcbf9006acac"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/CommonHeadIconVo.bytes",
+      "json": "Data/Common/CommonHeadIconVo.json",
+      "tsv": "_source/Data/Common/CommonHeadIconVo.tsv",
+      "rows": 21,
+      "wrappedSha256": "1873647295d3f107eebe6bd4ba80329c9102d1bda2b1a4d0f08ad595b13be3dd",
+      "decodedSha256": "403045a4155e721ff4e2c75b47d52cc2924eac868ec48dd4bcc408b701e392aa"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/CommonItemVo.bytes",
+      "json": "Data/Common/CommonItemVo.json",
+      "tsv": "_source/Data/Common/CommonItemVo.tsv",
+      "rows": 2,
+      "wrappedSha256": "5c78a439cda2f4c47ebb45cd65572a2d4e34a2ee7e92e610687bf9facc67c97a",
+      "decodedSha256": "b07dff81e11dcb0b2845644ba5881f449b5e6a3a3c66f2fe95cc67bbb7e4c12f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/EnergyParamsVo.bytes",
+      "json": "Data/Common/EnergyParamsVo.json",
+      "tsv": "_source/Data/Common/EnergyParamsVo.tsv",
+      "rows": 10,
+      "wrappedSha256": "ff8b3f1f0f3fb67ff730bf9c3a677a3fdbaee363cc11f0a8bf13e88b4f9505a8",
+      "decodedSha256": "4bb3eb3a881bca75d29fc3f94e1b319c841227a215b8337c3104b4951c4b4581"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/Graphic.bytes",
+      "json": "Data/Common/Graphic.json",
+      "tsv": "_source/Data/Common/Graphic.tsv",
+      "rows": 5,
+      "wrappedSha256": "a1963c57e5cfcaf8a35b47dfae7eae5dcdacb1e6ca13fc1cdb09599ad0044dbb",
+      "decodedSha256": "fcba6849c6cb4c9929b3877a660a6e0b482547beb0f0dc59c4d165f0a7f6544f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/MainQuestScheduleVo.bytes",
+      "json": "Data/Common/MainQuestScheduleVo.json",
+      "tsv": "_source/Data/Common/MainQuestScheduleVo.tsv",
+      "rows": 80,
+      "wrappedSha256": "78ed991cace4eeef1f4ac5bdd91e53f7c1af6eb054e60b8f52e910ca64570ddd",
+      "decodedSha256": "28c3f343c63f28dda510889acd9a243771dc90f3d3ab2917816fc151ddc2781e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/MainQuestVo.bytes",
+      "json": "Data/Common/MainQuestVo.json",
+      "tsv": "_source/Data/Common/MainQuestVo.tsv",
+      "rows": 4107,
+      "wrappedSha256": "883620fddf0cbe4d32b272a514f6ab5a3f77ea0630440994c2fabc2dcc44e7dd",
+      "decodedSha256": "df9f8e72d667298511059507d9f6dcf4f74f9c33ca405c71e62c1c38a064691a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/MainQuestVoIDGroup.bytes",
+      "json": "Data/Common/MainQuestVoIDGroup.json",
+      "tsv": "_source/Data/Common/MainQuestVoIDGroup.tsv",
+      "rows": 282,
+      "wrappedSha256": "3c7cc57fc57afe5770b0f3e52e877cb458d78211ce1bbe6b52fa40446e5f7639",
+      "decodedSha256": "a77a6c0c7ca7ec4d269cfa9c0e235e1c3998610db47b64d0cf280f803979a2f6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/MatLevel.bytes",
+      "json": "Data/Common/MatLevel.json",
+      "tsv": "_source/Data/Common/MatLevel.tsv",
+      "rows": 3,
+      "wrappedSha256": "53523830a888c57754e7532cf1e2adc6df49da3f5db2c4f74fcdec52c087e1f0",
+      "decodedSha256": "71c139c4ded61552496c993b374ce2822ad74f35cd573c5334d625708a7fc0c9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/RandomRewardVo.bytes",
+      "json": "Data/Common/RandomRewardVo.json",
+      "tsv": "_source/Data/Common/RandomRewardVo.tsv",
+      "rows": 90,
+      "wrappedSha256": "7310c0274b9e2cd36fcf8dd8fc82cabfbd465445b5cd52e09bff4aa8a6ce5486",
+      "decodedSha256": "6ddf580837fc6329b7040cd03c5a9152717173e5d62236b122240fa30e36c0b6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/SoundPathVo.bytes",
+      "json": "Data/Common/SoundPathVo.json",
+      "tsv": "_source/Data/Common/SoundPathVo.tsv",
+      "rows": 215,
+      "wrappedSha256": "50d855713751911fed9b9b42d40d5ae91a0267bf33935c7474e7c7fc768431c8",
+      "decodedSha256": "42a8449443c8db665bbd23e0fdb0666901cdd77f64a31d66a2c402e08efa29ad"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/TaskType.bytes",
+      "json": "Data/Common/TaskType.json",
+      "tsv": "_source/Data/Common/TaskType.tsv",
+      "rows": 51,
+      "wrappedSha256": "bfe4c3e45f3d910e7fd3a902efedcd02f956df1a33c5b0e58f73b4f8ed8cac7d",
+      "decodedSha256": "449d83672c491767d305f316779b71f7be42cdf30c7d34f0a889407151f472cd"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseInitItemVo.bytes",
+      "json": "Data/CustomHouse/HouseInitItemVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseInitItemVo.tsv",
+      "rows": 11,
+      "wrappedSha256": "6267d111a8a0189551221f457da0c78a5935570318c80450d88c0355633e1a70",
+      "decodedSha256": "ed47112a24df63b23cc0ded96f3be26b4d5f1c52ad5e318a0a7e672f0e520407"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseInteractionVo.bytes",
+      "json": "Data/CustomHouse/HouseInteractionVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseInteractionVo.tsv",
+      "rows": 2,
+      "wrappedSha256": "be4ef588940b1f23e79c5a8845f5e02158c5f1d9d334ad482697966022587952",
+      "decodedSha256": "e6c36498f930ae971df37da52392db76ef78658d3ec5d53b718498f4c8e9a1e7"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseItemMainTypeVo.bytes",
+      "json": "Data/CustomHouse/HouseItemMainTypeVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseItemMainTypeVo.tsv",
+      "rows": 4,
+      "wrappedSha256": "88266ad1caec4175f932d6dc139d67a97039087affa528462747668fd709236c",
+      "decodedSha256": "f40215f0dafac8ba002dc12b8a6cf61b9eb7b8af625026f18021aaea80058ae7"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseItemSubTypeVo.bytes",
+      "json": "Data/CustomHouse/HouseItemSubTypeVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseItemSubTypeVo.tsv",
+      "rows": 13,
+      "wrappedSha256": "17f120236cb0b31bc5d2ee7aed017765a0bed98df5f1564a2c50ba5d74c3a342",
+      "decodedSha256": "dc2d9ab0a002989fd10a3dd7b31114d904cd91f630e3409c1cd17b64590bbea1"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseItemVo.bytes",
+      "json": "Data/CustomHouse/HouseItemVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseItemVo.tsv",
+      "rows": 513,
+      "wrappedSha256": "baf4405f33118755189fd744bf880a9a268755918e7d1f1af24e856d2621f05a",
+      "decodedSha256": "2223fdde09243b1759c640ef849f5548c2253af4f300cebad0ba6bd193e5732c"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseItemVoIDGroup.bytes",
+      "json": "Data/CustomHouse/HouseItemVoIDGroup.json",
+      "tsv": "_source/Data/CustomHouse/HouseItemVoIDGroup.tsv",
+      "rows": 4,
+      "wrappedSha256": "9ef39724b55ec2f5e2d945ae4e21348a01e8704069c848890970d0ece8c5d13f",
+      "decodedSha256": "32bad35e55ec8b231a76e96cbd47d8a621062aeb55b01950cff3c9ba30b3b571"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseItemVoIDGroup2.bytes",
+      "json": "Data/CustomHouse/HouseItemVoIDGroup2.json",
+      "tsv": "_source/Data/CustomHouse/HouseItemVoIDGroup2.tsv",
+      "rows": 13,
+      "wrappedSha256": "712f7ce85998026db68b2dce766e3611a25a59ca79c18978a62bf1ebddc68896",
+      "decodedSha256": "fe128c59ea31803eeff35a08d2116df060f28e8c4cacb6141910f0c772b27d83"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseSuitVo.bytes",
+      "json": "Data/CustomHouse/HouseSuitVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseSuitVo.tsv",
+      "rows": 6,
+      "wrappedSha256": "cf3ef524a069faf1091604b6f8cbdebe022bcad7328125726c858492110578f9",
+      "decodedSha256": "6026f80fd387d2a571d423ea3da572b57e0e7df6d8bcbd3a6a252869342e46a6"
+    },
+    {
+      "source": "assets/SettingV2/Data/CustomHouse/HouseVo.bytes",
+      "json": "Data/CustomHouse/HouseVo.json",
+      "tsv": "_source/Data/CustomHouse/HouseVo.tsv",
+      "rows": 4,
+      "wrappedSha256": "17903690526bcadee7cc86c7c5ad04461c0b4fe1ad297674b1ab4e5fa126d669",
+      "decodedSha256": "a3b9e081862df0242a80224945f8b399b211dd139636105de5e91646c00f89e1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Feeling/Roles.bytes",
+      "json": "Data/Feeling/Roles.json",
+      "tsv": "_source/Data/Feeling/Roles.tsv",
+      "rows": 6,
+      "wrappedSha256": "94f63fe1f9cc15cd52803f307b9541a05eb28ee68d813f05b02d365c693e2ab3",
+      "decodedSha256": "34d2701c8dab066736881d0ddf60060838eb8707eb59498012488355ae1e37dc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Goods/LimitSupplyGoodsVo.bytes",
+      "json": "Data/Goods/LimitSupplyGoodsVo.json",
+      "tsv": "_source/Data/Goods/LimitSupplyGoodsVo.tsv",
+      "rows": 9,
+      "wrappedSha256": "3a121fddf2be2f3635aa03f4e258e0fea417cd881be83b2b56e1b3ea654e3e04",
+      "decodedSha256": "81faf78262677029b57f0ce3ae6460a936527e3580cb8873469c8d03a9de58fd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Guide/GuideGroupVo.bytes",
+      "json": "Data/Guide/GuideGroupVo.json",
+      "tsv": "_source/Data/Guide/GuideGroupVo.tsv",
+      "rows": 26,
+      "wrappedSha256": "f106734695548b406fba3faacc4d2ef493bc417828edcd3c708456f2a8d4de05",
+      "decodedSha256": "ed367f113cb21ef1bce6879026854f0dccdd762ea23280537a9ce5f7c2038d98"
+    },
+    {
+      "source": "assets/SettingV2/Data/Guide/GuideStepVo.bytes",
+      "json": "Data/Guide/GuideStepVo.json",
+      "tsv": "_source/Data/Guide/GuideStepVo.tsv",
+      "rows": 61,
+      "wrappedSha256": "4294de2112bda455f5bb3154715d99edd9bb2d391d725eea35f412dd5c6819a9",
+      "decodedSha256": "9c9badcc77cb2c5b1b9a849c3dc9c8270d79d03c6afc32533753546f4f00f71e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Guide/GuideStepVoIDGroup.bytes",
+      "json": "Data/Guide/GuideStepVoIDGroup.json",
+      "tsv": "_source/Data/Guide/GuideStepVoIDGroup.tsv",
+      "rows": 26,
+      "wrappedSha256": "7782120ed1d2afd7d46b580b270727c8abd586a271ba1fae2825c7212fd2b849",
+      "decodedSha256": "45c1c15cb443efaf74e04a00ec5eb2779069f3e0b85f50001cc5f388072c5093"
+    },
+    {
+      "source": "assets/SettingV2/Data/Guide/GuideTalkVo.bytes",
+      "json": "Data/Guide/GuideTalkVo.json",
+      "tsv": "_source/Data/Guide/GuideTalkVo.tsv",
+      "rows": 57,
+      "wrappedSha256": "1c032e7fe89cc197ed66a1e5f2a8aa868194b8c08b03c6419089c5a087db127a",
+      "decodedSha256": "efdc06ec94542ada181032a8f2e2a62b8ad340f9e2832745cd0ba193175cba28"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/MapIdleNpcVo.bytes",
+      "json": "Data/Map/world_1/MapIdleNpcVo.json",
+      "tsv": "_source/Data/Map/world_1/MapIdleNpcVo.tsv",
+      "rows": 8,
+      "wrappedSha256": "6abce6a5258840ac189170a1a0b312fc69564e1d3bcb8744ee53a28edf700d0f",
+      "decodedSha256": "36475592eae0d39aae73580e879f29a63aa48f061cba5ec04b229e22b3025529"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/MapParamVo.bytes",
+      "json": "Data/Map/world_1/MapParamVo.json",
+      "tsv": "_source/Data/Map/world_1/MapParamVo.tsv",
+      "rows": 5,
+      "wrappedSha256": "ae1390eb535b68b609b7ac723d66e17af08937c0fa75d66a1f50b3b9646065d5",
+      "decodedSha256": "fc0560d0105546d888e62990b6250ea55c52b43ec3ea517ed87130ec89c7a51a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/Unit31Vo.bytes",
+      "json": "Data/Map/world_1/Unit31Vo.json",
+      "tsv": "_source/Data/Map/world_1/Unit31Vo.tsv",
+      "rows": 1079,
+      "wrappedSha256": "884fe39dfd15ee3afb7dea97c5bf99ca5e01aafcdee4d81f0c1b6b39a082d16f",
+      "decodedSha256": "2a9fe4f397c371e10725c11ea83f98d08c0b1cd4751caf474cfc1dddab6ed513"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitBoundsVo.bytes",
+      "json": "Data/Map/world_1/UnitBoundsVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitBoundsVo.tsv",
+      "rows": 5015,
+      "wrappedSha256": "d6099598e3f003614eeae1b40f11a727abc17ff919f0924faa56f39b6098d63d",
+      "decodedSha256": "7cd19a6592c93b147fb881a4fc61525f21f7fef8f07e1668826d633849dfa216"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitInteractVo.bytes",
+      "json": "Data/Map/world_1/UnitInteractVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitInteractVo.tsv",
+      "rows": 5,
+      "wrappedSha256": "bd01476bd22cd47a62a5150cdd6d423bb6c5c7d585a3d7ce8dedc4284fe28e91",
+      "decodedSha256": "f63a37ea124edddd63ff0079cfaa3725690ec7b8d3eb14028e78021da3f46eb6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitInteractVoIDGroup.bytes",
+      "json": "Data/Map/world_1/UnitInteractVoIDGroup.json",
+      "tsv": "_source/Data/Map/world_1/UnitInteractVoIDGroup.tsv",
+      "rows": 5,
+      "wrappedSha256": "89eec2e53cfa33dd4d0c96f5f0e5d37af362bb845300afda561766ce8b70db98",
+      "decodedSha256": "152d07a421f026e004050adf72c4e32790c27de09ded326ef30631d108fda8c6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSkinGroupVo.bytes",
+      "json": "Data/Map/world_1/UnitSkinGroupVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitSkinGroupVo.tsv",
+      "rows": 18,
+      "wrappedSha256": "3e04eee8b3b69b8b0d83ddcf2b1593b02f834fd39361ad02549f2ba317c625db",
+      "decodedSha256": "6ee1a1c981cd28d4c9e10cf6041fd3ceaa59f555f5d4d9abe4d6e3b90994951e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSkinVo.bytes",
+      "json": "Data/Map/world_1/UnitSkinVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitSkinVo.tsv",
+      "rows": 384,
+      "wrappedSha256": "0e2be2552acc386acc7817429b27aff319407c52ded653ee652433cc3315cc83",
+      "decodedSha256": "942f1c2f36c8dd4bb0ceadf851dc220e8df69e0989d1421e20494f5eadfab777"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSkinVoIDGroup1.bytes",
+      "json": "Data/Map/world_1/UnitSkinVoIDGroup1.json",
+      "tsv": "_source/Data/Map/world_1/UnitSkinVoIDGroup1.tsv",
+      "rows": 64,
+      "wrappedSha256": "c772f4dd1e8319c47751164febed9df189fa0b9c6d859616f2fc6f73a5c46731",
+      "decodedSha256": "4d9641c636f100528d03d8440158da827e6152c8e4032be392889266efe75f90"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSkinVoIDGroup2.bytes",
+      "json": "Data/Map/world_1/UnitSkinVoIDGroup2.json",
+      "tsv": "_source/Data/Map/world_1/UnitSkinVoIDGroup2.tsv",
+      "rows": 18,
+      "wrappedSha256": "2fc9a6b54148e00a6582abc6f33447988e44cd69d65d088db4c9ae1f4c6ca80c",
+      "decodedSha256": "23f736df150c38ef3bb691c918ea57da33d6c328618a27652a6d5214e8b75fba"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSkinVoIDGroup3.bytes",
+      "json": "Data/Map/world_1/UnitSkinVoIDGroup3.json",
+      "tsv": "_source/Data/Map/world_1/UnitSkinVoIDGroup3.tsv",
+      "rows": 384,
+      "wrappedSha256": "573accd25334ee75e122e1cad022ef40a88c1e4aed48d8c14a1f89b397d3b610",
+      "decodedSha256": "ebe94d19b2bcd4ea8f8d28d70aae1fc4fe15f3ce396c2ef493ba56c86d206c1d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitSpecialSortVo.bytes",
+      "json": "Data/Map/world_1/UnitSpecialSortVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitSpecialSortVo.tsv",
+      "rows": 5,
+      "wrappedSha256": "64839e99b217e2fdf51ed16907c1a1e579faea351413a8bb4b45e549e181ce31",
+      "decodedSha256": "3e930a2df192c1516903e42fac02bd2bf6b9917366fb68ee3036ad0bf32d15f1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitUnlockVo.bytes",
+      "json": "Data/Map/world_1/UnitUnlockVo.json",
+      "tsv": "_source/Data/Map/world_1/UnitUnlockVo.tsv",
+      "rows": 2968,
+      "wrappedSha256": "ca13d29df80e709a5f9bb41c1c3979286199e417dd1c3e1d73c1732d62dd261b",
+      "decodedSha256": "0a2d6cdbcf39fd29eb7afdfe874bc084c0f1574efa2c16baec8d9366d8cc4f00"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitUnlockVoIDGroup.bytes",
+      "json": "Data/Map/world_1/UnitUnlockVoIDGroup.json",
+      "tsv": "_source/Data/Map/world_1/UnitUnlockVoIDGroup.tsv",
+      "rows": 2175,
+      "wrappedSha256": "39970dae52957138f0cd759747b7cb8e905e6b5b78bd750eb09c744163e10ad7",
+      "decodedSha256": "123ec0d38472fdec1aefbabd4e458a984d0e85f5b3712a72b8cd9853c1c50913"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitUnlockVoIDGroup1.bytes",
+      "json": "Data/Map/world_1/UnitUnlockVoIDGroup1.json",
+      "tsv": "_source/Data/Map/world_1/UnitUnlockVoIDGroup1.tsv",
+      "rows": 2879,
+      "wrappedSha256": "e26fd22c767d88aacf47abe2d2efad3a3b5ee652d7419c222f57264d32a8f698",
+      "decodedSha256": "482dfac20a79f3f318963470b0ae0b8919f0abafca24f29b56946c1d5b3624df"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/DialogueFxVo.bytes",
+      "json": "Data/Plot/DialogueFxVo.json",
+      "tsv": "_source/Data/Plot/DialogueFxVo.tsv",
+      "rows": 1,
+      "wrappedSha256": "87790ef2788ad3bd70fb3e29417c71e7614eb7961f772c9f84d40be4ceb22796",
+      "decodedSha256": "fb26128cc7585ab9714409c83315ab85c0bcb67cb5cd0e34f3ce7156e5a5551b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/PlotIndexVo.bytes",
+      "json": "Data/Plot/Main/PlotIndexVo.json",
+      "tsv": "_source/Data/Plot/Main/PlotIndexVo.tsv",
+      "rows": 47,
+      "wrappedSha256": "655dc0e3d9d1e036aa3781ad9e346ef163f498724b0c2143ec8181b3505cbed1",
+      "decodedSha256": "b64a0f94f47aac630bc2f4b96c4a83d2c74ac074191275f54aff86a9aa4830b8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotAnimationVo.tsv",
+      "rows": 1737,
+      "wrappedSha256": "da76985f6e5cdcca5ee3340a5ed740278797250fdcb1323e8daade3d4a5e752a",
+      "decodedSha256": "1ec0bb0a744be836bff331d6d5a94b847f3ebfcd76aa4d05356e68710465f6c1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotAnimationVoIDGroup.tsv",
+      "rows": 424,
+      "wrappedSha256": "a52b66d728cf95f543fa62dead1c6455381a9ae8dddf09307a27c2ed3148b6f6",
+      "decodedSha256": "e948b6e69564cbb012750f6b16df80a93e91a4fcef714730549d555bb2410609"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotDialogueVo.tsv",
+      "rows": 2399,
+      "wrappedSha256": "8880361dc7b48a3da3ab7e82a096b32a6aacb9f20eb4a5c14af4c1065e45b1bd",
+      "decodedSha256": "d75fd57b71d6cdae99b9c86d496f7f183468a20c160dea25456cc5df276c9be8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotDialogueVoIDGroup.tsv",
+      "rows": 235,
+      "wrappedSha256": "e84fad29b7f14559457bfe1327f97c53636fff6f7b814d1982257103b60dfd33",
+      "decodedSha256": "01113814eaa2a041757792149dafaff4de2213968dd79a7004e1aec6ee8e42ca"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotStandPointVo.tsv",
+      "rows": 137,
+      "wrappedSha256": "7a3e91c7ad47c4cdec3f49b56ece6a907040c21f6ffcd94e5e8cf4ba3441ed11",
+      "decodedSha256": "c1c3b249e3cff06d149c49ba9d6bedc8906c3fabae89ea7cfb8b94d28384a71f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotVo.tsv",
+      "rows": 763,
+      "wrappedSha256": "8c6cfa96cae973dbb11b32685277e5ed3f454f42acdda92c89909a0c1d60c598",
+      "decodedSha256": "6c9496279cee0aa270a4493e941b7f392b5b66d3b93da6c636ae3d5143d471d1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_1/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_1/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_1/PlotVoIDGroup.tsv",
+      "rows": 137,
+      "wrappedSha256": "6011a93599bb5f6237660bf71c6abb84532c34b728283dd3fc4224727de6c4b9",
+      "decodedSha256": "7a56548f6d733d5cb33d2a4dae13067721b7dadad097730fe072cc4000a0ec6b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotAnimationVo.tsv",
+      "rows": 400,
+      "wrappedSha256": "b08dfa5a0bc3c51de85599b2f9c997ce65bc1bdc5fdb7338e0acf7e5a04c4221",
+      "decodedSha256": "782fffc80df94023e168566649f10306d6267f03499878289396438d625440cd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotAnimationVoIDGroup.tsv",
+      "rows": 123,
+      "wrappedSha256": "1616a8cfa32c7316e584e20c5c24a25e53d2de2a428cb5541f068457df79d8f7",
+      "decodedSha256": "d7e3cd99e399a4756d633036925a2a85f6be5dcee81c0121bfe7504bc1ca134e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotDialogueVo.tsv",
+      "rows": 586,
+      "wrappedSha256": "df9b942de95d9565d517ac275e3f0d215a3f9eb02861ae3879c8caeec906140e",
+      "decodedSha256": "6572d8c54541cd0a372e2862c2abdd785dbd6363e116f267228a93d650900334"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotDialogueVoIDGroup.tsv",
+      "rows": 38,
+      "wrappedSha256": "1053fcd27973b17e011de514225e52f310069ffa3dd51f5e12fd5009efa258c5",
+      "decodedSha256": "ea2cac5a04bb14e5479d5b109bd0c35cb50432268b0b787ce6ebc1196ae85390"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotStandPointVo.tsv",
+      "rows": 31,
+      "wrappedSha256": "f9db34ff0b91db8ecb037b182140203b254aa38942ba44ac948891efd615f274",
+      "decodedSha256": "66e9d308649057382f5e15c182cfd7cb910a38f6c820b02609a557856444fb3b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotVo.tsv",
+      "rows": 190,
+      "wrappedSha256": "e9e55a99a8ed55716c10f803e34a31eb4dad3e6363d55384d63381a616bc5fd5",
+      "decodedSha256": "94c38871c95c4f3a06d3fcf16b05fb1af48b302a77a244a3c6ad659fc63d0b97"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_10/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_10/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_10/PlotVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "a3d70d7a4d8a5f1c0446c9e544e5a86089efe8fdfc6b0d6d7a08b97dc0d22812",
+      "decodedSha256": "27d4ce1389058c2814fa96675051ca1162bfba70c6bd93077f6dd67866f55d2e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotAnimationVo.tsv",
+      "rows": 442,
+      "wrappedSha256": "76683fed295106e4e73edf4fdffe4c5435941a785bf4a4d01a48a9d220145908",
+      "decodedSha256": "26b0d7bb4bbd61ea3b995f01b8a2e76a5fb609a295d4039be7a103fca81ae77c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotAnimationVoIDGroup.tsv",
+      "rows": 123,
+      "wrappedSha256": "ee3f8332abed4fdc15d66d745abcbc06b3f9d4f6eef526ae089e8459e9247f7f",
+      "decodedSha256": "3a8f4d63f34c10348dc1a923f9f17b730794eebec7b21404c42867cd8ec09334"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotDialogueVo.tsv",
+      "rows": 650,
+      "wrappedSha256": "fcdb56cc2680028e990e57643621fc6a0cb4ab89c2846cbfe632dc91582b0997",
+      "decodedSha256": "a84ad3a44d957a33f4a4a10076d3a4422accb54cc3615a1010576017ecdae4d7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotDialogueVoIDGroup.tsv",
+      "rows": 48,
+      "wrappedSha256": "5edcf19317b6f570f82d3296be4a20b2f35c9c4b389ae1e53e64d5ed2202d5a3",
+      "decodedSha256": "623f503bb2cef77831e2be0d358393f5cff6f31a9b62ae7a50f95ee634ea5e1e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotStandPointVo.tsv",
+      "rows": 34,
+      "wrappedSha256": "f464707fb5d302a26b148b8274caed61b25a64dcba32e1815f857e4a52b3db21",
+      "decodedSha256": "a386f222ded53eca480779e44133b9c0f5ee05f40635871df5c0dfa18f27c8e3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotVo.tsv",
+      "rows": 193,
+      "wrappedSha256": "ede8b7cfb99d85f7b222521e433a3105237d1d4d56fa1058e2342ca942f4478a",
+      "decodedSha256": "63049ce8496a4bd1e9afd8c1dd6f589345fab50d982ce280b820a79a5a9f3b37"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_11/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_11/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_11/PlotVoIDGroup.tsv",
+      "rows": 34,
+      "wrappedSha256": "99a35f8cc1f98fdd7f3a134fbb04e55a8f3ed3026e8df8c2d89443f439543a30",
+      "decodedSha256": "064d2626ac5715f18fdfcd604de0d8ffcc9e0b5f6654ee126781b25cb163b2c3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotAnimationVo.tsv",
+      "rows": 370,
+      "wrappedSha256": "e088468b49755d128ea5ab33d45c7b160f3824160d8d1ace1a18bb25e0cca10a",
+      "decodedSha256": "77752ed239ba86843624db8b0535c9f5ee1021216c6ce232ac406c48ab764f7b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotAnimationVoIDGroup.tsv",
+      "rows": 100,
+      "wrappedSha256": "137ac0ba8d6a86d0d2c05d22798def219351e3ce477275c07acf0a3b3b292740",
+      "decodedSha256": "8fc950cfbad4e222d5daec3edae5bc10fd5ecd3c6218d44f5e546ee77f1b3685"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotDialogueVo.tsv",
+      "rows": 575,
+      "wrappedSha256": "4437730a15cb1fa5ff30b0a4f80fad480760bc3f33940fbc17cd1d166fd55f10",
+      "decodedSha256": "b8766a5b322c39ad0e08d6263729feb4e673527ca3640c59dbfa55fbf798d2ea"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotDialogueVoIDGroup.tsv",
+      "rows": 41,
+      "wrappedSha256": "6700a595c1760bb60f20f2d242dabce7c04265e0e9b6fe4f6ca0d8e6e76ad55a",
+      "decodedSha256": "c1407e6c6f7485d2afd768fda79704e93d98a6e4a40e95eb1919a90a5668f7c4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotStandPointVo.tsv",
+      "rows": 31,
+      "wrappedSha256": "13d4f05b9aa091c108c5f16848041ee86f9ef93a9b7094c49535c884677b84d5",
+      "decodedSha256": "bc109854aeaf04fac80ca6da1b0a1345dac5088d019234c6b2d18ca75214e120"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotVo.tsv",
+      "rows": 170,
+      "wrappedSha256": "766aadd0977c0b47cf787dcb6a73d1f82f5c3c0fbd67c680c923ab7e677b2905",
+      "decodedSha256": "4efb367abbc603e89e9bbfb038652ad4394d36d74c985f8893ad026477339a6c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_12/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_12/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_12/PlotVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "c8de6126665a7c15c9f80b13fd48bd9382492a4a5a6256adb141bbd1494fdf27",
+      "decodedSha256": "0eae43ac5cd28a62cc26ce185188b769d724194f12323cd9a796d044e68fc19b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotAnimationVo.tsv",
+      "rows": 411,
+      "wrappedSha256": "bb7f4056d59e732e72e1c9d9fcb0b4964a865e1d0f7917ff6d7e584ab9f245cd",
+      "decodedSha256": "2a2ca527dd7a51b457ce11ce434019b590ba4dd95f1925c46baf2ec5f8f8ffe2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotAnimationVoIDGroup.tsv",
+      "rows": 115,
+      "wrappedSha256": "176b1655fd9fcce6cffe2cc677083cef3557810837d4b3062f7f5f18eb1d3715",
+      "decodedSha256": "1aeba2c293d0c6890961d8787f8f0ea933796c2db07ac7dc7010960f637ecdd3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotDialogueVo.tsv",
+      "rows": 760,
+      "wrappedSha256": "9f01bebac81f268fa095f8cf28d95cfe2d08e1e965d6f629e2a5628149933312",
+      "decodedSha256": "79a3a06264e28c09329a352fba1379bf6f5c8cb4f3e381e3dd714b3199f16930"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotDialogueVoIDGroup.tsv",
+      "rows": 46,
+      "wrappedSha256": "2cad6e3b7f3487ba65223b54e309c1339907ffd734906ecb17c4968f164cbb83",
+      "decodedSha256": "574bbb955b2dd604601c6dd8f1ae09bebfc702da2565ee2c979ee90e56ffae20"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotStandPointVo.tsv",
+      "rows": 34,
+      "wrappedSha256": "2ff70a7119bf3c4dbebd324e222e8c6ecb4d5c0a8930a5f7d7ec492e95df6579",
+      "decodedSha256": "fa863dd678d0aa86f815d0f83f8fbcbfb6b57234c9fddfdcf7ec99c5e064f629"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotVo.tsv",
+      "rows": 187,
+      "wrappedSha256": "b796a575f4a42a1eec6554ffb956836b670febfa5110fdc0b433746ab146d602",
+      "decodedSha256": "51c73c605e287e9045ce3681ea384f077581d85bf9bd080431fad642c0a8ffc1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_13/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_13/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_13/PlotVoIDGroup.tsv",
+      "rows": 34,
+      "wrappedSha256": "5df7ec4353f995489c715a00b0a717a45873c3fc2eb7fb05056c6bfab00716fa",
+      "decodedSha256": "b33c3936ac02548fb48449a90a63e76276410dc07d92968816d545d7c9b9822b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotAnimationVo.tsv",
+      "rows": 483,
+      "wrappedSha256": "c39e19140e91aa810ee9fd7763273a09350eaa385a29004b0f95ebc99b663324",
+      "decodedSha256": "634b9dc9356d4bb947b75663b9ddd4b99fad5f9b1ab1b5424a0303edc3dc66e3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotAnimationVoIDGroup.tsv",
+      "rows": 127,
+      "wrappedSha256": "d83d4f9581098684c166c5c02fdc5a335c731d9208ad82be899f496e8f0f874c",
+      "decodedSha256": "af6f576004424870dce9ba01212ddc835c4c8d2e19669f546f93f65f005f5b6c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotDialogueVo.tsv",
+      "rows": 948,
+      "wrappedSha256": "b75bef0abf48896325e755c214b42bce6b909bc9d424746b8c5a27ec210f3404",
+      "decodedSha256": "f84810846bbc0048661e269351d1d5bb61dce82617b7dd8053affe5e0a11557e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotDialogueVoIDGroup.tsv",
+      "rows": 58,
+      "wrappedSha256": "cb3b969f7cd0ed390b34a3b67aaae31f2aa709f10b7794f2281a5c23abf5e11f",
+      "decodedSha256": "980227890c22386e796c70751be5dad4288a06e18512917d55988010f11b9821"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotStandPointVo.tsv",
+      "rows": 31,
+      "wrappedSha256": "eb6713c1b6f7e246769f9db46aceb8ca07258f794d658950983e59c235a31c61",
+      "decodedSha256": "a1a3cee92b2a6c7d734ffe4dc29cff41728307dc57b639c50915ae448a68b89e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotVo.tsv",
+      "rows": 206,
+      "wrappedSha256": "95f34b7aca72beab137b9cb734ec27540075b0562eee15b7747dac1766dfe44c",
+      "decodedSha256": "257dcdfcc1e7d3bb6a982bcfb1a8b4c96a82235f4fdf4d49d6410c307dd75fa2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_14/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_14/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_14/PlotVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "d66da9445f837f33ac1e3a042dd841e411907d187396310f59b082a612fdf447",
+      "decodedSha256": "1c11902ab36213d3809f3a5691b113dac86fe1b8f9202d32368f838261141043"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotAnimationVo.tsv",
+      "rows": 381,
+      "wrappedSha256": "b09546d3484a84ce44cb7cf3624f5ca031c7700352fcce311b813bace62e694e",
+      "decodedSha256": "cac3ed6e943a918637af1f6baa50b5dc933495ae63b65433bcfbca920e399451"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotAnimationVoIDGroup.tsv",
+      "rows": 130,
+      "wrappedSha256": "4476ca7ca7b4c3239565b9b5c058a9b8e21fdedefd1145b6a90d666badaa3b18",
+      "decodedSha256": "e4ebf875694fa56199f773ce98365b4e335748ae2d54d433245b6fb1ed9e28ce"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotDialogueVo.tsv",
+      "rows": 746,
+      "wrappedSha256": "43a6097afe018d6c2987ea260b21a516ff40465bf69a99c72c4100439dc74cc1",
+      "decodedSha256": "6108ad1cc2318d3dbb3c47a867fec13cd632db2c69d7cec148a95354f796034c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotDialogueVoIDGroup.tsv",
+      "rows": 54,
+      "wrappedSha256": "b886d9655988a02343541a644ea364dcead5fa32a40d64fe988232673ff7676c",
+      "decodedSha256": "9065d583468115a6a5f8a555afad6528771d37a7e406ffe63a9a75c5a46cbd25"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotStandPointVo.tsv",
+      "rows": 36,
+      "wrappedSha256": "8ac749f8a57e06e9352c70cc72bc917c8752a9885a54a46fcb11d11cdc093da6",
+      "decodedSha256": "2a01c1ab5c534d129cde27ab4a227056bf3682f6d594a182706e7b692455a938"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotVo.tsv",
+      "rows": 208,
+      "wrappedSha256": "5900419c97cebb027b91258765751f7e39f714d5ae841f4a87f4c072188af0c5",
+      "decodedSha256": "c0060b05d48ea56758523ffa81c00a7baee53a75b241dd60e2ba3c8def26a319"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_15/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_15/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_15/PlotVoIDGroup.tsv",
+      "rows": 35,
+      "wrappedSha256": "0588a96d01bd8ea3461381ce50e730037811408ab39dca277d64677aa42feb11",
+      "decodedSha256": "f5b7a3228a8c3eb811c805a262c17e71d3ec588fa1369db42e76dce1b029dd11"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotAnimationVo.tsv",
+      "rows": 463,
+      "wrappedSha256": "12cbe1e55c5a02afbec71c171a8f3537d65cc2931f22fd61608572235907b651",
+      "decodedSha256": "870920d6c499389936ffe3673095ccf5763bf82c0c2de15c9b5d057bf983c9dd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotAnimationVoIDGroup.tsv",
+      "rows": 162,
+      "wrappedSha256": "67f64eb13e036dee542de8b549760bc5533081209f8710c48437dbbaf92eb73d",
+      "decodedSha256": "f967634bc0415b058fe705cad7537cdd1d4dde7951931c64f2f34078b6d8bacf"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotDialogueVo.tsv",
+      "rows": 1069,
+      "wrappedSha256": "7ba78ce54399e26f576c97301bac44598427f069e2698c3e009091408437ff66",
+      "decodedSha256": "1c1e301618473266f520dce84fd0da6800be5c12c8ac55883e3d072766003a23"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotDialogueVoIDGroup.tsv",
+      "rows": 61,
+      "wrappedSha256": "f2fb4fd016dede935b9900c507711e14010420ca90f4cdb89199559502b5664c",
+      "decodedSha256": "100e36fce6c4d7bd1f319a48c67555c911878ffe3262edea78e48e02e79156f0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotStandPointVo.tsv",
+      "rows": 50,
+      "wrappedSha256": "8da6f5acfecf3302ead9feee918bf6d8b567931f87ffbe7c7b0d28c8e5a3f6a1",
+      "decodedSha256": "5e8872ce62d6048e3261d0bb0637a23af752d2fbfb4e991cdc517c65a1aff612"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotVo.tsv",
+      "rows": 268,
+      "wrappedSha256": "5747c3ff8ef81f7ef2ea981d5914d386a31ad096e8f61e5094a91752cb542dd9",
+      "decodedSha256": "e07a9bd981329845c501d4498a06892a87cbdec23bb09cb94965f7b77cbc53af"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_16/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_16/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_16/PlotVoIDGroup.tsv",
+      "rows": 50,
+      "wrappedSha256": "d63e2a00d374741aad2acc01df1e15da73dc72a4bee400ee42b4490104c983c9",
+      "decodedSha256": "5aa26885bafc557c525869d4daaaa14f87f3bc5612ea4a2f14a27f36c53d579a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotAnimationVo.tsv",
+      "rows": 546,
+      "wrappedSha256": "7e9663ea85b6e5924358821e556e3f3e5951dc15b31780e4924b39264fde9516",
+      "decodedSha256": "01d7bc20e91867156999e887af0e5d24e1fc4dda5941a15f490cf7726335ecf5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotAnimationVoIDGroup.tsv",
+      "rows": 173,
+      "wrappedSha256": "26fbee57371701533fa5b3d8a21e87574537a30a7e3a9b73b8fa64d943087608",
+      "decodedSha256": "5d7f30b0ee57b326db904e955f80b5a1095bdbb1709b72f657ec49037f087ef2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotDialogueVo.tsv",
+      "rows": 1038,
+      "wrappedSha256": "207048862b7127bd88072ce35294e502b3afbd8143c4739ab5cdb1c0ed6fdc93",
+      "decodedSha256": "6ef1656a929f39b7320e13997fcd6c0ad5aef8e20934f6fa17bbd01b0ec32d7c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotDialogueVoIDGroup.tsv",
+      "rows": 68,
+      "wrappedSha256": "2617ccadaa1e2d389b690f8f3be3c8d2902e2c040a7822679792c8a7cb825f8f",
+      "decodedSha256": "2297e549cd7aca6f797f2c2dced244603cecb8c7e34a12687f46964bdd1da3e0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotStandPointVo.tsv",
+      "rows": 47,
+      "wrappedSha256": "96c345547ef73feda860c9ca207089474a7e5202ebdc64e9812af56a72bbefcf",
+      "decodedSha256": "96f43b99f2791561a4dbbc748a7f7651956a2530b6668f1b9d51c655eec2bb57"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotVo.tsv",
+      "rows": 280,
+      "wrappedSha256": "0ff3ebe2e00894e1fc265eefe24b689376098911727385b76628d8917c4f9d55",
+      "decodedSha256": "d8c352e451684769f5d26983afdc5ea2cde497716dcbddb233dd107e9a64e218"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_17/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_17/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_17/PlotVoIDGroup.tsv",
+      "rows": 47,
+      "wrappedSha256": "a224b7c71d87c20518072e512943effc2e2f26c627b4f5637c86ea7877f58cb6",
+      "decodedSha256": "c76b3c66eb12630d2e4e41ad8ce39b20b6f1a0ef756765772c63cb56b3c9d947"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotAnimationVo.tsv",
+      "rows": 376,
+      "wrappedSha256": "572e5e2ee8f60b2f2cfd210e3c73b2476397141ca879f06194c9c60da5e1be7e",
+      "decodedSha256": "a35837630dce5c83bcd58efdbbacb3bfb00d0f7d908e88fc2ffdadad390fc7fa"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotAnimationVoIDGroup.tsv",
+      "rows": 133,
+      "wrappedSha256": "3e50509fd70a6ab04870445c1a6b1bb92fde7e3d84aec46faaa07d6414d96748",
+      "decodedSha256": "7062a70387722448d25a7a6e40f642d1b7cb2ba69d43f277820beb747aab7af0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotDialogueVo.tsv",
+      "rows": 834,
+      "wrappedSha256": "bf8e7b42127012a71fb4fbacf3883b8f19aeeb4e4a3529ec7cc763790c3c4039",
+      "decodedSha256": "7d3ccbb24c56b20d690ad5a890e24de282f00da323db48f839808b31ebcd269d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotDialogueVoIDGroup.tsv",
+      "rows": 55,
+      "wrappedSha256": "8e3057b20415ac8cf61ba4221fbd0bec857fa41982a446408b850ddc239ff571",
+      "decodedSha256": "3b0233f82ca836db4e43557e68de96fe33e0c88f91625fe4bd481ff1d5b703bb"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotStandPointVo.tsv",
+      "rows": 39,
+      "wrappedSha256": "9f27e1ffef8007ccb4c60532dee86e53848c5fb4d41a085efb62b486dcf20d6e",
+      "decodedSha256": "11018d57302a625891e4ee1d5b9946bc592ed1d90e5b7b1468f42580e340859d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotVo.tsv",
+      "rows": 218,
+      "wrappedSha256": "52b04af803ed119e2e369547cee4432c2710e43683363336a2f1413719e6cf40",
+      "decodedSha256": "f9d4cb4553c9abd0c9aeaa3b9726559811b2785d627ade3ee1910b9d1fe22f2d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_18/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_18/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_18/PlotVoIDGroup.tsv",
+      "rows": 39,
+      "wrappedSha256": "67756ae44a57897189bd18f6225c0e1d88b8a53349b4c4d325f7c2681258214c",
+      "decodedSha256": "43818364d6b9da96398822d5c97938e91201895db75eac5389276f3f6643589d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotAnimationVo.tsv",
+      "rows": 402,
+      "wrappedSha256": "a286d50d049d3159f2a3036bf79f4558128b2e94bed566da50b4162bffe6858b",
+      "decodedSha256": "7e17f3b9496921b49fc32d7afbb368837c214213b4caf3459aed71f753f9a55d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotAnimationVoIDGroup.tsv",
+      "rows": 131,
+      "wrappedSha256": "c7ae53fe85258c0920e19da5112bf97ecff6d09e084548a368f30ccd758a6cd8",
+      "decodedSha256": "cabd7f2de7e0c8ec5b3d3269d116c2838730e275461fd8a58d819b0cec4046c9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotDialogueVo.tsv",
+      "rows": 812,
+      "wrappedSha256": "80d25ce6ee87da7bc3f6280c80cc2180c6104a135b1d1e08ac494f6de8069d47",
+      "decodedSha256": "707dad061a2afe2df0c059a19251209be1d202556449de9d0fe6dccf8fda6b60"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotDialogueVoIDGroup.tsv",
+      "rows": 53,
+      "wrappedSha256": "066f06b40d8d2e5ef3cd0b19e0d15b049d9c55c8c971fdb77417eacf1b6cda98",
+      "decodedSha256": "dece233d47397a237c000b452b1e4a8c12e66e2e5743a3afb138e3dc5ae0e538"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotStandPointVo.tsv",
+      "rows": 37,
+      "wrappedSha256": "c7811bf06dccf5ba5a8280940c3a2383e5ac748a43ff651128a81eb208e40e8b",
+      "decodedSha256": "8badfd3cd8fc0affff9f29a84c49171483797c62d18df185ccc64b0e19562e54"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotVo.tsv",
+      "rows": 215,
+      "wrappedSha256": "4165c3c4446f1303c7c628d6a375bc90f2a83ba1e1efb09b298893c037f76719",
+      "decodedSha256": "77018246817b6f16f4b7a257cbee5c2d19f3531896c44daecd852bb17d60be8e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_19/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_19/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_19/PlotVoIDGroup.tsv",
+      "rows": 37,
+      "wrappedSha256": "9e0208d75e20540b87a8058200a6a90b27db1a8483f61459d052bd881982b7ec",
+      "decodedSha256": "475e91df35764686b15b2ab25e1daa02d28e83e3dbd7a43ee14dad946fea2740"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotAnimationVo.tsv",
+      "rows": 423,
+      "wrappedSha256": "defc402e2d52e6b5f8c54206be32942e555ac0c607b7860920106c85fe9c9f1f",
+      "decodedSha256": "26bdd414094660b21902332d31ded1806ac42ff0fe2c8836336b2c56c0972605"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotAnimationVoIDGroup.tsv",
+      "rows": 120,
+      "wrappedSha256": "007ab46088f66e03b8daca5c11a042399ffeff576dfc2c6dbd43ae187d1a9187",
+      "decodedSha256": "6259b296cfb831bf91db2c86cbd22be37d05330a312ba9e37f7eaf275803ba6a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotDialogueVo.tsv",
+      "rows": 540,
+      "wrappedSha256": "29423cc3448fbf7dd4258b584a1fd1f9f5f8c4fc8690ddecacbb18a2f0bcb84b",
+      "decodedSha256": "5ee5f52206a755a95e6706e383a1712c3c2c94af4bd0fb2b146dc6eb38672ce7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotDialogueVoIDGroup.tsv",
+      "rows": 52,
+      "wrappedSha256": "3ca475f3abc87349ee51ab86377c5171c6cf8f3cf86c68bd4b0ba7b199873b7b",
+      "decodedSha256": "e8425556283f6b26cf49670d6a853e722759746231581051b0cc0a36c32106d4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotStandPointVo.tsv",
+      "rows": 39,
+      "wrappedSha256": "72a2c09aa9b188c7050b347322ac9bfc63127ea23591af9c642f77d626a5e146",
+      "decodedSha256": "f6ac78b29ff1ad80437e2845083bc288a23d8032f83ec880093eb9bf88044cc3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotVo.tsv",
+      "rows": 205,
+      "wrappedSha256": "f7cc35d7fb8ecdb31f15faebb56b607f7a21a5e80f38514f463ed93d193173f6",
+      "decodedSha256": "1bec61f16c960270655d254ab6dcfeac12f17b89be7d86ef4339676e38d010ce"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_2/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_2/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_2/PlotVoIDGroup.tsv",
+      "rows": 38,
+      "wrappedSha256": "050a4024f22c9a4f072940f92cb06a78f9cba744f05841d36ceeb9a888e44d2b",
+      "decodedSha256": "303d6baea8a04574b2f4bf5004b98daefc6536a9aa4e9d3a122145405d1e329b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotAnimationVo.tsv",
+      "rows": 359,
+      "wrappedSha256": "2a377e029ed95152eb0290dca749467ea23ae35646a8d5abb0b57b0579eb3bb8",
+      "decodedSha256": "3f43ddd0c08803d7ae284a52785db40940bd4b03f430fdca87872a84ad6ba3da"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotAnimationVoIDGroup.tsv",
+      "rows": 136,
+      "wrappedSha256": "ba0ad986719af99288fc92d4acbf7595110cc7ba6bdb6300a968780b1ab10d01",
+      "decodedSha256": "77455ac0667fe2a4b0527b7fb14eeaf58f1853c12eea0b4c63f1ba69d355bb0d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotDialogueVo.tsv",
+      "rows": 806,
+      "wrappedSha256": "2b132203370faf2ffa9f160e1fd1a95dad45f8030b5b57acc6e152a7f74181c2",
+      "decodedSha256": "50b765ff7ed0f9d3fe013a87ab718f9df66f7eb27928b10ff9b161b8f6698440"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotDialogueVoIDGroup.tsv",
+      "rows": 50,
+      "wrappedSha256": "2a9f57a01b89d3ff182e49fdb8e6f6d8df3e44c8f14ea90061b1ddc8605c9841",
+      "decodedSha256": "f5d7129c30480b36aff3ff21030963e55af61616361b48a0f40b13cdbd52ee22"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotStandPointVo.tsv",
+      "rows": 40,
+      "wrappedSha256": "95d127a22382fc584eb274700ce0f3d6de120f8312a59df437e6d10f1ba033c7",
+      "decodedSha256": "32f94475337459b514e72d82a6c1ad11b305f646fc44dad3cabc85ce0782e5d7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotVo.tsv",
+      "rows": 217,
+      "wrappedSha256": "7f3443f9c2239168af69b341599009d764b3b3fa5654239919125ec7d06a75ef",
+      "decodedSha256": "347cc40e15f053bfd88f9f7b32722ac49c54dae4ad1a2872cbff963d9b2db36f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_20/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_20/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_20/PlotVoIDGroup.tsv",
+      "rows": 40,
+      "wrappedSha256": "56c910d20ce6ba06443a059ddea071fc5ed262d2989a4b3cdeab7a0909eab376",
+      "decodedSha256": "2d10258aa2298e134cf36965d42fe5f2bac94f6181299380aad94977de1a1cea"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotAnimationVo.tsv",
+      "rows": 391,
+      "wrappedSha256": "1f0c83a16087d93bfde09985ecea836823bbac30c63687bcee4b3cf1d7b998a1",
+      "decodedSha256": "932e51c95e277e8ca888b2be9c13c6ecff696b27e1c971b49351226297d7a45f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotAnimationVoIDGroup.tsv",
+      "rows": 154,
+      "wrappedSha256": "fbe3c1b603c9864e0c263e9e6f157fe2de821782a20649469c3fbd8042d668e1",
+      "decodedSha256": "1afb70523e9a849a805a4f82c346b6db083900ea68e00dbd898b9946860f499c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotDialogueVo.tsv",
+      "rows": 841,
+      "wrappedSha256": "b49a87df54a2101f26f12dd89e73a0eb9467080f41527eac6deba1d76060c5fa",
+      "decodedSha256": "f10637de8e91def779f89f4b752738ac095aaad505b164da72b9d422ea5d0feb"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotDialogueVoIDGroup.tsv",
+      "rows": 52,
+      "wrappedSha256": "fceb6410828e0520df62143125991053425daf2f92b75be5f34842ca3de3955d",
+      "decodedSha256": "d477db229f01a4ab670b416639aa45bc672fe2c2ea9162ec10c49065633fc8fd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotStandPointVo.tsv",
+      "rows": 41,
+      "wrappedSha256": "6fbe97d11991fa332da6eee7babbf2882d2c6310fa65bfb1eae2050ac78d0ab3",
+      "decodedSha256": "f0115fe9177e23ec26015ee7106dc61a61fe58693f29767cadb736b8f6c5b91c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotVo.tsv",
+      "rows": 241,
+      "wrappedSha256": "de4281ecd0ecf1a066a75ab1c2d302c6597ac730a4f332cabe4c47bc3c0aa2a2",
+      "decodedSha256": "bcf397a25d600420c83b6568763c58ecfe863f9a5d8e56f2066666d1d26c24a9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_21/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_21/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_21/PlotVoIDGroup.tsv",
+      "rows": 41,
+      "wrappedSha256": "0d1f38e53d2f78a15bc906613c80344723a5069317838fab83f6ce9c1f3c5075",
+      "decodedSha256": "d028ae14424692ce452547b1000116adb7b64bc990a00d3d8ec66386c04ebab3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotAnimationVo.tsv",
+      "rows": 365,
+      "wrappedSha256": "53f6de94e57d552174d8d82bbdef3e8403468eb977edee7e73c1f4515d389e02",
+      "decodedSha256": "483bcaf1ac118083460c93646ab6fabdee61efbd7a2ee61f9538ac4ca5b9bb0b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotAnimationVoIDGroup.tsv",
+      "rows": 128,
+      "wrappedSha256": "70c29db17e9eca5d2aa1781a705b82363c7a911a9b27de371e0069e4aff4f5fd",
+      "decodedSha256": "a780a98a734558581ca4bba42633abd3c91accd65f5062be0de5fc6bec783709"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotDialogueVo.tsv",
+      "rows": 649,
+      "wrappedSha256": "50b699cad74b5c8bffb358f4e9d05ac20db3f374e9253006e365b269613c74f2",
+      "decodedSha256": "00f176cead18f34d6520589c4d96d6c549895ed5c7b8ca1fc673f793a6c8f358"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotDialogueVoIDGroup.tsv",
+      "rows": 43,
+      "wrappedSha256": "a521a0ad86fb9c82e547a958fca2ab071a0ae1b47779c17d43e0b96773b0efc6",
+      "decodedSha256": "631d2b1725945016c70eff1379dba2e5a19d60fb80bef70b819687df89076e31"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotStandPointVo.tsv",
+      "rows": 29,
+      "wrappedSha256": "a79d99068fd8959f7c137c3c8ca2a1a66d9bcdae9609c94aedac84f35f5c95f2",
+      "decodedSha256": "4d666c3f7b0111a85116f84884eb0918c7fc3bd7e83e5ac480932a7879688e61"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotVo.tsv",
+      "rows": 200,
+      "wrappedSha256": "a91f6dc0854ee511bb62c3f02ba8bf67da9b914b6434f91b3c83037a6758d665",
+      "decodedSha256": "fd85db744fb2c69b4bd5f0f2ce43c088d1d5022bda3589e053b20124f47cf6a0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_22/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_22/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_22/PlotVoIDGroup.tsv",
+      "rows": 29,
+      "wrappedSha256": "3eadee75adc6975b7026bb9aaf66db86990efd05bb8b8a5cab5596716bc0d171",
+      "decodedSha256": "815bdd8ebbd14af733c44e09a4b06640ba94246451e533e955f215285884457a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotAnimationVo.tsv",
+      "rows": 284,
+      "wrappedSha256": "03fbe6d9482ea30cfff0413e9212333041ec228683dcdf320f15f026c1394f21",
+      "decodedSha256": "34e027481da541f780693122940633e19d53c45728bcf3fffb9e5a6e21a844d7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotAnimationVoIDGroup.tsv",
+      "rows": 118,
+      "wrappedSha256": "6cfb7b0f3c51bd6d8e4d71cb38188feab42de5f45da4df9ab6243ee81569e493",
+      "decodedSha256": "d6fc5d2e6df28a4c45d3dfc28205fd8cdae61c2cedd3affe428d7778c486a9df"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotDialogueVo.tsv",
+      "rows": 554,
+      "wrappedSha256": "42e371e5561c696bdf05d4d4db6961a3e098cd73cb2f4c03b7278dd59471b8d2",
+      "decodedSha256": "a67dd259a4b6aeaceccfa16aad151a2b8cf4244449783463b4b983bc6e15a4b9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotDialogueVoIDGroup.tsv",
+      "rows": 34,
+      "wrappedSha256": "8b0267b2c54d175e8fb6650079ff9398ef71f1738b5c4a00b9751f4c5c872911",
+      "decodedSha256": "c6b95a2f4635e2133d9dd9f2d9233c9a2203af0d4ba4c0f270e71cb61c7641e1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotStandPointVo.tsv",
+      "rows": 27,
+      "wrappedSha256": "239cef9203c4c9439c67a2177aa212df9cb8bfa15561c17f7b0b5b1fa1ed2358",
+      "decodedSha256": "58488474c2f9f805f45869763ebda97736c04611ca99d1c5170b91075f1437da"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotVo.tsv",
+      "rows": 178,
+      "wrappedSha256": "d7cfaf6e8dab10fddff5cf4b19d49afd68b8ae3970bde00b4c40f825455958d5",
+      "decodedSha256": "5398d5646d13dfbf3c86aed66e5c8c7fb0308b70c938d525a215905d4309bc0c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_23/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_23/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_23/PlotVoIDGroup.tsv",
+      "rows": 27,
+      "wrappedSha256": "c963fb2cbc953f090a5126e1c2c50118eaccffab38e96eb99558e0c471fc3ec2",
+      "decodedSha256": "272760e81ef1fedea2d4dad4dbb6b9791c99ab821761685823df86081874b41e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotAnimationVo.tsv",
+      "rows": 219,
+      "wrappedSha256": "2e41690a90aeb87de9d74b0a4a6a6871cbecc31e1ca794088ed47ee3b2950831",
+      "decodedSha256": "7aeb39981b183eb936c7d64297efb3de7c69f3231b2feef6bec6fa2c884a5ca5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotAnimationVoIDGroup.tsv",
+      "rows": 105,
+      "wrappedSha256": "052998d3ed6bc9dab13f970046cd285d16cbd2025f96289a5f06f7bbe35fd781",
+      "decodedSha256": "b7eca7e233a085878427fed9863d148d5373e9ff01f9191bc0d343c6bcc82dc9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotDialogueVo.tsv",
+      "rows": 572,
+      "wrappedSha256": "7b129d4f08ff1b5996ab076532c88916e2be1819621babb573bc9d3d8935040b",
+      "decodedSha256": "655233f2681078e096eeb0f55380b62d8470def5e1f5106e40c2b5989a08727a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotDialogueVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "f7a1f9204b096b003cb9dfc3b28a5d9f6e12d37729e4618d400c5cf2955e5b1b",
+      "decodedSha256": "d8efdab0e01f2ff97977ca7b91b0e1e8fd562e17cc76eadc5b462bdba6d24a48"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotStandPointVo.tsv",
+      "rows": 28,
+      "wrappedSha256": "087db7c5ff84aa57a26fe2d29dd4d27c7ef5f56b32c8b7ece59f8f8ac256e917",
+      "decodedSha256": "e6575a9800e16afea1a24f145806eb2103f69a5bd9c92378a04ca208f5cf9940"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotVo.tsv",
+      "rows": 161,
+      "wrappedSha256": "9a767909962b57b39f32c9bc05df97f51d0e63290622da267f1fbd97d39813da",
+      "decodedSha256": "c728171b42b2ef42a16227dcaa02e0d69ee10f05f0026e028b5089f738d910de"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_24/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_24/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_24/PlotVoIDGroup.tsv",
+      "rows": 28,
+      "wrappedSha256": "aee83c665078687edc0cfebba39346ad51267c35dff39ee83144499f178d6275",
+      "decodedSha256": "25824bb3d2cd03d4e3696b88c45f9149aa5aa6d690df91a5824d44a9777f69ff"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotAnimationVo.tsv",
+      "rows": 204,
+      "wrappedSha256": "b796ffeb9d8975254fef8e0b1e4474ec5854c1be23709945b34b410c0a06ec83",
+      "decodedSha256": "0c852d9ea361e86936191e7ba07bc53ba89bb21eb91c03153f2e0121bf781f5d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotAnimationVoIDGroup.tsv",
+      "rows": 83,
+      "wrappedSha256": "b45d1c747f20e0504fb7748d2ef72f55348d3961decee1c29141636afa385bea",
+      "decodedSha256": "eb435b8956c31bd29f8f07eeb01d2804408c347376094fe182e1ee1eba27e74a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotDialogueVo.tsv",
+      "rows": 536,
+      "wrappedSha256": "ce0e3aa75f7f99b754164fa608665a057b467755f2fffed76c3c9ee8cde307c4",
+      "decodedSha256": "ceb7ede51d3e84364eee00378905e51a0c4cb202affdaf36305187f09d3238ba"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotDialogueVoIDGroup.tsv",
+      "rows": 30,
+      "wrappedSha256": "a7ed0b53317910f0a2773ddad0d682e0a2cd47e298faecdec81b8d448be64d24",
+      "decodedSha256": "a8d1d1da8cf8d622a3e145e50e5ad64b5bc26d054def84117133139c74b12d44"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotStandPointVo.tsv",
+      "rows": 26,
+      "wrappedSha256": "9b14ff9701d31f830a62aab3f657544f8800130f69f41d62d36330ada0cca6a3",
+      "decodedSha256": "59c4f12d96f0310b176575903e6f69c033dfea6e996cfff6a22e912959663e2e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotVo.tsv",
+      "rows": 140,
+      "wrappedSha256": "dda6fd08c3f889eaaac9627ae395408ff238088b7c67a103a77f5fd3122dc1a8",
+      "decodedSha256": "641193c5c0282f2458d5e2d75c2168ce10bd939ed5134628b3e4625bae6b7cc7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_25/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_25/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_25/PlotVoIDGroup.tsv",
+      "rows": 26,
+      "wrappedSha256": "16c32dad91ddfa3dd3bc9988125cff31dd2974565227df3a1c8d96fcc4bf1b8c",
+      "decodedSha256": "0c010a4da0d4471738a8d71ec80ae557a5907e7bc0a70b688ed32b6eb309bfdf"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotAnimationVo.tsv",
+      "rows": 310,
+      "wrappedSha256": "5c926b4140de6b78e9df15ae704a7eab790d12ef6bb3e6c5de34d699b9a354a1",
+      "decodedSha256": "85de94d56f0e4f600855075953619eb61bc5d7c87f0413247e7e3e8a89106cff"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotAnimationVoIDGroup.tsv",
+      "rows": 108,
+      "wrappedSha256": "25ce0bbb0a149c21bdf1fd4b4ff6979d89dd48cd2557622034a1fdea5d8271f0",
+      "decodedSha256": "b1ee6f5a83a477d13a11aa263a0420a951aea4635d8aab3a0179b5a765bab508"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotDialogueVo.tsv",
+      "rows": 710,
+      "wrappedSha256": "ba32e0bc3d75ea8ad0b06df53bb1b6da78a563cd72dbf3d20ee39543a8f28890",
+      "decodedSha256": "b37a37979b03ec3bb300b9d4ae84f3ddaa3b3a0acb518a0be1477fe87b26a8bc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotDialogueVoIDGroup.tsv",
+      "rows": 46,
+      "wrappedSha256": "db213e2e8a289827f0383415e41f4b8b4953f67f60fbc84bdb78e3b0227d0368",
+      "decodedSha256": "2281b0e02acd283d3c22f665300fd691ef5810816e45fe1e94e0f2420cc6fce0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotStandPointVo.tsv",
+      "rows": 32,
+      "wrappedSha256": "bfbd057130bd3c4706f7f0ac60eaecac19884e8adc85001b28565fc10fe0892c",
+      "decodedSha256": "f8f25c4c1bb68e996323acac63071a1ae82a0ebb26905e8e3ca866d18c5f0b85"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotVo.tsv",
+      "rows": 181,
+      "wrappedSha256": "e4f317e3fdf004f95ea1fc80fcb29fe39416b5c1dc41eec122b4de38ce70fff6",
+      "decodedSha256": "6b3d7a9efe009e77689361142fc0ffab4f2b300c892f7c455da011667972f61d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_26/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_26/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_26/PlotVoIDGroup.tsv",
+      "rows": 32,
+      "wrappedSha256": "d5a73128b634907108f35eea516988433c9df71d8402370b69879b1f65ade7f3",
+      "decodedSha256": "1d9d1938e8820210b5e794f0697cedc4edb588f9eb92bc6ac14ef1ba9dfe124d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotAnimationVo.tsv",
+      "rows": 922,
+      "wrappedSha256": "c29c8ec347d2e7703f51a23be6fc3344544792b2f3570f53575efaa0685c62c2",
+      "decodedSha256": "0d8786cdd26e2220dc8de97f128257e9f08043a75a4824bf0c79c5216f8c8961"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotAnimationVoIDGroup.tsv",
+      "rows": 285,
+      "wrappedSha256": "ecc3fe21716f86bb30d29fd6fe4438e13add7914027ade42dc229842788614cc",
+      "decodedSha256": "74b68d0ca86264b4c9e7f131e50275e2d2cc61da54a0d6ce7114e0e999e44ed8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotDialogueVo.tsv",
+      "rows": 1849,
+      "wrappedSha256": "a7a1e8def3d67951b4a915387ef7e97fe82eca63c2867c5536af64ccfb5e4143",
+      "decodedSha256": "a5d1e481adfa9ed5cf82c774a8140ccfa14786c6465c5eda0a388423d604838f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotDialogueVoIDGroup.tsv",
+      "rows": 103,
+      "wrappedSha256": "9bfeeb27a5db861b57897db69906d4a7a5aa1b5fc974ebd32fd99c052fed08af",
+      "decodedSha256": "62a794b80f5f77c730d4a4e213eab5194ab9040294bda27653f30da5b1c13425"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotStandPointVo.tsv",
+      "rows": 81,
+      "wrappedSha256": "0d43da01e4b9f2c69efc4ae0c95b77d89599a3928b3b00e69d62f1d8960f47a5",
+      "decodedSha256": "9081b3289f0a7c321c43d34123a283a8cf179d689244e046c3f945bd07a9e1c6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotVo.tsv",
+      "rows": 493,
+      "wrappedSha256": "8557b88ad01812b7fa6d2990333996aa8022c8baa3deab7e4170eb878138aaa2",
+      "decodedSha256": "b99f104cffa75a3d0d9cac1ef985c4cccf341f58851f43c7fa803510ac979f20"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_27/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_27/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_27/PlotVoIDGroup.tsv",
+      "rows": 81,
+      "wrappedSha256": "c83ade7e3e80705fb6278c9af73d97ff3d0003c702411bbf4d67eef17c50f6c7",
+      "decodedSha256": "2a12a64422ec55f44bb33362d2d195e2125947bc28ecaa788f2ff0aff8459c4e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotAnimationVo.tsv",
+      "rows": 264,
+      "wrappedSha256": "38f5ebf6c7a62c66f0915d7c87b6aba7ee40bb9e4cd24c0694af931636d9c59a",
+      "decodedSha256": "c6762f446782c147440ffa45eb2f371593f344188f7372844979718f7307b1aa"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotAnimationVoIDGroup.tsv",
+      "rows": 95,
+      "wrappedSha256": "91c8ac58ffbbbdf7f513a2d9d83c35532035e292bd95ab6c6c7a00f951839398",
+      "decodedSha256": "01b2e2d6c2baf52d6cef034e72b3cd36becc4ad27c413459de2fddb233e6c9b2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotDialogueVo.tsv",
+      "rows": 521,
+      "wrappedSha256": "68eba297756409c1441ac8162983efe255ad80ccf5198ac439f0f85560a8109b",
+      "decodedSha256": "e8ebf2c675aad08543d1c5c200348e31e35b352a2f7e015e67400a3a4822377e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotDialogueVoIDGroup.tsv",
+      "rows": 35,
+      "wrappedSha256": "499349714c6b290cfa9ff0a6dfdfcb4adf850ed0dc783e1ace10f567967e8e6a",
+      "decodedSha256": "2001d9855e4997d27f7401a4f0b24c88c6465874174c4fc1f46c0b93b7aa8d7d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotStandPointVo.tsv",
+      "rows": 27,
+      "wrappedSha256": "b29803fe80a42caa50b028e044cd8cd2feeff97bbee69c3bc802cdc5510e590c",
+      "decodedSha256": "0a37f0180e12f0e5be83db44a843f416944c7ecaf34cd656bb18db367b8a9aab"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotVo.tsv",
+      "rows": 160,
+      "wrappedSha256": "a520d9e51bd57852bd110fff1630bb3563933d3f0eb8ccf963537ece505a3089",
+      "decodedSha256": "a8b4118f97e5b085a8c326cd4a823565284f4838e34a0679c41883e70856d191"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_28/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_28/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_28/PlotVoIDGroup.tsv",
+      "rows": 27,
+      "wrappedSha256": "b7c3cc50f5bc2562f7d22e75ab22818a00d5a6021047a1da8cf5722a897f130b",
+      "decodedSha256": "377faa36533f4a00258d7813ac8a45758cab9c6bfc28818b5c5c173a881afc93"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotAnimationVo.tsv",
+      "rows": 1323,
+      "wrappedSha256": "dabe2ec6416164b338ee873f3455862771888995541672068b79c61320199c00",
+      "decodedSha256": "95e564d30b2b7ec7500dfe5c19868e52e9d5aa1965fca9672c0726ff5cc1d418"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotAnimationVoIDGroup.tsv",
+      "rows": 383,
+      "wrappedSha256": "2923b865c7a67bbee6bfeef1db612fc8ecd5c90fc3eba59c135af1693b6730f7",
+      "decodedSha256": "7368bfbd6b06a3089d793486a029ab16872b246113dc828375636b6cb3509b00"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotDialogueVo.tsv",
+      "rows": 2450,
+      "wrappedSha256": "7ba040ff8186b3d35c88d0f3411b0ddd7a7aabe5b89e2edc6a926a8d38f9da52",
+      "decodedSha256": "5446e787a5af09bb60dc844105619a99802c4ed1657d9883a9b6ee1622931445"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotDialogueVoIDGroup.tsv",
+      "rows": 144,
+      "wrappedSha256": "4db1c8dab3822b82a1aa06376f430e6c552cbce430ff1c6d0485bc46c42ba8e9",
+      "decodedSha256": "b1ef7b0b7500d77b154f2a49c85d0217b1e06fe3f59d8de56c69a9898ed06a4f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotStandPointVo.tsv",
+      "rows": 119,
+      "wrappedSha256": "53d4821a87864e8f14a231aba6a9fa7a89a88e84317fab1e5d656da31062bd51",
+      "decodedSha256": "f2a1f36b26f7ac8622f904e72130c56c5454f4857991309c6571c7e7d14f6faf"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotVo.tsv",
+      "rows": 652,
+      "wrappedSha256": "3113638884628b50f7d13cc9252e31ab5605a520e9e613b6b25a8e6db1313238",
+      "decodedSha256": "3b1a47f3a0816a03ec3739215969f0abb88e836536cdbc4df3946a05fc5349af"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_29/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_29/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_29/PlotVoIDGroup.tsv",
+      "rows": 119,
+      "wrappedSha256": "a4f01e8fe77f024c65b0a3857c1b731c33522a78898d674b4c65c6d5ba615fa3",
+      "decodedSha256": "0b7962ecd2db793c88107bb6f817671af9f2a9c16ea4ca10af11ac26a30d9e7e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotAnimationVo.tsv",
+      "rows": 531,
+      "wrappedSha256": "488ff370484d8aafb8cbda99b220dc3ec594f8b6869c3e516fcef6345aa1adac",
+      "decodedSha256": "621adde4f5e5920800360f89c721b0b1afc311a8c5f70625fbf711b3d16e8066"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotAnimationVoIDGroup.tsv",
+      "rows": 126,
+      "wrappedSha256": "12c5c21d395cbf3f8eb23aede67544c62df9a04d0801eb964a5edb35391d7986",
+      "decodedSha256": "4a28643f773fe69c56c69e8906a3c7ed83f6ad1bd250e6eb281a9c2619830002"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotDialogueVo.tsv",
+      "rows": 438,
+      "wrappedSha256": "553907d505a6b4807969eb3cefdb5a13c82845e57e81f568c3cb2e8ec93d7198",
+      "decodedSha256": "1819e23f8155eb83a32ca913e038c616cad4c0e85c1d8df5f85d3558e3be3ac1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotDialogueVoIDGroup.tsv",
+      "rows": 41,
+      "wrappedSha256": "0d60380efbef2ad75a235f57e38b44163045f46ba3889066a70ad5cc327f7c2d",
+      "decodedSha256": "cd970e16f6fc87e7e30e78f7b5e23e375cc086eacb8a94d4940ed618003552e5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotStandPointVo.tsv",
+      "rows": 33,
+      "wrappedSha256": "45655b29358aec768d64cb928f6ce957da90dc756d0c5f1f1935d2388590b348",
+      "decodedSha256": "9fa95fac1ef8e9ecbe7632b30dd729d327358a5883fcbd781f1f8bde7c7561d1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotVo.tsv",
+      "rows": 188,
+      "wrappedSha256": "54a3eec244bf35c0466af4766412e7e9382e92d5bcb0b589bbc1fd4024c1187f",
+      "decodedSha256": "3abacaf022f596eda4a9827bcc3d5015afd0b2c7a11d902a5878fdc79d4886b6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_3/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_3/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_3/PlotVoIDGroup.tsv",
+      "rows": 33,
+      "wrappedSha256": "2bf3fe3808653be2957a4f69b068533b3bbee7f445f18b33fb1f69a054287cc8",
+      "decodedSha256": "4e9b6d1e4bdf82eb6b7072e96175298a2170797cb6343a8b69bc2884939c2e3c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotAnimationVo.tsv",
+      "rows": 516,
+      "wrappedSha256": "0c10d91a4fd64c10e4f437da484066bb5c6dc00dbd14d040e99cdcff9ac4aeb7",
+      "decodedSha256": "c2b5a85b5d5179355d3a11a4f8aa1afb75e54f554a21f9ee5a559605cd9fb5bb"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotAnimationVoIDGroup.tsv",
+      "rows": 159,
+      "wrappedSha256": "d15768a357b30ac8daa8a577ec38215b2525817e490a7a42e704c6c2c0fb9b41",
+      "decodedSha256": "dc8304d80101b16f4f067c3ef6638bba6723482a6c61cba0c3a6fc6520bbcb28"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotDialogueVo.tsv",
+      "rows": 1143,
+      "wrappedSha256": "f77104ec370250b14065ce4118cbc1d5ef382639d28d329de61da75f45823f30",
+      "decodedSha256": "c91a7a5f31d5346881a3961d22f194cd92d2c940a474e223229b098d390c3bda"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotDialogueVoIDGroup.tsv",
+      "rows": 58,
+      "wrappedSha256": "3faf95c9de1aa133186c71b72775f0dae15454273ae9b7c14f537449c0da8ae9",
+      "decodedSha256": "8a2fc19796f0f6d8cd1685a32ceac58aba175a3069b9246f9ed3d826a576b96c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotStandPointVo.tsv",
+      "rows": 51,
+      "wrappedSha256": "aef020336a08ab6d0f6f3dcdda677f0c48e022917fc587723b79fcd79bc50546",
+      "decodedSha256": "00f875363690a8d5c90600fc92e3c6269dfc762449f2b5d95838f36370620e53"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotVo.tsv",
+      "rows": 279,
+      "wrappedSha256": "45a04bd42f35d9c1625e60c04726e55131533d0805cc6844266dfa6e32cfcf8f",
+      "decodedSha256": "9326c345cf8dac0786104fca1909db2fe29edfdceac1f3217c247f6903f544d9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_30/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_30/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_30/PlotVoIDGroup.tsv",
+      "rows": 51,
+      "wrappedSha256": "9dbf81fd333a6bd6ca74f6975eb4629a5fd0982a062035723a1e12d243703138",
+      "decodedSha256": "9b30adf725bc6a78d12ab51fa837ed4d84efdabb29f59dd0782d30e5f5f8f478"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotAnimationVo.tsv",
+      "rows": 603,
+      "wrappedSha256": "04753b29d44d7f0f9d51a31082963effe12691ac6ca9fa3cc2a4749453ec274d",
+      "decodedSha256": "fd2001d32215fe29b5f332ccc83ddeb7ae51d720f762225ab256805210a85f2a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotAnimationVoIDGroup.tsv",
+      "rows": 186,
+      "wrappedSha256": "95ea3e2bee5cf9f242ef99dfc7c4d2dd7d303d21087cd670c8430de998be5343",
+      "decodedSha256": "7fa091eff3f4be43a4e35fafd3f932cd8a9b5d0f32e72001b02d1692d12fdefc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotDialogueVo.tsv",
+      "rows": 1236,
+      "wrappedSha256": "7747558855ebb8dedbe8f143b40b367a5a98a5a505445860ab93124e4bcb4425",
+      "decodedSha256": "7dba77b720b2f7f34b70eeb1a8e872349c61ec09da3f48efb1bca67398497747"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotDialogueVoIDGroup.tsv",
+      "rows": 70,
+      "wrappedSha256": "4848af4fd6517aa5b41b0a33aecb58161c122cde923ce115dd51ad79bab6df97",
+      "decodedSha256": "3c0c5305f4e35c7f29ed9f78cb85ad7bfc6d3a72c7bf05dd09cd3f7eaffdd0ae"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotStandPointVo.tsv",
+      "rows": 59,
+      "wrappedSha256": "5e4f5a18b7cee904c25d4ace9c038336a96dcecc66184029da9449c24adc1265",
+      "decodedSha256": "cd31c4285cc6562f05449428d080ad3c3f8247ee24056479118397b5980d88fc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotVo.tsv",
+      "rows": 344,
+      "wrappedSha256": "cd79d605e8f04cae6b4ffd64e898e60ba98134da4f1771cddcd8bf77efcd3269",
+      "decodedSha256": "4207a978e6e2e5d6a7806df2476e5384cb6252ad3edde2965d3b85cc1ac7604c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_31/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_31/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_31/PlotVoIDGroup.tsv",
+      "rows": 59,
+      "wrappedSha256": "3ff73f65a26d8107dfc5671f9444070a3d89fcc7a7469aca68b8f4768f8023a3",
+      "decodedSha256": "3436ba6c85e0b05a0295dc384b09243f56328f63d9ca59c691b76c9450d1fee1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotAnimationVo.tsv",
+      "rows": 283,
+      "wrappedSha256": "80f7ef107687d8693365188a5f40b7b510982a137771e46d1bfe4310616c9c4d",
+      "decodedSha256": "2b7aa74368ff05fb9788f363ef06314bbbc1ed55b66dca7b5005d48f7fb6db06"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotAnimationVoIDGroup.tsv",
+      "rows": 84,
+      "wrappedSha256": "a02d4a86c3f1b3952d002905dfe9080618aef6a729db1e85ff991de152f0e6d2",
+      "decodedSha256": "cde93ad6029605fa58b5891d6da1bdaeb8e961bf1983e2ac112dd46833295895"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotDialogueVo.tsv",
+      "rows": 557,
+      "wrappedSha256": "33ace789cd4d5029749df6b0dc964a0622457e9e860f7c9daef4dce74d9b6dfe",
+      "decodedSha256": "75db5545e2d197619bccb9782dc56fb84f7f667965d2c67f4f130c144c5573f5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotDialogueVoIDGroup.tsv",
+      "rows": 30,
+      "wrappedSha256": "00b0565bdb309a363dff6728a5eabf9746229e236eaa438ff8bb59fb2eee9611",
+      "decodedSha256": "96e6ec0f4c9322550b3751e1a55886017466f57e4cdf3863564511d56bad0800"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotStandPointVo.tsv",
+      "rows": 27,
+      "wrappedSha256": "eae5d7c76737bed63ea730bfb140c2fb1670caf476dbd29750db5f7819d48847",
+      "decodedSha256": "28fe7225a42833a2b11d65fab21c86a71e277dabdba6d1bd2dbdbb9884477026"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotVo.tsv",
+      "rows": 146,
+      "wrappedSha256": "a67ebac17fe377d014cb3ac34f51fce693baaa5d8962920f733ddff7e622c6bc",
+      "decodedSha256": "7b795e7af0f296faff29df940dc237c8d683030d9d910eced6516ea387790fe2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_32/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_32/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_32/PlotVoIDGroup.tsv",
+      "rows": 27,
+      "wrappedSha256": "2f0a1ef2e0974c725358f9f30733c265025ff76971ac8c57a77aba7dd2e0d857",
+      "decodedSha256": "cba1efca409a95dbeb92eb9e2d9b869c66336d3e1fb5dc010fbd3d54018341cd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotAnimationVo.tsv",
+      "rows": 233,
+      "wrappedSha256": "ad731a39bf5611d5386b78e0c3176afb50c986cf62aff99cce36d85b304880ba",
+      "decodedSha256": "243374c4ebf3e49ca96c2b684c5ef4f18cfa025c17c7a49f2a53660197557413"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotAnimationVoIDGroup.tsv",
+      "rows": 86,
+      "wrappedSha256": "2e624f0f5ecadf09cbd140f9c422d7a57e29ffaf59ca17cf08f76d3cff12d616",
+      "decodedSha256": "d076a4a115621705a3dc754750dc7a9933c92e899f3ab2ceb4a29ade033b6f61"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotDialogueVo.tsv",
+      "rows": 511,
+      "wrappedSha256": "141a39c53197845c2110f281b469bbf37a7a26bec16a86b1bb6bea6460b749a3",
+      "decodedSha256": "5fce54615ccc0c838102e7271c084301adb7f2c9bf96e6464155f3f51a7e1dc0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotDialogueVoIDGroup.tsv",
+      "rows": 30,
+      "wrappedSha256": "d511a4d8447e2eba4eff9daeeb448e35ef166607a654547d9a3a6d63718dc68f",
+      "decodedSha256": "fe9e157dc106614505e71a50eb84d512fdfc649dc8b7cc2326b6e04273a28ae3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotStandPointVo.tsv",
+      "rows": 28,
+      "wrappedSha256": "c577fee37eeec4ea4c38d03a1c2d53a5a1dc82cb8bda897bc95c7a00106e3b8e",
+      "decodedSha256": "648b6b3e7641b2b2d40dab25d223d898f74719b302f29da3df3f7a550cd9efab"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotVo.tsv",
+      "rows": 141,
+      "wrappedSha256": "e99f562465f506da48a834957ca7249e48b37163ca401f3e79a0db860998d46f",
+      "decodedSha256": "89bb0507aa5186ce84b532fcabeb3839e7927241d42ed33e0c3813a985f37272"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_33/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_33/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_33/PlotVoIDGroup.tsv",
+      "rows": 28,
+      "wrappedSha256": "761df62f696bb7a660fcbfba4a02cfec8c170ccf13575d03f2dd515e73fa31de",
+      "decodedSha256": "aff1f41cf4a69c0b0d87b9ff394e68521075b14e8f4888e66aecf1b6853bef44"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotAnimationVo.tsv",
+      "rows": 434,
+      "wrappedSha256": "db15a6816642096820533b7350a0adbd5e50a3572458b4835d5bd50d28731f3b",
+      "decodedSha256": "003866017f9b88cbe4b70cb37ca24df224c1978a8f5c43a2ccfb043249c245b5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotAnimationVoIDGroup.tsv",
+      "rows": 130,
+      "wrappedSha256": "e5b0b42dee3c9bd4c07112ae272064b32d889faf93910f1259bd9295f20b55d3",
+      "decodedSha256": "ed8ac3247d5e6521525c87f7343117e76d102e2b5525cff4e03ecd6faf83d233"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotDialogueVo.tsv",
+      "rows": 858,
+      "wrappedSha256": "e0ece6c178ac3604a39c8625f7207d63a02ef7971c23f9a1072be1f2f081ad1a",
+      "decodedSha256": "a54350228f52ac01e940f3afd7220d869be3f858f60636f9506d502405217ef8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotDialogueVoIDGroup.tsv",
+      "rows": 52,
+      "wrappedSha256": "2b525c510387f073dc3d85d1afc1a4b18358e178cf800a4595fc1a1da8e5e278",
+      "decodedSha256": "acfb15bcb6fd7e0d5eb02ad5f20c83a6e29d10be0e76529d8aa1283204138ba5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotStandPointVo.tsv",
+      "rows": 41,
+      "wrappedSha256": "2fdaed68f078892ef68506dd0cdddd2e229d47c4197c77169a82df70a9aead0a",
+      "decodedSha256": "9822fecfc4888f71de8738a8b7e7300ee052792b1d9424854777dc49bb5eea40"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotVo.tsv",
+      "rows": 220,
+      "wrappedSha256": "239c15eff26ab825d43d9ea670a58294e040f0df48c0a52ec853606e66e78a58",
+      "decodedSha256": "0648b379f82b272bcd5e984743dff0922cbba69718103bd46b5f96d0e1dba520"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_34/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_34/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_34/PlotVoIDGroup.tsv",
+      "rows": 41,
+      "wrappedSha256": "530f74a074c19c20c39bc6991891731e68278a63f376f1ad56d61402666a9a30",
+      "decodedSha256": "30a7cc4c581b246fa64ab6c252d09f9db63aee3c822a619d12f4cd749df3073b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotAnimationVo.tsv",
+      "rows": 435,
+      "wrappedSha256": "451f505c8bcb21af56654bd7a0aa0c77a2c8ec69e121e83c767596707ad5d39e",
+      "decodedSha256": "de5deb69f2a26b5fb8b93c99946f39283fd81b6ff157c6786a761c7ba14bb5d9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotAnimationVoIDGroup.tsv",
+      "rows": 131,
+      "wrappedSha256": "93bdec1c5cc6adf256cda4db57d32e81325c722822ad7e5814783fb64af3ca2a",
+      "decodedSha256": "cd54a09d485c6c7aadb02ba15fa2beb79240af3e1546889f2c84f0c93a81eff0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotDialogueVo.tsv",
+      "rows": 774,
+      "wrappedSha256": "606cc0b0b93a94c5940274b6e50a678076c596e37400c34b77c9ecbac394a30e",
+      "decodedSha256": "30fbca15a2564d5871272616faf1867c114ed195b5f584c825adda20df08590d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotDialogueVoIDGroup.tsv",
+      "rows": 55,
+      "wrappedSha256": "6b4b00b7a2b72409387aa560f75ef6d03a4b79e27925ec96ee694505e591a7ca",
+      "decodedSha256": "d684e565cc78f1d159a02732e3ab9359f352688c4ef299ab23f6634fa03a3481"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotStandPointVo.tsv",
+      "rows": 40,
+      "wrappedSha256": "4c38c6bb21724eb615d77019beb0d876a939b0d46144ecfff72bc045e78013bb",
+      "decodedSha256": "5802dd67170fd43411a87ff406249c4cee80a7b72c7b7a16aeb2ed48aa9122e8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotVo.tsv",
+      "rows": 214,
+      "wrappedSha256": "1bfa7a33ce1370a25bac88ef1726d15fd40e54e1408cc5b85395031752a29a5c",
+      "decodedSha256": "d5ed26467a63ae84150ee6947d2f69edd6cce71e8f3febb125acee4399b8aa33"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_35/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_35/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_35/PlotVoIDGroup.tsv",
+      "rows": 40,
+      "wrappedSha256": "e7c955f9e4d8db04b1c25c86dafa253909cdddaf5eb426775015becb82bbd51d",
+      "decodedSha256": "8874378497464ba66162fe257bc57ce33b8a7c476675f446ca96dbdf8c977cb8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotAnimationVo.tsv",
+      "rows": 731,
+      "wrappedSha256": "bb61104e32a27a4a0a5046e5928fd320bf94ca444d3730499e1a421e2d0a5e82",
+      "decodedSha256": "b2d76657f4bd43c9911afaa9531285eb7083e4c56a54ee6cb099c5055b2eb540"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotAnimationVoIDGroup.tsv",
+      "rows": 218,
+      "wrappedSha256": "584edd4a59073150b026a5e0a20758e7c87b5aeb734eccf4e2ba5984e098c4d6",
+      "decodedSha256": "0c7469765e7258f85235f92fd4e6548f701c2910ea433c9c0161061dadc58aa4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotDialogueVo.tsv",
+      "rows": 1439,
+      "wrappedSha256": "b6cbe6eb1d453a95e02d5beed7ac9a509c5e2f33d8871beda17ad72a3117f3bc",
+      "decodedSha256": "69a0b8f163b2a7d695e671c64c3ba5910e45ffd41dba8e7f93bca9d9d19b21b7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotDialogueVoIDGroup.tsv",
+      "rows": 78,
+      "wrappedSha256": "0f8f6a0527194624ba436ecffe6d135f1fb4be77e126365cd74f29fafbda73a6",
+      "decodedSha256": "063f8c75a735b67b2307fd9a49ab6122bcecf590ab576d6594ac3c6dae470b2f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotStandPointVo.tsv",
+      "rows": 73,
+      "wrappedSha256": "7119f899cdf95624062d34a3be27bd9dfc45ddfe29ed2cb64afe38a3ff16c07f",
+      "decodedSha256": "5f0f27e5c7e64209fc0e02c7085eab8d5810e642eb669658520e229c5ff9c5e5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotVo.tsv",
+      "rows": 364,
+      "wrappedSha256": "01e3a8a2a6bb334ab03b505412d2544af249845d1599d1e70f3d71552da68b11",
+      "decodedSha256": "87af33d2474405267233a2244102763572fd8e6854ae78ffa96b99557f6390d3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_36/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_36/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_36/PlotVoIDGroup.tsv",
+      "rows": 73,
+      "wrappedSha256": "6e8b3e66e024136d42dc2884405e72bde8270a6f3466b3a253ec47d5c8e50918",
+      "decodedSha256": "8dca867e90e1abba9ee3cab9ac898659026efa1196fddb06082c92ed289cd2cf"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotAnimationVo.tsv",
+      "rows": 283,
+      "wrappedSha256": "bef2646510c318ace55b59c2038adb9539d28e10714ba24e31a843c052bd5d51",
+      "decodedSha256": "66f9e5781c63109e240bb48757bc75e901c5a5bd7620e2669521b4f8883e0910"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotAnimationVoIDGroup.tsv",
+      "rows": 100,
+      "wrappedSha256": "27eee7a0d9ceb5ce5eeb36e00644cf3336aa6b1067d4f7ae2473cb5929210f1f",
+      "decodedSha256": "46796bc9572e33c48a3d2c86590a757faf979718dce88eb8b4bdd4b5dedb7be4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotDialogueVo.tsv",
+      "rows": 575,
+      "wrappedSha256": "59cde495f5a36f333c5c2c6db0736dc319405e04768b4d2a4d69fae1cdff1fe5",
+      "decodedSha256": "556f85d0034a37911690167bf6b5ebfd655b9d5332d3e178171a65e92d02509a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotDialogueVoIDGroup.tsv",
+      "rows": 42,
+      "wrappedSha256": "59fc9e14926cf857e7dc7d7529842c945b068a6bbfe78ca36de80605370a4cda",
+      "decodedSha256": "66e4578ea2b92c199f1506b4082fd38fb84a2d12e149d2cdc04741a81dc590b5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotStandPointVo.tsv",
+      "rows": 30,
+      "wrappedSha256": "b09503872793212673f7c7dba5252123de108970f21d87f6081c92a499674fca",
+      "decodedSha256": "ebca61077e045c4af36af84f2ced59e11deaaa4f70e838dfa7bb1b9cd2fa16d4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotVo.tsv",
+      "rows": 171,
+      "wrappedSha256": "889c87a1e4dfe29eadd7cf1cc170220f6677a459e67b78fbde30a92cf087c62b",
+      "decodedSha256": "a58d4dba3434fb11a73f69c005af83032ecc43a5ee514074b3170b892705efce"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_37/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_37/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_37/PlotVoIDGroup.tsv",
+      "rows": 30,
+      "wrappedSha256": "b788d3b60129d4ecad1c9658e01128a6623c87fcbfe464468936300e5d31398c",
+      "decodedSha256": "2d071f3eaf2a383299c44afee623a84b67e30da6bf3cf8dd10efc1ddaef3bf22"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotAnimationVo.tsv",
+      "rows": 666,
+      "wrappedSha256": "14aa0d59337de253fd0534eafec0ac0537ebeb629c68f2825fb2fff75db29937",
+      "decodedSha256": "54467dcf6903918a4677fae1da212be0121bb7bc942cfa49cb00e822edab4cfb"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotAnimationVoIDGroup.tsv",
+      "rows": 245,
+      "wrappedSha256": "c1a79905235a1ae080c159d796d97800185c0159375c967580d3b488f028b573",
+      "decodedSha256": "b5f91649d52aa9e69922414dacd774700a70e5cb6c1462fd160b4865fb6b633a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotDialogueVo.tsv",
+      "rows": 1100,
+      "wrappedSha256": "4361b1c245715de91a54c7a09a00c9f6823442cdd4cb1edeee409500e582c066",
+      "decodedSha256": "36f863743d30ebeeec15776c2a9276cdb05e8f29386592a1db355f98934eed54"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotDialogueVoIDGroup.tsv",
+      "rows": 78,
+      "wrappedSha256": "5a4baa7a6ec44ee7b797a33326a955df834b425e34373c6d3e1846b52722f7ff",
+      "decodedSha256": "d71ad2933aa979cc32e90ac329c06edf05e6e86638c6f93d287f3d64856441f5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotStandPointVo.tsv",
+      "rows": 61,
+      "wrappedSha256": "332cdfed38b3cc011ba0dd0b58c50af47d55a04646b11d0ac15c65d46a14474e",
+      "decodedSha256": "21c0e701ae05f87614d16f9f2e923c014a74af0589d92495ba96ce2242f9246f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotVo.tsv",
+      "rows": 380,
+      "wrappedSha256": "92bbe81b99d7a05841a4a491efc745ea2b200ed1ddbd357cb67c8c16c4845300",
+      "decodedSha256": "bec0a8a9023e962a2347385c9894f6606547a2c464ffe32267f24f9e4f2f2860"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_38/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_38/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_38/PlotVoIDGroup.tsv",
+      "rows": 61,
+      "wrappedSha256": "6798f826f770fbc803887c8a3b04a3e46bfe4ce8d422b972db88ef5f554b89df",
+      "decodedSha256": "9f3ce8dbb363cff4805a0e107b0a5638ae2a026d1597f57dec024e5ceb144f51"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotAnimationVo.tsv",
+      "rows": 683,
+      "wrappedSha256": "a4bc85657820cf511aaf93391ea79a792d067933ed55cb585a39b14c9343472b",
+      "decodedSha256": "f9b8469dbb16ad1ea7cd157f1b8750718cb02d85aeadacc5f3d407c376c78cd9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotAnimationVoIDGroup.tsv",
+      "rows": 205,
+      "wrappedSha256": "edb75e6dfb3017e640b541c099b7b7091d5d0917cd35dd4955bb0861033b3650",
+      "decodedSha256": "d2cca9b06834fc26c5e151033d2565e77462289a8a6596a7dd01637be09925bc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotDialogueVo.tsv",
+      "rows": 978,
+      "wrappedSha256": "0f5b8d2703940dd449c84ef39a2407807d0ab4af88931a89777cdc10854ad442",
+      "decodedSha256": "0fcf8c37634364a848e0e24ed33bcaa838944fb11fe22055fb3eacd33d401f47"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotDialogueVoIDGroup.tsv",
+      "rows": 61,
+      "wrappedSha256": "feb75884fb12c2abac7716b3ec5c25cf960adba3a96c51fd607d3797fb4cf7f8",
+      "decodedSha256": "82c15ffa1701bdc664c8f8a8c00ce5384f3a89538ed8413618efbb97c0cf3b8f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotStandPointVo.tsv",
+      "rows": 49,
+      "wrappedSha256": "0570cdb75a1488decf509c7320dc952cd20cc748897ce85fae57f0f37d5b6a77",
+      "decodedSha256": "c372ce3c4cc73119dc5b0d90e16b7690cd8aa1f19e2bdadffb4516f23dd927b5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotVo.tsv",
+      "rows": 334,
+      "wrappedSha256": "25d72e7f9b4fc8b696a56c2cb8d71afae77b0fa611d9b087027d579562c512ed",
+      "decodedSha256": "e49ca908c01f20ec8cec7521059dad47647f763235114b2c884f384694049c40"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_39/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_39/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_39/PlotVoIDGroup.tsv",
+      "rows": 49,
+      "wrappedSha256": "b7aa7ae58b364936f05e28c72613f715d4f67f176ca49df7942687dda750fc5f",
+      "decodedSha256": "800905ecc3d5bccbba5914b7e739fc74c564e65813941cd08194833989b2baa4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotAnimationVo.tsv",
+      "rows": 424,
+      "wrappedSha256": "776d4d7d4ec1bb6ce2a85da1f604e41b615f2586a2a99988392b0bcc9a4e903e",
+      "decodedSha256": "7f69dc02a5716e69e92897ecfa3f1853bc41bb07ff05e37005a42725a96ffbcc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotAnimationVoIDGroup.tsv",
+      "rows": 106,
+      "wrappedSha256": "e7c1e464ee286590491cc47d8817eb009f4bf8457698b7817d14e6864631484c",
+      "decodedSha256": "547ad4eea35435476410b39fa2e4ffa33338080e0c8a17e16a137c80d74179dd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotDialogueVo.tsv",
+      "rows": 458,
+      "wrappedSha256": "6e989c4a21f3d69a78e9648980fdb327ed86466f733198d5545d354614f9a378",
+      "decodedSha256": "1937ff82aca91f364916755ff65aa4558dec56e8c8b421180184742b153d63f6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotDialogueVoIDGroup.tsv",
+      "rows": 35,
+      "wrappedSha256": "c05164ea96224fdfef814e0ad956c17838c18cdaed6bc0671a1c2049c0ffdf84",
+      "decodedSha256": "6400368257a5c653b4c84d5787f4eaf24763d404c0d300bb1f386cc15aec35e5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotStandPointVo.tsv",
+      "rows": 31,
+      "wrappedSha256": "6c6bb86c598b2cfde0a8d9afc4d83989d53c261d9c076aab66423ba2c8cb052c",
+      "decodedSha256": "d2e9561a02d2684c7c0506d344b49195dd52eed786c9f3dfad53ae05ce890b45"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotVo.tsv",
+      "rows": 166,
+      "wrappedSha256": "941c49e342a1997b1bdc75e8343b36eea03f1dd07c8427209e3c98bcbf705402",
+      "decodedSha256": "5bf051714ba1a700a0aa20dbdba400ee1981a558b08a86fc18211b887c35f05e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_4/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_4/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_4/PlotVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "12f0e5f04b3c7939bc229e0a1177ad1a0792d4f5f0bb3e48f6455a2b2a0c3d79",
+      "decodedSha256": "6a6c81791c0307c55a09107e953132601f8aa03ed88f98466228f46140138a02"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotAnimationVo.tsv",
+      "rows": 208,
+      "wrappedSha256": "d5784c3eca07fdd19ead652ec59eec3e37e45dd1404e5c63f1983dee96041544",
+      "decodedSha256": "65b442525861e72a8b700a14f448067a85781ee1001be0da9c8d37cff8c9d61e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotAnimationVoIDGroup.tsv",
+      "rows": 70,
+      "wrappedSha256": "6e9b36cd8c6d0aee8a5c6b76b84061fae1888ef86485bb9e850e419d4628110e",
+      "decodedSha256": "0c45ecff30fdc98dfb6ccf8412ff0732dc02e46fbb4776bc44c7f36680bee2cd"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotDialogueVo.tsv",
+      "rows": 330,
+      "wrappedSha256": "86e63d0feae2017d8dfa3f0f5ed87088d7b4874ff860e7f056344341f654f154",
+      "decodedSha256": "32f19e2a47c18c715e9c19e66b9f9e6e534af05facda3a7a7ea28d770f8fdb1e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotDialogueVoIDGroup.tsv",
+      "rows": 24,
+      "wrappedSha256": "3a27c91fd1702788670b839c2f80681c8fdc15a304dd017e135f9bda62c41ecf",
+      "decodedSha256": "5edadbbc6ad7023a61874594348dcbbc6011e63805cdee9ba49c5f206016843b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotStandPointVo.tsv",
+      "rows": 16,
+      "wrappedSha256": "c60412f71dcb9a01a078c14c26bd8914715fb5adef69cee299a63c681d01a197",
+      "decodedSha256": "84859c060e8eb7d1df0903105e3c588466e92b4a891ba095533f505557965019"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotVo.tsv",
+      "rows": 122,
+      "wrappedSha256": "5d401a92b9b5141ef4c4da68e213a6307b217cfb735f0fcfe89b822526e3a7a1",
+      "decodedSha256": "4c5c346777b3c9aee4fef35e59f54b89d0ee4130d8ae71b0d09f73d9b9d9f643"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_40/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_40/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_40/PlotVoIDGroup.tsv",
+      "rows": 16,
+      "wrappedSha256": "e30f61de325d2134c7882ccc4841672302a9ca31f17280182cd760a0d3a06907",
+      "decodedSha256": "0ee62b32329abbe206fa5036ad37e9b626cac6d08eeebfb442b9c12147c2a171"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotAnimationVo.tsv",
+      "rows": 738,
+      "wrappedSha256": "46468162d247091f8d4ff7a77f6003b3a86217e78582e7db1adfdc6a183e65d7",
+      "decodedSha256": "58cba0949f921bd3b92d30b8b63d0a50d389048e3dcae4dd4591f61a86ef77b1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotAnimationVoIDGroup.tsv",
+      "rows": 269,
+      "wrappedSha256": "339d306539330fbd9591fedb38a7c064a1f2660788e4d1b98d619376058fb7c9",
+      "decodedSha256": "57bb7cc1985a989454158fc4480cb6998d95f3c7e70d5262a968e2703f43147d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotDialogueVo.tsv",
+      "rows": 1376,
+      "wrappedSha256": "f3cc88a162db11518cfa727f5db41b86b6abb289a40c6741e56577ff3f578cc2",
+      "decodedSha256": "dfe32f16141e68c9b8ea229ca7ca662ea1120b66e5e8167be7ea87f4c4037a8f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotDialogueVoIDGroup.tsv",
+      "rows": 94,
+      "wrappedSha256": "214142be904630a5f8622da2393631e6932deeac941396e167f244bea0b90dca",
+      "decodedSha256": "225ce8263851abcbbf26a1c8650c0d3f2ea6aadf586ff16dd1d1b3a2ffc33789"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotStandPointVo.tsv",
+      "rows": 63,
+      "wrappedSha256": "8969d8fcfb43312cd605d05ebcaf9594c9997530dae267f9d9930aedf0a2e6d4",
+      "decodedSha256": "d31639aba6ccbd77565ae323c3533b250cc23d97c7de3cb302ce5763c32273f0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotVo.tsv",
+      "rows": 427,
+      "wrappedSha256": "1af68e9449108a4f2167d06fb682f8f0d6b6830f1279ba792346579a37335b9a",
+      "decodedSha256": "bae362b98d671921eeb1a286fcb2e40dddb651f5a445d3aef3123a98298bb3f7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_41/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_41/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_41/PlotVoIDGroup.tsv",
+      "rows": 63,
+      "wrappedSha256": "773d1755c283dc9b55a1bc169f60f469586b21490cac6df3a160f27d83a97b0f",
+      "decodedSha256": "fc39179e8ddb8e14e12ec9adc7e73a64249d8f2a283d4f92205c59f9ed4495dc"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotAnimationVo.tsv",
+      "rows": 373,
+      "wrappedSha256": "0ffdb4679d84f05d6a7cd8513244856b461be31df239ba1d1e5325f24a527944",
+      "decodedSha256": "72387a9e36431785cebee5a76257f24bcf4d9c39a74bba82966cbd49d9f46ef7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotAnimationVoIDGroup.tsv",
+      "rows": 127,
+      "wrappedSha256": "5ff6d93a2b2296dbbc767555e749cfc268de0dde5a41a39b4b43f4a02dd71845",
+      "decodedSha256": "ca43daee52dd936e4892986b2db35b931bbe204b0f80f186780c700591277ec5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotDialogueVo.tsv",
+      "rows": 732,
+      "wrappedSha256": "0caccd89d7caddd23ae64f2d6a73c1df9c7cd586fea26868d5c136f4ee33ba2b",
+      "decodedSha256": "6a03b752c2ab4938ffcd3c8a09a8fff3be71ddc3c9858814f1d4e266ab8e0b6b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotDialogueVoIDGroup.tsv",
+      "rows": 40,
+      "wrappedSha256": "7091ecc404ed4bcbe44a7164e1be1349b67ee7f411fb0bb80db851564e8a3087",
+      "decodedSha256": "3d0f20d6be04136e6ab80644dcf29e726eeb260155a271876b39ac00e3c8476a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotStandPointVo.tsv",
+      "rows": 30,
+      "wrappedSha256": "f2b69e5938d0b3f6c8523ce6fa06927dbfe8c8ca16ba126d2c28d0d4a48b0b04",
+      "decodedSha256": "3765e3bb46c4155ad52cd288f158311cfc70174ecbc004db522704abb72e18a5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotVo.tsv",
+      "rows": 208,
+      "wrappedSha256": "6f58ceba58f2715962307a85663f9f9bf92cff9bdbe99afabef68ca56363255f",
+      "decodedSha256": "88a152e5949206fc5b580a3b287a073294b6fa923243d6dccfccafcccbd854e3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_42/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_42/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_42/PlotVoIDGroup.tsv",
+      "rows": 30,
+      "wrappedSha256": "b5ea1533d3f6a92fd2d5a56af01b1b9385ba3a1b54bd313a25e63570864fd678",
+      "decodedSha256": "173c4195c6198712bad4b3a87b2d4a7161ff39d412ccb401aa9d09342f877a58"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotAnimationVo.tsv",
+      "rows": 1049,
+      "wrappedSha256": "cc9d584ee983b92195f0084b3b50f6bf0003c721954397ed75ada59c58c6603c",
+      "decodedSha256": "25e642934cfbd742449478db3fb78c4ac21f7c511c81b230a0248475566aa198"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotAnimationVoIDGroup.tsv",
+      "rows": 401,
+      "wrappedSha256": "1a5de964fde5b325bec52a423e22c02113ed167003bcc118582f4754ecd952bf",
+      "decodedSha256": "aff0151c1423874cfa64510c1862362c236b9f3689ecd48155078954e7d021d8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotDialogueVo.tsv",
+      "rows": 2022,
+      "wrappedSha256": "e36c31211bea1b69bc2c725e74b9a2e1239d813e113eeb85cccefffb43d98f2c",
+      "decodedSha256": "a7a27618b7fcbb6aef988d122c613cb9edfcd165e495844ff8a37333a11aec1a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotDialogueVoIDGroup.tsv",
+      "rows": 143,
+      "wrappedSha256": "8a8136443d456acecb06ad3f37ec5db5a77284aea10382de6c4d9af524fd09d4",
+      "decodedSha256": "4957cfda975669051a34b6ce0ede24e9d75c7af5791ca75eb0b2fdd3767b60a8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotStandPointVo.tsv",
+      "rows": 92,
+      "wrappedSha256": "3b648733589b9cff79407508bcb45d752f1d660e3990dd6e4654b1d85c74e1bf",
+      "decodedSha256": "0beb7c60b79d43a05ef3175af3c1ea7c1452707b61e395a19d1711b3f9d644a6"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotVo.tsv",
+      "rows": 634,
+      "wrappedSha256": "11bc71da3b6a30b7a100592b305272070679edac1f7f628958b64a19ab7dcee7",
+      "decodedSha256": "c47f8adec2aa744187c3bb043137635b3eafd1f3292d9738d23532bba16683f0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_43/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_43/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_43/PlotVoIDGroup.tsv",
+      "rows": 92,
+      "wrappedSha256": "bd6144a89c4c4b3227c87a21d620faaf6318fa40239983c5c38b69228e68923d",
+      "decodedSha256": "d1e1d1e28f6830a03e87f6ecb964e80ff141d49740ba71c708824817909ca0d4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotAnimationVo.tsv",
+      "rows": 617,
+      "wrappedSha256": "ef34a29446725e5317ebca3d73ac5491c865642fd4bc913f5ee5637017b3670d",
+      "decodedSha256": "f111955ba7002c4f01e034eb9284aecd9caff2a97070c2bc1a61eac29577a86c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotAnimationVoIDGroup.tsv",
+      "rows": 272,
+      "wrappedSha256": "a5e01fff7933ea64c5b6dd3bc22816675810a3d87124d4e8db834aff3496a139",
+      "decodedSha256": "1a1ec9d1e0d440c12bffc9a0b2e120d34804136312cfc6a3d023507f5b40ba45"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotDialogueVo.tsv",
+      "rows": 1252,
+      "wrappedSha256": "d102e99e68cd08f144bf7f4ca2a67d4277109575c84f8d3b47be6c33a53aca5d",
+      "decodedSha256": "d09760a9d8c5bde7fdf451256e4bbe277a5da043c03fd661b8f240c47d1761c2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotDialogueVoIDGroup.tsv",
+      "rows": 87,
+      "wrappedSha256": "12aa87f14cb62c887c396ff3fefc08b810da0cc39be891cacfe06325a175cbaa",
+      "decodedSha256": "a7e51be6b40938d5e0921ee11909afb612ece1514dbc695e7ab532245f9928b0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotStandPointVo.tsv",
+      "rows": 65,
+      "wrappedSha256": "83de08c978a0df84b179d4e8eacb423887e426c7733775cbf6d1763424546e93",
+      "decodedSha256": "bdd6a2894b65e8f5946cf4b695b9fba665bc77d1e911b61a04ad075ef6a2ea37"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotVo.tsv",
+      "rows": 417,
+      "wrappedSha256": "86c10347ee7261f23b0e891511183dcefaa866d5be2cf44a9f2d1c678ecff3e9",
+      "decodedSha256": "ec3935ce624490caa9655b7f36035d135257bedf152c76c1c1948c19fc48cfe4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_44/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_44/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_44/PlotVoIDGroup.tsv",
+      "rows": 65,
+      "wrappedSha256": "e22048b8344499b797bac424aecd021c50dead6426d9b61a8895535287d7bd78",
+      "decodedSha256": "651295d0dbabfed4a193d7f2cf7c25234773491a655091347559da5762042be8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotAnimationVo.tsv",
+      "rows": 946,
+      "wrappedSha256": "88e59308dc78ed1e74ece58472e5c0b77f329e3a18cf3e3b72225e1efaf066ce",
+      "decodedSha256": "f4918f1e28d9bd99c9a006c02bf04968207a32a3f0f9e0238d5a00e0403acc1a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotAnimationVoIDGroup.tsv",
+      "rows": 410,
+      "wrappedSha256": "6fd6d550d3ed53caacbc85d325f56c35b0d746861944e29b3b319e655b2652ff",
+      "decodedSha256": "32cbebf45d02b73d2ed5273c705b7b8c78359d7980118e3112aae53bc91693a8"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotDialogueVo.tsv",
+      "rows": 1839,
+      "wrappedSha256": "acaede21939d117d38076c30401dd7391b44056e3878bfd04c41d64cd1571a5b",
+      "decodedSha256": "8b7f428098f9f5c6213f89e8972659583a4bbc5a8c5d33eb22a3e027833b3a29"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotDialogueVoIDGroup.tsv",
+      "rows": 126,
+      "wrappedSha256": "a8c4d294d0579fd6911b047dfb9eb4bd6672ee565ebccd82e3f0028abaa0ecbd",
+      "decodedSha256": "ea7e8f0a67b112343e436acafd1cf84223d52595db1c00fde16adde4e47b46f5"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotStandPointVo.tsv",
+      "rows": 100,
+      "wrappedSha256": "2d91d912cd68398560b32a9d6e1597c4fb5d941c321786b4e5a9b1742dad3ddf",
+      "decodedSha256": "5dd60fd5ef3ae4b8132f978dd9618351e09e225bd4e40f350335be37da32eca2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotVo.tsv",
+      "rows": 633,
+      "wrappedSha256": "3810854e3ae2a5c067848ce8960999ba14e14936564ba7333561627d497b5369",
+      "decodedSha256": "853467cbfdbf7511c5d7d4e2c955104f38ae94dfbe14d6b5dbc782695c85d713"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_45/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_45/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_45/PlotVoIDGroup.tsv",
+      "rows": 100,
+      "wrappedSha256": "9505e418089cf764ceb9be5bedf90dce27aabdab77ac7ed25ab929615557e74d",
+      "decodedSha256": "b300e6d7b32d237f4f6dc4359a3363dcf48d386f590080f2220469a36b20df2e"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotAnimationVo.tsv",
+      "rows": 1657,
+      "wrappedSha256": "f1e607c8e18cbdbd5b37192ad6e46de65610b4f0e0ea5cc8b496a7ab4cf85bef",
+      "decodedSha256": "be49508c95565a4243a98e1eb26b5b6661e4d0fa7bf21e827806fddacfbceb58"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotAnimationVoIDGroup.tsv",
+      "rows": 484,
+      "wrappedSha256": "80b2a92a287d11745160d2b18dfd6dc37bde4ba2454372fcca9bdd34b37c1b56",
+      "decodedSha256": "e44d7f506760b4145e223f64a15e0789ed8a81f179e52289e4ace40dc36258d2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotDialogueVo.tsv",
+      "rows": 2643,
+      "wrappedSha256": "59ce47c83fb14099844b02b952d161220bd66a4acd0018f5d4a223c54d409322",
+      "decodedSha256": "2eefd02f8116c9a5ad59480994731be3385d1a57e1ce05a29da81784e57e83ad"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotDialogueVoIDGroup.tsv",
+      "rows": 191,
+      "wrappedSha256": "a2a092fecde9a79a50a0ccca5ae65b9d7e889c2d69962e24b64a5989fa6894f2",
+      "decodedSha256": "836e4c3655ce8ab9f84f48cbfc095055c63fd40e274080b8474856ea0bcaf4ce"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotStandPointVo.tsv",
+      "rows": 136,
+      "wrappedSha256": "290ea907cb94e5ab037d03b6cdebb29538fc4636a3947c27032d91cd0a99ab96",
+      "decodedSha256": "f1ee27d11336e1f857b2a6e657bebf9961606278ff2ca315083371897d9595d4"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotVo.tsv",
+      "rows": 812,
+      "wrappedSha256": "c41d368de9d94caa14018304f33818e8d41f4c846614b890411de3d8f07bbd43",
+      "decodedSha256": "a5b05eab7f04e6a596763646392524fb16b969a2ed9fd8e1e7df6b4be14f0992"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_46/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_46/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_46/PlotVoIDGroup.tsv",
+      "rows": 136,
+      "wrappedSha256": "38b3f1e4e628d3827474909a6bfe3451458bcde543b7623e1e605072ff19281a",
+      "decodedSha256": "c29a6d339952b9b0f7d857b29d645721a2956f22376c8d448f9dceadf47d0435"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotAnimationVo.tsv",
+      "rows": 2019,
+      "wrappedSha256": "398258e1e12a66605b5994d75c72fa586a2a7d3be8288b24cd02c7b3056a44d0",
+      "decodedSha256": "c6cd3f6ee939186b79b6ae37c97d818efa32ff187980a1fb6fa81e170e7103b7"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotAnimationVoIDGroup.tsv",
+      "rows": 517,
+      "wrappedSha256": "20ade830f92d3bcb23cc93fc40dad00916d2fee82fe7298fa2d4b5bd89bc3783",
+      "decodedSha256": "9183442e641df1ab1af7983384872f7b1a39663be598a8c2273ec682d4f5e905"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotDialogueVo.tsv",
+      "rows": 2872,
+      "wrappedSha256": "0fa48688df0184acb7c2f786f62572f89bd32a29d567686456d85c4a5d17ccef",
+      "decodedSha256": "5cf7e68db5049c61a92061ca2e1e931b61d409bd6127070f6e0f8736fa81fa66"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotDialogueVoIDGroup.tsv",
+      "rows": 236,
+      "wrappedSha256": "bec39926d820e62ca683346f214d85c99f15cd8e2fecb16a95f335d422bc7cad",
+      "decodedSha256": "fea3dd791d7d6e564affa8bacf1a1964c6d05bb9d2b175acde2d9f21da50ab24"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotStandPointVo.tsv",
+      "rows": 137,
+      "wrappedSha256": "3424520bce4c7774a9bb998a7fd5fd9d66bd6048d20326157db02c62da38e5ef",
+      "decodedSha256": "1ac496786750c6c6ee3da9ff2f218bdd50a50b590d1fb5178bf01486e172639f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotVo.tsv",
+      "rows": 885,
+      "wrappedSha256": "d7639999d31cbbabb9ea12f9766ce9ecd36eaf07f5890f201c27627dbd7809f1",
+      "decodedSha256": "df08897ef05a4a8e418d9a3138e00477debfdb862bd5a5dc0ff20bafcd45531a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_47/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_47/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_47/PlotVoIDGroup.tsv",
+      "rows": 136,
+      "wrappedSha256": "d40be22c3be0a51edfd11f5c9a7518681e20f5ac14c50cb3313409bc0afc81fa",
+      "decodedSha256": "328033d59a11e5cb992187c5321fb12957525e1355bc2af31a31a18dc7563e7f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotAnimationVo.tsv",
+      "rows": 551,
+      "wrappedSha256": "e5e1897d03bf0cffa3fe75090e4f2bc506e795483cfe4cc6fc71f6aa312a9ed3",
+      "decodedSha256": "916fe36ed24ef6779508700e6f50b8a359f45749383186684d2c08e47c194a2a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotAnimationVoIDGroup.tsv",
+      "rows": 148,
+      "wrappedSha256": "e92e33ff66d25a8cc2373b4f5bb3a94b19d5e2cd807c8f61e569475ecf83661a",
+      "decodedSha256": "444524624b039256fb5eb1f793259bd1550621ea1391635c3bf29b4a246207bf"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotDialogueVo.tsv",
+      "rows": 561,
+      "wrappedSha256": "fd0d0f963b31221ed812eb2c2a71a773d12188f9ba81941febaaf5980d682806",
+      "decodedSha256": "f015ccfac4cd65ccb2124238ce7bd9df9d908788223f9e3b52a0b08b9f4f2854"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotDialogueVoIDGroup.tsv",
+      "rows": 61,
+      "wrappedSha256": "4d643a80a2281845fafa3e9c577160849f683d274e389391bb8a4d157bb4cce9",
+      "decodedSha256": "4b0555c866f240a182ed126a6fb1ff8ba97c32179574c08a8d278b0be89b2c03"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotStandPointVo.tsv",
+      "rows": 41,
+      "wrappedSha256": "85dac4de28cf6525847b25e8bb549aaaabe233e20586db5791a02661378760ab",
+      "decodedSha256": "0902b55023cbe1e566a057dfbf8adc8c40a89ee7dcd6b1eb1786c183562ba966"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotVo.tsv",
+      "rows": 238,
+      "wrappedSha256": "65e497e98767918f6e02a5fc01250faffde87e9c8b5df758b014b415b4442124",
+      "decodedSha256": "6f45a2d63e2b914d8874f0e0ffc141f441a9dc4e710d750f7eca6e62e8f14e9d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_5/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_5/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_5/PlotVoIDGroup.tsv",
+      "rows": 41,
+      "wrappedSha256": "e5d88d14d87dc42087f5c33876334c9f162a3c0fab014c164edec450fcbc41bd",
+      "decodedSha256": "3920d90fa66cd80847103a6d6344a482db0d82b420e58fb697aecf9545e18ce9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotAnimationVo.tsv",
+      "rows": 379,
+      "wrappedSha256": "8414c5b1e9d96c8f7a778549df3c30f3d6d87342aef350292005850e70958d19",
+      "decodedSha256": "3b680e31cc3d0a4e8ef15338241c04941f59f31a1403e67fa328798d18ac6f87"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotAnimationVoIDGroup.tsv",
+      "rows": 122,
+      "wrappedSha256": "c164296773c361a2ae7b3a46c322e1f91b276efdf6ce853034fe38a03ba77a20",
+      "decodedSha256": "98c12c4d3df8896cec4c6f9c05eabf099e4067a9069bb51a5d96382d94bb4b99"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotDialogueVo.tsv",
+      "rows": 469,
+      "wrappedSha256": "96679b20dc89bd1e7c2ac72ba0ef5875c1313f98444b606e8307d9a72af044d0",
+      "decodedSha256": "b86a584768c2a7fb6e4bc16f5c03b97ce3bf70a0949f6ef928eee007bb60142d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotDialogueVoIDGroup.tsv",
+      "rows": 38,
+      "wrappedSha256": "78579b964dcb175c98057aa67b0cbd005e309f62187b2b89af8b1c9234e6933f",
+      "decodedSha256": "d5658360fcb0cf400b6af7549633119c079511e74ef1e82fc3804e595a500970"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotStandPointVo.tsv",
+      "rows": 33,
+      "wrappedSha256": "1d1ede5d6bb8188f5d6e9da2fa51c844c6b6eb215c03ea9d251828a5da0966ea",
+      "decodedSha256": "1e6f17ebb02b6959ecab3d035ccf77a1a28289cebc96aa8f28e5865a8ba77ab3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotVo.tsv",
+      "rows": 184,
+      "wrappedSha256": "a67220b32e505b4767f61bbb165d3bcbe4a04379ff8e21e718f52d10035824f7",
+      "decodedSha256": "54126480e06d46fd4d810b7d41de56a686c178610d2a2a01e8a3982da07ea24f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_6/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_6/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_6/PlotVoIDGroup.tsv",
+      "rows": 32,
+      "wrappedSha256": "b8d37cce6d8c4836034074f68399fb75bbf00f2d90b624a7f64420931884af94",
+      "decodedSha256": "39dc9bbb83c76c0f708ea8c0707a7991ed5f81ce0a1d62f9c2490a73be3ee711"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotAnimationVo.tsv",
+      "rows": 451,
+      "wrappedSha256": "940ac26ccff9cf58bf67ad45e7cb32e21cf46abc583ad6036a3638b9b8595885",
+      "decodedSha256": "e657fa81fd6a68bb98bae5195461704f98d053b9bd03f698d33e0f0046c6711b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotAnimationVoIDGroup.tsv",
+      "rows": 120,
+      "wrappedSha256": "af72b6c4c9baf363b7269c254491b4403d13bf3af73f53346767be387b875434",
+      "decodedSha256": "778781512687ea520e522dba41512137015e29c74141dfda1fd23d2746c4f18a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotDialogueVo.tsv",
+      "rows": 548,
+      "wrappedSha256": "25f68a355de4a377985f73ba8187c706606aafc453e3ee9246207b526e92a87c",
+      "decodedSha256": "3aeb08da724778150c4519416ba513e882d715813a5c585c2fff446825ab934a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotDialogueVoIDGroup.tsv",
+      "rows": 37,
+      "wrappedSha256": "e749665b166bc65b71336c09c29b2886a4d08e88e87d6099cf63ae9dd771f48d",
+      "decodedSha256": "97c683b07036113e67c0a199b0f9aa0cb990875bcfe10c8a32adfba742326966"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotStandPointVo.tsv",
+      "rows": 31,
+      "wrappedSha256": "5d8bdab057a7b53e5b8a6fd972364c29c22109834e873ba2870a624accb2fcad",
+      "decodedSha256": "50e13cda2247d3d061d0ca500a1e73da72bd935dc8558557b88c72e9ac0f1a90"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotVo.tsv",
+      "rows": 182,
+      "wrappedSha256": "7c260ea3a92c9081ebc7301e11d46601c296da4d5e582d06862be9b6bbb19f4c",
+      "decodedSha256": "ac0d1b51e1502fec3733f6e28e63099b203cafd8de2724d7172329b42cfaeb3d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_7/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_7/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_7/PlotVoIDGroup.tsv",
+      "rows": 31,
+      "wrappedSha256": "b3cc359b829c81b632bf08e4e4d295f30938b29820cd12efc5680f0f84fe60fb",
+      "decodedSha256": "201e24d8c7aa5f574fb11a52c9922dc80dcddf902d28e6701c4c97baeec4202d"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotAnimationVo.tsv",
+      "rows": 439,
+      "wrappedSha256": "5ed0e1be065e21b88bc7818791610fef270a9df9dd71cf08dd28e8c76266fcea",
+      "decodedSha256": "8301a2021ef7d14bda1411359290b23116519a9ad519ae2bc6597ab2a38bdfda"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotAnimationVoIDGroup.tsv",
+      "rows": 129,
+      "wrappedSha256": "b7901b2432512db2a26502de76881d14a206981e4f3b7c63db739c74d8125844",
+      "decodedSha256": "cd361d3ff99805bf221e8c7be81870c8bf5cb9a2ba8158ba4927dbe495b6a5b0"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotDialogueVo.tsv",
+      "rows": 608,
+      "wrappedSha256": "b41c12e635bdc9078644c0bd93095ef099da90eccc24dff4d5612bc72d0a55e8",
+      "decodedSha256": "f15d404a29fe5c91536ffe98e1fcb6b97dd514c627aee617a5a34aa63f40a45c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotDialogueVoIDGroup.tsv",
+      "rows": 38,
+      "wrappedSha256": "8b5c4f9b2c3e7665a2d577a1c61001f343ed6f3df5b06ddb7a5e96a07e4d905f",
+      "decodedSha256": "2ffa76521a42a539deeed8551fd9f49ca193c8e8e5c777343e9ef8b90855831b"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotStandPointVo.tsv",
+      "rows": 32,
+      "wrappedSha256": "ba4f2cfafeb8f966ab8d6d1f5497dd25a2536b0dff5a2f607cbb2e97ed39dd9a",
+      "decodedSha256": "a0591bae5c3c52bc6ad5108a9de25198e20cfe1f17e4f4fd8331a004142bf5df"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotVo.tsv",
+      "rows": 195,
+      "wrappedSha256": "592c6c14575ff0d40a990f8f7e7ea734af58ea6c85bca8b3a6e6258741e07b77",
+      "decodedSha256": "cd40a0e519698ff63147b1601508efb916fc2eb68e9e94a90adb4f45a0047084"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_8/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_8/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_8/PlotVoIDGroup.tsv",
+      "rows": 32,
+      "wrappedSha256": "8f2b2d0eac547468c80c9afb5e984fd461b8e66bed5ca60042bdd33c86069e8f",
+      "decodedSha256": "80fd27dba07b3b96a7b1844323d43f52371e5017530aab627418684caaa1d6c2"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotAnimationVo.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotAnimationVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotAnimationVo.tsv",
+      "rows": 574,
+      "wrappedSha256": "0f8c5fc74ab563d3e5612e30fb4446b72acb4dda5d4c1592894831855cbc03ce",
+      "decodedSha256": "7c1a3e7c58f0be4783b9c7f27e975bd875d30e890072fccb2bf04f930161713f"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotAnimationVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotAnimationVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotAnimationVoIDGroup.tsv",
+      "rows": 170,
+      "wrappedSha256": "e5119c076bbf1b45f216ef72e1aaa34f31f31e918347a5c68a23e97d451dc08a",
+      "decodedSha256": "efad4354cb2f0aa0be3e3b6cd8e6b53da6d4b1d73e3d9f35be57b2ec5ddf915c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotDialogueVo.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotDialogueVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotDialogueVo.tsv",
+      "rows": 793,
+      "wrappedSha256": "fdbfba77592170aecfa91dd3d1d17c2d7f9e684740fc5e805c02846382b76db6",
+      "decodedSha256": "06bea93de91c6d916e317bb79471a5f05f2423a762fcc0d91a4dd3b58346d7c9"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotDialogueVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotDialogueVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotDialogueVoIDGroup.tsv",
+      "rows": 60,
+      "wrappedSha256": "82c63855a02f291b1452222e2aef2f50972099aa29f12a19946e0b236e797f14",
+      "decodedSha256": "8a01ab6a677ecd5c5f877898df50bd38a1384d48f35f5b80a724ebfdf98018ce"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotStandPointVo.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotStandPointVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotStandPointVo.tsv",
+      "rows": 40,
+      "wrappedSha256": "fa18b0c255f5ff72687439ed2d087151cafceefabf6188610dece5028322048e",
+      "decodedSha256": "a378125185c6d32c6323ac6d2934ad6149fa8ef3d1b8c8d13043a3b248483c8c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotVo.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotVo.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotVo.tsv",
+      "rows": 256,
+      "wrappedSha256": "a25b9381aef53ff269578eb70bc2b3e1407f965f92baf20fbf6911a305232990",
+      "decodedSha256": "a22f5fd76c911f8911e6daf4b03c00ab1f672fbd2dee456a26f97458a1659cd1"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/Main/stage_9/PlotVoIDGroup.bytes",
+      "json": "Data/Plot/Main/stage_9/PlotVoIDGroup.json",
+      "tsv": "_source/Data/Plot/Main/stage_9/PlotVoIDGroup.tsv",
+      "rows": 40,
+      "wrappedSha256": "ed24a636ba321ec3831d1c9cc27c8471342578f67242e0ef51e21d3b419348af",
+      "decodedSha256": "334cb5a948f7e8dc1af609a971ba17f498ea57cd003982518880780f35d5971a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/PlotBGVo.bytes",
+      "json": "Data/Plot/PlotBGVo.json",
+      "tsv": "_source/Data/Plot/PlotBGVo.tsv",
+      "rows": 1,
+      "wrappedSha256": "d08910c00248107b61a642b068348b0e7413ce4ed8ba987b061d7ed64daf8eb2",
+      "decodedSha256": "d2c8564f5a496f2cf5d8edaccf146152c914fd24d8cabdbac54a37711d33024c"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/PlotCGVo.bytes",
+      "json": "Data/Plot/PlotCGVo.json",
+      "tsv": "_source/Data/Plot/PlotCGVo.tsv",
+      "rows": 29,
+      "wrappedSha256": "cfbe0a98f7a0bd134f323508d50a0d7ba71ba4c5baaf5c1f8a38c204bf25d85b",
+      "decodedSha256": "b9fa31e4acec70a66f40a786205565b5d7b33b22be001abad71302daad44e4d3"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/PlotSpineTimeVo.bytes",
+      "json": "Data/Plot/PlotSpineTimeVo.json",
+      "tsv": "_source/Data/Plot/PlotSpineTimeVo.tsv",
+      "rows": 423,
+      "wrappedSha256": "a5f5d3e9036c9f2e2b93a0a06b4652debf75d2ec157e6fe2b3d2c9c2b4a8a39b",
+      "decodedSha256": "6fdb1538193e0cb4a17bf876acdf3dc7be6bd8460d3d8e22081404485f1a6c41"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/PlotSpineTimeVoIDGroup.bytes",
+      "json": "Data/Plot/PlotSpineTimeVoIDGroup.json",
+      "tsv": "_source/Data/Plot/PlotSpineTimeVoIDGroup.tsv",
+      "rows": 423,
+      "wrappedSha256": "3fce09c2ab4764ef7c77e9c8f97edbd0d2561b6c24000b88912fb21de0fd5867",
+      "decodedSha256": "412f93aa78a383782bbd0e2d649d932e2603823b95e3f3321a8f06c44f96a0ff"
+    },
+    {
+      "source": "assets/SettingV2/Data/Plot/SpineFxVo.bytes",
+      "json": "Data/Plot/SpineFxVo.json",
+      "tsv": "_source/Data/Plot/SpineFxVo.tsv",
+      "rows": 1,
+      "wrappedSha256": "d2d0d45a373587895c08370c73b7354086bcd11e05ffe2a24ab815804ce9418e",
+      "decodedSha256": "7b1334d3a03932120ab80a96378093d193bffb6b4f4464746cadc3236185dec5"
+    },
+    {
+      "source": "assets/SettingV2/Goods/Currency.bytes",
+      "json": "Goods/Currency.json",
+      "tsv": "_source/Goods/Currency.tsv",
+      "rows": 8,
+      "wrappedSha256": "d1b42b4977082100480440e158a44b90734bb246a77388c3793c516a430dc30e",
+      "decodedSha256": "8e94857461eb28d3290f456aec7c73afa0944a130d5415e9151f197c7c672276"
+    },
+    {
+      "source": "assets/SettingV2/I18N/zh_CN.bytes",
+      "json": "I18N/zh_CN.json",
+      "tsv": "_source/I18N/zh_CN.tsv",
+      "rows": 1425,
+      "wrappedSha256": "092976da1ef50056328139f602e3c208a83f87c0b59ce8475916fa32dbc5bc5c",
+      "decodedSha256": "12e2c043e9da65d068f6c88c24096bae02973e03271e79c41755e036c2501b55"
+    },
+    {
+      "source": "assets/SettingV2/MainPlay/FunctionalPieceVo.bytes",
+      "json": "MainPlay/FunctionalPieceVo.json",
+      "tsv": "_source/MainPlay/FunctionalPieceVo.tsv",
+      "rows": 103,
+      "wrappedSha256": "e10a7cf6f7ed355fa2e4a5d053148c3edd9d819c98b981aedddba60c7f708cbf",
+      "decodedSha256": "77591c31824b49406a085e10fdf6a440ce4f77e4c062ef07ef9ac0557001f3e3"
+    },
+    {
+      "source": "assets/SettingV2/MainPlay/MotherPieceVo.bytes",
+      "json": "MainPlay/MotherPieceVo.json",
+      "tsv": "_source/MainPlay/MotherPieceVo.tsv",
+      "rows": 229,
+      "wrappedSha256": "54a5985b067954a82582c08dbc17cbdd31a28cc609e91bf94cbe8b5ef086056a",
+      "decodedSha256": "6b7fb418c2920bc09ee67d8a690bc2285ada1b2f00ba80f40221e0ee8e75d2c3"
+    },
+    {
+      "source": "assets/SettingV2/MainPlay/PieceVo.bytes",
+      "json": "MainPlay/PieceVo.json",
+      "tsv": "_source/MainPlay/PieceVo.tsv",
+      "rows": 156,
+      "wrappedSha256": "763d857cc6b1fedca6bf31784a4395a6030c6cd67d6cb529601f13a844490838",
+      "decodedSha256": "555786fac8416e3175009eac3a109abb912ee03e2c60ed9ea960e5bca0920a6c"
+    },
+    {
+      "source": "assets/SettingV2/Module/ModulePrefabs.bytes",
+      "json": "Module/ModulePrefabs.json",
+      "tsv": "_source/Module/ModulePrefabs.tsv",
+      "rows": 494,
+      "wrappedSha256": "6ff55b503fbb86d8000f476ce05b48518d734fbbf8322bbf70b958cc2758e11a",
+      "decodedSha256": "6b6cb3a5b57e19d53f11a5cddc61d0fc3363d6b2716ab56908c15435a2625c1e"
+    },
+    {
+      "source": "assets/SettingV2/Module/ResourcesPath.bytes",
+      "json": "Module/ResourcesPath.json",
+      "tsv": "_source/Module/ResourcesPath.tsv",
+      "rows": 111,
+      "wrappedSha256": "2c566f065e89e42f0856b078b23d86bea1e78a37be08ac81e5c3e212d124d67f",
+      "decodedSha256": "dceac2f8003dd0916d73fbf16ce5c091875a3e3667f6a48f458fcd259b1dd8ce"
+    },
+    {
+      "source": "assets/SettingV2/Module/Scenes.bytes",
+      "json": "Module/Scenes.json",
+      "tsv": "_source/Module/Scenes.tsv",
+      "rows": 1,
+      "wrappedSha256": "fa0669a25e458fd408b9e4157b647b2e7005ba8a6de64e1a9c33db63e6b506be",
+      "decodedSha256": "3356cea4f980d7047942a5eb1ac6388964385de8611d27ca90ec2a52824cea5c"
+    }
+  ],
+  "errors": [],
+  "nativeCrossChecks": [
+    {
+      "source": "assets/SettingV2/Common/PlayerExp.bytes",
+      "equal": true,
+      "decodedSha256": "7d13ad3bffc4375bdc57a2c32ca61c2effb6bf4044c8fc44bea1d411c3491516"
+    },
+    {
+      "source": "assets/SettingV2/Data/Common/MainQuestVo.bytes",
+      "equal": true,
+      "decodedSha256": "df9f8e72d667298511059507d9f6dcf4f74f9c33ca405c71e62c1c38a064691a"
+    },
+    {
+      "source": "assets/SettingV2/Data/Map/world_1/UnitInteractVo.bytes",
+      "equal": true,
+      "decodedSha256": "f63a37ea124edddd63ff0079cfaa3725690ec7b8d3eb14028e78021da3f46eb6"
+    }
+  ],
+  "nativeSha256": "d89069ad409bc7fbf5a05e61cfce2470f6985370d274a595fbde6f37b583b7b8"
+}

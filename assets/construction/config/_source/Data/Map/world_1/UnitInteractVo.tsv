@@ -1,0 +1,7 @@
+id	unitId	skinId	clickEventType	clickEventParams	status
+int	int	int	int	int	int
+1	0_13218	1	1		1
+2	10_9	10	1		1
+3	0_12265	1	1		1
+4	55_20	1	1		1
+5	10_9	11	1		1

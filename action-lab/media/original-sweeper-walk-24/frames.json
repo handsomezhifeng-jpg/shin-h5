@@ -1,0 +1,112 @@
+{
+  "id": "original-sweeper-walk-24",
+  "version": "draft-v2",
+  "generator": "Seedance 2.5",
+  "count": 24,
+  "fps": 16.941176,
+  "width": 320,
+  "height": 480,
+  "columns": 6,
+  "rows": 4,
+  "framesPerSheet": 24,
+  "sheets": [
+    "atlas-00.webp"
+  ],
+  "cropBounds": [
+    0,
+    130,
+    380,
+    632
+  ],
+  "sourceDecodeResolution": [
+    432,
+    768
+  ],
+  "framePattern": "frames/{index:04d}.png",
+  "sourceSha256": "58e06e2a31c562c3ea15e5c6f091f7cb23d47ab7c9b64218fae5f6e9dcbd596f",
+  "qa": {
+    "status": "needs-attention",
+    "warnings": [
+      "部分轮廓接近视频边界，需检查是否裁切。"
+    ],
+    "durationSeconds": 6.08,
+    "sequenceDuration": 1.4166667060185196,
+    "sourceResolution": [
+      720,
+      1280
+    ],
+    "sourceFPS": "24/1",
+    "sourceCodec": "h264",
+    "sourceAudioTracks": 1,
+    "reviewAudioTracks": 0,
+    "decodedFrames": 24,
+    "sourceDecodedFrames": 145,
+    "extractedFPS": 16.941176,
+    "frameLimit": 24,
+    "minimumTransparentBackground": 0.6852123119212963,
+    "horizontalDriftPixels": 2.5,
+    "loopSeamMeanDifference": 6.3570263671875,
+    "notes": "Matte and timing metrics are automatic checks, not approval of motion quality."
+  },
+  "frameLimit": 24,
+  "sourceFrameIndices": [
+    37,
+    38,
+    40,
+    41,
+    43,
+    44,
+    46,
+    47,
+    48,
+    50,
+    51,
+    53,
+    54,
+    55,
+    57,
+    58,
+    60,
+    61,
+    62,
+    64,
+    65,
+    67,
+    68,
+    70
+  ],
+  "sourceTimes": [
+    1.5416666666666667,
+    1.5833333333333333,
+    1.6666666666666667,
+    1.7083333333333333,
+    1.7916666666666667,
+    1.8333333333333333,
+    1.9166666666666667,
+    1.9583333333333333,
+    2.0,
+    2.0833333333333335,
+    2.125,
+    2.2083333333333335,
+    2.25,
+    2.2916666666666665,
+    2.375,
+    2.4166666666666665,
+    2.5,
+    2.5416666666666665,
+    2.5833333333333335,
+    2.6666666666666665,
+    2.7083333333333335,
+    2.7916666666666665,
+    2.8333333333333335,
+    2.9166666666666665
+  ],
+  "cycleSelection": {
+    "startSourceFrame": 37,
+    "endSourceFrameExclusive": 71,
+    "sourceDuration": 1.4166666666666667,
+    "motionAmplitude": 0.011767983436584473,
+    "sourceSeamDifference": 6.347894668579102e-05,
+    "selection": "Closest matching active-cycle endpoints; evenly sampled without duplicated source frames."
+  }
+}

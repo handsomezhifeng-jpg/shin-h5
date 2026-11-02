@@ -1,0 +1,43 @@
+{
+  "source": "assets/SettingV2/Data/Map/world_1/MapParamVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "num",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 5,
+  "tsvSha256": "fc0560d0105546d888e62990b6250ea55c52b43ec3ea517ed87130ec89c7a51a",
+  "rows": [
+    {
+      "id": 1,
+      "num": "-68.5,-71.6;142.5,118",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "num": 3,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "num": 0,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "num": "",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "num": "",
+      "status": 1
+    }
+  ]
+}

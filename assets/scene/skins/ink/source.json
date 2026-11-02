@@ -1,0 +1,119 @@
+{
+  "source": "User-selected codex-clipboard-770faf73-4412-490f-acce-71abf422108b.png",
+  "permission": "User-authorized extraction from selected watercolor master",
+  "original": "source-master.png",
+  "regions": [
+    {
+      "name": "north-courtyard",
+      "box": [
+        0,
+        0,
+        1024,
+        480
+      ]
+    },
+    {
+      "name": "market-square",
+      "box": [
+        0,
+        480,
+        1024,
+        1000
+      ]
+    },
+    {
+      "name": "south-market",
+      "box": [
+        0,
+        1000,
+        1024,
+        1536
+      ]
+    }
+  ],
+  "implementation": "Three world-anchored 2.5D painted panels, registered to the original forty-step board. Native 35-degree camera, slot coordinates, landing hooks and gameplay retained. Tile side thickness scaled to 42%, top heights retained; existing Sanguo corner aliases retained.",
+  "sourceSHA256": "9a4e8657d3b2a43f4463afdd64500dea3a033e484e9b5a8da6c579007ca2f2b1",
+  "sourceResolution": [
+    1024,
+    1536
+  ],
+  "cast": {
+    "file": "cast-watercolor-v2.png",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "generator": "built-in image_gen",
+    "prompt": "cast-watercolor-v2.prompt.txt",
+    "poses": "Four characters, front/back artwork; main player uses two poses with mirroring, sway and bounce. NPCs use one front pose each with procedural pacing/breathing.",
+    "runtimeFile": "cast-watercolor-v2.webp",
+    "runtimeEncoding": "Lossless WebP, exact RGBA equality verified"
+  },
+  "overview": {
+    "zoom": 6.8,
+    "cameraBounds": "Derived from the three painted panels and the full 750x1624 canvas; shared by following, panning and event views.",
+    "z": -10
+  },
+  "limitations": [
+    "Scenery uses flat painted world panels, not separately modeled buildings; residents use independent animated RGBA sprites with timed market visits and home routines.",
+    "Original 40-step loop occupies the central painted 10x10 lot; gameplay was not changed to 100 steps.",
+    "Painterly perspective and native camera differ slightly; the panels use independent horizontal/vertical registration scales.",
+    "Original artwork was 1024x1536; the HD replacement is 2048x3072 assembled from four separately generated 1024x1536 quadrants, without resizing.",
+    "Outside the original frame, manual panning shows a paving extension, not additional authored scenery.",
+    "This is a three-pass approximation, not a pixel-identical reconstruction."
+  ],
+  "runtimePanelEncoding": "Lossless WebP; decoded RGBA pixels verified identical to extracted PNGs.",
+  "characters": {
+    "referenceHeight": 104,
+    "sourceAtlas": "villagers-v3.webp",
+    "layout": "villagers-v3.json",
+    "extractionTool": "tools/extract_ink_villagers.py",
+    "commonScaleModule": "src/ink-character-scale.mjs",
+    "scenePeople": 13,
+    "sourcePeople": 9,
+    "vendors": "Four counter-occluded original silhouettes retain their original occlusion; implied full-body reference used.",
+    "background": "source-clean-v3.png",
+    "backgroundEditor": "built-in image_gen",
+    "prompts": "villagers-v3.prompts.txt",
+    "generalAnchor": [
+      -2.95,
+      3.3
+    ],
+    "produceOffsetSourcePixels": [
+      -50,
+      -80
+    ],
+    "animation": {
+      "runtime": "residents-v4.json",
+      "renderer": "src/ink-residents.mjs",
+      "rules": "src/ink-resident-rules.mjs",
+      "frames": 38,
+      "generator": "built-in image_gen",
+      "prompts": "residents-v4.prompts.md",
+      "cycles": "Four shopper positions arrive, buy, leave, wait, then change among three identities. Four sellers serve or arrange goods. Sweeper works 18s, goes home 5s, rests 14s, comes out 5s.",
+      "occlusion": "Source-clean-v3 counters reused as foreground occluders; original house door animates open; resident sprites never bake into scene panels."
+    },
+    "boardPlayerHeight": 133,
+    "sizeReference": "codex-clipboard-5543708f-f51e-4c73-81bc-3a519d283886.png"
+  },
+  "hdScene": {
+    "image": "source-clean-hd-v1.png",
+    "size": [
+      2048,
+      3072
+    ],
+    "previousSize": [
+      1024,
+      1536
+    ],
+    "linearScale": 2,
+    "mode": "built-in image_gen",
+    "method": "Four 512x768 input quadrants independently restored at 1024x1536 and assembled without resizing.",
+    "prompts": "scene-hd-v1.prompts.json",
+    "runtimeEncoding": "Lossless WebP",
+    "layoutSpace": [
+      1024,
+      1536
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source": "assets/SettingV2/Data/Common/Graphic.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "level",
+    "name",
+    "graphicLevel",
+    "shadowLevel",
+    "resolutionLevel",
+    "bloomLevel",
+    "fxaaLevel",
+    "fpsLevel",
+    "lodLevel",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 5,
+  "tsvSha256": "fcba6849c6cb4c9929b3877a660a6e0b482547beb0f0dc59c4d165f0a7f6544f",
+  "rows": [
+    {
+      "level": 0,
+      "name": "流畅",
+      "graphicLevel": 0,
+      "shadowLevel": 0,
+      "resolutionLevel": 0,
+      "bloomLevel": 0,
+      "fxaaLevel": 0,
+      "fpsLevel": 60,
+      "lodLevel": 0,
+      "status": 1
+    },
+    {
+      "level": 1,
+      "name": "快速",
+      "graphicLevel": 1,
+      "shadowLevel": 0,
+      "resolutionLevel": 1,
+      "bloomLevel": 0,
+      "fxaaLevel": 0,
+      "fpsLevel": 60,
+      "lodLevel": 0,
+      "status": 1
+    },
+    {
+      "level": 2,
+      "name": "标准",
+      "graphicLevel": 2,
+      "shadowLevel": 1,
+      "resolutionLevel": 1,
+      "bloomLevel": 1,
+      "fxaaLevel": 1,
+      "fpsLevel": 60,
+      "lodLevel": 1,
+      "status": 1
+    },
+    {
+      "level": 3,
+      "name": "高级",
+      "graphicLevel": 3,
+      "shadowLevel": 1,
+      "resolutionLevel": 2,
+      "bloomLevel": 1,
+      "fxaaLevel": 1,
+      "fpsLevel": 60,
+      "lodLevel": 2,
+      "status": 1
+    },
+    {
+      "level": 4,
+      "name": "超清",
+      "graphicLevel": 4,
+      "shadowLevel": 1,
+      "resolutionLevel": 3,
+      "bloomLevel": 2,
+      "fxaaLevel": 1,
+      "fpsLevel": 60,
+      "lodLevel": 2,
+      "status": 1
+    }
+  ]
+}

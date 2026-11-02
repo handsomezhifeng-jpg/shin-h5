@@ -1,0 +1,26 @@
+{
+  "source": "assets/SettingV2/Module/Scenes.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "name",
+    "path",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 1,
+  "tsvSha256": "3356cea4f980d7047942a5eb1ac6388964385de8611d27ca90ec2a52824cea5c",
+  "rows": [
+    {
+      "id": 1,
+      "name": "cultivate01",
+      "path": "Scenes/cultivate01.unity",
+      "status": 1
+    }
+  ]
+}

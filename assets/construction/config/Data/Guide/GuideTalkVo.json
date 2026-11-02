@@ -1,0 +1,421 @@
+{
+  "source": "assets/SettingV2/Data/Guide/GuideTalkVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "avatarId",
+    "status",
+    "dialogue",
+    "dialogue_zh_CN"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 57,
+  "tsvSha256": "efdc06ec94542ada181032a8f2e2a62b8ad340f9e2832745cd0ba193175cba28",
+  "rows": [
+    {
+      "id": 1,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，小姐醒醒呀！好饿…我们先做点东西吃吧……",
+      "dialogue_zh_CN": "小姐，小姐醒醒呀！好饿…我们先做点东西吃吧……"
+    },
+    {
+      "id": 2,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "将<color=#1cc4b7>两个棋子合并</color>为一个高一级的棋子。",
+      "dialogue_zh_CN": "将<color=#1cc4b7>两个棋子合并</color>为一个高一级的棋子。"
+    },
+    {
+      "id": 3,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "通过<color=#1cc4b7>合并</color>来解锁被掩埋的物品",
+      "dialogue_zh_CN": "通过<color=#1cc4b7>合并</color>来解锁被掩埋的物品"
+    },
+    {
+      "id": 4,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "不错！找到一个篮子，看看里面有什么！",
+      "dialogue_zh_CN": "不错！找到一个篮子，看看里面有什么！"
+    },
+    {
+      "id": 5,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "条头糕完成了！赶紧<color=#1cc4b7>端给</color>这位小朋友吧！",
+      "dialogue_zh_CN": "条头糕完成了！赶紧<color=#1cc4b7>端给</color>这位小朋友吧！"
+    },
+    {
+      "id": 6,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "赚够铜板了，快去<color=#1cc4b7>修复</color>茶楼吧！",
+      "dialogue_zh_CN": "赚够铜板了，快去<color=#1cc4b7>修复</color>茶楼吧！"
+    },
+    {
+      "id": 7,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "又一个<color=#1cc4b7>食篓</color>！快把它放到灶台上。",
+      "dialogue_zh_CN": "又一个<color=#1cc4b7>食篓</color>！快把它放到灶台上。"
+    },
+    {
+      "id": 8,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "<color=#1cc4b7>两个食篓</color>可以合成一个更大的！",
+      "dialogue_zh_CN": "<color=#1cc4b7>两个食篓</color>可以合成一个更大的！"
+    },
+    {
+      "id": 9,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "现在咱们有了一个5级食篓，里面好像有<color=#1cc4b7>西瓜</color>。",
+      "dialogue_zh_CN": "现在咱们有了一个5级食篓，里面好像有<color=#1cc4b7>西瓜</color>。"
+    },
+    {
+      "id": 10,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "商号开张了！每天都有<color=#1cc4b7>特价商品</color>，包括<color=#1cc4b7>免费的礼物</color>。",
+      "dialogue_zh_CN": "商号开张了！每天都有<color=#1cc4b7>特价商品</color>，包括<color=#1cc4b7>免费的礼物</color>。"
+    },
+    {
+      "id": 11,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "恭迎贵客！别忘记您的<color=#1cc4b7>免费</color>礼品",
+      "dialogue_zh_CN": "恭迎贵客！别忘记您的<color=#1cc4b7>免费</color>礼品"
+    },
+    {
+      "id": 12,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "新茶壶！让我想想用它能做些什么。",
+      "dialogue_zh_CN": "新茶壶！让我想想用它能做些什么。"
+    },
+    {
+      "id": 13,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "来了解一下茶壶的细节。点<color=#1cc4b7>信息按钮</color>",
+      "dialogue_zh_CN": "来了解一下茶壶的细节。点<color=#1cc4b7>信息按钮</color>"
+    },
+    {
+      "id": 14,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "<color=#1cc4b7>点击礼盒</color>看看里面有什么",
+      "dialogue_zh_CN": "<color=#1cc4b7>点击礼盒</color>看看里面有什么"
+    },
+    {
+      "id": 15,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "哎呀，打开这个礼盒<color=#1cc4b7>需要时间</color>",
+      "dialogue_zh_CN": "哎呀，打开这个礼盒<color=#1cc4b7>需要时间</color>"
+    },
+    {
+      "id": 16,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "知道你等不及啦~让我们现在就打开它！",
+      "dialogue_zh_CN": "知道你等不及啦~让我们现在就打开它！"
+    },
+    {
+      "id": 17,
+      "avatarId": 1017,
+      "status": 1,
+      "dialogue": "这是绒绒的<color=#1cc4b7>祝福泡泡</color>，跟我一起打开它吧~",
+      "dialogue_zh_CN": "这是绒绒的<color=#1cc4b7>祝福泡泡</color>，跟我一起打开它吧~"
+    },
+    {
+      "id": 18,
+      "avatarId": 1017,
+      "status": 1,
+      "dialogue": "破碎的泡泡会变为<color=#1cc4b7>一枚铜钱</color>。现在我们来打开它",
+      "dialogue_zh_CN": "破碎的泡泡会变为<color=#1cc4b7>一枚铜钱</color>。现在我们来打开它"
+    },
+    {
+      "id": 19,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "这位客官想要一杯<color=#1cc4b7>酒酿圆子</color>",
+      "dialogue_zh_CN": "这位客官想要一杯<color=#1cc4b7>酒酿圆子</color>"
+    },
+    {
+      "id": 20,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "点一下食物的图标，看看怎么制作吧！",
+      "dialogue_zh_CN": "点一下食物的图标，看看怎么制作吧！"
+    },
+    {
+      "id": 21,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "哎呀体力用光了！点一下体力图标",
+      "dialogue_zh_CN": "哎呀体力用光了！点一下体力图标"
+    },
+    {
+      "id": 22,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "<color=#1cc4b7>2倍速</color>功能开启了！点这里加快烹饪效率",
+      "dialogue_zh_CN": "<color=#1cc4b7>2倍速</color>功能开启了！点这里加快烹饪效率"
+    },
+    {
+      "id": 23,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "注意<color=#1cc4b7>5级茶壶</color>才会产出百合绿豆汤！",
+      "dialogue_zh_CN": "注意<color=#1cc4b7>5级茶壶</color>才会产出百合绿豆汤！"
+    },
+    {
+      "id": 24,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，点击这里可以预览所有装扮的效果！",
+      "dialogue_zh_CN": "小姐，点击这里可以预览所有装扮的效果！"
+    },
+    {
+      "id": 25,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，长按这里试试！",
+      "dialogue_zh_CN": "小姐，长按这里试试！"
+    },
+    {
+      "id": 26,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，这里可以重新选择茶楼的装修",
+      "dialogue_zh_CN": "小姐，这里可以重新选择茶楼的装修"
+    },
+    {
+      "id": 27,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "点击任意一碗染料将它放到木板上。",
+      "dialogue_zh_CN": "点击任意一碗染料将它放到木板上。"
+    },
+    {
+      "id": 28,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "如果你将染料摆在了错误的位置，染料碗会碎掉。可以调整顺序再试一次",
+      "dialogue_zh_CN": "如果你将染料摆在了错误的位置，染料碗会碎掉。可以调整顺序再试一次"
+    },
+    {
+      "id": 29,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，这是咱们的新家！快看看怎么布置吧！",
+      "dialogue_zh_CN": "小姐，这是咱们的新家！快看看怎么布置吧！"
+    },
+    {
+      "id": 30,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "试着把这个搬到家里。",
+      "dialogue_zh_CN": "试着把这个搬到家里。"
+    },
+    {
+      "id": 31,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "别忘记每天来这里看下，有没有新的家具可以买",
+      "dialogue_zh_CN": "别忘记每天来这里看下，有没有新的家具可以买"
+    },
+    {
+      "id": 32,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "选择方向后，将随机落在一个格子上——有些动物比其他动物的积分更高！",
+      "dialogue_zh_CN": "选择方向后，将随机落在一个格子上——有些动物比其他动物的积分更高！"
+    },
+    {
+      "id": 33,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "获得高分，赢取奖励！祝你好运",
+      "dialogue_zh_CN": "获得高分，赢取奖励！祝你好运"
+    },
+    {
+      "id": 34,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "小姐，咱们也收集了不少装扮了，来这边看看",
+      "dialogue_zh_CN": "小姐，咱们也收集了不少装扮了，来这边看看"
+    },
+    {
+      "id": 35,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "长按打开换装界面",
+      "dialogue_zh_CN": "长按打开换装界面"
+    },
+    {
+      "id": 36,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "选择“套装”装扮效果更好哦",
+      "dialogue_zh_CN": "选择“套装”装扮效果更好哦"
+    },
+    {
+      "id": 37,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "得到了灶神的奖励！",
+      "dialogue_zh_CN": "得到了灶神的奖励！"
+    },
+    {
+      "id": 38,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "要记得及时领取哦。",
+      "dialogue_zh_CN": "要记得及时领取哦。"
+    },
+    {
+      "id": 39,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "消耗行动力破坏路上的障碍物。",
+      "dialogue_zh_CN": "消耗行动力破坏路上的障碍物。"
+    },
+    {
+      "id": 40,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "查看路线任务可以帮助我们更快的营救绒绒！",
+      "dialogue_zh_CN": "查看路线任务可以帮助我们更快的营救绒绒！"
+    },
+    {
+      "id": 41,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "点击任务可定位到目的地。",
+      "dialogue_zh_CN": "点击任务可定位到目的地。"
+    },
+    {
+      "id": 42,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "这里有一个母棋，点击将它收到母棋仓库。",
+      "dialogue_zh_CN": "这里有一个母棋，点击将它收到母棋仓库。"
+    },
+    {
+      "id": 43,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "现在你可以去母棋仓库来提升获得高级母棋的进度了！",
+      "dialogue_zh_CN": "现在你可以去母棋仓库来提升获得高级母棋的进度了！"
+    },
+    {
+      "id": 44,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "你已解锁母棋仓库。点击仓库图标即可进入母棋仓库！",
+      "dialogue_zh_CN": "你已解锁母棋仓库。点击仓库图标即可进入母棋仓库！"
+    },
+    {
+      "id": 45,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "点击这里切换到母棋仓库。",
+      "dialogue_zh_CN": "点击这里切换到母棋仓库。"
+    },
+    {
+      "id": 46,
+      "avatarId": 1016,
+      "status": 1,
+      "dialogue": "你可以从棋盘收集低级母棋，并在这里合成制作更高级的母棋！",
+      "dialogue_zh_CN": "你可以从棋盘收集低级母棋，并在这里合成制作更高级的母棋！"
+    },
+    {
+      "id": 47,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "看！咱们找到了一个金宝炉！",
+      "dialogue_zh_CN": "看！咱们找到了一个金宝炉！"
+    },
+    {
+      "id": 48,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "将它和其他任意棋子交换，可以将这个颜色所有棋子都提升1级！",
+      "dialogue_zh_CN": "将它和其他任意棋子交换，可以将这个颜色所有棋子都提升1级！"
+    },
+    {
+      "id": 49,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "太好了！是金如意！",
+      "dialogue_zh_CN": "太好了！是金如意！"
+    },
+    {
+      "id": 50,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "<color=#1cc4b7>双击</color>金如意可以随机将一些棋子的等级提升1级！",
+      "dialogue_zh_CN": "<color=#1cc4b7>双击</color>金如意可以随机将一些棋子的等级提升1级！"
+    },
+    {
+      "id": 51,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "欢迎来到灵灵镇！准备好跟调皮小妖来一场追捕游戏了么？",
+      "dialogue_zh_CN": "欢迎来到灵灵镇！准备好跟调皮小妖来一场追捕游戏了么？"
+    },
+    {
+      "id": 52,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "先从这只蓝色小妖开始吧！<color=#1cc4b7>合成蓝色物品</color>可以消耗它的体力！",
+      "dialogue_zh_CN": "先从这只蓝色小妖开始吧！<color=#1cc4b7>合成蓝色物品</color>可以消耗它的体力！"
+    },
+    {
+      "id": 53,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "试试看，别害怕哦",
+      "dialogue_zh_CN": "试试看，别害怕哦"
+    },
+    {
+      "id": 54,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "看！它的体力减少了！体力耗尽就可以进行抓捕了！",
+      "dialogue_zh_CN": "看！它的体力减少了！体力耗尽就可以进行抓捕了！"
+    },
+    {
+      "id": 55,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "记住，每次合成都会消耗一点步数，招待客人可以获得步数。",
+      "dialogue_zh_CN": "记住，每次合成都会消耗一点步数，招待客人可以获得步数。"
+    },
+    {
+      "id": 56,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "黑熊……袈裟……难道是！",
+      "dialogue_zh_CN": "黑熊……袈裟……难道是！"
+    },
+    {
+      "id": 57,
+      "avatarId": 1002,
+      "status": 1,
+      "dialogue": "合成<color=#1cc4b7>任意颜色</color>的棋子都可以消耗它的体力！抓到它可以获得丰厚奖励！",
+      "dialogue_zh_CN": "合成<color=#1cc4b7>任意颜色</color>的棋子都可以消耗它的体力！抓到它可以获得丰厚奖励！"
+    }
+  ]
+}

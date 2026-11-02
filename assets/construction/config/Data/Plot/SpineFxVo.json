@@ -1,0 +1,26 @@
+{
+  "source": "assets/SettingV2/Data/Plot/SpineFxVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "bone",
+    "fxPath",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 1,
+  "tsvSha256": "7b1334d3a03932120ab80a96378093d193bffb6b4f4464746cadc3236185dec5",
+  "rows": [
+    {
+      "id": "arrange",
+      "bone": "HandBone",
+      "fxPath": "31:arrange",
+      "status": 1
+    }
+  ]
+}

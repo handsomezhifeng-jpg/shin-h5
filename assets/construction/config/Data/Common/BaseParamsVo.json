@@ -1,0 +1,168 @@
+{
+  "source": "assets/SettingV2/Data/Common/BaseParamsVo.bytes",
+  "sourceFormat": "UTF-8 TSV; declared types retained verbatim, composite IDs and list expressions remain strings",
+  "columns": [
+    "id",
+    "num",
+    "status"
+  ],
+  "declaredTypes": [
+    "int",
+    "int",
+    "int"
+  ],
+  "rowCount": 30,
+  "tsvSha256": "e03be5df6bddaf68fd449de537b520587dfe7d149b945c5c553f8e15c1df9525",
+  "rows": [
+    {
+      "id": 1,
+      "num": 3,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "num": 8,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "num": 201,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "num": 3600,
+      "status": 1
+    },
+    {
+      "id": 5,
+      "num": 103,
+      "status": 1
+    },
+    {
+      "id": 6,
+      "num": 60,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "num": 2,
+      "status": 1
+    },
+    {
+      "id": 8,
+      "num": 10,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "num": 23,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "num": 8,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "num": 600,
+      "status": 1
+    },
+    {
+      "id": 12,
+      "num": 2,
+      "status": 1
+    },
+    {
+      "id": 13,
+      "num": 15,
+      "status": 1
+    },
+    {
+      "id": 14,
+      "num": 43200,
+      "status": 1
+    },
+    {
+      "id": 15,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 16,
+      "num": 15,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "num": 3,
+      "status": 1
+    },
+    {
+      "id": 18,
+      "num": 2,
+      "status": 1
+    },
+    {
+      "id": 19,
+      "num": 3,
+      "status": 1
+    },
+    {
+      "id": 20,
+      "num": 1,
+      "status": 1
+    },
+    {
+      "id": 21,
+      "num": 5,
+      "status": 1
+    },
+    {
+      "id": 22,
+      "num": 8,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "num": "103;20",
+      "status": 1
+    },
+    {
+      "id": 24,
+      "num": "103;20",
+      "status": 1
+    },
+    {
+      "id": 25,
+      "num": 5,
+      "status": 1
+    },
+    {
+      "id": 26,
+      "num": 4000001,
+      "status": 1
+    },
+    {
+      "id": 27,
+      "num": "103;100",
+      "status": 1
+    },
+    {
+      "id": 28,
+      "num": "101;10",
+      "status": 1
+    },
+    {
+      "id": 29,
+      "num": "101;10",
+      "status": 1
+    },
+    {
+      "id": 30,
+      "num": 1,
+      "status": 1
+    }
+  ]
+}
